@@ -1,0 +1,676 @@
+
+Year: 1969
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-82e940bb-40e1-47a0-ad19-345cbb5c13c2", "Grateful Dead", "2", "372",  "01/02/69", "Fillmore West", "San Francisco", "Ca",  "[]", "[]", "[]", "Other Artist(S): Gd; Blood, Sweat & Tears; Spirit",  "1996-01-07 00:00:00", "1969", "System", "01", "02") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a78e86d0-4e94-4cda-8b29-f6a832485c35", "Grateful Dead", "2", "373",  "01/03/69", "Fillmore West", "San Francisco", "Ca",  "['Cold Rain & Snow', 'I&apos;ve Got A Friend', 'The Other One', 'Cryptical Envelopment', 'The Other One', 'St. Stephen', 'The Eleven', 'Mountains Of The Moon']", "['Cold Rain & Snow', 'I&apos;ve Got A Friend', 'The Other One', 'Cryptical Envelopment', 'The Other One', 'St. Stephen', 'The Eleven', 'Mountains Of The Moon']", "[]", "Other Artist(S): Gd; Blood, Sweat & Tears; Spirit; Setlist Here Courtesy Tim O&apos;neill",  "2001-04-16 00:00:00", "1969", "Hamilton", "01", "03") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4b19b7e9-de4f-4acd-aeb4-acec4c1d2997", "Grateful Dead", "2", "374",  "01/04/69", "Fillmore West", "San Francisco", "Ca",  "[]", "[]", "[]", "Other Artist(S): Gd; Blood, Sweat & Tears; Spirit",  "1996-01-07 00:00:00", "1969", "System", "01", "04") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6efa17c4-06d2-447f-be69-a46eed5d7ce2", "Grateful Dead", "2", "375",  "01/05/69", "Fillmore West", "San Francisco", "Ca",  "[]", "[]", "[]", "Other Artist(S): Gd; Blood, Sweat & Tears; Spirit",  "1996-01-07 00:00:00", "1969", "System", "01", "05") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-01bc0664-c8d7-47e4-987c-c6f67837fa2f", "Grateful Dead", "2", "376",  "01/06/69", "Pacific High Recording", "San Mateo", "Ca",  "['Mountains Of The Moon', '']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "01", "06") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9d8fd4c4-079a-41ad-9a28-1b7b18952381", "Grateful Dead", "2", "377",  "01/15/69", "Pacific High Recording", "San Mateo", "Ca",  "['Doin&apos; That Rag', 'Mountains Of The Moon']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "01", "15") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-ac0167c6-ec54-43c6-bd0f-648dd6f29c1b", "Grateful Dead", "2", "378",  "01/17/69", "Civic Auditorium?", "Santa Barbara", "Ca",  "['Lovelight', 'Dark Star > St. Stephen > The Eleven > Death Don&apos;t Have No\r\nMercy', 'Cryptical Envelopment > Drums > The Other One > Cryptical\r\nEnvelopment > Cosmic Charlie']", "[]", "[]", "Venue Uncertain",  "2001-02-20 00:00:00", "1969", "System", "01", "17") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-50863cba-0840-49c8-9363-9bf2c48ae94a", "Grateful Dead", "2", "122223",  "01/18/69", "Playboy Club", "West Hollywood", "Ca",  "['Mountains Of The Moon', 'St. Stephen', 'Turn On Your Lovelight']", "[]", "[]", "Broadcast On Playboy After Dark, 07/10/69
+
+(Corrected City And State Info)",  "2009-01-17 11:09:27", "1969", "Wharfrat73", "01", "18") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-121b063a-92a8-44e8-b03b-319ffdb167de", "Grateful Dead", "2", "379",  "01/20/69", "Pacific High Recording", "San Mateo", "Ca",  "['Dupree&apos;s Diamond Blues', 'China Cat Sunflower']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "01", "20") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-764df99d-ad81-46b4-a1eb-f3297f73f0bb", "Grateful Dead", "2", "371617",  "01/23/69", "Avalon Ballroom", "San Francisco", "Ca",  "['The Eleven\r\nDupree&apos;s Diamond Blues']", "[]", "[]", "Rehearsal Off Of Download Series Vol.#12",  "2007-06-09 19:43:23", "1969", "Budchief", "01", "23") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-821b59da-db1c-49eb-bfbd-5198bf69bc13", "Grateful Dead", "2", "380",  "01/24/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Space > New Potato Caboose', 'Dupree&apos;s Diamond Blues', 'Doin&apos; That Rag']", "['Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Space > New Potato Caboose', 'Dupree&apos;s Diamond Blues', 'Doin&apos; That Rag']", "[]", "Other Artists On Bill: Sons Of Champlin, Initial Shock; Setlist Courtesy Deadlists.Com",  "2002-07-10 00:00:00", "1969", "Diana", "01", "24") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9cb36e38-4838-46e2-a101-f988a8cf9b10", "Grateful Dead", "2", "381",  "01/25/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Dark Star > St. Stephen > The Eleven > Lovelight']", "['Dark Star > St. Stephen > The Eleven > Lovelight']", "[]", "setlist Courtesy Deadlists.Com; Other Artists On Bill: Sons Of Champlin, Initial Shock",  "2001-11-19 00:00:00", "1969", "Hamilton", "01", "25") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d1558cdd-c1ae-4f1b-a497-7527aa609259", "Grateful Dead", "2", "382",  "01/26/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Clementine > Death Don&apos;t Have No Mercy']", "['Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Clementine > Death Don&apos;t Have No Mercy']", "[]", "Other Artists On Bill: Sons Of Champlin, Initial Shock; Eleven > Lovelight From This Show Appear On Live Dead",  "2003-03-11 00:00:00", "1969", "Hamilton", "01", "26") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-197839d2-e04c-4ff7-92a6-b60e814afcf6", "Grateful Dead", "2", "383",  "01/31/69", "The Kinetic Playground", "Chicago", "Il",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "01", "31") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4067bddc-ba7d-4f39-a07b-38f0baaeafc2", "Grateful Dead", "2", "60587",  "01/??/69", "Aoxomoxoa Outtakes", "San Mateo", "Ca",  "['Saint Stephen &Gt;    \r\nThe Eleven              \r\nThe Barbed Wire Whipping Party \r\nDoin&apos; That Rag #1       \r\nDuprees Diamond Blues   \r\nUntitled Instrumental\r\nChina Cat Sunflower     \r\nCosmic Charlie\r\nDoin&apos; That Rag #2      \r\nMountains Of The Moon   \r\nWhats Become Of The Baby? \r\nRosemary\r\nMountains Of The Moon']", "[]", "[]", "Recorded At Pacific Recording, San Mateo, Ca - January (Most) & March, 1969",  "2007-04-06 00:32:25", "1969", "Rcdupre", "01", "??") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-bd3e0da4-e311-4e9b-8f3c-f822bf26caee", "Grateful Dead", "2", "384",  "02/01/69", "The Kinetic Playground", "Chicago", "Il",  "[]", "[]", "[]", "Other Artist(S): The Grassroots",  "1996-01-07 00:00:00", "1969", "System", "02", "01") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c44449f5-6b10-47db-8091-3799154c3381", "Grateful Dead", "2", "57841",  "02/02/69", "Labor Temple", "Minneapolis", "Mn",  "['Good Morning Little Schoolgirl\r\nDark Star >\r\nSt. Stephen >\r\nThe Eleven\r\nDeath Don&apos;t Have No Mercy\r\nCryptical Envelopment >\r\nDrums >\r\nThe Other One >\r\nCryptical Envelopment >\r\nTurn On Your Love Light']", "[]", "[]", "",  "2001-04-03 18:47:08", "1969", "Ckiefe", "02", "02") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-ccd330d1-4b43-4bbf-84a8-befc22e1dfff", "Grateful Dead", "2", "385",  "02/03/69", "Guthrie Theatre", "Minneapolis", "Mn",  "[]", "[]", "[]", "This Show May Have Been At The Labor Temple On 2/2/69",  "1996-01-07 00:00:00", "1969", "System", "02", "03") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2014afe1-ee4a-4141-af09-d0e3176dc18a", "Grateful Dead", "2", "46637",  "02/04/69", "The Music Box", "Omaha", "Ne",  "['Good Morning Little Schoolgirl', 'Morning Dew', 'Dark Star  > St. Stephen  > The Eleven > Death Don&apos;t Have No Mercy', 'Cryptical Envelopment \r\n> Drums  > The Other One  > Alligator > Drums > Caution (Do Not Stop On Tracks) > Feedback > And We Bid You Good Night']", "[]", "[]", "setlist Courtesy Deadlists.Com",  "2001-12-22 00:00:00", "1969", "Andrewsinger", "02", "04") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6cd34fdb-046a-4a16-a44a-95f00ecb1e9a", "Grateful Dead", "2", "386",  "02/05/69", "Soldiers & Sailors Memorial Auditorium", "Kansas City", "Ks",  "['Lovelight', 'Cryptical Envelopment  > The Other One > Cryptical Envelopment', 'Dark Star  > St. Stephen > The Eleven > Caution (Do Not Stop On\r\nTracks > Feedback > And We Bid You Good Night']", "[]", "[]", "Opened For Iron Butterfly; Setlist Courtesy Deadlists.Com",  "2001-12-22 00:00:00", "1969", "System", "02", "05") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1a771599-8429-4a89-9842-67b2ebf231e1", "Grateful Dead", "2", "387",  "02/06/69", "Kiel Auditorium", "St. Louis", "Mo",  "['Morning Dew', 'Dark Star > St. Stephen > The Eleven > Turn On Your Love Light > Drums > Turn On Your Love Light', 'Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment > Feedback > And We Bid You Good Night']", "[]", "[]", "",  "2003-04-29 00:00:00", "1969", "Hamilton", "02", "06") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-50cf0968-7bad-489b-802d-b509e40e40ab", "Grateful Dead", "2", "388",  "02/07/69", "Stanley Theater (Early, Late)", "Pittsburgh", "Pa",  "['Early Show: Dark Star> St. Stephen> The Eleven> Turn On Your Love Light']", "['Early Show: Dark Star> St. Stephen> The Eleven> Turn On Your Love Light']", "[]", "Admin Note: I Accidentally Merged 2 Existing, Identical-Looking, Undistinguished Records, Although Both An Early And Late Show Were Played. So, This Is Now A Joint Entry For Both Gigs. Two Options: A) Use This Record, And Just Mark In Your Notes Which  One You Have. B) I Will Also Accept 2 More Separately-Created Late, Early Records If Someone Cares To Make Them. Sorry! Diana
+
+<P>Other Artist(S): The Velvet Underground; The Fugs",  "2003-04-04 00:00:00", "1969", "System", "02", "07") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-45babf86-55ce-42e5-a650-2b7298e832c6", "Grateful Dead", "2", "390",  "02/11/69", "Fillmore East (Early Show)", "New York", "Ny",  "['Good Morning Little School Girl', 'Cryptical Envelopment > The Other One > Cryptical Envelopment > Doin&apos; That Rag', 'I&apos;m A King Bee', 'Turn On Your Lovelight', 'Hey Jude']", "[]", "[]", "Early Show; Other Artist(S): Danny Cox; Golden Toad. This Date (Both Late And Early Shows) Is Featured On <A Href= &quot;Http://Mars.Dead.Net&quot;>Fillmore East 2/11/69</A>.",  "2002-05-15 00:00:00", "1969", "Diana", "02", "11") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5ea3bf0a-239e-4243-abfc-fd08ad1ec84a", "Grateful Dead", "2", "391",  "02/11/69", "Fillmore East (Late Show)", "New York", "Ny",  "['Dupree&apos;s Diamond Blues', 'Mountains Of The Moon', 'Dark Star > St. Stephen > The Eleven > Drums > Caution (Do Not Stop On Tracks) > Feedback > And We Bid You Good Night']", "[]", "[]", "Late Show. Other Artist(S): Janis Joplin & Her Band. This Date (Both Late And Early Shows) Is Featured On <A Href= &quot;Http://Mars.Dead.Net&quot;>Fillmore East 2/11/69</A>.",  "1996-01-07 00:00:00", "1969", "Diana", "02", "11") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-fbe8f9b3-2fa7-47aa-840e-12baa4aa644f", "Grateful Dead", "2", "393",  "02/12/69", "Fillmore East (Late Show)", "New York", "Ny",  "['Dupree&apos;s Diamond Blues', 'Mountains Of The Moon', 'Dark Star-> Saint Stephen-> The Eleven-> Death Don&apos;t Have No Mercy', 'Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)']", "[]", "[]", "Late Show; This List Could Belong To The Early Show - Other Artist(S): Janis Joplin & Her Band; Gd",  "2004-09-03 09:29:33", "1969", "Hamilton", "02", "12") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-624b7e2d-0d91-4ec5-93de-aaee8a2e8418", "Grateful Dead", "2", "394",  "02/14/69", "Electric Factory", "Philadelphia", "Pa",  "['Good Morning Little School Girl', 'Dark Star', 'Saint Stephen-> The Eleven-> Turn On Your Love Light']", "['Good Morning Little School Girl', 'Dark Star', 'Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "02", "14") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b520413c-3d14-4854-9a42-3616656e26a3", "Grateful Dead", "2", "395",  "02/15/69", "Electric Factory", "Philadelphia", "Pa",  "['Doin&apos; That Rag', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement', 'Morning Dew-> Turn On Your Love Light']", "['Doin&apos; That Rag', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement', 'Morning Dew-> Turn On Your Love Light']", "[]", "",  "1996-01-07 00:00:00", "1969", "Diana", "02", "15") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a2727cc5-0b5c-4072-ad59-643916a44af9", "Grateful Dead", "2", "396",  "02/19/69", "Fillmore West", "San Francisco", "Ca",  "['Turn On Your Lovelight &Gt; Not Fade Away &Gt; Turn On Your Lovelight']", "['Turn On Your Lovelight &Gt; Not Fade Away &Gt; Turn On Your Lovelight']", "[]", "&quot;Frontiers Of Science Celestial Synapse&quot;",  "2013-08-24 10:38:13", "1969", "John_Doe", "02", "19") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-149c7a9f-2cf6-4454-bee8-367633343d6d", "Grateful Dead", "2", "397",  "02/21/69", "Dream Bowl", "Vallejo", "Ca",  "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light', 'E: Morning Dew']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "Stark1", "02", "21") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-01123fe0-5724-452e-a2d9-0bdf022d4a08", "Grateful Dead", "2", "398",  "02/22/69", "Dream Bowl", "Vallejo", "Ca",  "['Dupree&apos;s Diamond Blues-> Mountains Of The Moon-> Dark Star-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Death Don&apos;t Have No Mercy']", "['Dupree&apos;s Diamond Blues-> Mountains Of The Moon-> Dark Star-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Death Don&apos;t Have No Mercy']", "[]", "",  "2001-06-07 00:00:00", "1969", "Hamilton", "02", "22") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-49f77ab1-6491-417f-b04c-de385f9e2a1d", "Grateful Dead", "2", "179180",  "02/22/69", "Dream Bowl", "Vallejo", "Ca",  "['Dupree&apos;s Diamond Blues\r\nMountains Of The Moon\r\nJam\r\nDark Star\r\nCryptical Envelopment &Gt; \r\nDrumz &Gt; \r\nThe Other One &Gt; \r\nCryptical Envelopment\r\nDeath Don&apos;t Have No Mercy']", "['Dupree&apos;s Diamond Blues\r\nMountains Of The Moon\r\nJam\r\nDark Star\r\nCryptical Envelopment &Gt; \r\nDrumz &Gt; \r\nThe Other One &Gt; \r\nCryptical Envelopment\r\nDeath Don&apos;t Have No Mercy']", "[]", "",  "2011-12-14 22:59:03", "1969", "Bubbadaya", "02", "22") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2bdaa1f6-5153-48b7-9f3a-e523f11d10fe", "Grateful Dead", "2", "399",  "02/26/69", "The Matrix", "San Francisco", "Ca",  "[]", "[]", "[]", "Mickey And The Hartbeats",  "1996-01-07 00:00:00", "1969", "System", "02", "26") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f203e2ff-5c0e-4c67-b97b-342010ae63ff", "Grateful Dead", "2", "400",  "02/27/69", "Fillmore West", "San Francisco", "Ca",  "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment']", "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment']", "[]", "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet",  "2001-07-17 00:00:00", "1969", "Hamilton", "02", "27") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d3ec1f00-5b60-4c5e-8777-b88feae04b8d", "Grateful Dead", "2", "401",  "02/28/69", "Fillmore West", "San Francisco", "Ca",  "['Morning Dew', 'Good Morning Little School Girl', 'Doin&apos; That Rag', 'I&apos;m A King Bee', 'Turn On Your Love Light']", "['Morning Dew', 'Good Morning Little School Girl', 'Doin&apos; That Rag', 'I&apos;m A King Bee', 'Turn On Your Love Light']", "[]", "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet",  "2001-08-07 00:00:00", "1969", "Hamilton", "02", "28") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-307ffcc9-908c-4d85-9ef3-1a5c22c2dc97", "Grateful Dead", "2", "402",  "03/01/69", "Fillmore West", "San Francisco", "Ca",  "['Cryptical Envelopment-> The Other One-> Cryptical Envelopment-> New Potato Caboose-> Doin&apos; That Rag-> Cosmic Charlie']", "['Cryptical Envelopment-> The Other One-> Cryptical Envelopment-> New Potato Caboose-> Doin&apos; That Rag-> Cosmic Charlie']", "[]", "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet",  "2001-08-16 00:00:00", "1969", "Hamilton", "03", "01") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b47ee6ae-1401-417d-8be5-c2789715f2c1", "Grateful Dead", "2", "403",  "03/02/69", "Fillmore West", "San Francisco", "Ca",  "['Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "['Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "Other Artist(S): Gd; Pentangle; Sir Douglas Quintet Other Artist(S): Flying Burrito Bros; Aum",  "2001-07-13 00:00:00", "1969", "Hamilton", "03", "02") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f2a5d829-17a3-4aaa-b1aa-09e9c1210bca", "Grateful Dead", "2", "404",  "03/11/69", "Pacific High Recording", "San Mateo", "Ca",  "['Cosmic Charlie', 'Mountains Of The Moon']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "03", "11") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-415eba2a-43eb-4b0c-9c05-3f2b64a53ed7", "Grateful Dead", "2", "405",  "03/12/69", "Fillmore West", "San Francisco", "Ca",  "[]", "[]", "[]", "San Francisco State Strike Committee Benefit",  "1996-01-07 00:00:00", "1969", "System", "03", "12") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-0524f44d-71be-48c9-a273-4b1cb85c4f10", "Grateful Dead", "2", "406",  "03/15/69", "Hilton Hotel", "San Francisco", "Ca",  "['Morning Dew', 'Alligator-> Drums-> Alligator', 'Hard To Handle', 'Good Morning Little School Girl', 'Dark Star', 'Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "[]", "&apos;black And White Ball&apos; - San Francisco Symphony Benefit",  "1996-01-07 00:00:00", "1969", "System", "03", "15") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-33f5d3e6-fb45-41a6-8e23-8b9c6f1193bd", "Grateful Dead", "2", "407",  "03/21/69", "Rose Palace", "Pasadena", "Ca",  "[]", "[]", "[]", "Other Artist(S): Paul Butterfield Blues Band; Jethro Tull",  "1996-01-07 00:00:00", "1969", "System", "03", "21") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c03138b3-8955-484e-9667-7d063dab72a4", "Grateful Dead", "2", "408",  "03/22/69", "Rose Palace", "Pasadena", "Ca",  "['Good Morning Little Schoolgirl', 'Dark Star  > St. Stephen  > The Eleven > Lovelight']", "[]", "[]", "Jethro Tull Opened, The Dead Played Second, And The Paul Butterfield Blues
+Band Closed This Show.  There Could Be One Or More Tunes Missing After
+Schoolgirl.",  "2002-04-26 00:00:00", "1969", "Diana", "03", "22") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c714a03e-c2a1-42e8-918a-cc1288d32c3d", "Grateful Dead", "2", "409",  "03/27/69", "Unknown Location", "Merced", "Ca",  "['Good Morning Little School Girl', 'Dark Star-> Saint Stephen-> The Eleven-> Death Don&apos;t Have No Mercy-> Turn On Your Love Light', 'Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment']", "[]", "[]", "True Date Of This Material May Be Modesto 3/28/69- See <A Href= &quot;Http://Www.Deadlists.Com&quot;>Deadlists</A> For Discussion",  "2001-09-04 00:00:00", "1969", "System", "03", "27") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5d134320-2dd0-4236-9afb-22ef9bff18d5", "Grateful Dead", "2", "410",  "03/28/69", "Student Center, Modesto Jr. College", "Modesto", "Ca",  "['Good Morning Little Schoolgirl', 'Dark Star > St. Stephen > The Eleven > Death Don&apos;t Have No Mercy > Lovelight', 'Cryptical Envelopment > Drums > The Other One > Cryptical Envelopment']", "[]", "[]", "setlist Courtesy <A Href= &quot;Http://Www.Deadlists.Com&quot;>Deadlists</A>; Some Copies May Circulate Mislabeled As Merced 3/27/69- See Deadlists For Discussion",  "2001-09-04 00:00:00", "1969", "System", "03", "28") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-e5bfbf71-7277-48de-be1c-8b86ce324c9e", "Grateful Dead", "2", "411",  "03/29/69", "Ice Palace", "Las Vegas", "Nv",  "['Morning Dew', 'Good Morning Little School Girl', 'Doin&apos; That Rag', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "03", "29") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5c61d6dd-a9d4-4255-b07c-3a4980a38230", "Grateful Dead", "2", "2345",  "04/04/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Death Don&apos;t Have No Mercy']", "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Death Don&apos;t Have No Mercy']", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "04", "04") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-22fc27fe-924e-4a0c-ab05-9d63da8f4ad9", "Grateful Dead", "2", "412",  "04/05/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Dupree&apos;s Diamond Blues-> Mountains Of The Moon-> Jam-> Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "['Dupree&apos;s Diamond Blues-> Mountains Of The Moon-> Jam-> Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "&quot;William Tell&quot; Bridge After St. Stephen Other Artist(S): Flying Burrito Bros; Aum",  "2001-07-16 00:00:00", "1969", "Hamilton", "04", "05") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-591d573d-85a4-4f87-8f8e-33d8a9d4329b", "Grateful Dead", "2", "413",  "04/06/69", "Avalon Ballroom", "San Francisco", "Ca",  "['Good Morning Little School Girl', 'Beat It On Down The Line', 'It&apos;s All Over Now Baby Blue', 'I&apos;m A King Bee']", "['Good Morning Little School Girl', 'Beat It On Down The Line', 'It&apos;s All Over Now Baby Blue', 'I&apos;m A King Bee']", "[]", "Fm Broadcast Kpfa-Berkeley - Atso: Flying Burrito Bros; Aum",  "1996-01-07 00:00:00", "1969", "System", "04", "06") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-62183266-fe0b-42b6-ba3c-2ba80cfef9c4", "Grateful Dead", "2", "136981",  "04/10/69", "Winterland", "San Francisco", "Ca",  "['Turn On Your Lovelight']", "[]", "[]", "W/ Janis Joplin",  "2003-02-07 10:43:04", "1969", "Koko", "04", "10") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-09dfbcdd-bca1-43ac-97d2-d76f4127dc44", "Grateful Dead", "2", "414",  "04/11/69", "University Auditorium, U. Arizona", "Tucson", "Az",  "['Morning Dew', 'Sittin&apos; On Top Of The World', 'The Other One > Cryptical Envelopment > It&apos;s A Sin', 'Hard To Handle']", "['Morning Dew', 'Sittin&apos; On Top Of The World', 'The Other One > Cryptical Envelopment > It&apos;s A Sin', 'Hard To Handle']", "[]", "setlist Likely Incomplete; For More Info See <A Href= &quot;Http://Www.Deadlists.Com&quot;>Deadlists.Com</A>",  "2001-08-05 00:00:00", "1969", "Hamilton", "04", "11") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1c467820-31ba-4572-8f4e-0c9e0ab9ec7c", "Grateful Dead", "2", "415",  "04/12/69", "Student Union Ballroom, University Of Utah", "Salt Lake City", "Ut",  "['Morning Dew', 'Yellow Dog Story(Part One)', 'Good Morning Little Schoolgirl', 'Yellow Dog Story (Part Two)', 'Doin&apos; That Rag', 'He Was A Friend Of Mine', 'Cryptical Envelopment', 'The Other One']", "['Morning Dew', 'Yellow Dog Story(Part One)', 'Good Morning Little Schoolgirl', 'Yellow Dog Story (Part Two)', 'Doin&apos; That Rag', 'He Was A Friend Of Mine', 'Cryptical Envelopment', 'The Other One']", "[]", "Other Artist(S): Spirit Of Creation",  "2011-10-08 23:29:30", "1969", "System", "04", "12") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2f10efbf-fa6d-4804-88a6-ee533ad0bd16", "Grateful Dead", "2", "416",  "04/13/69", "Ballroom, U. Of Co.", "Boulder", "Co",  "['Turn On Your Love Light', 'Doin&apos; That Rag', 'Good Morning Little School Girl', 'Morning Dew', 'Dark Star-> Saint Stephen-> The Eleven-> Death Don&apos;t Have No Mercy']", "['Turn On Your Love Light', 'Doin&apos; That Rag', 'Good Morning Little School Girl', 'Morning Dew', 'Dark Star-> Saint Stephen-> The Eleven-> Death Don&apos;t Have No Mercy']", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "04", "13") ;
+#
+# Key: key_51
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-8b2fd02c-1e85-4858-aaa7-eb9b9b8a2cdc", "Grateful Dead", "2", "417",  "04/15/69", "The Music Box", "Omaha", "Ne",  "['Morning Dew', 'It Hurts Me Too', 'China Cat Sunflower  > Jam > Doin&apos;\r\nThat Rag']", "[]", "[]", "setlist Courtesy Deadlists.Com- Likely Incomplete",  "2001-12-22 00:00:00", "1969", "System", "04", "15") ;
+#
+# Key: key_52
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2151c10e-2d5d-4605-8c98-d1d56a7aea1e", "Grateful Dead", "2", "506802",  "04/16/69", "Washington University", "St. Louis", "Mo",  "[]", "[]", "[]", "",  "2011-01-03 21:47:06", "1969", "Bdhughes", "04", "16") ;
+#
+# Key: key_53
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b0d3ad08-d22f-493b-b839-2ce7512e73a5", "Grateful Dead", "2", "418",  "04/17/69", "Washington University", "St. Louis", "Mo",  "['Hard To Handle', 'Morning Dew', 'Good Morning Little School Girl', 'Dark Star-> Saint Stephen-> It&apos;s A Sin-> Saint Stephen-> The Eleven-> Turn On Your Love Light', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Caution (Do Not Stop On Tracks)']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "Greenone", "04", "17") ;
+#
+# Key: key_54
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-dd30aced-e982-4f37-ae47-b088af83e5e0", "Grateful Dead", "2", "419",  "04/18/69", "Memorial Union Ballroom, Purdue U.", "Lafayette", "In",  "['Hard To Handle', 'Morning Dew', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World-> I&apos;m A King Bee', 'Doin&apos; That Rag', 'Turn On Your Love Light', 'Cosmic Charlie', 'Beat It On Down The Line']", "[]", "[]", "Other Artist(S): George Stavis",  "1996-01-07 00:00:00", "1969", "System", "04", "18") ;
+#
+# Key: key_55
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-aea08cd7-3623-447e-bb2e-61248b750ffd", "Grateful Dead", "2", "420",  "04/20/69", "Clark University", "Worcester", "Ma",  "['Morning Dew', 'Good Morning Little Schoolgirl', 'Doin&apos; That Rag', 'Dark Star &Gt; Saint Stephen &Gt; The Eleven &Gt; Death Don&apos;t Have Mercy', 'Turn On Your Lovelight\n\nE: Dupree&apos;s Diamond Blues &Gt; Mountains Of The Moon']", "[]", "[]", "Rahsaan Roland Kirk Opened",  "2009-06-15 23:12:15", "1969", "Abb6999", "04", "20") ;
+#
+# Key: key_56
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b2395b39-8fbb-42c7-9e6d-317ad250aef6", "Grateful Dead", "2", "421",  "04/21/69", "The Ark", "Boston", "Ma",  "['Hard To Handle', 'Morning Dew', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World', 'Alligator-> Drums-> Jam*-> Alligator-> Doin&apos; That Rag']", "['Hard To Handle', 'Morning Dew', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Sitting On Top Of The World', 'Alligator-> Drums-> Jam*-> Alligator-> Doin&apos; That Rag']", "[]", "*Contains &quot;We Bid You Goodnight&quot; Theme",  "1996-01-07 00:00:00", "1969", "System", "04", "21") ;
+#
+# Key: key_57
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-10f2ef75-9711-4ad9-acb4-e73f0d500be5", "Grateful Dead", "2", "422",  "04/22/69", "The Ark", "Boston", "Ma",  "['Sitting On Top Of The World', 'Morning Dew', 'Beat It On Down The Line', 'Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopment-&Gt; Drums-&Gt; The Other One-&Gt; Cryptical Envelopment-&Gt; Death Don&apos;t Have No Mercy']", "['Sitting On Top Of The World', 'Morning Dew', 'Beat It On Down The Line', 'Good Morning Little School Girl', 'Doin&apos; That Rag', 'Cryptical Envelopment-&Gt; Drums-&Gt; The Other One-&Gt; Cryptical Envelopment-&Gt; Death Don&apos;t Have No Mercy']", "[]", "Carnival Music Tuning Before &quot;Doin That Rag&quot;",  "2006-08-09 20:14:39", "1969", "Mattyb", "04", "22") ;
+#
+# Key: key_58
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6044db75-b494-459d-b307-9490e7d93c8b", "Grateful Dead", "2", "51944",  "04/22/69", "The Ark", "Boston", "Ma",  "[]", "[]", "[]", "",  "2008-10-01 01:31:28", "1969", "Juniper", "04", "22") ;
+#
+# Key: key_59
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6694081f-67f9-49b8-89c5-d2de142cb071", "Grateful Dead", "2", "423",  "04/23/69", "The Ark", "Boston", "Ma",  "['He Was A Friend Of Mine', 'Dark Star-> Saint Stephen-> It&apos;s A Sin-> Saint Stephen-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Sitting On Top Of The World-> Turn On Your Love Light']", "['He Was A Friend Of Mine', 'Dark Star-> Saint Stephen-> It&apos;s A Sin-> Saint Stephen-> Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Sitting On Top Of The World-> Turn On Your Love Light']", "[]", "",  "1996-01-07 00:00:00", "1969", "Hamilton", "04", "23") ;
+#
+# Key: key_60
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b2601df9-48d2-4b87-b583-b749acdfed39", "Grateful Dead", "2", "424",  "04/25/69", "Electric Theater", "Chicago", "Il",  "['Hard To Handle', 'Doin&apos; That Rag', 'Good Morning Little School Girl', 'Morning Dew', 'Sitting On Top Of The World', 'Turn On Your Love Light']", "[]", "[]", "Jerry Plays Glide Guitar On Hard To Handle.  
+
+According To Ron Ramsey, Who Attended The Show, The Other Bands On The Bill Were Src (A Local Group), And The Velvet Underground.  The Velvet Underground Played A Very Long Set And As A Result The Dead Only Got To Play One Set On This Date.
+
+According To Ramsey The Dead Did The Same Thing To The Velvet Underground The Next Night.",  "1996-01-07 00:00:00", "1969", "Hamilton", "04", "25") ;
+#
+# Key: key_61
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c39794a9-182b-4cb0-8153-ba535146d954", "Grateful Dead", "2", "425",  "04/26/69", "Electric Theater", "Chicago", "Il",  "['Dupree&apos;s Diamond Blues > Mountains Of The Moon > China Cat Sunflower >  Doin&apos; That Rag', 'It Hurts Me Too > Hard To Handle', 'Cryptical Envelopement > Drums > The Other One > The Eleven > The Other One > Cryptical Envelopement > It&apos;s A Sin > Morning Dew', 'Sitting On Top Of The World', 'Minglewood Blues', 'Silver Threads', 'Baby Blue', 'Saint Stephen > Turn On Your Love Light']", "['Dupree&apos;s Diamond Blues > Mountains Of The Moon > China Cat Sunflower >  Doin&apos; That Rag', 'It Hurts Me Too > Hard To Handle', 'Cryptical Envelopement > Drums > The Other One > The Eleven > The Other One > Cryptical Envelopement > It&apos;s A Sin > Morning Dew', 'Sitting On Top Of The World', 'Minglewood Blues', 'Silver Threads', 'Baby Blue', 'Saint Stephen > Turn On Your Love Light']", "[]", "What&apos;s Become Of The Baby Was Played Back From Studio Tape While The Band Played Space Live On Stage. See Additional Commentary At Deadlists.Com.",  "2000-12-28 00:00:00", "1969", "Hamilton", "04", "26") ;
+#
+# Key: key_62
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-186fdd6c-c7ea-413c-81e6-4456168c9f0a", "Grateful Dead", "2", "426",  "04/27/69", "Labor Temple", "Minneapolis", "Mn",  "['Turn On Your Love Light-> Me & My Uncle-> Sitting On Top Of The World', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light', 'E: Morning Dew']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "04", "27") ;
+#
+# Key: key_63
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-0a08c3d9-4735-46c4-b8d9-649a6ef4f3ff", "Grateful Dead", "2", "427",  "05/02/69", "Winterland Arena", "San Francisco", "Ca",  "['Cold Rain & Snow', 'Alligator', 'The Other One', 'Death Don&apos;t Have No Mercy']", "[]", "[]", "Other Artist(S): Jefferson Airplane; Gd; Mongo Santamaria",  "1996-01-07 00:00:00", "1969", "System", "05", "02") ;
+#
+# Key: key_64
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-64aedb7a-8680-478d-8d3b-99d6ab226655", "Grateful Dead", "2", "428",  "05/03/69", "Winterland Arena", "San Francisco", "Ca",  "['He Was A Friend Of Mine', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Doin&apos; That Rag', 'Me & My Uncle']", "['He Was A Friend Of Mine', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Doin&apos; That Rag', 'Me & My Uncle']", "[]", "Other Artist(S): Jefferson Airplane; Gd; Mongo Santamaria",  "1996-01-07 00:00:00", "1969", "System", "05", "03") ;
+#
+# Key: key_65
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d5921e44-d894-464d-9548-3877076a7c9d", "Grateful Dead", "2", "429",  "05/03/69", "Sierra College", "Rocklin", "Ca",  "['Morning Dew', 'Turn On Your Love Light', 'It&apos;s All Over Now Baby Blue']", "[]", "[]", "Afternoon Concert",  "1996-01-07 00:00:00", "1969", "System", "05", "03") ;
+#
+# Key: key_66
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-0081de5d-687c-4f4b-8537-8997c1bc5645", "Grateful Dead", "2", "430",  "05/07/69", "Polo Field, Golden Gate Park", "San Francisco", "Ca",  "['Me & My Uncle', 'Instrumental Jam', 'Cryptical Envelopment > Drums > The Other One > Smokestack Lightning', 'Good Lovin&apos;', 'Dark Star > Drums > Lovelight']", "[]", "[]", "Afternoon Concert; Opened For Jefferson Airplane; Setlist Courtesy Deadlists.Com",  "2001-11-15 00:00:00", "1969", "System", "05", "07") ;
+#
+# Key: key_67
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-00ecc0b7-c704-4b2d-a7c7-f77713e132f1", "Grateful Dead", "2", "431",  "05/08/69", "Unknown Location", "Unknown City", "Ca",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "05", "08") ;
+#
+# Key: key_68
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4a87d822-6d66-47ff-ba93-2cf976fb5168", "Grateful Dead", "2", "432",  "05/09/69", "Hall Of Flowers, County Fairgrounds", "San Mateo", "Ca",  "['Me & My Uncle', 'Hard To Handle', 'Doin&apos; That Rag', 'New Potato Caboose', 'Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "05", "09") ;
+#
+# Key: key_69
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a01eea15-d1b7-4b93-8b53-9e2a43fbc791", "Grateful Dead", "2", "433",  "05/10/69", "Rose Palace", "Pasadena", "Ca",  "['Hard To Handle', 'Me & My Uncle', 'Morning Dew', 'Doin&apos; That Rag', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Lig']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "05", "10") ;
+#
+# Key: key_70
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-df7607cc-d457-4afe-9ca3-78a450eeb1c4", "Grateful Dead", "2", "434",  "05/11/69", "Aztec Bowl, San Diego State U.", "San Diego", "Ca",  "['Morning Dew\nCryptical Envelopment--&Gt;\nDrums--&Gt;\nThe Other One--&Gt;\nCryptical Envelopment--&Gt;\nGood Morning', 'Little Schoolgirl\n//Me & My Uncle\n//Alligator--&Gt;\nDrums*--&Gt;\nJam*--&Gt;\nDrums*--&Gt;\nLovelight*\n\n*With Members Of Santana']", "[]", "[]", "Santana And His Grandmasters Sat In On An Extended Drum Set Other Artist(S): Canned Heat; Lee Michaels; Santana; Tarantula",  "2009-10-10 11:57:56", "1969", "Musicnevstopped", "05", "11") ;
+#
+# Key: key_71
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5c0ac7fb-e0e7-4576-a423-68c0a6847eaf", "Grateful Dead", "2", "435",  "05/16/69", "Campolindo High School", "Moraga", "Ca",  "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'Me & My Uncle', 'Hard To Handle', 'Turn On Your Love Light']", "[]", "[]", "Other Artist(S):; Frumious Bandersnatch, Velvet Hammer",  "1996-01-07 00:00:00", "1969", "System", "05", "16") ;
+#
+# Key: key_72
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-25b07145-4300-4a5c-ad50-9281ee11bd16", "Grateful Dead", "2", "436",  "05/23/69", "Seminole Indian Village", "Hollywood", "Fl",  "['Hard To Handle', 'Morning Dew', 'Me & My Uncle', 'Dark Star-&Gt; Saint Stephen-&Gt; The Eleven-&Gt; Turn On Your Lovelight']", "[]", "[]", "&quot;Big Rock Pow Wow&quot; - Billing Gd; Johnny Winter; Sweetwater; Joe South; Aum; Nrbq; Rinoceros; Muddy Waters; Timothy Leary; The Echo; Nervous System; Jane And The Electric Jive Wire",  "2010-11-20 12:44:41", "1969", "Charliemiller", "05", "23") ;
+#
+# Key: key_73
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c18a6709-a5bc-4c89-921b-4313a8bc125c", "Grateful Dead", "2", "437",  "05/24/69", "Seminole Indian Village", "Hollywood", "Fl",  "['Turn On Your Love Light', 'Doin&apos; That Rag-> He Was A Friend Of Mine-> China Cat Sunflower-> The Eleven-> Death Don&apos;t Have No Mercy', 'Alligator-> Drums-> Saint Stephen-> Feedback-> We Bid You Good Night']", "[]", "[]", "&quot;Big Rock Pow Wow&quot;",  "1996-01-07 00:00:00", "1969", "System", "05", "24") ;
+#
+# Key: key_74
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c426fb45-f01e-461f-85a9-ad02c6bab394", "Grateful Dead", "2", "438",  "05/28/69", "Winterland Arena", "San Francisco", "Ca",  "['Smokestack Lightning', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light']", "[]", "[]", "&quot;People&apos;s Park Bail Ball&quot; Benefit - Billing Jefferson Airplane; Gd; Creedence Clearwater Revival; Elvin Bishop Group; Santana;  Bangor Flying Circus; Aum",  "1996-01-07 00:00:00", "1969", "System", "05", "28") ;
+#
+# Key: key_75
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-86450e48-6eec-4380-9dbf-38882fbf7bde", "Grateful Dead", "2", "439",  "05/29/69", "Robertson Gym, U.C.S.B.", "Santa Barbara", "Ca",  "['Morning Dew', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Good Morning Little School Girl', 'Me & My Uncle', 'Alligator-> Drums-> Turn On Your Love Light']", "[]", "[]", "Memorial Day Ball - Other Artist(S): Lee Michaels; The Youngbloods",  "1996-01-07 00:00:00", "1969", "System", "05", "29") ;
+#
+# Key: key_76
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-69066c2d-cc3d-4d27-9339-4738a7adcc87", "Grateful Dead", "2", "440",  "05/30/69", "Springer&apos;s Inn", "Portland", "Or",  "['Morning Dew', 'Me & My Uncle', 'Doin&apos; That Rag', 'I&apos;m A King Bee', 'Dark Star &Gt; Cosmic Charlie', 'Saint Stephen &Gt; The Eleven &Gt; Turn On Your Love Light']", "[]", "[]", "",  "2007-09-04 18:39:34", "1969", "Charlie Miller", "05", "30") ;
+#
+# Key: key_77
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c3448ca3-c2e2-4454-b875-0d246db0ef60", "Grateful Dead", "2", "441",  "05/31/69", "Mcarthur Court, University Of Oregon", "Eugene", "Or",  "['Hard To Handle', 'Cold Rain And Snow', 'Yellow Dog Story', 'Green Green Grass Of Home', 'Me And My Uncle', 'Cryptical Envelopment -> Drums -> The Other One -> Cryptical Envelopment -> Sitting On Top Of The World', 'It Hurts Me Too', 'Turn On Your Lovelight']", "['Hard To Handle', 'Cold Rain And Snow', 'Yellow Dog Story', 'Green Green Grass Of Home', 'Me And My Uncle', 'Cryptical Envelopment -> Drums -> The Other One -> Cryptical Envelopment -> Sitting On Top Of The World', 'It Hurts Me Too', 'Turn On Your Lovelight']", "[]", "",  "1996-01-07 00:00:00", "1969", "Hamilton", "05", "31") ;
+#
+# Key: key_78
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5f24b093-bee5-40d1-a100-d357961ef3b7", "Grateful Dead", "2", "442",  "06/05/69", "Fillmore West", "San Francisco", "Ca",  "['Morning Dew', 'Me & My Uncle', 'Doin&apos; That Rag', 'He Was A Friend Of Mine', 'Hard To Handle', 'Cosmic Charlie', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement']", "['Morning Dew', 'Me & My Uncle', 'Doin&apos; That Rag', 'He Was A Friend Of Mine', 'Hard To Handle', 'Cosmic Charlie', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement']", "[]", "Other Artist(S): Gd; Jr. Walker & The All Stars; The Glass Family",  "1996-01-07 00:00:00", "1969", "Diana", "06", "05") ;
+#
+# Key: key_79
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c885f2c6-741a-471c-a380-147fe15b785b", "Grateful Dead", "2", "443",  "06/06/69", "Fillmore West", "San Francisco", "Ca",  "['Smokestack Lightning', 'Green Green Grass Of Home', 'Me & My Uncle', 'Checkin&apos; Up On My Baby', 'Beat It On Down The Line', 'Turn On Your Love Light']", "[]", "[]", "Other Artist(S): Gd; Jr. Walker & The All Stars; The Glass Family",  "1996-01-07 00:00:00", "1969", "Stark1", "06", "06") ;
+#
+# Key: key_80
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5021c391-30d2-46b7-a7b7-36135c820049", "Grateful Dead", "2", "444",  "06/07/69", "Fillmore West", "San Francisco", "Ca",  "['Dire Wolf', 'Dupree&apos;s Diamond Blues', 'Mountains Of The Moon', 'Dark Star-> Saint Stephen-> The Eleven-> Sitting On Top Of The World-> Cold Rain & Snow-> Doin&apos; That Rag', 'Me & My Uncle', 'Turn On Your Love Light*']", "[]", "[]", "*With Janis Joplin Other Artist(S): Gd; Jr. Walker & The All Stars; The Glass Family",  "1996-01-07 00:00:00", "1969", "Mvernon", "06", "07") ;
+#
+# Key: key_81
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-7d8e217a-bac7-4e3f-a073-5ed73e7694f0", "Grateful Dead", "2", "445",  "06/08/69", "Fillmore West", "San Francisco", "Ca",  "['Dancing In The Streets > He Was A Friend Of Mine > China Cat Sunflower > Jam > New Potato Caboose', 'Me And My Uncle']", "['Dancing In The Streets > He Was A Friend Of Mine > China Cat Sunflower > Jam > New Potato Caboose', 'Me And My Uncle']", "[]", "*Wayne &quot;The Harp&quot; Ceballos- Vocals, Elvin Bishop- Guitar; ^Bishop- Vocals, Guitar. Deadlist Com Notes &quot;No Sign Of Garcia In The Second Set Before Cryptical.&quot;; Other Artists On Bill: Jr. Walker & The All Stars, The Glass Family",  "2003-08-05 00:00:00", "1969", "Hamilton", "06", "08") ;
+#
+# Key: key_82
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-bac39411-c02a-4c04-a81a-57cdf890b6d4", "Grateful Dead", "2", "446",  "06/11/69", "California Hall", "San Francisco", "Ca",  "['Let It Be Me', 'Silver Threads', 'Mama Tried', 'Cathy&apos;s Clown', 'Me & My Uncle', 'Slewfoot', 'Dire Wolf', 'Games People Play', 'The Race Is On', 'Green Green Grass Of Home']", "['Let It Be Me', 'Silver Threads', 'Mama Tried', 'Cathy&apos;s Clown', 'Me & My Uncle', 'Slewfoot', 'Dire Wolf', 'Games People Play', 'The Race Is On', 'Green Green Grass Of Home']", "[]", "Bobby Ace And The Cards From The Bottom Of The Deck - Weir, Garcia, Lesh Hart And Constantan With,John Dawson And David Nelson On Guitar, Autoharp And Vocals And With Peter Grant On Pedal Steel",  "1996-01-07 00:00:00", "1969", "Greenone", "06", "11") ;
+#
+# Key: key_83
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-770190bd-f60f-4adf-883e-0bf41ced460f", "Grateful Dead", "2", "447",  "06/13/69", "Fresno Convention Center", "Fresno", "Ca",  "['Hard To Handle', 'Me & My Uncle', 'Sitting On Top Of The World', 'Beat It On Down The Line', 'Good Morning Little School Girl*', 'China Cat Sunflower-> Morning Dew-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "[]", "*With Ronnie Hawkins Yellow Dog Story After &quot;Hard To Handle&quot;",  "1996-01-07 00:00:00", "1969", "System", "06", "13") ;
+#
+# Key: key_84
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-adda748b-b26e-4bcb-8db8-650a5f601817", "Grateful Dead", "2", "448",  "06/14/69", "Monterey Performing Arts Center", "Monterey", "Ca",  "['Turn On Your Love Light-> Me & My Uncle-> Doin&apos; That Rag-> He Was A Friend Of Mine', 'Dire Wolf', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light-> Drums-> Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "06", "14") ;
+#
+# Key: key_85
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-8da68497-3b27-4349-bb24-1ab9bb07bfa9", "Grateful Dead", "2", "449",  "06/20/69", "Fillmore East (Late Show)", "New York", "Ny",  "[]", "[]", "[]", "Late Show. Other Artist(S): Gd; Buddy Miles Express; Savoy Brown",  "1996-01-07 00:00:00", "1969", "Hamilton", "06", "20") ;
+#
+# Key: key_86
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-91c9cd8c-2b66-434e-b9c3-3d0ba3bdb9e3", "Grateful Dead", "2", "450",  "06/20/69", "Fillmore East", "New York", "Ny",  "['I&apos;m A King Bee', 'Cold Jordan', 'Dire Wolf', 'Casey Jones', 'Mama Tried', 'Turn On Your Love Light', 'Alligator']", "[]", "[]", "Early Show. Order Uncertain - List Could Befrom Late Show Other Artist(S): Gd; Buddy Miles Express; Savoy Brown",  "1996-01-07 00:00:00", "1969", "System", "06", "20") ;
+#
+# Key: key_87
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6df2016a-9870-4413-a847-e3134ea510fd", "Grateful Dead", "2", "292089",  "06/20/69", "Aoxomoxoa Original Mix", "San Mateo", "Ca",  "['St Stephen\nDupree&apos;s Diamond Blues \nRosemary \nDoin&apos; That Rag \nMountains Of The Moon\nChina Cat Sunflower \nWhat&apos;s Become Of The Baby\nCosmic Charlie']", "[]", "[]", "",  "2007-12-06 22:43:24", "1969", "Rcdupre", "06", "20") ;
+#
+# Key: key_88
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-db3fb4cd-d02a-49be-ac55-d1d6805f15a8", "Grateful Dead", "2", "451",  "06/21/69", "Fillmore East (Late)", "New York", "Ny",  "['Old', 'Old House', 'Sittin&apos; On Top Of The World', 'King Bee', 'Dire Wolf', 'Mama Tried', 'High Time', 'Dupree&apos;s Diamond Blues', 'Yellow Dog Story', 'Dark Star > St. Stephen > The Eleven > Lovelight']", "[]", "[]", "Late Show.   Setlist Courtesy <A Href= &quot;Http://Www.Deadlists.Com&quot;>Deadlists.Com</A>
+Other Artist(S): Gd; Buddy Miles Express; Savoy Brown",  "2004-09-22 00:00:00", "1969", "Hamilton", "06", "21") ;
+#
+# Key: key_89
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d02daa53-888a-47b6-b707-52c8effa2a10", "Grateful Dead", "2", "452",  "06/21/69", "Fillmore East (Early)", "New York", "Ny",  "['Green Green Grass Of Home', 'Me & My Uncle', 'High Time', 'China Cat Sunflower-> Morning Dew', 'Alligator-> Drums-> The Other One-> Cryptical Envelopement-> Slewfoot', 'Cosmic Charlie']", "[]", "[]", "Early Show. List Could Be From Late Show Other Artist(S): Gd; Buddy Miles Express; Savoy Brown",  "2004-09-22 00:00:00", "1969", "Hamilton", "06", "21") ;
+#
+# Key: key_90
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-64b0632a-ef86-4f37-b5a8-57533ae06f4b", "Grateful Dead", "2", "453",  "06/22/69", "Central Park", "New York", "Ny",  "['Dancing In The Streets > Casey Jones', 'Hard To Handle', 'Me And My Uncle', 'Sittin On Top Of The World', 'Silver Threads And Golden Needles', 'Dark Star > The Other One > St. Stephen > It&apos;s A Sin', 'Turn On Your Love Light']", "[]", "[]", "",  "2004-09-03 00:00:00", "1969", "Hamilton", "06", "22") ;
+#
+# Key: key_91
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-79905434-757c-43c9-af49-9b7d9729515f", "Grateful Dead", "2", "454",  "06/27/69", "Veterans Auditorium", "Santa Rosa", "Ca",  "['Slewfoot', 'Mama Tried-> High Time', 'Dupree&apos;s Diamond Blues', 'Me & My Uncle', 'Jam-> Casey Jones', 'Dire Wolf', 'Sitting On Top Of The World-> Big Boss Man', 'Dark Star-> Saint Stephen-> The Eleven-> Green Green Grass Of Home', 'It&apos;s All Over Now Baby Blue']", "[]", "[]", "Other Artist(S): Hot Tuna; Joey Covington; Cleanliness & Godliness Skiffle Band",  "1996-01-07 00:00:00", "1969", "Hamilton", "06", "27") ;
+#
+# Key: key_92
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d9a31671-ad4f-469c-9d93-a49744976a32", "Grateful Dead", "2", "455",  "06/28/69", "Veterans Auditorium", "Santa Rosa", "Ca",  "['Slewfoot', 'Silver Threads', 'Mama Tried', 'Me & My Uncle', 'Doin&apos; That Rag', 'High Time', 'I&apos;m A King Bee', 'Sitting On Top Of The World', 'Turn On Your Love Light']", "[]", "[]", "Other Artist(S): Hot Tuna; Joey Covington; Cleanliness & Godliness Skiffle Band",  "1996-01-07 00:00:00", "1969", "System", "06", "28") ;
+#
+# Key: key_93
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2a9de5e1-9f59-411a-8e8e-8288ee29fee4", "Grateful Dead", "2", "456",  "06/29/69", "The Barn", "Rio Nido", "Ca",  "[]", "[]", "[]", "Other Artist(S): Hot Tuna; Joey Covington; Cleanliness & Godliness Skiffle Band",  "1996-01-07 00:00:00", "1969", "System", "06", "29") ;
+#
+# Key: key_94
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a8d97671-1b22-411e-9d07-993af41aeb15", "Grateful Dead", "2", "104279",  "06/??/69", "Home Recordings", "San Francisco", "Ca",  "['Friend Of The Devil  (With Other Lyrics And John &quot;Marmaduke&quot; Dawson Singing Lead)\r\nTrumpet Solo - Robert Hunter?\r\nDead Or Alive  (Robert Hunter Vocal', 'Undocumented Song)\r\nTrain Song  (Robert Hunter Vocal', 'Undocumented Song)\r\nNo Eggs Today  (Robert Hunter Vocal', 'Undocumented Song)\r\nJam - &quot;Feeling Groovy&quot; And Uncle John&apos;s Band Riffs\r\nUncle John&apos;s Band Jam\r\n...Baby Crying?...\r\nUnidentified Guitar/ End Of Tape']", "[]", "[]", "Material Identified As &quot;Gd - Home Recordings, Summer, 1969, Aud (Portable Recorder And Cheap Mic)&quot;. Dsh Note: I&apos;ve Created This Entry Under 6/??/69 Since It&apos;s Labeled As &quot;Summer&quot;. It&apos;s Also Listed Here Under ??/??/69, But Due To A Quirk In Shn Listings When There Are Multiple Gig Entries (As Is The Case Under ??/??/69), It Is More Convenient To Have The Shn Listed Under This Date Instead.",  "2012-01-16 14:16:56", "1969", "Hamilton", "06", "??") ;
+#
+# Key: key_95
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1d4945c0-e310-4dc9-8c4d-5e8e21f40569", "Grateful Dead", "2", "457",  "07/03/69", "Reed&apos;s Ranch", "Colorado Springs", "Co",  "['Green Green Grass Of Home &Gt;\nSlewfoot\nSitting On Top Of The World\nMorning Dew\nHigh Time\nMe And My Uncle\nCasey Jones\nHe Was A Friend Of Mine']", "[]", "[]", "Other Artist(S): Zephyr, Holden Caulfield And Deven Michaels",  "2012-09-09 09:39:03", "1969", "Charliemiller", "07", "03") ;
+#
+# Key: key_96
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f2db2fd8-f0b0-46d9-8e69-9b4836680d28", "Grateful Dead", "2", "458",  "07/04/69", "Electric Theater", "Chicago", "Il",  "['Hard To Handle', 'Mama Tried', 'Slewfoot', 'Silver Threads And Golden Needles', 'Cryptical Envelopment > Drums > The Other One > High Time > Casey Jones', 'King Bee', 'Sittin On Top Of The World > Me And My Uncle', 'Doin&apos; That Rag', 'Let Me In', 'Dire Wolf', 'St. Stephen > Lovelight']", "[]", "[]", "setlist Courtesy Deadlists.Com",  "2002-06-07 00:00:00", "1969", "System", "07", "04") ;
+#
+# Key: key_97
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-eda4a662-0c77-4d57-b0d9-dc564ce715cd", "Grateful Dead", "2", "459",  "07/05/69", "Electric Theater", "Chicago", "Il",  "['Morning Dew', 'Dark Star  > St. Stephen  > The Eleven > It&apos;s All Over Now', 'Baby Blue']", "['Morning Dew', 'Dark Star  > St. Stephen  > The Eleven > It&apos;s All Over Now', 'Baby Blue']", "[]", "",  "2001-06-21 00:00:00", "1969", "System", "07", "05") ;
+#
+# Key: key_98
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-bd1b3eac-0fd8-49e1-9191-682de1f0e778", "Grateful Dead", "2", "460",  "07/07/69", "Piedmont Park", "Atlanta", "Ga",  "['Morning Dew\nMama Tried &Gt; \nHigh Time &Gt; \nCasey Jones\nDark Star &Gt; \nSt. Stephen &Gt; \nThe Eleven &Gt; \nLovelight*']", "[]", "[]", "Free Concert With The Allman Brothers 
+
+* With Gregg & Duane Allman",  "2014-01-23 22:20:39", "1969", "Snockaholic", "07", "07") ;
+#
+# Key: key_99
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-79de893e-5333-4f01-a151-86ac73357fb7", "Grateful Dead", "2", "461",  "07/08/69", "Rock Pile", "Toronto", "On",  "[]", "[]", "[]", "Late Show",  "1996-01-07 00:00:00", "1969", "System", "07", "08") ;
+#
+# Key: key_100
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-56a0e05e-7791-4695-9cc6-e0d9c0aa992a", "Grateful Dead", "2", "462",  "07/08/69", "Rock Pile", "Toronto", "On",  "[]", "[]", "[]", "Early Show",  "1996-01-07 00:00:00", "1969", "System", "07", "08") ;
+#
+# Key: key_101
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-753762f1-b9b6-4020-80bf-a20436b4d0e8", "Grateful Dead", "2", "463",  "07/10/69", "Playboy After Dark", "Los Angeles", "Ca",  "['Mountains Of The Moon', 'St. Stephen', 'Turn On Your Lovelight']", "[]", "[]", "Tv Show - This Is The Broadcast Date; Performance Date For The Show Was 01-18-69",  "2003-07-17 00:00:00", "1969", "Hamilton", "07", "10") ;
+#
+# Key: key_102
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6fbd38ba-8b3d-4957-8192-d3d31e455385", "Grateful Dead", "2", "464",  "07/11/69", "Ny State Pavilion, Flushing Meadows Park", "Queens", "Ny",  "['Dupree&apos;s Diamond Blues', 'Dire Wolf', 'Hard To Handle*', 'Silver Threads And Golden Needles*', 'Casey Jones', 'Sitting On Top Of The World', 'Big Boss Man', 'Mama Tried', 'High Time', 'Alligator-> Drums-> Jam-> The Other One-> Death Don&apos;t Have No Mercy-> Turn On Your Love Light']", "[]", "[]", "*Garcia On Pedal Steel",  "2015-01-22 20:25:24", "1969", "Belikemike", "07", "11") ;
+#
+# Key: key_103
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3a727de4-c91f-43ea-95b2-a4ac5d1ef547", "Grateful Dead", "2", "465",  "07/12/69", "Ny State Pavilion, Flushing Meadows Park", "Queens", "Ny",  "['Green Green Grass Of Home', 'Slewfoot', 'Mountains Of The Moon', 'Doin&apos; That Rag -> China Cat Sunflower -> Mama Tried -> High Time', 'Dark Star -> The Other One -> Saint Stephen -> The Eleven -> Turn On Your Lovelight']", "[]", "[]", "",  "2012-02-25 14:41:43", "1969", "Belikemike", "07", "12") ;
+#
+# Key: key_104
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a8f7f17e-b7d3-4a0d-bafb-d4e1c422e608", "Grateful Dead", "2", "466",  "07/16/69", "Longshoreman&apos;s Hall", "San Francisco", "Ca",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "07", "16") ;
+#
+# Key: key_105
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-14adcde2-bdd4-4cfc-aa9a-9e943ed6f34f", "Grateful Dead", "2", "467",  "08/02/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Casey Jones', 'Hard To Handle', 'Mama Tried', 'High Time', 'Silver Threads', 'Slewfoot', 'I&apos;m A King Bee', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "Greenone", "08", "02") ;
+#
+# Key: key_106
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f031d6b2-98bc-4c6b-98dd-c60e1608b9bb", "Grateful Dead", "2", "468",  "08/03/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Hard To Handle', 'Beat It On Down The Line', 'Hi-Heel Sneakers', 'High Time', 'Mama Tried', 'Dark Star-> Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)-> We Bid You Good Night']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "08", "03") ;
+#
+# Key: key_107
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1e3249fb-dd53-46e5-9caf-a367fecce79d", "Grateful Dead", "2", "198137",  "08/14/69", "Peninsula College Monterey, Ca", "Monterey", "Ca",  "[]", "[]", "[]", "",  "2004-02-12 08:15:28", "1969", "Mikesgroove", "08", "14") ;
+#
+# Key: key_108
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cb518b8a-26fd-4f39-98b6-cb6e3407af0d", "Grateful Dead", "2", "469",  "08/16/69", "Max Yasgur&apos;s Farm", "Bethel", "Ny",  "['Saint Stephen-> Mama Tried', 'Dark Star-> High Time', 'Turn On Your Love Light']", "[]", "[]", "Woodstock Music And Art Fair - Other Artist(S): Canned Heat; Creedence Clearwater Revival Keef Hartley Band; Janis Joplin; Jefferson Airplane; Mountain; Quill; Santana; The Who",  "1996-01-07 00:00:00", "1969", "System", "08", "16") ;
+#
+# Key: key_109
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-958e47f7-2f8c-45cc-b2b3-8a28651dfa3f", "Grateful Dead", "2", "470",  "08/20/69", "Aquatheatre", "Seattle", "Wa",  "['Big Boss Man', 'Sitting On Top Of The World', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Dark Star-> Cosmic Charlie->']", "[]", "[]", "As Of 9/01, <A Href= &quot;Http://Www.Deadlists.Com&quot;>Deadlists.Com</A> Gives No Listing For This Date, And Says Of 8/21/69: &quot;This Tape Often Circulates Labeled &quot;8/20/69&quot; But Bear&apos;s Cassette
+Master Is Labeled 8/21/69.  Charles Lloyd Plays Flute On Minglewood And
+China Cat > Jam.&quot;; Other Artist(S):Nrps; Sanpaku",  "2001-09-13 00:00:00", "1969", "System", "08", "20") ;
+#
+# Key: key_110
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-22937194-685a-4793-8757-a8203774f8d6", "Grateful Dead", "2", "46671",  "08/21/69", "Aqua Theater", "Seattle", "Wa",  "['Casey Jones', 'Easy Wind', 'Morning Dew > High Time > Mama Tried > Me And My Uncle', 'New Minglewood Blues > China Cat Sunflower > Jam >\r\nDoin&apos; That Rag', 'Big Boss Man', 'Sittin On Top Of The World', 'Cryptical Envelopment > Drums  > The Other One > Cryptical Envelopment > Dark Star > Cosmic Charlie']", "[]", "[]", "setlist Courtesy Deadlists.Com As Of 3/04, Which Says: &quot;This Tape Sometimes Circulates Mislabeled &quot;8/21/69&quot;, Because Bear&apos;s Cassette Master Is Labeled 8/21/69, But The Posters For The Show Are Dated 8/20. Charles Lloyd Plays Flute On Minglewood And China Cat &Gt; Jam.&quot;",  "2006-10-02 14:41:12", "1969", "Unkamunka", "08", "21") ;
+#
+# Key: key_111
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1af1c338-b527-411d-8078-4f705823f0b1", "Grateful Dead", "2", "471",  "08/23/69", "Pelletier Farm", "St. Helens", "Or",  "['Hard To Handle\nMama Tried &Gt; \nHigh Time\nCasey Jones\nEasy Wind\nSittin On Top Of The World\nDark Star &Gt; \nSt. Stephen &Gt; \nThe Eleven &Gt;\nLovelight\n\nEncore: \nAnd We Bid You Good Night']", "[]", "[]", "Bullfrog 3 Festival - Other Artist(S): Mixed Blood; The Portland Zoo; Sabatic Goat River, Sand; Notary Sojac; Searchin Soul; The Weeds; New Colony Chapter Five; The Trilogy; Bill Feldman; Donn Ross; Ron Bruce",  "2013-07-04 19:55:57", "1969", "Snockaholic", "08", "23") ;
+#
+# Key: key_112
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9f8a8116-f4bf-4968-92fd-73d32cd28541", "Grateful Dead", "2", "472",  "08/24/69", "Paradise Valley Resort", "Squamish, B.C.", "Ca",  "[]", "[]", "[]", "Vancouver Pop Festival - Other Artist(S): Merryweather; Alice Cooper; Smith; Merrilee Rush; Guess Who; Rotary Connection; Crome Syrcus; Byrds; Rascals; Chambers Brothers",  "1996-01-07 00:00:00", "1969", "System", "08", "24") ;
+#
+# Key: key_113
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9faacd48-7eaf-42b2-a297-8b8dc498b988", "Grateful Dead", "2", "473",  "08/28/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['It&apos;s A Sin', 'Hi-Heeled Sneakers', 'Dark Star > The Eleven Jam > Dark\r\nStar']", "[]", "[]", "Reportedly &quot;Hartbeats&quot;: Garcia, Kreutzmann, Hart, Lesh, And Howard Wales (Keyboards)",  "2001-06-14 00:00:00", "1969", "System", "08", "28") ;
+#
+# Key: key_114
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cbe71b2b-b67b-4c40-9937-39c6dcdf4f79", "Grateful Dead", "2", "474",  "08/29/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['China Cat Sunflower-> Sitting On Top Of The World', 'Dark Star-> Saint Stephen-> The Eleven-> Drums-> High Time-> Cold Rain & Snow']", "['China Cat Sunflower-> Sitting On Top Of The World', 'Dark Star-> Saint Stephen-> The Eleven-> Drums-> High Time-> Cold Rain & Snow']", "[]", "setlist Courtesy Deadlists.Com- See Additional Comments There. Other Artist(S): Nrps; Commander Cody",  "2003-03-17 00:00:00", "1969", "System", "08", "29") ;
+#
+# Key: key_115
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3a460a91-71ac-4008-a60a-ce3447c67aca", "Grateful Dead", "2", "475",  "08/30/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['China Cat Sunflower > Doin&apos; That Rag', 'Morning Dew', 'Easy Wind', 'Dark Star > St. Stephen > The Eleven', 'High Time']", "[]", "[]", "Other Artist(S): Nrps; Commander Cody",  "2001-09-23 00:00:00", "1969", "Hamilton", "08", "30") ;
+#
+# Key: key_116
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-546feccf-0797-4b8f-929d-9a07aafcf020", "Grateful Dead", "2", "476",  "09/01/69", "Baton Rouge Int. Speedway", "Prairieville", "La",  "['(Banter)', 'Casey Jones', 'Morning Dew-> Mama Tried-> High Time', 'Easy Wind', '(Banter)', 'Dark Star-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "[]", "New Orleans Pop Festival",  "2001-12-05 00:00:00", "1969", "Hamilton", "09", "01") ;
+#
+# Key: key_117
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-469e4923-065d-4fbf-8c7c-37dadad1155f", "Grateful Dead", "2", "477",  "09/06/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Good Morning Little School Girl', 'Doin&apos; That Rag', 'He Was A Friend Of Mine', 'Big Boy Pete', 'Good Lovin&apos;', 'It&apos;s All Over Now']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "Stark1", "09", "06") ;
+#
+# Key: key_118
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-dd07f417-5b3b-407b-b173-a130c621f099", "Grateful Dead", "2", "478",  "09/07/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Peggy Sue', 'That&apos;ll Be The Day', 'Johnny B. Goode', 'Peepin & Hidin', 'Wipe Out Jam > Big Rr Blues', 'Louie Louie > Twist & Shout > Blue Moon']", "[]", "[]", "Grateful Dead With Members Of Jefferson Airpane (Definitely Jorma, Jack, And Joey Covington, Who Handles Some Vocals).",  "2001-01-01 00:00:00", "1969", "Diana", "09", "07") ;
+#
+# Key: key_119
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6666d715-8122-4dd3-ad07-517b416e1708", "Grateful Dead", "2", "97466",  "09/11/69", "The Family Dog At The Great Highway (?)", "San Francisco", "Ca",  "['Easy Wind']", "[]", "[]", "W/ Jorma Kaukonen On Slide (?)
+All That Circulates Per Deadlists.Com",  "2002-05-23 11:38:29", "1969", "Dave L", "09", "11") ;
+#
+# Key: key_120
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-d52efb30-ab5d-44d6-b08c-dae87c798a0b", "Grateful Dead", "2", "479",  "09/26/69", "Fillmore East", "New York", "Ny",  "['(Reported Early Show): Dark Star-> Saint Stephen-> The Eleven-> I&apos;m A King Bee-> Death Don&apos;t Have No Mercy']", "['(Reported Early Show): Dark Star-> Saint Stephen-> The Eleven-> I&apos;m A King Bee-> Death Don&apos;t Have No Mercy']", "[]", "Other Artists On Bill: Country Joe & The Fish- Gd; Sha Na Na; See Deadlists.Com For Setlist Notes- Late Show Apparently Not In Circulation",  "1996-01-07 00:00:00", "1969", "Hamilton", "09", "26") ;
+#
+# Key: key_121
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-14220b6b-49d6-4658-a229-20dd481bb99d", "Grateful Dead", "2", "481",  "09/27/69", "Fillmore East (Late)", "New York", "Ny",  "['Mama Tried', 'Good Morning Little School Girl']", "[]", "[]", "Other Artist(S): Country Joe & The Fish- Gd; Sha Na Na",  "2001-12-22 00:00:00", "1969", "Hamilton", "09", "27") ;
+#
+# Key: key_122
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6a08dfbe-d918-4852-8f01-276a6147162a", "Grateful Dead", "2", "482",  "09/27/69", "Fillmore East (Early)", "New York", "Ny",  "['Morning Dew', 'Mama Tried', 'Next Time You See Me', 'Casey Jones', 'China Cat Sunflower-> High Time', 'Dire Wolf', 'Me & My Uncle', 'Uncle John&apos;s Band Jam']", "[]", "[]", "&quot;Take Me Out To The Ball Game&quot; Tuning After Uncle John&apos;s Jam Other Artist(S): Country Joe & The Fish- Gd; Sha Na Na",  "2004-09-05 14:42:15", "1969", "Hamilton", "09", "27") ;
+#
+# Key: key_123
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-bdb8f43d-b0c5-4d36-ad62-95e43aa94f4f", "Grateful Dead", "2", "483",  "09/29/69", "Cafe Au Go-Go", "New York", "Ny",  "[]", "[]", "[]", "Early Show",  "2004-09-05 00:00:00", "1969", "Hamilton", "09", "29") ;
+#
+# Key: key_124
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2fa49b23-456a-472c-a07a-78c51fbf9951", "Grateful Dead", "2", "484",  "09/29/69", "Cafe Au Go-Go", "New York", "Ny",  "['Doin&apos; That Rag-> The Seven-> Good Lovin&apos;-> Drums-> Good Lovin&apos;-> Saint Stephen-> The Eleven']", "[]", "[]", "&apos;merry-Go-Round Broke Down-> Take Me Out To The Ballgame Tuning Before Alligator May Be From One Of The Other Two Nights",  "1996-01-07 00:00:00", "1969", "Hamilton", "09", "29") ;
+#
+# Key: key_125
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c1310b8c-4d39-4bb7-9144-9c1b9f408aa7", "Grateful Dead", "2", "485",  "09/30/69", "Cafe Au Go-Go", "New York", "Ny",  "[]", "[]", "[]", "Early Show",  "2004-09-05 00:00:00", "1969", "Hamilton", "09", "30") ;
+#
+# Key: key_126
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a6921d75-b1e0-4f95-94da-6fdadb44e246", "Grateful Dead", "2", "486",  "09/30/69", "Cafe Au Go-Go", "New York", "Ny",  "['China Cat Sunflower-> I Know You Rider', 'Alligator-> Drums-> The Other One']", "[]", "[]", "Late Show; Merry-Go-Round Broke Down-> Take Me Out To The Ballgame Tuning Before Alligator May Be From One Of The Other Two Nights",  "2004-09-05 15:34:10", "1969", "Hamilton", "09", "30") ;
+#
+# Key: key_127
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-7a93d644-0add-46d3-aacb-80d2d11fb514", "Grateful Dead", "2", "487",  "10/01/69", "Cafe Au Go-Go", "New York", "Ny",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "Hamilton", "10", "01") ;
+#
+# Key: key_128
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-83b3b28e-181e-48b3-ad38-b4e2b8841f59", "Grateful Dead", "2", "489",  "10/02/69", "Boston Tea Party", "Boston", "Ma",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "02") ;
+#
+# Key: key_129
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-209deac1-53db-421b-8096-bff23494ee43", "Grateful Dead", "2", "490",  "10/03/69", "Boston Tea Party", "Boston", "Ma",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "03") ;
+#
+# Key: key_130
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2344ad8b-130a-45da-bbdc-11e13d1e7bc1", "Grateful Dead", "2", "491",  "10/04/69", "Boston Tea Party", "Boston", "Ma",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "04") ;
+#
+# Key: key_131
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4c0c1a5e-5ccc-4c73-8c43-7bddc9587769", "Grateful Dead", "2", "492",  "10/06/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "06") ;
+#
+# Key: key_132
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4cfd0111-7ecc-4f9c-9443-3f826ab927ab", "Grateful Dead", "2", "493",  "10/17/69", "Unknown Location", "San Jose", "Ca",  "[]", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "17") ;
+#
+# Key: key_133
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-ef850d22-903d-4190-9618-8a7753657555", "Grateful Dead", "2", "494",  "10/24/69", "Winterland Arena", "San Francisco", "Ca",  "['Casey Jones', 'Dire Wolf', 'High Time', 'Hard To Handle', 'China Cat Sunflower-> I Know You Rider', 'Easy Wind', 'Cryptical Envelopment-> Drums-> The Other One-> Cryptical Envelopment-> Cosmic Charlie', 'Mama Tried', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;']", "[]", "[]", "Other Artists On Bill: Jefferson Airplane, Sons Of Champlin, Hot Tuna",  "2002-05-23 00:00:00", "1969", "Diana", "10", "24") ;
+#
+# Key: key_134
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4b1e81c0-ab17-4c43-adef-2c4afb542fa5", "Grateful Dead", "2", "495",  "10/25/69", "Winterland Arena", "San Francisco", "Ca",  "['Good Lovin&apos; &Gt; Drums &Gt; Good Lovin&apos;', 'Me And My Uncle', 'China Cat Sunflower &Gt; I Know You Rider', 'Casey Jones', 'High Time', 'Dark Star &Gt; Saint Stephen &Gt; The Eleven &Gt; Turn On Your Love Light*']", "[]", "[]", "* - W/ Stephen Stills",  "2008-06-28 13:50:13", "1969", "Sofia", "10", "25") ;
+#
+# Key: key_135
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3f3504d5-d35f-44f4-a015-8143445c2f4c", "Grateful Dead", "2", "496",  "10/26/69", "Winterland Arena", "San Francisco", "Ca",  "['Hard To Handle', 'Cold Rain & Snow', 'Me & My Uncle', 'Next Time You See Me', 'Dire Wolf', 'Casey Jones', 'I&apos;m A King Bee', 'Beat It On Down The Line', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'Doin&apos; That Rag', 'China Cat Sunflower-> I Know You Rider', 'It&apos;s All Over Now Baby Blue']", "[]", "[]", "Other Artist(S): Jefferson Airplane, Gd; Sons Of Champlin; Hot Tuna",  "1996-01-07 00:00:00", "1969", "System", "10", "26") ;
+#
+# Key: key_136
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-787579d7-b405-430e-9a6e-451855f7ad2c", "Grateful Dead", "2", "226527",  "10/28/69", "2400 Fulton Street", "San Francisco", "Ca",  "['Been All Around This World', 'Big Boss Man', 'Jam (Stormy Monday Theme)', 'Slow Blues', 'Jam', 'Jam']", "[]", "[]", "Jerry Garcia, Jorma, Jack Cassady, Spencer Dryden",  "2006-06-11 00:00:00", "1969", "Greenone", "10", "28") ;
+#
+# Key: key_137
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-fe46eb2c-d03a-4cf0-a667-c2d2aea58bda", "Grateful Dead", "2", "497",  "10/31/69", "San Jose State University", "San Jose", "Ca",  "['Casey Jones', 'Dire Wolf', 'It Hurts Me Too', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement', 'China Cat Sunflower-> I Know You Rider', 'Mama Tried', 'High Time', 'Sitting On Top Of The World', 'Next Time You See Me-> Easy Wind', 'Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "10", "31") ;
+#
+# Key: key_138
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-11a19f22-7b8e-41e6-b898-1493c6215c22", "Grateful Dead", "2", "498",  "11/01/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Morning Dew', 'Dire Wolf', 'Cold Rain & Snow', 'Hard To Handle', 'Mama Tried', 'High Time', 'Next Time You See Me', 'Casey Jones', 'He Was A Friend Of Mine', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'Easy Wind', 'China Cat Sunflower-> I Know You Rider', 'Alligator-> Drums-> Turn On Your Love Light']", "[]", "[]", "Other Artist(S): Danny Cox, Golden Toad",  "1996-01-07 00:00:00", "1969", "System", "11", "01") ;
+#
+# Key: key_139
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4270d5ed-d673-42ef-9d24-ac72c73b7c50", "Grateful Dead", "2", "499",  "11/02/69", "Family Dog At The Great Highway", "San Francisco", "Ca",  "['Cold Rain And Snow', 'Midnight Hour', 'Seasons', 'Mama Tried', 'Next Time You See Me', 'Good Lovin', 'Big Boss Man', 'Casey Jones', 'Dancin In The Streets', 'Dark Star > St. Stephen > The Eleven > Death Don&apos;t Have No Mercy']", "[]", "[]", "Other Artist(S): Danny Cox, Golden Toad; 
+Setlist Courtesy Deadlists.Com",  "2000-12-30 00:00:00", "1969", "System", "11", "02") ;
+#
+# Key: key_140
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-37e2b66c-6fd1-4d66-969f-5572f671578a", "Grateful Dead", "2", "198138",  "11/04/69", "San Francisco,Ca", "San Francisco", "Ca",  "[]", "[]", "[]", "",  "2004-02-12 08:16:35", "1969", "Mikesgroove", "11", "04") ;
+#
+# Key: key_141
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-27bd9478-cc3c-4b2d-9ef1-1942b2701593", "Grateful Dead", "2", "500",  "11/07/69", "Fillmore Auditorium", "San Francisco", "Ca",  "['Morning Dew', 'Hard To Handle', 'Casey Jones', 'Mama Tried', 'Me & My Uncle', 'Cold Rain & Snow', 'Next Time You See Me', 'High Time', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'China Cat Sunflower-> I Know You Rider', 'Dark Star-> Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Turn On Your Love Light']", "[]", "[]", "&apos;star Spangled Banner&apos;, &apos;merry-Go-Round Brokedown&apos;, &apos;take Me Out To The Ballgame&apos; Tuning Before Cold Rain The New Old Fillmore - Other Artist(S): South Bay Experimental Flash; Alligator",  "1996-01-07 00:00:00", "1969", "System", "11", "07") ;
+#
+# Key: key_142
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5f20eb27-22a4-450f-865a-542a55d019c3", "Grateful Dead", "2", "501",  "11/08/69", "Fillmore Auditorium", "San Francisco", "Ca",  "['Good Morning Little School Girl\nCasey Jones\nDire Wolf\nEasy Wind\nChina Cat Sunflower\nI Know You Rider\nHigh Time \nMama Tried \nGood Lovin&apos;\nDrums\nGood Lovin&apos; \nCumberland Blues']", "['Good Morning Little School Girl\nCasey Jones\nDire Wolf\nEasy Wind\nChina Cat Sunflower\nI Know You Rider\nHigh Time \nMama Tried \nGood Lovin&apos;\nDrums\nGood Lovin&apos; \nCumberland Blues']", "[]", "The New Old Fillmore",  "2012-01-16 01:40:00", "1969", "Loudav", "11", "08") ;
+#
+# Key: key_143
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1c143bbc-b631-419e-a9cb-7fbb851298c1", "Grateful Dead", "2", "502",  "11/15/69", "Lanai Theater", "Crockett", "Ca",  "['Casey Jones', 'Me & My Uncle', 'Easy Wind', 'Cumberland Blues-&Gt; China Cat Sunflower-&Gt; I Know You Rider', 'High Time', 'Next Time You See Me', 'Mama Tried', 'Big Boss Man', 'Cosmic Charlie', 'Dire Wolf', 'Cold Rain & Snow']", "['Casey Jones', 'Me & My Uncle', 'Easy Wind', 'Cumberland Blues-&Gt; China Cat Sunflower-&Gt; I Know You Rider', 'High Time', 'Next Time You See Me', 'Mama Tried', 'Big Boss Man', 'Cosmic Charlie', 'Dire Wolf', 'Cold Rain & Snow']", "[]", "Moratorium Day Benefit",  "2007-04-06 14:31:50", "1969", "Rcdupre", "11", "15") ;
+#
+# Key: key_144
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a8e589da-28e0-4dfd-9a32-fdfe0735cc4d", "Grateful Dead", "2", "503",  "11/21/69", "Cal Expo, Building A", "Sacramento", "Ca",  "['Casey Jones', 'Good Morning Little School Girl', 'Cold Rain & Snow', 'Cumberland Blues', 'Easy Wind']", "['Casey Jones', 'Good Morning Little School Girl', 'Cold Rain & Snow', 'Cumberland Blues', 'Easy Wind']", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "11", "21") ;
+#
+# Key: key_145
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-7c3d47ec-bf55-466c-a21b-828738dc71ac", "Grateful Dead", "2", "504",  "12/04/69", "Fillmore West", "San Francisco", "Ca",  "['Casey Jones', 'Black Peter', 'Big Boss Man', 'Me & My Uncle', 'Cumberland Blues', 'Dire Wolf', 'Dark Star-> High Time', 'Good Morning Little School Girl', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'China Cat Sunflower-> I Know You Rider', 'Uncle John&apos;s Band']", "[]", "[]", "Other Artist(S): Gd; Flock; Humble Pie",  "1996-01-07 00:00:00", "1969", "System", "12", "04") ;
+#
+# Key: key_146
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-94276c81-de34-4388-84f7-27d8615f4f53", "Grateful Dead", "2", "505",  "12/05/69", "Fillmore West", "San Francisco", "Ca",  "['Me & My Uncle', 'Casey Jones', 'Black Peter', 'Mama Tried', 'It Hurts Me Too', 'Cumberland Blues', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie', 'Dancin&apos; In The Streets', 'Dire Wolf', 'China Cat Sunflower-> I Know You Rider-> High Time', 'Uncle John&apos;s Band', 'The Main Ten-> It&apos;s All Over Now Baby Blue']", "[]", "[]", "&apos;carnival Music&apos; Tuning Before &apos;dire Wolf&apos; - Often Found On Tapes Labeled As 12-06-69 Other Artist(S): Gd; Flock; Humble Pie",  "1996-01-07 00:00:00", "1969", "System", "12", "05") ;
+#
+# Key: key_147
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2da22c76-0816-481e-a6de-83f72eaa0800", "Grateful Dead", "2", "506",  "12/07/69", "Fillmore West", "San Francisco", "Ca",  "['Black Peter', 'Hard To Handle', 'Cumberland Blues', 'Mama Tried-> Easy Wind', 'Dancin&apos; In The Streets', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'China Cat Sunflower-> I Know You Rider-> Saint Stephen-> The Eleven-> Turn On Your Love Light']", "[]", "[]", "Other Artist(S): Gd; Flock; Humble Pie",  "1996-01-07 00:00:00", "1969", "System", "12", "07") ;
+#
+# Key: key_148
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-178f6a32-93cd-4770-b3d8-e1641f494a22", "Grateful Dead", "2", "507",  "12/10/69", "Thelma Theater", "Los Angeles", "Ca",  "['China Cat Sunflower &Gt; I Know You Rider', 'Black Peter', 'Me And My Uncle', 'Cold Rain And Snow', 'Mama Tried &Gt; High Time', 'Easy Wind', 'Dire Wolf', 'Casey Jones*', 'Good Morning Little School Girl*', 'Morning Dew*', 'Black Queen^ &Gt; Turn On Your Love Light*\n\nE: Cryptical Envelopment &Gt; Drums &Gt; The Other One &Gt; Cryptical Envelopment &Gt; Cosmic Charlie']", "[]", "[]", "* - W/ Stephen Stills On Guitar
+^ - W/ Stephen Stills On Vocals",  "2008-06-28 13:53:49", "1969", "Sofia", "12", "10") ;
+#
+# Key: key_149
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-00a1d93d-0138-447b-be39-9bfab6e51cb7", "Grateful Dead", "2", "508",  "12/11/69", "Thelma Theater", "Los Angeles", "Ca",  "['Introduction', 'Casey Jones', 'Cold Rain And Snow', 'Mama Tried', '(T.C. Plays Bach)', 'Yellow Dog Story', 'Dire Wolf', 'It Hurts Me Too', 'China Cat Sunflower > Jam > I Know You Rider', 'Black Peter > Me And My Uncle', 'Hard To Handle', 'Dark Star > St. Stephen > The Eleven > Cumberland Blues']", "['Introduction', 'Casey Jones', 'Cold Rain And Snow', 'Mama Tried', '(T.C. Plays Bach)', 'Yellow Dog Story', 'Dire Wolf', 'It Hurts Me Too', 'China Cat Sunflower > Jam > I Know You Rider', 'Black Peter > Me And My Uncle', 'Hard To Handle', 'Dark Star > St. Stephen > The Eleven > Cumberland Blues']", "[]", "Portions May Circulate Mislabled: See Deadlists.Com 1969 Thelma Theater Listings For Examples",  "2004-09-05 14:58:09", "1969", "Hamilton", "12", "11") ;
+#
+# Key: key_150
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c91d8f2c-0290-4fa6-8f6f-1c514db0f03f", "Grateful Dead", "2", "509",  "12/12/69", "Thelma Theater", "Los Angeles", "Ca",  "['Cold Rain & Snow', 'Me & My Uncle', 'Easy Wind', 'Cumberland Blues', 'Black Peter', 'Next Time You See Me', 'China Cat Sunflower-> I Know You Rider', 'Turn On Your Love Light', 'Hard To Handle', 'Casey Jones', 'Mama Tried-> High Time', 'Dire Wolf', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;-> I&apos;m A King Bee', 'Uncle John&apos;s Band', 'He Was A Friend Of Mine', 'Alligator-> Drums-> Alligator-> Caution (Do Not Stop On Tracks)-> We Bid You Good Night']", "[]", "[]", "&quot;We Bid You Goodnight&quot; Theme During &quot;Alligator&quot;",  "2000-08-04 00:00:00", "1969", "System", "12", "12") ;
+#
+# Key: key_151
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-38240918-30a2-47f9-9365-0e093e31870e", "Grateful Dead", "2", "510",  "12/13/69", "Swing Auditorium", "San Bernardino", "Ca",  "['Casey Jones', 'Hard To Handle', 'Black Peter', 'Mama Tried-> China Cat Sunflower-> I Know You Rider', 'High Time', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;-> Cumberland Blues', 'Saint Stephen-> Turn On Your Love Light']", "[]", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "12", "13") ;
+#
+# Key: key_152
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-45eb66cd-0b72-4ce0-8a90-2109aa8206dc", "Grateful Dead", "2", "511",  "12/19/69", "Fillmore Auditorium", "San Francisco", "Ca",  "['Monkey & The Engineer', 'Little Sadie', 'Long Black Limousine', 'I&apos;ve Been All Around This World']", "['Monkey & The Engineer', 'Little Sadie', 'Long Black Limousine', 'I&apos;ve Been All Around This World']", "[]", "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes First Set Acoustic",  "1996-01-07 00:00:00", "1969", "System", "12", "19") ;
+#
+# Key: key_153
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9f016572-d03f-40bb-bf3d-1fef4fc2eae7", "Grateful Dead", "2", "512",  "12/20/69", "Fillmore Auditorium", "San Francisco", "Ca",  "['Mason&apos;s Children', 'China Cat Sunflower-> I Know You Rider', 'High Time', 'Me & My Uncle', 'Hard To Handle', 'Cumberland Blues', 'Black Peter']", "['Mason&apos;s Children', 'China Cat Sunflower-> I Know You Rider', 'High Time', 'Me & My Uncle', 'Hard To Handle', 'Cumberland Blues', 'Black Peter']", "[]", "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes",  "1996-01-07 00:00:00", "1969", "System", "12", "20") ;
+#
+# Key: key_154
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-7edbe661-0614-4622-8031-1ec00dc5eb30", "Grateful Dead", "2", "513",  "12/21/69", "Fillmore Auditorium", "San Francisco", "Ca",  "['Smokestack Lightning', 'New Speedway Boogie', 'Mama Tried', 'Dire Wolf', 'Mason&apos;s Children']", "['Smokestack Lightning', 'New Speedway Boogie', 'Mama Tried', 'Dire Wolf', 'Mason&apos;s Children']", "[]", "New Old Fillmore - Other Artist(S): Osceola; Rhythm Dukes",  "1996-01-07 00:00:00", "1969", "System", "12", "21") ;
+#
+# Key: key_155
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-829b0ab5-f482-41c6-a1b3-b1e2355dd663", "Grateful Dead", "2", "514",  "12/26/69", "Mcfarlin Auditorium, Southern Methodist Univ.", "Dallas", "Tx",  "['The Monkey & The Engineer', 'Little Sadie', 'Long Black Limousine', 'I&apos;ve Been All Around This World', 'Gathering Flowers For The Master&apos;s Bouquet', 'Black Peter', 'Uncle John&apos;s Band']", "['The Monkey & The Engineer', 'Little Sadie', 'Long Black Limousine', 'I&apos;ve Been All Around This World', 'Gathering Flowers For The Master&apos;s Bouquet', 'Black Peter', 'Uncle John&apos;s Band']", "[]", "Zephyr Opened - First Set Acoustic Without Bill",  "2010-07-07 12:10:46", "1969", "Musicnevstopped", "12", "26") ;
+#
+# Key: key_156
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-778ef72a-476f-405b-96a2-c927d584928e", "Grateful Dead", "2", "515",  "12/28/69", "International Speedway", "Hollywood", "Fl",  "['Black Peter', 'Me & My Uncle', 'China Cat Sunflower-> I Know You Rider-> High Time', 'Cumberland Blues', 'Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'Cold Rain & Snow', 'Hard To Handle', 'Mason&apos;s Children', 'Turn On Your Love Light']", "[]", "[]", "&apos;merry-Go-Round Broke Down&apos; Tuning Before &apos;seasons",  "1996-01-07 00:00:00", "1969", "System", "12", "28") ;
+#
+# Key: key_157
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-70037465-7647-4791-b8fa-8af8fc703977", "Grateful Dead", "2", "516",  "12/29/69", "Boston Tea Party", "Boston", "Ma",  "['Cold Rain And Snow', 'Mama Tried', 'Black Peter', 'Easy Wind', 'Me & My Uncle', 'China Cat Sunflower-> I Know You Rider-> High Time', 'Hard To Handle', 'Mason&apos;s Children']", "['Cold Rain And Snow', 'Mama Tried', 'Black Peter', 'Easy Wind', 'Me & My Uncle', 'China Cat Sunflower-> I Know You Rider-> High Time', 'Hard To Handle', 'Mason&apos;s Children']", "[]", "",  "2003-06-29 00:00:00", "1969", "Hamilton", "12", "29") ;
+#
+# Key: key_158
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b5bfee03-8353-4bb2-80b1-cf0db5dfcde6", "Grateful Dead", "2", "517",  "12/30/69", "Boston Tea Party", "Boston", "Ma",  "['Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'Mama Tried', 'New Speedway Boogie', 'Casey Jones', 'Black Peter', 'Me & My Uncle', 'Midnight Hour', 'Cumberland Blues', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie']", "['Good Lovin&apos;-> Drums-> Good Lovin&apos;', 'Mama Tried', 'New Speedway Boogie', 'Casey Jones', 'Black Peter', 'Me & My Uncle', 'Midnight Hour', 'Cumberland Blues', 'Cryptical Envelopement-> Drums-> The Other One-> Cryptical Envelopement-> Cosmic Charlie']", "[]", "",  "1996-01-07 00:00:00", "1969", "System", "12", "30") ;
+#
+# Key: key_159
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cb1a7e24-681d-4010-bcc6-da07f144e507", "Grateful Dead", "2", "518",  "12/31/69", "Boston Tea Party", "Boston", "Ma",  "['China Cat Sunflower-> Jam-> I Know You Rider', 'Mama Tried', 'Next Time You See Me', 'Cold Rain & Snow', 'Black Peter', 'Hard To Handle', 'Me & My Uncle', 'Mason&apos;s Children', 'Dire Wolf', 'Uncle John&apos;s Band']", "['China Cat Sunflower-> Jam-> I Know You Rider', 'Mama Tried', 'Next Time You See Me', 'Cold Rain & Snow', 'Black Peter', 'Hard To Handle', 'Me & My Uncle', 'Mason&apos;s Children', 'Dire Wolf', 'Uncle John&apos;s Band']", "[]", "Before The Second Set Jerry Says, &quot;Well, Looks Like The 70&apos;s Gonna Be Weird&quot;; The Jam Following The First Alligator Hints At Gdtrfb; User Also Submitted, &quot;The Pause After Nfa Contains A Merry-Go-Round Tuning And A Dark Star Tease.&quot; While Prev Notes Here Said, Merry-Go-Round Broke Down Tuning Before Seasons",  "2003-02-17 00:00:00", "1969", "Hamilton", "12", "31") ;
+#
+# Key: key_160
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6866b2ee-9bd5-46c7-a5d6-9c343de56b7d", "Grateful Dead", "2", "104278",  "??/??/69", "Home Recordings", "San Francisco", "Ca",  "['Friend Of The Devil  (With Other Lyrics And John &quot;Marmaduke&quot; Dawson Singing Lead)\r\nTrumpet Solo - Robert Hunter?\r\nDead Or Alive  (Robert Hunter Vocal', 'Undocumented Song)\r\nTrain Song  (Robert Hunter Vocal', 'Undocumented Song)\r\nNo Eggs Today  (Robert Hunter Vocal', 'Undocumented Song)\r\nJam - &quot;Feeling Groovy&quot; And Uncle John&apos;s Band Riffs\r\nUncle John&apos;s Band Jam\r\n...Baby Crying?...\r\nUnidentified Guitar/ End Of Tape.']", "[]", "[]", "Gd - Home Recordings, Summer, 1969, Aud (Portable Recorder And Cheap Mic)",  "2012-01-16 14:17:13", "1969", "Hamilton", "??", "??") ;
+#
+# Key: key_161
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-92619efa-1d1f-4d2e-ae25-992dcb6d57cf", "Grateful Dead", "2", "224534",  "??/??/69", "Pacific Recording Studios", "San Mateo", "Ca",  "['St. Stephen (4:27)\nDupree&apos;s Diamond Blues (3:41)\nRosemary (2:05)\nDoin&apos; That Rag (5:15)\nMountains Of The Moon (4:11)\nChina Cat Sunflower (4:15)\nWhat&apos;s Become Of The Baby? (8:28)\nCosmic Charlie (5:43)']", "[]", "[]", "Original Vinyl Lp Mix (Never Released On Cd!)",  "2006-09-23 11:42:52", "1969", "Jimvanhouten", "??", "??") ;
+#
+# Key: key_162
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-72fb688a-57db-4755-a156-3a3a1acaa226", "Grateful Dead", "2", "324797",  "??/??/69", "Aoxomoxoa Live", "Compilation", "Various",  "['St. Stephen  68-10-12\r\nDupree&apos;s Diamond Blues  69-02-15\r\nRosemary  68-12-07\r\nDoin&apos; That Rag  69-06-07\r\nMountains Of The Moon  69-02-15\r\nChina Cat Sunflower 69-04-05\r\nWhat&apos;s Become Of The Baby  69-04-26\r\nCosmic Charlie 69-06-05']", "[]", "[]", "Released In June 1969
+
+The Recording Of Rosemary Is Not That Great But This Was The Only Time That It Was Performed Live.
+This, Also, Is The Only Live Version Of What&apos;s Become Of The Baby.",  "2006-10-02 07:43:27", "1969", "Wharfrat73", "??", "??") ;

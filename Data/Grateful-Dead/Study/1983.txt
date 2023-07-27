@@ -1,0 +1,307 @@
+
+Year: 1983
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b6379d8c-d4a7-4348-81d6-83959045bb82", "Grateful Dead", "2", "186500",  "01/24/83", "Stone House Studio", "Novato", "CA",  "['Jams', 'Hell In A Bucket']", "[]", "[]", "rehearsal session",  "2010-06-20 12:53:52", "1983", "MusicNevStopped", "01", "24") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b390428b-45af-4b59-8712-3cc45a536413", "Grateful Dead", "2", "186501",  "01/31/83", "Stone House Studio", "Novato", "CA",  "['rehearsing the Robert Hunter penned &quot;Molly Dee&quot;']", "[]", "[]", "",  "2010-06-20 12:54:34", "1983", "MusicNevStopped", "01", "31") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-e7723f84-8ad5-4414-8d80-0267654b33ee", "Grateful Dead", "2", "186502",  "02/01/83", "Stone House Studio", "Novato", "CA",  "['North By Northeast', 'Northeast By West', 'UFO']", "[]", "[]", "rehearsal session",  "2010-06-20 12:53:09", "1983", "MusicNevStopped", "02", "01") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5726afe9-4105-4689-bfec-e0c4e35a52ed", "Grateful Dead", "2", "186503",  "02/06/83", "Stone House Studio", "Novato", "CA",  "['Victory rehearsals']", "[]", "[]", "",  "2010-06-20 12:52:52", "1983", "MusicNevStopped", "02", "06") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-fd0472f7-0ec0-40f8-ac1c-4e63521ab794", "Grateful Dead", "2", "1455",  "03/02/83", "San Francisco Civic Auditorium", "San Francisco", "CA",  "['Wake Up Little Susie-> Deep Elem Blues', 'Mexicali Blues', 'Oh Boy']", "[]", "[]", "Garcia and Weir at the Bay Area Music Awards BAMMIES",  "1996-01-07 00:00:00", "1983", "system", "03", "02") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-69c28097-3b68-43e0-bebe-722659863b7d", "Grateful Dead", "2", "186504",  "03/14/83", "Club Front - Rehearsals", "San Rafael", "CA",  "['Help>Slip>Franklin&apos;s', 'Brother Esau']", "[]", "[]", "",  "2003-12-10 13:57:41", "1983", "flyerfanatic", "03", "14") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9979c590-cffd-4946-a824-d3cd2435f4c0", "Grateful Dead", "2", "1456",  "03/25/83", "Compton Terrace Amphitheatre", "Tempe", "AZ",  "['Cold Rain & Snow', 'Minglewood Blues', 'Dire Wolf', 'My Brother Esau', 'Big Railroad Blues', 'Me & My Uncle-> Big River', 'Tennessee Jed-> Let It Grow']", "['Cold Rain & Snow', 'Minglewood Blues', 'Dire Wolf', 'My Brother Esau', 'Big Railroad Blues', 'Me & My Uncle-> Big River', 'Tennessee Jed-> Let It Grow']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "03", "25") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-c313d7bb-d991-4b30-8c87-e9c6dc4ae33a", "Grateful Dead", "2", "1457",  "03/26/83", "Aladdin Theater", "Las Vegas", "NV",  "['Jack Straw', 'Friend Of The Devil', 'Little Red Rooster', 'Brown Eyed Women', 'Mama Tried-> Mexicali Blues', 'Althea', 'My Brother Esau', 'Deal-> Promised Land']", "['Jack Straw', 'Friend Of The Devil', 'Little Red Rooster', 'Brown Eyed Women', 'Mama Tried-> Mexicali Blues', 'Althea', 'My Brother Esau', 'Deal-> Promised Land']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "03", "26") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cd294c1d-5258-4e15-9c37-b32e72dd0f07", "Grateful Dead", "2", "1458",  "03/27/83", "Irvine Meadows", "Irvine", "CA",  "['Shakedown Street', 'Minglewood Blues-> They Love Each Other', 'Cassidy', 'Loser', 'My Brother Esau-> Deal']", "['Shakedown Street', 'Minglewood Blues-> They Love Each Other', 'Cassidy', 'Loser', 'My Brother Esau-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "03", "27") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-45b5e4f8-addc-48a7-93df-1300f8187dbc", "Grateful Dead", "2", "1459",  "03/29/83", "Warfield Theater", "San Francisco", "CA",  "['Jack Straw', 'Bird Song', 'Little Red Rooster', 'Ramble On Rose', 'It&apos;s All Over Now', 'Candyman', 'My Brother Esau', 'Big Railroad Blues-> Greatest Story']", "['Jack Straw', 'Bird Song', 'Little Red Rooster', 'Ramble On Rose', 'It&apos;s All Over Now', 'Candyman', 'My Brother Esau', 'Big Railroad Blues-> Greatest Story']", "[]", "Benefit Concert",  "1996-01-07 00:00:00", "1983", "system", "03", "29") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-db8cb51f-4d83-4469-b9b9-8087501f9e32", "Grateful Dead", "2", "1460",  "03/30/83", "Warfield Theater", "San Francisco", "CA",  "['Bertha-> Promised Land', 'Dire Wolf', 'Cassidy', 'Peggy-O', 'Mama Tried-> Mexicali Blues', 'It Must Have Been The Roses', 'Minglewood Blues', 'China Cat Sunflower-> I Know You Rider']", "['Bertha-> Promised Land', 'Dire Wolf', 'Cassidy', 'Peggy-O', 'Mama Tried-> Mexicali Blues', 'It Must Have Been The Roses', 'Minglewood Blues', 'China Cat Sunflower-> I Know You Rider']", "[]", "Benefit Concert",  "1996-01-07 00:00:00", "1983", "system", "03", "30") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6f3ad572-ba4d-4d44-9bed-7e49449ef59d", "Grateful Dead", "2", "1461",  "03/31/83", "Warfield Theater", "San Francisco", "CA",  "['Feel Like A Stranger', 'Friend Of The Devil-> Little Red Rooster', 'Dupree&apos;s Diamond Blues', 'Me & My Uncle-> Big River', 'West L.A. Fadeaway', 'My Brother Esau', 'Don&apos;t Ease Me In']", "['Feel Like A Stranger', 'Friend Of The Devil-> Little Red Rooster', 'Dupree&apos;s Diamond Blues', 'Me & My Uncle-> Big River', 'West L.A. Fadeaway', 'My Brother Esau', 'Don&apos;t Ease Me In']", "[]", "Benefit Concert",  "1996-01-07 00:00:00", "1983", "system", "03", "31") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f7335101-6c0d-47a1-8a92-4d7955c1a007", "Grateful Dead", "2", "177363",  "04/08/83", "Dan Akroyd&apos;s Bar", "New York", "NY",  "['Jam?', 'Bottom?', 'Superstitious?', 'Under My Thumb', 'Schoolgirl', '?', '?', '?', 'Jam?', 'Jam?']", "[]", "[]", "Weir, Kruetzman, Gravenites, Cipollina",  "2004-09-06 00:00:00", "1983", "mvernon", "04", "08") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-e6d6d53a-501a-482c-adbf-4569cc78a8f5", "Grateful Dead", "2", "1462",  "04/09/83", "Hampton Coliseum", "Hampton", "VA",  "['Bertha-> Promised Land', 'West L.A. Fadeaway', 'My Brother Esau', 'Candyman', 'Minglewood Blues', 'Brown Eyed Women> Looks Like Rain', 'China Cat Sunflower> I Know You Rider']", "['Bertha-> Promised Land', 'West L.A. Fadeaway', 'My Brother Esau', 'Candyman', 'Minglewood Blues', 'Brown Eyed Women> Looks Like Rain', 'China Cat Sunflower> I Know You Rider']", "[]", "",  "2003-04-04 00:00:00", "1983", "hamilton", "04", "09") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-4f730f8e-fd21-474b-ad4c-cc09ab107e94", "Grateful Dead", "2", "1463",  "04/10/83", "West Virginia University Coliseum", "Morgantown", "WV",  "['Samson & Delilah', 'Friend Of The Devil', 'Me & My Uncle &gt; Mexicali Blues', 'Althea', 'Little Red Rooster', 'Tennessee Jed', 'My Brother Esau', 'Might As Well']", "['Samson & Delilah', 'Friend Of The Devil', 'Me & My Uncle &gt; Mexicali Blues', 'Althea', 'Little Red Rooster', 'Tennessee Jed', 'My Brother Esau', 'Might As Well']", "[]", "",  "2007-04-27 21:32:29", "1983", "uncle_duke77", "04", "10") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-fcac8865-5c66-4257-ab9e-27c8a84f6ddf", "Grateful Dead", "2", "1464",  "04/12/83", "Broome County Arena", "Binghamton", "NY",  "['Alabama Getaway-> Keep On Growing', 'Bird Song', 'Minglewood Blues', 'Peggy-O', 'Cassidy', 'Loser', 'It&apos;s All Over Now', 'Dupree&apos;s Diamond Blues', 'Let It Grow']", "['Alabama Getaway-> Keep On Growing', 'Bird Song', 'Minglewood Blues', 'Peggy-O', 'Cassidy', 'Loser', 'It&apos;s All Over Now', 'Dupree&apos;s Diamond Blues', 'Let It Grow']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "12") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2c6aee00-edda-4f57-936a-a21be795d7f2", "Grateful Dead", "2", "1465",  "04/13/83", "Patrick Gymnasium, U of Vermont", "Burlington", "VT",  "['Jack Straw', 'They Love Each Other', 'Beat It On Down The Line', 'West L.A. Fadeaway', 'Mama Tried-> Cumberland Blues', 'Ramble On Rose', 'Far From Me', 'My Brother Esau', 'Might As Well']", "['Jack Straw', 'They Love Each Other', 'Beat It On Down The Line', 'West L.A. Fadeaway', 'Mama Tried-> Cumberland Blues', 'Ramble On Rose', 'Far From Me', 'My Brother Esau', 'Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "hamilton", "04", "13") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6c173140-cf1e-45ae-a967-6e69028e3275", "Grateful Dead", "2", "1466",  "04/15/83", "Community War Memorial Auditorium", "Rochester", "NY",  "['Shakedown Street', 'My Brother Esau', 'Brown Eyed Women', 'Little Red Rooster', 'Dire Wolf', 'Lazy Lightning-> Supplication-> Deal']", "['Shakedown Street', 'My Brother Esau', 'Brown Eyed Women', 'Little Red Rooster', 'Dire Wolf', 'Lazy Lightning-> Supplication-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "15") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b9962fea-8c33-45bd-a52e-b1e14c481c49", "Grateful Dead", "2", "1467",  "04/16/83", "Meadowlands Arena", "East Rutherford", "NJ",  "['Minglewood Blues', 'Tennessee Jed', 'Me & My Uncle-> Mexicali Blues', 'Bird Song', 'My Brother Esau', 'West L.A. Fadeaway', 'Maybe You Know', 'Looks Like Rain-> Touch Of Gray']", "['Minglewood Blues', 'Tennessee Jed', 'Me & My Uncle-> Mexicali Blues', 'Bird Song', 'My Brother Esau', 'West L.A. Fadeaway', 'Maybe You Know', 'Looks Like Rain-> Touch Of Gray']", "[]", "*w/ Stephen Stills
+final/last &quot;Black Queen&quot;: 12-10-69",  "2003-04-18 00:00:00", "1983", "hamilton", "04", "16") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3a55db61-f721-45d7-acae-af00a6cda924", "Grateful Dead", "2", "1468",  "04/17/83", "Meadowlands Arena", "East Rutherford", "NJ",  "['Touch Of Gray-> Little Red Rooster', 'Dupree&apos;s Diamond Blues-> Beat It On Down The Line', 'Must Have Been the Roses', 'Cassidy', 'Big RR Blues', 'Brother Esau', 'Peggy-O', 'Let It Grow', 'Might As Well']", "['Touch Of Gray-> Little Red Rooster', 'Dupree&apos;s Diamond Blues-> Beat It On Down The Line', 'Must Have Been the Roses', 'Cassidy', 'Big RR Blues', 'Brother Esau', 'Peggy-O', 'Let It Grow', 'Might As Well']", "[]", "*W Stephen Stills",  "1996-01-07 00:00:00", "1983", "mgoldey", "04", "17") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cd6cc5b2-c858-4c65-bead-10e20b5c2e4f", "Grateful Dead", "2", "1469",  "04/19/83", "Alfond Arena, U of Maine", "Orono", "ME",  "['Jack Straw', 'Friend Of The Devil-> It&apos;s All Over Now', 'Dire Wolf-> Big River', 'Dupree&apos;s Diamond Blues', 'On The Road Again', 'West L.A. Fadeaway', 'Lazy Lightning-> Supplication-> Might As Well']", "['Jack Straw', 'Friend Of The Devil-> It&apos;s All Over Now', 'Dire Wolf-> Big River', 'Dupree&apos;s Diamond Blues', 'On The Road Again', 'West L.A. Fadeaway', 'Lazy Lightning-> Supplication-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "19") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-32c72703-93f6-4bd9-a67a-3f0d97aebb30", "Grateful Dead", "2", "1470",  "04/20/83", "Providence Civic Center", "Providence", "RI",  "['Touch Of Gray-> Promised Land', 'Loser', 'Minglewood Blues', 'Ramble On Rose', 'Me & My Uncle-> Cumberland Blues', 'Looks Like Rain', 'China Cat Sunflower-> I Know You Rider']", "['Touch Of Gray-> Promised Land', 'Loser', 'Minglewood Blues', 'Ramble On Rose', 'Me & My Uncle-> Cumberland Blues', 'Looks Like Rain', 'China Cat Sunflower-> I Know You Rider']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "20") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-0d8b39c0-8396-4048-8e95-7afbb4ca8c23", "Grateful Dead", "2", "1471",  "04/22/83", "Veterans&apos; Memorial Coliseum", "New Haven", "CT",  "['Finiculi Finicula', 'Feel Like A Stranger', 'Bird Song-> CC Rider', 'Row Jimmy', 'Mama Tried-> Mexicali Blues', 'Cold Rain & Snow', 'My Brother Esau-> Deal']", "['Finiculi Finicula', 'Feel Like A Stranger', 'Bird Song-> CC Rider', 'Row Jimmy', 'Mama Tried-> Mexicali Blues', 'Cold Rain & Snow', 'My Brother Esau-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "22") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-306e6e97-fa32-4057-9f9c-67f8eaaab807", "Grateful Dead", "2", "1472",  "04/23/83", "Veterans&apos; Memorial Coliseum", "New Haven", "CT",  "['Alabama Getaway-> Greatest Story Ever Told', 'Finiculi Finicula', 'Candyman', 'Minglewood Blues', 'Tennessee Jed', 'Lazy Lightning-> Supplication', 'Peggy-O', 'Far From Me', 'The Music Never Stopped']", "['Alabama Getaway-> Greatest Story Ever Told', 'Finiculi Finicula', 'Candyman', 'Minglewood Blues', 'Tennessee Jed', 'Lazy Lightning-> Supplication', 'Peggy-O', 'Far From Me', 'The Music Never Stopped']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "23") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-efe64de0-0298-4b8c-b1ca-85d040cfeddf", "Grateful Dead", "2", "1473",  "04/25/83", "The Spectrum", "Philadelphia", "PA",  "['Jack Straw', 'Friend Of The Devil', 'Little Red Rooster', 'Brown Eyed Women', 'Cassidy', 'Loser', 'My Brother Esau', 'China Cat Sunflower-> I Know You Rider']", "['Jack Straw', 'Friend Of The Devil', 'Little Red Rooster', 'Brown Eyed Women', 'Cassidy', 'Loser', 'My Brother Esau', 'China Cat Sunflower-> I Know You Rider']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "04", "25") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1cf092bc-e8d1-483f-817d-3cb0b70ad1fb", "Grateful Dead", "2", "1474",  "04/26/83", "The Spectrum", "Philadelphia", "PA",  "['Shakedown Street-> Minglewood Blues', 'They Love Each Other', 'Me and My Uncle', 'Mexicali Blues', 'Maybe You Know How I Feel', 'West LA Fadeaway', 'My Brother Esau', 'It Must Have Been the Roses', 'Let It Grow']", "['Shakedown Street-> Minglewood Blues', 'They Love Each Other', 'Me and My Uncle', 'Mexicali Blues', 'Maybe You Know How I Feel', 'West LA Fadeaway', 'My Brother Esau', 'It Must Have Been the Roses', 'Let It Grow']", "[]", "correct info from www.setlists.net",  "2001-12-06 00:00:00", "1983", "hamilton", "04", "26") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-92ae02c9-54ef-49e3-967a-25f9ea6e83a5", "Grateful Dead", "2", "1475",  "05/13/83", "Greek Theatre, U. Of California", "Berkeley", "CA",  "['Cold Rain & Snow', 'Greatest Story Ever Told', 'West L.A. Fadeaway', 'Hell In A Bucket', 'Loser', 'Little Red Rooster', 'Bird Song', 'Let It Grow']", "['Cold Rain & Snow', 'Greatest Story Ever Told', 'West L.A. Fadeaway', 'Hell In A Bucket', 'Loser', 'Little Red Rooster', 'Bird Song', 'Let It Grow']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "05", "13") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a0d37b83-5519-4791-bd4e-3dcd59ebe41b", "Grateful Dead", "2", "1476",  "05/14/83", "Greek Theatre, U. Of California", "Berkeley", "CA",  "['Feel Like A Stranger', 'Friend Of The Devil', 'Me & My Uncle-> Mexicali Blues', 'Tennessee Jed', 'My Brother Esau-> Bertha']", "['Feel Like A Stranger', 'Friend Of The Devil', 'Me & My Uncle-> Mexicali Blues', 'Tennessee Jed', 'My Brother Esau-> Bertha']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "05", "14") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-422733e4-4939-4e61-b27c-7f8fc4027775", "Grateful Dead", "2", "1477",  "05/15/83", "Greek Theatre, U. Of California", "Berkeley", "CA",  "['Touch Of Gray', 'Minglewood Blues', 'Ramble On Rose', 'Cassidy', 'Brown Eyed Women', 'Hell In A Bucket', 'Althea', 'Looks Like Rain-> Deal']", "['Touch Of Gray', 'Minglewood Blues', 'Ramble On Rose', 'Cassidy', 'Brown Eyed Women', 'Hell In A Bucket', 'Althea', 'Looks Like Rain-> Deal']", "[]", "*W Airto, **W Flora Purim, Airto & Billy Cobham, ***W John CippolinaHappy Birthday for Dan Healy Before Help",  "1996-01-07 00:00:00", "1983", "system", "05", "15") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f3f9266c-59e9-45ac-ba85-e8fabb7dcb29", "Grateful Dead", "2", "1478",  "06/18/83", "Saratoga Performing Arts Center", "Saratoga Springs", "NY",  "['Bertha-> Jack Straw', 'Bird Song', 'Mexicali Blues-> Big River', 'Althea', 'Hell In A Bucket-> Deal']", "['Bertha-> Jack Straw', 'Bird Song', 'Mexicali Blues-> Big River', 'Althea', 'Hell In A Bucket-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "06", "18") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-42a7b8ef-30f9-4208-b2c4-4f2f8c033871", "Grateful Dead", "2", "1479",  "06/20/83", "Merriweather Post Pavilion", "Columbia", "MD",  "['Minglewood Blues', 'They Love Each Other', 'Little Red Rooster', 'Peggy-O', 'Hell In A Bucket', 'Tennessee Jed', 'My Brother Esau', 'West L.A. Fadeaway', 'The Music Never Stopped']", "['Minglewood Blues', 'They Love Each Other', 'Little Red Rooster', 'Peggy-O', 'Hell In A Bucket', 'Tennessee Jed', 'My Brother Esau', 'West L.A. Fadeaway', 'The Music Never Stopped']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "06", "20") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-8b245ea1-4be1-4735-a56a-6992407d3a64", "Grateful Dead", "2", "1480",  "06/21/83", "Merriweather Post Pavilion", "Columbia", "MD",  "['Alabama Getaway-> Greatest Story Ever Told', 'Dire Wolf', 'Me & My Uncle-> Cumberland Blues', 'Cassidy', 'Big Railroad Blues', 'It&apos;s All Over Now', 'Loser', 'Looks Like Rain', 'Might As Well']", "['Alabama Getaway-> Greatest Story Ever Told', 'Dire Wolf', 'Me & My Uncle-> Cumberland Blues', 'Cassidy', 'Big Railroad Blues', 'It&apos;s All Over Now', 'Loser', 'Looks Like Rain', 'Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "hamilton", "06", "21") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f93c9878-cce5-431a-84f2-40b54e14daa9", "Grateful Dead", "2", "1481",  "06/22/83", "City Island", "Harrisburg", "PA",  "['Feel Like A Stranger', 'Friend Of The Devil', 'CC Rider', 'Ramble On Rose', 'My Brother Esau-> Deal']", "['Feel Like A Stranger', 'Friend Of The Devil', 'CC Rider', 'Ramble On Rose', 'My Brother Esau-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "06", "22") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-be100a7a-505f-40f4-a0c4-ea5397240f96", "Grateful Dead", "2", "1482",  "06/24/83", "Dane County Coliseum", "Madison", "WI",  "['Shakedown Street', 'Far From Me', 'Candyman-> Little Red Rooster', 'Brown Eyed Women', 'Mama Tried-> Mexicali Blues', 'Althea', 'Hell In A Bucket-> Deal']", "['Shakedown Street', 'Far From Me', 'Candyman-> Little Red Rooster', 'Brown Eyed Women', 'Mama Tried-> Mexicali Blues', 'Althea', 'Hell In A Bucket-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "06", "24") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-39b37a4d-7238-4cce-b38e-f717dbf80046", "Grateful Dead", "2", "1483",  "06/25/83", "St. Paul Civic Center", "St. Paul", "MN",  "['Jack Straw', 'They Love Each Other', 'Cassidy', 'West L.A. Fadeaway', 'My Brother Esau', 'Big Railroad Blues', 'Lazy Lightning-> Supplication-> Might As Well']", "['Jack Straw', 'They Love Each Other', 'Cassidy', 'West L.A. Fadeaway', 'My Brother Esau', 'Big Railroad Blues', 'Lazy Lightning-> Supplication-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "06", "25") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-e39e84f4-8a6f-49f3-bc35-58ccd2943ed9", "Grateful Dead", "2", "1484",  "06/27/83", "Poplar Creek Music Theatre", "Hoffman Estates", "IL",  "['Bertha-> Promised Land', 'Dupree&apos;s Diamond Blues', 'Minglewood Blues', 'Bird Song', 'Me & My Uncle-> Mexicali Blues', 'Cold Rain & Snow-> Hell In A Bucket-> Sugaree']", "['Bertha-> Promised Land', 'Dupree&apos;s Diamond Blues', 'Minglewood Blues', 'Bird Song', 'Me & My Uncle-> Mexicali Blues', 'Cold Rain & Snow-> Hell In A Bucket-> Sugaree']", "[]", "",  "2014-09-28 00:01:57", "1983", "BeLikeMike", "06", "27") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9f10cd55-4709-4cc8-b9a4-c8b4061b033a", "Grateful Dead", "2", "1485",  "06/28/83", "Poplar Creek Music Theatre", "Hoffman Estates", "IL",  "['Feel Like A Stranger', 'Dire Wolf', 'It&apos;s All Over Now', 'Brown Eyed Women', 'Little Red Rooster', 'Tennessee Jed', 'Looks Like Rain-> Deal']", "['Feel Like A Stranger', 'Dire Wolf', 'It&apos;s All Over Now', 'Brown Eyed Women', 'Little Red Rooster', 'Tennessee Jed', 'Looks Like Rain-> Deal']", "[]", "",  "2014-09-28 00:01:44", "1983", "BeLikeMike", "06", "28") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b68e54eb-9a4a-48cc-810e-4bee98f4ce97", "Grateful Dead", "2", "1486",  "07/30/83", "Ventura County Fairgrounds", "Ventura", "CA",  "['China Cat Sunflower-> I Know You Rider', 'It&apos;s All Over Now', 'Brown Eyed Women', 'My Brother Esau', 'Big Railroad Blues', 'Cassidy', 'Loser', 'The Music Never Stopped']", "['China Cat Sunflower-> I Know You Rider', 'It&apos;s All Over Now', 'Brown Eyed Women', 'My Brother Esau', 'Big Railroad Blues', 'Cassidy', 'Loser', 'The Music Never Stopped']", "[]", "",  "2015-05-03 20:43:58", "1983", "BeLikeMike", "07", "30") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-2fa2d65d-fde5-405f-a3e3-5505312958ab", "Grateful Dead", "2", "1487",  "07/31/83", "Ventura County Fairgrounds", "Ventura", "CA",  "['Jack Straw', 'Friend Of The Devil', 'Me & My Uncle-> Mexicali Blues', 'West L.A. Fadeaway', 'Little Red Rooster', 'Tennessee Jed', 'Looks Like Rain-> Deal']", "['Jack Straw', 'Friend Of The Devil', 'Me & My Uncle-> Mexicali Blues', 'West L.A. Fadeaway', 'Little Red Rooster', 'Tennessee Jed', 'Looks Like Rain-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "hamilton", "07", "31") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-efa49c35-8154-4f7e-9168-cc2193de012e", "Grateful Dead", "2", "1488",  "08/20/83", "Frost Amphitheatre", "Palo Alto", "CA",  "['Alabama Getaway-> Greatest Story Ever Told', 'They Love Each Other', 'Minglewood Blues', 'Bird Song', 'Looks Like Rain', 'Tennessee Jed', 'My Brother Esau', 'Deal']", "['Alabama Getaway-> Greatest Story Ever Told', 'They Love Each Other', 'Minglewood Blues', 'Bird Song', 'Looks Like Rain', 'Tennessee Jed', 'My Brother Esau', 'Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "08", "20") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3976ba80-5d0f-4755-b6be-79c9ddaf794d", "Grateful Dead", "2", "1489",  "08/21/83", "Frost Amphitheatre", "Palo Alto", "CA",  "['Cassidy-> Dire Wolf', 'Me & My Uncle-> Big River', 'Althea', 'Little Red Rooster', 'Big Railroad Blues', 'Let It Grow']", "['Cassidy-> Dire Wolf', 'Me & My Uncle-> Big River', 'Althea', 'Little Red Rooster', 'Big Railroad Blues', 'Let It Grow']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "08", "21") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b434a1b4-7a2a-44c2-8de2-93e132ae25c0", "Grateful Dead", "2", "1490",  "08/26/83", "Portland Memorial Coliseum", "Portland", "OR",  "['Bertha-> Promised Land', 'Peggy-O', 'Me & My Uncle-> Big River', 'West L.A. Fadeaway', 'Minglewood Blues', 'Loser-> Let It Grow']", "['Bertha-> Promised Land', 'Peggy-O', 'Me & My Uncle-> Big River', 'West L.A. Fadeaway', 'Minglewood Blues', 'Loser-> Let It Grow']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "08", "26") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-745958db-45be-4af8-8056-e5e5ff7f9250", "Grateful Dead", "2", "1491",  "08/27/83", "Seattle Center Coliseum", "Seattle", "WA",  "['Jack Straw', 'Deep Elem Blues-> My Brother Esau', 'Brown Eyed Women', 'Little Red Rooster', 'Ramble On Rose', 'Looks Like Rain-> Deal']", "['Jack Straw', 'Deep Elem Blues-> My Brother Esau', 'Brown Eyed Women', 'Little Red Rooster', 'Ramble On Rose', 'Looks Like Rain-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "08", "27") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-433420f8-c0e8-4264-be79-2b12792a62fe", "Grateful Dead", "2", "1492",  "08/29/83", "Silva Hall, Hult Center", "Eugene", "OR",  "['Shakedown Street', 'Minglewood Blues', 'Friend Of The Devil', 'Hell In A Bucket', 'Bird Song', 'It&apos;s All Over Now', 'Might As Well']", "['Shakedown Street', 'Minglewood Blues', 'Friend Of The Devil', 'Hell In A Bucket', 'Bird Song', 'It&apos;s All Over Now', 'Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "08", "29") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-fffcda81-10be-4235-8cc1-228963b7f35f", "Grateful Dead", "2", "1493",  "08/30/83", "Silva Hall, Hult Center", "Eugene", "OR",  "['Feel Like A Stranger', 'Candyman', 'My Brother Esau', 'Dire Wolf', 'Little Red Rooster', 'Tennessee Jed', 'Lazy Lightnin&apos; > Supplication > Deal']", "['Feel Like A Stranger', 'Candyman', 'My Brother Esau', 'Dire Wolf', 'Little Red Rooster', 'Tennessee Jed', 'Lazy Lightnin&apos; > Supplication > Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "hamilton", "08", "30") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-b9c0baf1-2b40-4c80-b68f-091372542dee", "Grateful Dead", "2", "1494",  "08/31/83", "Silva Hall, Hult Center", "Eugene", "OR",  "['Alabama Getaway-> Greatest Story Ever Told', 'Dupree&apos;s Diamond Blues', 'Me & My Uncle-> Mexicali Blues', 'West L.A. Fadeaway', 'Hell In A Bucket', 'Althea', 'Cassidy-> Don&apos;t Ease Me In']", "['Alabama Getaway-> Greatest Story Ever Told', 'Dupree&apos;s Diamond Blues', 'Me & My Uncle-> Mexicali Blues', 'West L.A. Fadeaway', 'Hell In A Bucket', 'Althea', 'Cassidy-> Don&apos;t Ease Me In']", "[]", "user reports: *Ken Kesey on harmonica, standing behind drums",  "1996-01-07 00:00:00", "1983", "hamilton", "08", "31") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5a6b1af1-c482-446c-8df0-25eee3e67c53", "Grateful Dead", "2", "1495",  "09/02/83", "Boise State University Pavillion", "Boise", "ID",  "['Wang Dang Doodle-> Jack Straw', 'They Love Each Other', 'Mama Tried-> Big River', 'Brown Eyed Women', 'Minglewood Blues', 'Big Railroad Blues', 'Looks Like Rain-> Deal']", "['Wang Dang Doodle-> Jack Straw', 'They Love Each Other', 'Mama Tried-> Big River', 'Brown Eyed Women', 'Minglewood Blues', 'Big Railroad Blues', 'Looks Like Rain-> Deal']", "[]", "",  "2014-09-28 00:01:11", "1983", "BeLikeMike", "09", "02") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a347028d-1996-4f45-a5f8-b7a5be65ba89", "Grateful Dead", "2", "1496",  "09/04/83", "Park West Ski Resort", "Park City", "UT",  "['Bertha-> Promised Land', 'Friend Of The Devil', 'Little Red Rooster', 'Tennessee Jed', 'My Brother Esau', 'Althea-> Hell In A Bucket', 'China Cat Sunflower-> I Know You Rider']", "['Bertha-> Promised Land', 'Friend Of The Devil', 'Little Red Rooster', 'Tennessee Jed', 'My Brother Esau', 'Althea-> Hell In A Bucket', 'China Cat Sunflower-> I Know You Rider']", "[]", "*One More Labor Day Night",  "1996-01-07 00:00:00", "1983", "system", "09", "04") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f36c2a30-9f87-4d68-8eee-fc7a5d176d09", "Grateful Dead", "2", "1497",  "09/06/83", "Red Rocks Amphitheatre", "Morrison", "CO",  "['Alabama Getaway &gt; Greatest Story Ever Told', 'Peggy-O', 'Hell In A Bucket', 'Dupree&apos;s Diamond Blues', 'Minglewood Blues', 'Bird Song', 'Lazy Lightning &gt; Supplication &gt; Might As Well']", "['Alabama Getaway &gt; Greatest Story Ever Told', 'Peggy-O', 'Hell In A Bucket', 'Dupree&apos;s Diamond Blues', 'Minglewood Blues', 'Bird Song', 'Lazy Lightning &gt; Supplication &gt; Might As Well']", "[]", "",  "2007-10-04 01:27:17", "1983", "Albix", "09", "06") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-78646e9b-d1e0-472b-a712-1c407380e87e", "Grateful Dead", "2", "1498",  "09/07/83", "Red Rocks Amphitheatre", "Morrison", "CO",  "['Jack Straw-> Candyman', 'Little Red Rooster', 'Loser', 'My Brother Esau', 'West L.A. Fadeaway', 'Cassidy', 'China Cat Sunflower-> I Know You Rider']", "['Jack Straw-> Candyman', 'Little Red Rooster', 'Loser', 'My Brother Esau', 'West L.A. Fadeaway', 'Cassidy', 'China Cat Sunflower-> I Know You Rider']", "[]", "",  "2014-09-28 14:40:27", "1983", "BeLikeMike", "09", "07") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1cb84b7c-cefe-426a-9bd8-72eac20647e8", "Grateful Dead", "2", "1499",  "09/08/83", "Red Rocks Amphitheatre", "Morrison", "CO",  "['Shakedown Street', 'Mama Tried>Big River', 'Ramble On Rose', 'Hell In A Bucket', 'Brown Eyed Women', 'Looks Like Rain>Deal']", "['Shakedown Street', 'Mama Tried>Big River', 'Ramble On Rose', 'Hell In A Bucket', 'Brown Eyed Women', 'Looks Like Rain>Deal']", "['Shakedown Street', 'Mama Tried>Big River', 'Ramble On Rose', 'Hell In A Bucket', 'Brown Eyed Women', 'Looks Like Rain>Deal']", "",  "2014-09-28 14:41:18", "1983", "BeLikeMike", "09", "08") ;
+#
+# Key: key_51
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-5de5ad30-e6a0-47d2-a931-e568eae97a92", "Grateful Dead", "2", "1500",  "09/10/83", "Santa Fe Downs", "Santa Fe", "NM",  "['The Music Never Stopped', 'They Love Each Other', 'My Brother Esau', 'Big Railroad Blues-> Beat It On Down The Line', 'Tennessee Jed', 'Minglewood Blues-> China Cat Sunflower-> I Know You Rider']", "['The Music Never Stopped', 'They Love Each Other', 'My Brother Esau', 'Big Railroad Blues-> Beat It On Down The Line', 'Tennessee Jed', 'Minglewood Blues-> China Cat Sunflower-> I Know You Rider']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "09", "10") ;
+#
+# Key: key_52
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-9dc13732-335a-4a78-baf8-320ae95a11d4", "Grateful Dead", "2", "1501",  "09/11/83", "Santa Fe Downs", "Santa Fe", "NM",  "['Alabama Getaway-> Greatest Story Ever Told', 'Dire Wolf', 'Hell In A Bucket', 'West L.A. Fadeaway', 'Me & My Uncle-> Mexicali Blues', 'Althea', 'CC Rider-> Might As Well']", "['Alabama Getaway-> Greatest Story Ever Told', 'Dire Wolf', 'Hell In A Bucket', 'West L.A. Fadeaway', 'Me & My Uncle-> Mexicali Blues', 'Althea', 'CC Rider-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "09", "11") ;
+#
+# Key: key_53
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-335bd22f-6dc3-4cc5-b5f4-60d2ebe920b2", "Grateful Dead", "2", "1502",  "09/13/83", "Manor Downs", "Austin", "TX",  "['Bertha', 'Little Red Rooster', 'Loser', 'Cassidy', 'Don&apos;t Ease Me In', 'My Brother Esau', 'Brown Eyed Women-> The Music Never Stopped-> Might As Well']", "['Bertha', 'Little Red Rooster', 'Loser', 'Cassidy', 'Don&apos;t Ease Me In', 'My Brother Esau', 'Brown Eyed Women-> The Music Never Stopped-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "09", "13") ;
+#
+# Key: key_54
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-857aa7a9-c68e-45d3-9afb-cdcff6189ccb", "Grateful Dead", "2", "1503",  "09/18/83", "Nevada County Fairgrounds", "Grass Valley", "CA",  "['Jack Straw', 'They Love Each Other', 'Minglewood Blues', 'Friend Of The Devil', 'Hell In A Bucket', 'Ramble On Rose', 'Let It Grow']", "['Jack Straw', 'They Love Each Other', 'Minglewood Blues', 'Friend Of The Devil', 'Hell In A Bucket', 'Ramble On Rose', 'Let It Grow']", "[]", "",  "2004-09-03 00:00:00", "1983", "system", "09", "18") ;
+#
+# Key: key_55
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-a67ec281-1ce6-421d-88fe-094650ec05a9", "Grateful Dead", "2", "1504",  "09/24/83", "Santa Cruz County Fairgrounds", "Watsonville", "CA",  "['Alabama Getaway-> Promised Land', 'They Love Each Other', 'Me & My Uncle', 'Mexicali Blues', 'Bird Song', 'Hell In A Bucket', 'Deep Elem Blues-> Looks Like Rain-> Day Job']", "['Alabama Getaway-> Promised Land', 'They Love Each Other', 'Me & My Uncle', 'Mexicali Blues', 'Bird Song', 'Hell In A Bucket', 'Deep Elem Blues-> Looks Like Rain-> Day Job']", "[]", "1/0/00",  "1996-01-07 00:00:00", "1983", "system", "09", "24") ;
+#
+# Key: key_56
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-f856c3fc-0aca-4d7b-b33d-4db7db99dcad", "Grateful Dead", "2", "1505",  "10/08/83", "Richmond Coliseum", "Richmond", "VA",  "['Feel Like A Stranger', 'Friend Of The Devil', 'Minglewood Blues', 'Brown Eyed Women', 'Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Deal']", "['Feel Like A Stranger', 'Friend Of The Devil', 'Minglewood Blues', 'Brown Eyed Women', 'Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "08") ;
+#
+# Key: key_57
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-86663775-5a2d-4acd-8dd6-ca9b8ee7d9bd", "Grateful Dead", "2", "1506",  "10/09/83", "Greensboro Coliseum", "Greensboro", "NC",  "['Shakedown Street-> Samson & Delilah', 'Peggy-O', 'Little Red Rooster', 'Candyman', 'My Brother Esau', 'Big Railroad Blues', 'Let It Grow']", "['Shakedown Street-> Samson & Delilah', 'Peggy-O', 'Little Red Rooster', 'Candyman', 'My Brother Esau', 'Big Railroad Blues', 'Let It Grow']", "[]", "",  "2004-09-03 00:00:00", "1983", "system", "10", "09") ;
+#
+# Key: key_58
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-78d69287-aaa3-46ce-8b3b-6cb45d0e710c", "Grateful Dead", "2", "1507",  "10/11/83", "Madison Square Garden", "New York", "NY",  "['Wang Dang Doodle-> Jack Straw', 'Loser', 'Me & My Uncle-> Mexicali Blues', 'Bird Song', 'Hell In A Bucket-> Day Job']", "['Wang Dang Doodle-> Jack Straw', 'Loser', 'Me & My Uncle-> Mexicali Blues', 'Bird Song', 'Hell In A Bucket-> Day Job']", "[]", "",  "2004-09-03 00:00:00", "1983", "hamilton", "10", "11") ;
+#
+# Key: key_59
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-8d4d4174-4cef-48ce-8c62-70ae5d074567", "Grateful Dead", "2", "1508",  "10/12/83", "Madison Square Garden", "New York", "NY",  "['Cold Rain & Snow', 'Minglewood Blues', 'Ramble On Rose', 'My Brother Esau', 'It Must Have Been The Roses', 'Cassidy', 'Cumberland Blues', 'Looks Like Rain-> Might As Well']", "['Cold Rain & Snow', 'Minglewood Blues', 'Ramble On Rose', 'My Brother Esau', 'It Must Have Been The Roses', 'Cassidy', 'Cumberland Blues', 'Looks Like Rain-> Might As Well']", "[]", "",  "2004-09-06 00:00:00", "1983", "system", "10", "12") ;
+#
+# Key: key_60
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-cbdf6e73-fcde-42ef-8c4a-62f79561dbfa", "Grateful Dead", "2", "1509",  "10/14/83", "Hartford Civic Center", "Hartford", "CT",  "['Alabama Getaway-> Greatest Story Ever Told', 'They Love Each Other', 'Mama Tried-> Big River', 'Althea-> CC Rider', 'Tennessee Jed', 'Hell In A Bucket-> Day Job']", "['Alabama Getaway-> Greatest Story Ever Told', 'They Love Each Other', 'Mama Tried-> Big River', 'Althea-> CC Rider', 'Tennessee Jed', 'Hell In A Bucket-> Day Job']", "[]", "This date is featured on <a href= &quot;http://mars.dead.net&quot;>Dick&apos;s Picks 6</a>.",  "2001-02-06 00:00:00", "1983", "hamilton", "10", "14") ;
+#
+# Key: key_61
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-623ba274-d46d-43cb-9b06-e2554c39b5d9", "Grateful Dead", "2", "1510",  "10/15/83", "Hartford Civic Center", "Hartford", "CT",  "['Feel Like A Stranger', 'Dire Wolf', 'Minglewood Blues', 'Brown Eyed Women', 'Wang Dang Doodle', 'Big Railroad Blues', 'Let It Grow-> Day Job']", "['Feel Like A Stranger', 'Dire Wolf', 'Minglewood Blues', 'Brown Eyed Women', 'Wang Dang Doodle', 'Big Railroad Blues', 'Let It Grow-> Day Job']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "15") ;
+#
+# Key: key_62
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-8f985295-73e2-4b01-ad25-8f51609ba2a2", "Grateful Dead", "2", "1511",  "10/17/83", "Olympic Center", "Lake Placid", "NY",  "['Sugaree-> Little Red Rooster', 'Friend Of The Devil', 'My Brother Esau', 'Bird Song', 'Hell In A Bucket-> Deal']", "['Sugaree-> Little Red Rooster', 'Friend Of The Devil', 'My Brother Esau', 'Bird Song', 'Hell In A Bucket-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "hamilton", "10", "17") ;
+#
+# Key: key_63
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-448ccdb3-61b3-420b-937f-14c5279c79e9", "Grateful Dead", "2", "1512",  "10/18/83", "Cumberland County Civic Center", "Portland", "ME",  "['Jack Straw', 'They Love Each Other', 'Me & My Uncle-> Mexicali Blues', 'Dupree&apos;s Diamond Blues', 'CC Rider', 'Althea', 'Lazy Lightning-> Supplication-> Might As Well']", "['Jack Straw', 'They Love Each Other', 'Me & My Uncle-> Mexicali Blues', 'Dupree&apos;s Diamond Blues', 'CC Rider', 'Althea', 'Lazy Lightning-> Supplication-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "18") ;
+#
+# Key: key_64
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-96a12ade-d874-417c-b767-f86ef97a1307", "Grateful Dead", "2", "1513",  "10/20/83", "The Centrum", "Worcester", "MA",  "['Bertha-> Greatest Story Ever Told', 'West L.A. Fadeaway', 'Minglewood Blues', 'Tennessee Jed', 'Hell In A Bucket', 'Row Jimmy', 'Looks Like Rain-> Deal']", "['Bertha-> Greatest Story Ever Told', 'West L.A. Fadeaway', 'Minglewood Blues', 'Tennessee Jed', 'Hell In A Bucket', 'Row Jimmy', 'Looks Like Rain-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "20") ;
+#
+# Key: key_65
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-82a1a812-9ae3-402d-8574-265b02122e6c", "Grateful Dead", "2", "1514",  "10/21/83", "The Centrum", "Worcester", "MA",  "['The Music Never Stopped', 'Loser', 'CC Rider-> Cumberland Blues', 'Cassidy', 'Ramble On Rose', 'My Brother Esau', 'Big Railroad Blues-> Promised Land']", "['The Music Never Stopped', 'Loser', 'CC Rider-> Cumberland Blues', 'Cassidy', 'Ramble On Rose', 'My Brother Esau', 'Big Railroad Blues-> Promised Land']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "21") ;
+#
+# Key: key_66
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-e709252a-6622-4f02-be9c-6a5784cb3652", "Grateful Dead", "2", "1515",  "10/22/83", "Carrier Dome, Syracuse U", "Syracuse", "NY",  "['Shakedown Street', 'Wang Dang Doodle', 'Candyman', 'Minglewood Blues', 'Bird Song', 'Hell In A Bucket-> Day Job']", "['Shakedown Street', 'Wang Dang Doodle', 'Candyman', 'Minglewood Blues', 'Bird Song', 'Hell In A Bucket-> Day Job']", "[]", "The Band without Robertson, with the Cate Brothers Opened",  "1996-01-07 00:00:00", "1983", "system", "10", "22") ;
+#
+# Key: key_67
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-7bf0812f-b6bb-4cb5-84f7-be64e25dd7ea", "Grateful Dead", "2", "1516",  "10/30/83", "Marin County Veterans Auditorium", "San Rafael", "CA",  "['Alabama Getaway-> Greatest Story Ever Told', 'Friend Of The Devil', 'Minglewood Blues', 'Tennessee Jed', 'Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Might As Well']", "['Alabama Getaway-> Greatest Story Ever Told', 'Friend Of The Devil', 'Minglewood Blues', 'Tennessee Jed', 'Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "10", "30") ;
+#
+# Key: key_68
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-1a1ffdfe-f2f1-4654-a423-be48cb1d62cb", "Grateful Dead", "2", "1517",  "10/31/83", "Marin County Veterans Auditorium", "San Rafael", "CA",  "['Wang Dang Doodle-> My Brother Esau', 'Peggy-O', 'Little Red Rooster', 'Brown Eyed Women', 'Lost Sailor-> Saint Of Circumstance-> Deal']", "['Wang Dang Doodle-> My Brother Esau', 'Peggy-O', 'Little Red Rooster', 'Brown Eyed Women', 'Lost Sailor-> Saint Of Circumstance-> Deal']", "[]", "With Airto",  "1996-01-07 00:00:00", "1983", "system", "10", "31") ;
+#
+# Key: key_69
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-de92dac2-30f3-485c-8af4-1fe287aebbdb", "Grateful Dead", "2", "1518",  "12/27/83", "San Francisco Civic Auditorium", "San Francisco", "CA",  "['Cold Rain & Snow', 'CC Rider', 'They Love Each Other', 'Beat It On Down The Line', 'Althea-> Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Might As Well']", "['Cold Rain & Snow', 'CC Rider', 'They Love Each Other', 'Beat It On Down The Line', 'Althea-> Cassidy', 'West L.A. Fadeaway', 'Hell In A Bucket-> Might As Well']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "12", "27") ;
+#
+# Key: key_70
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-3a45fea6-aea8-4d68-a864-f4874cd5ef4a", "Grateful Dead", "2", "1519",  "12/28/83", "San Francisco Civic Auditorium", "San Francisco", "CA",  "['Feel Like A Stranger', 'Dire Wolf', 'Mama Tried-> Mexicali Blues', 'Loser', 'Minglewood Blues', 'Bird Song']", "['Feel Like A Stranger', 'Dire Wolf', 'Mama Tried-> Mexicali Blues', 'Loser', 'Minglewood Blues', 'Bird Song']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "12", "28") ;
+#
+# Key: key_71
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-6641acf3-8510-43b2-ab91-acfa883d9fec", "Grateful Dead", "2", "1520",  "12/30/83", "San Francisco Civic Auditorium", "San Francisco", "CA",  "['Bertha-> Greatest Story Ever Told', 'Friend Of The Devil', 'Me & My Uncle-> Big River', 'Ramble On Rose', 'Little Red Rooster', 'Brown Eyed Women-> Looks Like Rain-> Deal']", "['Bertha-> Greatest Story Ever Told', 'Friend Of The Devil', 'Me & My Uncle-> Big River', 'Ramble On Rose', 'Little Red Rooster', 'Brown Eyed Women-> Looks Like Rain-> Deal']", "[]", "",  "1996-01-07 00:00:00", "1983", "system", "12", "30") ;
+#
+# Key: key_72
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id,  show_month, show_day)  values ( "GDS-40085a65-af55-4b0b-911a-0a09662a70a2", "Grateful Dead", "2", "1521",  "12/31/83", "Civic Auditorium", "San Francisco", "CA",  "['Jack Straw\nPeggy-O\nMinglewood Blues\nCandyman\nMy Brother Esau\nTennessee Jed\nHell In A Bucket\nDon&apos;t Ease Me In']", "['Jack Straw\nPeggy-O\nMinglewood Blues\nCandyman\nMy Brother Esau\nTennessee Jed\nHell In A Bucket\nDon&apos;t Ease Me In']", "['Jack Straw\nPeggy-O\nMinglewood Blues\nCandyman\nMy Brother Esau\nTennessee Jed\nHell In A Bucket\nDon&apos;t Ease Me In']", "The Band opened
+
+Jerry Garcia - Guitar
+Bob Weir - Guitar
+Brent Mydland - Keyboards
+Phil Lesh - Bass
+Bill Kreutzmann - Drums
+Mickey Hart - Drums, Cowbell #
+Rick Danko - Acoustic Guitar, Vocals $
+Maria Muldaur - Vocals, Tambourine $
+Terry Cagle - Tambourine %, Drums #
+John Cippolina - Guitar *",  "2014-01-12 02:01:20", "1983", "schmoe75_DVD", "12", "31") ;
