@@ -1,0 +1,2075 @@
+{
+    "db_rest": {
+        "@generator": "zend",
+        "@version": "1.0",
+        "fetchArtistYear": {
+            "shows": {
+                "key_0": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "219993",
+                    "showdate": "02/21/84",
+                    "venue": "Arista Studio",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Throwing Stones\nHell In A Bucket\nMy Brother Esau\nDay Tripper\nTons Of Steel\nTom Thumb's Blues"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Rehearsals For The \"In The Dark\" Album",
+                    "lastupdate": "2008-05-30 19:53:05",
+                    "showyear": "1984",
+                    "showsuserid": "wedsong1"
+                },
+                "key_1": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "219994",
+                    "showdate": "02/25/84",
+                    "venue": "Studio",
+                    "city": "Studio",
+                    "state": "Ca",
+                    "set1": [
+                        "Hell in a bucket (demo)\r\nBrother Esau (demo)"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Demos by Weir, lesh + Linn drum",
+                    "lastupdate": "2004-07-21 05:54:51",
+                    "showyear": "1984",
+                    "showsuserid": "kollektionist"
+                },
+                "key_2": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "346417",
+                    "showdate": "02/??/84",
+                    "venue": "Club Front",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": "",
+                    "set2": "",
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2006-12-06 14:08:45",
+                    "showyear": "1984",
+                    "showsuserid": "zowie"
+                },
+                "key_3": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "408303",
+                    "showdate": "03/14/84",
+                    "venue": "Club Front",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Help on the Way",
+                        "Slipknot Jam",
+                        "Help on the Way",
+                        "Help on the Way",
+                        "Help on the Way > Slipknot Intro > Slipknot",
+                        "Slipknot",
+                        "Slipknot",
+                        "Slipknot",
+                        "Slipknot Jam",
+                        "Help on the Way",
+                        "Help on the Way > Slipknot",
+                        "Banter",
+                        "My Brother Esau"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2008-04-29 00:28:45",
+                    "showyear": "1984",
+                    "showsuserid": "borkwett"
+                },
+                "key_4": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1522",
+                    "showdate": "03/28/84",
+                    "venue": "Marin County Veterans Auditorium",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Iko Iko",
+                        "CC Rider",
+                        "Loser",
+                        "El Paso",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "CC Rider",
+                        "Loser",
+                        "El Paso",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "First Rex Foundation Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "hamilton"
+                },
+                "key_5": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1523",
+                    "showdate": "03/29/84",
+                    "venue": "Marin County Veterans Auditorium",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Walkin' The Dog-> Bertha-> Promised Land",
+                        "It Must Have Been The Roses",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Walkin' The Dog-> Bertha-> Promised Land",
+                        "It Must Have Been The Roses",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Foundation Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_6": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1524",
+                    "showdate": "03/31/84",
+                    "venue": "Marin County Veterans Auditorium",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Feel Like A Stranger",
+                        "Dupree's Diamond Blues",
+                        "Minglewood Blues",
+                        "Dire Wolf",
+                        "Hell In A Bucket-> Althea-> Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Feel Like A Stranger",
+                        "Dupree's Diamond Blues",
+                        "Minglewood Blues",
+                        "Dire Wolf",
+                        "Hell In A Bucket-> Althea-> Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Foundation Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_7": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1525",
+                    "showdate": "04/01/84",
+                    "venue": "Marin County Veterans Auditorium",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "My Brother Esau-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "My Brother Esau-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Foundation Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_8": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1526",
+                    "showdate": "04/06/84",
+                    "venue": "Aladdin Theater",
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "It's All Over Now",
+                        "Brown Eyed Women",
+                        "Hell In A Bucket",
+                        "Ramble On Rose",
+                        "The Music Never Stopped-> Might As Well"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "It's All Over Now",
+                        "Brown Eyed Women",
+                        "Hell In A Bucket",
+                        "Ramble On Rose",
+                        "The Music Never Stopped-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_9": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1527",
+                    "showdate": "04/07/84",
+                    "venue": "Irvine Meadows",
+                    "city": "Irvine",
+                    "state": "CA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "West L.A. Fadeaway",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "CC Rider",
+                        "Big Railroad Blues",
+                        "My Brother Esau",
+                        "Touch Of Gray"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "West L.A. Fadeaway",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "CC Rider",
+                        "Big Railroad Blues",
+                        "My Brother Esau",
+                        "Touch Of Gray"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_10": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1528",
+                    "showdate": "04/13/84",
+                    "venue": "Hampton Coliseum",
+                    "city": "Hampton",
+                    "state": "VA",
+                    "set1": [
+                        "Day Job",
+                        "Minglewood Blues",
+                        "Dire Wolf",
+                        "Beat It On Down The Line",
+                        "West L.A. Fadeaway",
+                        "It's All Over Now",
+                        "Bird Song",
+                        "Hell In A Bucket-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Day Job",
+                        "Minglewood Blues",
+                        "Dire Wolf",
+                        "Beat It On Down The Line",
+                        "West L.A. Fadeaway",
+                        "It's All Over Now",
+                        "Bird Song",
+                        "Hell In A Bucket-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_11": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1529",
+                    "showdate": "04/14/84",
+                    "venue": "Hampton Coliseum",
+                    "city": "Hampton",
+                    "state": "VA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_12": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1530",
+                    "showdate": "04/16/84",
+                    "venue": "Community War Memorial Auditorium",
+                    "city": "Rochester",
+                    "state": "NY",
+                    "set1": [
+                        "Shakedown Street",
+                        "Little Red Rooster",
+                        "Peggy-O",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "West L.A. Fadeaway-> Might As Well"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "Little Red Rooster",
+                        "Peggy-O",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "West L.A. Fadeaway-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_13": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1531",
+                    "showdate": "04/17/84",
+                    "venue": "Niagara Falls Convention Center",
+                    "city": "Niagara Falls",
+                    "state": "NY",
+                    "set1": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_14": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1021",
+                    "showdate": "04/19/84",
+                    "venue": "Philadelphia Civic Center",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Loser",
+                        "CC Rider",
+                        "Bird Song",
+                        "Hell In A Bucket",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Loser",
+                        "CC Rider",
+                        "Bird Song",
+                        "Hell In A Bucket",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-02-21 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_15": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1022",
+                    "showdate": "04/20/84",
+                    "venue": "Philadelphia Civic Center",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Cold Rain & Snow",
+                        "Beat It On Down The Line",
+                        "Cumberland Blues",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "It Must Have Been The Roses",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Cold Rain & Snow",
+                        "Beat It On Down The Line",
+                        "Cumberland Blues",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "It Must Have Been The Roses",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-02-21 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_16": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1023",
+                    "showdate": "04/21/84",
+                    "venue": "Philadelphia Civic Center",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "Me & My Uncle",
+                        "Mexicali Blues",
+                        "West L.A. Fadeaway",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "Me & My Uncle",
+                        "Mexicali Blues",
+                        "West L.A. Fadeaway",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-02-21 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_17": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1024",
+                    "showdate": "04/23/84",
+                    "venue": "Veterans' Memorial Coliseum",
+                    "city": "New Haven",
+                    "state": "CT",
+                    "set1": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_18": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1025",
+                    "showdate": "04/24/84",
+                    "venue": "Veterans' Memorial Coliseum",
+                    "city": "New Haven",
+                    "state": "CT",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Candyman",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Candyman",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_19": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1026",
+                    "showdate": "04/26/84",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Shakedown Street",
+                        "CC Rider",
+                        "Loser",
+                        "Hell In A Bucket",
+                        "Brown Eyed Women",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "CC Rider",
+                        "Loser",
+                        "Hell In A Bucket",
+                        "Brown Eyed Women",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "*Good Times without Bobby, Jerry, and Phil",
+                    "lastupdate": "2002-09-04 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "diana"
+                },
+                "key_20": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1027",
+                    "showdate": "04/27/84",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Alabama Getaway-&gt; \nPromised Land\nDire Wolf\nMinglewood Blues\nRow Jimmy\nMe &amp; My Uncle-&gt; \nBig River\nAlthea\nMy Brother Esau\nBig Railroad Blues-&gt; \nThe Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-&gt; \nPromised Land\nDire Wolf\nMinglewood Blues\nRow Jimmy\nMe &amp; My Uncle-&gt; \nBig River\nAlthea\nMy Brother Esau\nBig Railroad Blues-&gt; \nThe Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2013-10-19 12:36:24",
+                    "showyear": "1984",
+                    "showsuserid": "BeLikeMike"
+                },
+                "key_21": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1028",
+                    "showdate": "04/29/84",
+                    "venue": "Nassau Coliseum",
+                    "city": "Uniondale",
+                    "state": "NY",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Bird Song",
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Bird Song",
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_22": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1029",
+                    "showdate": "04/30/84",
+                    "venue": "Nassau Coliseum",
+                    "city": "Uniondale",
+                    "state": "NY",
+                    "set1": [
+                        "Iko Iko-> Greatest Story Ever Told",
+                        "Althea",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "My Brother Esau-> Deal"
+                    ],
+                    "set2": [
+                        "Iko Iko-> Greatest Story Ever Told",
+                        "Althea",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "My Brother Esau-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_23": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1030",
+                    "showdate": "05/06/84",
+                    "venue": "Silva Hall, Hult Center",
+                    "city": "Eugene",
+                    "state": "OR",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line",
+                        "Touch Of Gray"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line",
+                        "Touch Of Gray"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_24": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1031",
+                    "showdate": "05/07/84",
+                    "venue": "Silva Hall, Hult Center",
+                    "city": "Eugene",
+                    "state": "OR",
+                    "set1": [
+                        "Iko Iko",
+                        "CC Rider",
+                        "Loser",
+                        "Mama Tried-> Big River",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "CC Rider",
+                        "Loser",
+                        "Mama Tried-> Big River",
+                        "Bird Song",
+                        "My Brother Esau",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_25": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1544",
+                    "showdate": "05/08/84",
+                    "venue": "Silva Hall, Hult Center",
+                    "city": "Eugene",
+                    "state": "OR",
+                    "set1": [
+                        "Beer Barrel Polka",
+                        "Jack Straw",
+                        "Cold Rain & Snow",
+                        "Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle",
+                        "Mexicali Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Beer Barrel Polka",
+                        "Jack Straw",
+                        "Cold Rain & Snow",
+                        "Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle",
+                        "Mexicali Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "*with Ken Kesey and the Thunder Machine",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_26": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1545",
+                    "showdate": "06/09/84",
+                    "venue": "Cal Expo",
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "set1": [
+                        "Iko Iko",
+                        "Hell In A Bucket",
+                        "Loser",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "CC Rider-> Deal"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Hell In A Bucket",
+                        "Loser",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "CC Rider-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_27": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1546",
+                    "showdate": "06/10/84",
+                    "venue": "Cal Expo",
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "Beat It On Down The Line",
+                        "Dire Wolf",
+                        "My Brother Esau",
+                        "Bird Song",
+                        "Minglewood Blues",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "Beat It On Down The Line",
+                        "Dire Wolf",
+                        "My Brother Esau",
+                        "Bird Song",
+                        "Minglewood Blues",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_28": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1547",
+                    "showdate": "06/12/84",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_29": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1548",
+                    "showdate": "06/13/84",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Candyman",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "My Brother Esau",
+                        "Cold Rain & Snow-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Candyman",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "My Brother Esau",
+                        "Cold Rain & Snow-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_30": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1549",
+                    "showdate": "06/14/84",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Iko Iko",
+                        "Cassidy-> It Must Have Been The Roses",
+                        "Minglewood Blues",
+                        "Brown Eyed Women",
+                        "Jack Straw-> Day Job"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Cassidy-> It Must Have Been The Roses",
+                        "Minglewood Blues",
+                        "Brown Eyed Women",
+                        "Jack Straw-> Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_31": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1550",
+                    "showdate": "06/21/84",
+                    "venue": "Kingswood Music Theater",
+                    "city": "Maple",
+                    "state": "ON",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "They Love Each Other",
+                        "CC Rider-> Bird Song",
+                        "Beat It On Down The Line-> Dupree's Diamond Blues-> Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "They Love Each Other",
+                        "CC Rider-> Bird Song",
+                        "Beat It On Down The Line-> Dupree's Diamond Blues-> Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-06 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_32": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1551",
+                    "showdate": "06/23/84",
+                    "venue": "City Island",
+                    "city": "Harrisburg",
+                    "state": "PA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Peggy-O",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Peggy-O",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-08-29 21:24:26",
+                    "showyear": "1984",
+                    "showsuserid": "hamilton"
+                },
+                "key_33": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1552",
+                    "showdate": "06/24/84",
+                    "venue": "Saratoga Performing Arts Center",
+                    "city": "Saratoga Springs",
+                    "state": "NY",
+                    "set1": [
+                        "Dancin' In The Streets",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Ramble On Rose",
+                        "Hell In A Bucket",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Dancin' In The Streets",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Ramble On Rose",
+                        "Hell In A Bucket",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "1/0/00",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_34": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1553",
+                    "showdate": "06/26/84",
+                    "venue": "Merriweather Post Pavilion",
+                    "city": "Columbia",
+                    "state": "MD",
+                    "set1": [
+                        "Casey Jones",
+                        "Feel Like A Stranger",
+                        "Althea",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Casey Jones",
+                        "Feel Like A Stranger",
+                        "Althea",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_35": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1554",
+                    "showdate": "06/27/84",
+                    "venue": "Merriweather Post Pavilion",
+                    "city": "Columbia",
+                    "state": "MD",
+                    "set1": [
+                        "Jack Straw",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Cumberland Blues",
+                        "My Brother Esau",
+                        "Loser",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Cumberland Blues",
+                        "My Brother Esau",
+                        "Loser",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "*Without Jerry",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_36": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1555",
+                    "showdate": "06/29/84",
+                    "venue": "Blossom Music Center",
+                    "city": "Cuyahoga Falls",
+                    "state": "OH",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "CC Rider-> Bird Song",
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "CC Rider-> Bird Song",
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_37": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1556",
+                    "showdate": "06/30/84",
+                    "venue": "Indianapolis Sports and Music Center",
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "set1": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "Far From Me",
+                        "My Brother Esau-> Ramble On Rose-> Lost Sailor-> Saint Of Circumstance-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "Far From Me",
+                        "My Brother Esau-> Ramble On Rose-> Lost Sailor-> Saint Of Circumstance-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_38": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1557",
+                    "showdate": "07/01/84",
+                    "venue": "Pine Knob Music Theater",
+                    "city": "Clarkston",
+                    "state": "MI",
+                    "set1": [
+                        "Iko Iko",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Mama Tried",
+                        "Big River",
+                        "Tennessee Jed",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Mama Tried",
+                        "Big River",
+                        "Tennessee Jed",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_39": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1558",
+                    "showdate": "07/03/84",
+                    "venue": "Starlight Theater",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Candyman",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "My Brother Esau",
+                        "Loser-> Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Candyman",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "My Brother Esau",
+                        "Loser-> Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_40": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1559",
+                    "showdate": "07/04/84",
+                    "venue": "Five Seasons Center",
+                    "city": "Cedar Rapids",
+                    "state": "IA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Cumberland Blues-> Beat It On Down The Line",
+                        "Row Jimmy",
+                        "Hell In A Bucket-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Cumberland Blues-> Beat It On Down The Line",
+                        "Row Jimmy",
+                        "Hell In A Bucket-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_41": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1560",
+                    "showdate": "07/06/84",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "Iko Iko",
+                        "Jack Straw-> Big Railroad Blues",
+                        "Little Red Rooster",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Jack Straw-> Big Railroad Blues",
+                        "Little Red Rooster",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_42": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1561",
+                    "showdate": "07/07/84",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_43": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1562",
+                    "showdate": "07/13/84",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "CC Rider",
+                        "Loser",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "CC Rider",
+                        "Loser",
+                        "Cassidy",
+                        "Dupree's Diamond Blues",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "* Dark Star for the planetary alignment",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_44": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1563",
+                    "showdate": "07/14/84",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw\nWest L.A. Fadeaway\nLittle Red Rooster*\nTennessee Jed\nBeat It On Down The Line-&gt; \nBig Railroad Blues\nLooks Like Rain\nDon't Ease Me In"
+                    ],
+                    "set2": [
+                        "Jack Straw\nWest L.A. Fadeaway\nLittle Red Rooster*\nTennessee Jed\nBeat It On Down The Line-&gt; \nBig Railroad Blues\nLooks Like Rain\nDon't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "*With Matt Kelly",
+                    "lastupdate": "2013-10-19 12:30:49",
+                    "showyear": "1984",
+                    "showsuserid": "BeLikeMike"
+                },
+                "key_45": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1564",
+                    "showdate": "07/15/84",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Dancin' In The Streets-> Bird Song",
+                        "Minglewood Blues",
+                        "Cumberland Blues",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "Hell In A Bucket"
+                    ],
+                    "set2": [
+                        "Dancin' In The Streets-> Bird Song",
+                        "Minglewood Blues",
+                        "Cumberland Blues",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "Hell In A Bucket"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_46": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1565",
+                    "showdate": "07/21/84",
+                    "venue": "Ventura County Fairgrounds",
+                    "city": "Ventura",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street",
+                        "Little Red Rooster",
+                        "Althea",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "China Cat Sunflower-> I Know You Rider-> Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "Little Red Rooster",
+                        "Althea",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "China Cat Sunflower-> I Know You Rider-> Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_47": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1566",
+                    "showdate": "07/22/84",
+                    "venue": "Ventura County Fairgrounds",
+                    "city": "Ventura",
+                    "state": "CA",
+                    "set1": [
+                        "Dancin' In The Streets-> Bertha",
+                        "My Brother Esau",
+                        "Loser",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Hell In A Bucket-> Day Job"
+                    ],
+                    "set2": [
+                        "Dancin' In The Streets-> Bertha",
+                        "My Brother Esau",
+                        "Loser",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Hell In A Bucket-> Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "Last Known \"I Just Wanna Make Love To You\": 11-29-66\r\n\"I Just Wanna Make Love To You\": Tease Before Cassidy",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "diana"
+                },
+                "key_48": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1567",
+                    "showdate": "10/05/84",
+                    "venue": "Charlotte Coliseum",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "set1": [
+                        "Bertha-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Feel Like A Stranger",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Bertha-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Feel Like A Stranger",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_49": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1568",
+                    "showdate": "10/06/84",
+                    "venue": "Richmond Coliseum",
+                    "city": "Richmond",
+                    "state": "VA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Cassidy",
+                        "They Love Each Other",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Dire Wolf",
+                        "Cassidy",
+                        "They Love Each Other",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_50": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1569",
+                    "showdate": "10/08/84",
+                    "venue": "The Centrum",
+                    "city": "Worcester",
+                    "state": "MA",
+                    "set1": [
+                        "Iko Iko",
+                        "Beat It On Down The Line",
+                        "Candyman",
+                        "CC Rider",
+                        "Bird Song",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Beat It On Down The Line",
+                        "Candyman",
+                        "CC Rider",
+                        "Bird Song",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_51": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1570",
+                    "showdate": "10/09/84",
+                    "venue": "The Centrum",
+                    "city": "Worcester",
+                    "state": "MA",
+                    "set1": [
+                        "Dancin' In The Streets",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "My Brother Esau",
+                        "Big Railroad Blues",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Dancin' In The Streets",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "My Brother Esau",
+                        "Big Railroad Blues",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_52": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1571",
+                    "showdate": "10/11/84",
+                    "venue": "Augusta Civic Center",
+                    "city": "Augusta",
+                    "state": "ME",
+                    "set1": [
+                        "Shakedown Street-> Greatest Story Ever Told",
+                        "Peggy-O",
+                        "Mama Tried-> Big River",
+                        "Ramble On Rose",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set2": [
+                        "Shakedown Street-> Greatest Story Ever Told",
+                        "Peggy-O",
+                        "Mama Tried-> Big River",
+                        "Ramble On Rose",
+                        "Looks Like Rain-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_53": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1572",
+                    "showdate": "10/12/84",
+                    "venue": "Augusta Civic Center",
+                    "city": "Augusta",
+                    "state": "ME",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "It Must Have Been The Roses",
+                        "On The Road Again",
+                        "Jack A Roe",
+                        "It's All Over Now",
+                        "Cumberland Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "It Must Have Been The Roses",
+                        "On The Road Again",
+                        "Jack A Roe",
+                        "It's All Over Now",
+                        "Cumberland Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "Final / last \"On The Road Again\"",
+                    "lastupdate": "2006-03-30 20:18:26",
+                    "showyear": "1984",
+                    "showsuserid": "toma"
+                },
+                "key_54": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1573",
+                    "showdate": "10/14/84",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Loser",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "I Need A Miracle-> Might As Well"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "My Brother Esau",
+                        "Loser",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "I Need A Miracle-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_55": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1574",
+                    "showdate": "10/15/84",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Hell In A Bucket-> Sugaree-> El Paso",
+                        "Bird Song",
+                        "CC Rider",
+                        "Tennessee Jed",
+                        "Jack Straw",
+                        "Day Job"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Sugaree-> El Paso",
+                        "Bird Song",
+                        "CC Rider",
+                        "Tennessee Jed",
+                        "Jack Straw",
+                        "Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_56": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1575",
+                    "showdate": "10/17/84",
+                    "venue": "Meadowlands Arena",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "set1": [
+                        "Iko Iko-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "My Brother Esau-> Brown Eyed Women",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Iko Iko-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "My Brother Esau-> Brown Eyed Women",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_57": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1576",
+                    "showdate": "10/18/84",
+                    "venue": "Meadowlands Arena",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Candyman",
+                        "Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Cassidy-> Althea",
+                        "Hell In A Bucket"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Candyman",
+                        "Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Cassidy-> Althea",
+                        "Hell In A Bucket"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "hamilton"
+                },
+                "key_58": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1577",
+                    "showdate": "10/20/84",
+                    "venue": "Carrier Dome, Syracuse U",
+                    "city": "Syracuse",
+                    "state": "NY",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "My Brother Esau",
+                        "Bird Song",
+                        "Jack Straw"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "My Brother Esau",
+                        "Bird Song",
+                        "Jack Straw"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_59": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1578",
+                    "showdate": "10/27/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket-> Sugaree",
+                        "It's All Over Now",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Dupree's Diamond Blues",
+                        "Beat It On Down The Line-> Might As Well"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Sugaree",
+                        "It's All Over Now",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Dupree's Diamond Blues",
+                        "Beat It On Down The Line-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_60": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1579",
+                    "showdate": "10/28/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Cold Rain & Snow-> My Brother Esau-> Althea-> CC Rider",
+                        "Bird Song",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow-> My Brother Esau-> Althea-> CC Rider",
+                        "Bird Song",
+                        "Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_61": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1580",
+                    "showdate": "10/30/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Dancin' In The Streets",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Dancin' In The Streets",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_62": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1581",
+                    "showdate": "10/31/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street",
+                        "Mama Tried-> Big River",
+                        "Ramble On Rose",
+                        "Minglewood Blues*-> Big Railroad Blues*",
+                        "Lazy Lightning-> Supplication",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "Mama Tried-> Big River",
+                        "Ramble On Rose",
+                        "Minglewood Blues*-> Big Railroad Blues*",
+                        "Lazy Lightning-> Supplication",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "*W/ Matt Kelly. ** One More Halloween Night",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_63": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1582",
+                    "showdate": "11/02/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw-> Peggy-O",
+                        "El Paso",
+                        "Loser",
+                        "Smokestack Lightning-> Spoonful",
+                        "Iko Iko"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Peggy-O",
+                        "El Paso",
+                        "Loser",
+                        "Smokestack Lightning-> Spoonful",
+                        "Iko Iko"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "hamilton"
+                },
+                "key_64": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1583",
+                    "showdate": "11/03/84",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "Down In The Bottom",
+                        "It Must Have Been The Roses",
+                        "The Music Never Stopped-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "Down In The Bottom",
+                        "It Must Have Been The Roses",
+                        "The Music Never Stopped-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1984",
+                    "showsuserid": "system"
+                },
+                "key_65": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "219995",
+                    "showdate": "12/18/84",
+                    "venue": "Studio",
+                    "city": "Studio",
+                    "state": "CA",
+                    "set1": [
+                        "Day tripper\r\nTons of steel\r\nJust like Tom Thumb's blues"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "12/18/84 GD Rehearsal\r\n\r\nThis was part of the KPFA Marathon broadcast on 2/22/2003 by David Gans\r\nIf you get these SHNs, please make a donation to KPFA:\r\n\r\nKPFA\r\n1929 Martin Luther King, Jr. Way\r\nBerkeley CA 94704 \r\n*OR* \r\nyou can pledge online at www.kpfa.org",
+                    "lastupdate": "2006-03-01 17:26:24",
+                    "showyear": "1984",
+                    "showsuserid": "kollektionist"
+                },
+                "key_66": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1584",
+                    "showdate": "12/28/84",
+                    "venue": "San Francisco Civic Auditorium",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "Touch Of Grey\nGreatest Story Ever Told\nDire Wolf\nTons Of Steel\nDown In The Bottom\nI Ain't Superstitious\nDupree's Diamond Blues\nMe &amp; My Uncle\nMexicali Blues\nWest L.A. Fadeaway\nMight As Well"
+                    ],
+                    "set2": [
+                        "Touch Of Grey\nGreatest Story Ever Told\nDire Wolf\nTons Of Steel\nDown In The Bottom\nI Ain't Superstitious\nDupree's Diamond Blues\nMe &amp; My Uncle\nMexicali Blues\nWest L.A. Fadeaway\nMight As Well"
+                    ],
+                    "set3": "",
+                    "comment": "Jerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
+                    "lastupdate": "2014-10-12 16:57:11",
+                    "showyear": "1984",
+                    "showsuserid": "schmoe75_DVD"
+                },
+                "key_67": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1585",
+                    "showdate": "12/29/84",
+                    "venue": "San Francisco Civic Auditorium",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "One More Saturday Night\nFriend Of The Devil\nMy Brother Esau\nBig Railroad Blues\nCassidy\nAlthea\nLet It Grow"
+                    ],
+                    "set2": [
+                        "One More Saturday Night\nFriend Of The Devil\nMy Brother Esau\nBig Railroad Blues\nCassidy\nAlthea\nLet It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "Jerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
+                    "lastupdate": "2014-10-19 07:38:52",
+                    "showyear": "1984",
+                    "showsuserid": "schmoe75_DVD"
+                },
+                "key_68": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1586",
+                    "showdate": "12/31/84",
+                    "venue": "San Francisco Civic Auditorium",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street\nNew Minglewood Blues\nPeggy-O\nJack Straw\nBird Song\nHell In A Bucket\nDon't Ease Me In"
+                    ],
+                    "set2": [
+                        "Shakedown Street\nNew Minglewood Blues\nPeggy-O\nJack Straw\nBird Song\nHell In A Bucket\nDon't Ease Me In"
+                    ],
+                    "set3": [
+                        "Shakedown Street\nNew Minglewood Blues\nPeggy-O\nJack Straw\nBird Song\nHell In A Bucket\nDon't Ease Me In"
+                    ],
+                    "comment": "Opening Acts - The Bobs, Dirty Dozen Brass Band\n\nJerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums",
+                    "lastupdate": "2014-10-19 20:42:20",
+                    "showyear": "1984",
+                    "showsuserid": "schmoe75_DVD"
+                },
+                "key_69": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "149438",
+                    "showdate": "??/??/84",
+                    "venue": "1984 Studio Material",
+                    "city": "San Rafael?",
+                    "state": "CA",
+                    "set1": "",
+                    "set2": "",
+                    "set3": "",
+                    "comment": "placeholder for various 1984 material broadcast by David Gans as part of KPFA Marathon on 2/22/2003",
+                    "lastupdate": "2013-10-19 12:45:31",
+                    "showyear": "1984",
+                    "showsuserid": "BeLikeMike"
+                }
+            },
+            "status": "success"
+        }
+    }
+}

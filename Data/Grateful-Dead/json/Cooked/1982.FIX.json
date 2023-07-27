@@ -1,0 +1,1952 @@
+{
+    "db_rest": {
+        "@generator": "zend",
+        "@version": "1.0",
+        "fetchArtistYear": {
+            "shows": {
+                "key_0": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "176443",
+                    "showdate": "01/01/82",
+                    "venue": "Mickey's ranch studio",
+                    "city": "Novato",
+                    "state": "CA",
+                    "set1": "",
+                    "set2": "",
+                    "set3": "",
+                    "comment": "studio recordings",
+                    "lastupdate": "2003-10-06 16:51:13",
+                    "showyear": "1982",
+                    "showsuserid": "hanno"
+                },
+                "key_1": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1393",
+                    "showdate": "02/16/82",
+                    "venue": "Warfield Theater",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street-> Greatest Story Ever Told",
+                        "Friend Of The Devil-> Little Red Rooster",
+                        "Peggy-O-> Me & My Uncle-> Big River",
+                        "Althea",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Shakedown Street-> Greatest Story Ever Told",
+                        "Friend Of The Devil-> Little Red Rooster",
+                        "Peggy-O-> Me & My Uncle-> Big River",
+                        "Althea",
+                        "Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "Benefit Concert",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_2": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1394",
+                    "showdate": "02/17/82",
+                    "venue": "Warfield Theater",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "Minglewood Blues-> Sugaree",
+                        "On The Road Again",
+                        "Bird Song-> CC Rider",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Loser",
+                        "Women Are Smarter"
+                    ],
+                    "set2": [
+                        "Minglewood Blues-> Sugaree",
+                        "On The Road Again",
+                        "Bird Song-> CC Rider",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Loser",
+                        "Women Are Smarter"
+                    ],
+                    "set3": "",
+                    "comment": "Benefit Concert",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_3": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1395",
+                    "showdate": "02/19/82",
+                    "venue": "Golden Hall, Community Concourse",
+                    "city": "San Diego",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Brown Eyed Women-> Cassidy",
+                        "Candyman",
+                        "El Paso",
+                        "Althea",
+                        "Minglewood Blues"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Dire Wolf",
+                        "Little Red Rooster",
+                        "Brown Eyed Women-> Cassidy",
+                        "Candyman",
+                        "El Paso",
+                        "Althea",
+                        "Minglewood Blues"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-02-15 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_4": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1396",
+                    "showdate": "02/20/82",
+                    "venue": "Golden Hall, Community Concourse",
+                    "city": "San Diego",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw",
+                        "They Love Each Other-> CC Rider",
+                        "Tennessee Jed",
+                        "Mama Tried-> Mexicali Blues",
+                        "To Lay Me Down-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "They Love Each Other-> CC Rider",
+                        "Tennessee Jed",
+                        "Mama Tried-> Mexicali Blues",
+                        "To Lay Me Down-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2003-02-15 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_5": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1397",
+                    "showdate": "02/21/82",
+                    "venue": "Pauley Pavilion, UCLA",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street-> Minglewood Blues",
+                        "Friend Of The Devil-> Me & My Uncle-> Big River",
+                        "Bird Song-> Little Red Rooster",
+                        "Bertha-> Women Are Smarter"
+                    ],
+                    "set2": [
+                        "Shakedown Street-> Minglewood Blues",
+                        "Friend Of The Devil-> Me & My Uncle-> Big River",
+                        "Bird Song-> Little Red Rooster",
+                        "Bertha-> Women Are Smarter"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_6": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1398",
+                    "showdate": "03/13/82",
+                    "venue": "Reno Centennial Coliseum",
+                    "city": "Reno",
+                    "state": "NV",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil-> CC Rider",
+                        "Brown Eyed Women-> Cassidy",
+                        "It Must Have Been The Roses",
+                        "Minglewood Blues-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil-> CC Rider",
+                        "Brown Eyed Women-> Cassidy",
+                        "It Must Have Been The Roses",
+                        "Minglewood Blues-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_7": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1399",
+                    "showdate": "03/14/82",
+                    "venue": "Recreation Hall, UC Davis",
+                    "city": "Davis",
+                    "state": "CA",
+                    "set1": [
+                        "One More Saturday Night-> Sugaree",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song-> Little Red Rooster",
+                        "Ramble On Rose-> Looks Like Rain",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "One More Saturday Night-> Sugaree",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song-> Little Red Rooster",
+                        "Ramble On Rose-> Looks Like Rain",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_8": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1400",
+                    "showdate": "04/02/82",
+                    "venue": "Cameron Indoor Stadium, Duke U",
+                    "city": "Durham",
+                    "state": "NC",
+                    "set1": [
+                        "Minglewood Blues-> Sugaree",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser",
+                        "Little Red Rooster",
+                        "Candyman",
+                        "Looks Like Rain-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Minglewood Blues-> Sugaree",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser",
+                        "Little Red Rooster",
+                        "Candyman",
+                        "Looks Like Rain-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "Jerry and Phil swap sides",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_9": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1401",
+                    "showdate": "04/03/82",
+                    "venue": "The Scope",
+                    "city": "Norfolk",
+                    "state": "VA",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Peggy-O-> CC Rider",
+                        "Bird Song",
+                        "It's All Over Now",
+                        "Althea-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Peggy-O-> CC Rider",
+                        "Bird Song",
+                        "It's All Over Now",
+                        "Althea-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_10": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1402",
+                    "showdate": "04/05/82",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Jack Straw",
+                        "Friend Of The Devil-> El Paso",
+                        "Deep Elem Blues-> Cassidy",
+                        "Tennessee Jed-> Little Red Rooster",
+                        "Althea",
+                        "Women Are Smarter"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Friend Of The Devil-> El Paso",
+                        "Deep Elem Blues-> Cassidy",
+                        "Tennessee Jed-> Little Red Rooster",
+                        "Althea",
+                        "Women Are Smarter"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_11": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1403",
+                    "showdate": "04/06/82",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Cold Rain & Snow-> Promised Land",
+                        "Candyman-> CC Rider",
+                        "Brown Eyed Women",
+                        "Mama Tried-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Looks Like Rain",
+                        "Jack A Roe",
+                        "It's All Over Now",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow-> Promised Land",
+                        "Candyman-> CC Rider",
+                        "Brown Eyed Women",
+                        "Mama Tried-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Looks Like Rain",
+                        "Jack A Roe",
+                        "It's All Over Now",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_12": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1404",
+                    "showdate": "04/08/82",
+                    "venue": "Onongada County War Memorial",
+                    "city": "Syracuse",
+                    "state": "NY",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Friend Of The Devil",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_13": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1405",
+                    "showdate": "04/09/82",
+                    "venue": "Community War Memorial Auditorium",
+                    "city": "Rochester",
+                    "state": "NY",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf-> CC Rider",
+                        "Bird Song",
+                        "It's All Over Now",
+                        "Loser",
+                        "Minglewood Blues",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf-> CC Rider",
+                        "Bird Song",
+                        "It's All Over Now",
+                        "Loser",
+                        "Minglewood Blues",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_14": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1406",
+                    "showdate": "04/11/82",
+                    "venue": "Nassau Coliseum",
+                    "city": "Uniondale",
+                    "state": "NY",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower-> El Paso",
+                        "Candyman-> Little Red Rooster",
+                        "Althea-> Beat It On Down The Line",
+                        "Row Jimmy",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower-> El Paso",
+                        "Candyman-> Little Red Rooster",
+                        "Althea-> Beat It On Down The Line",
+                        "Row Jimmy",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_15": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1407",
+                    "showdate": "04/12/82",
+                    "venue": "Nassau Coliseum",
+                    "city": "Uniondale",
+                    "state": "NY",
+                    "set1": [
+                        "Iko Iko &gt; Minglewood Blues",
+                        "Peggy-O",
+                        "Mama Tried",
+                        "Mexicali Blues",
+                        "Bird Song",
+                        "C.C. Rider",
+                        "Tennessee Jed",
+                        "Looks Like Rain",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Iko Iko &gt; Minglewood Blues",
+                        "Peggy-O",
+                        "Mama Tried",
+                        "Mexicali Blues",
+                        "Bird Song",
+                        "C.C. Rider",
+                        "Tennessee Jed",
+                        "Looks Like Rain",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2011-07-28 11:58:03",
+                    "showyear": "1982",
+                    "showsuserid": "mirkman"
+                },
+                "key_16": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1408",
+                    "showdate": "04/13/82",
+                    "venue": "NBC Studios",
+                    "city": "New York",
+                    "state": "NY",
+                    "set1": [
+                        "Interview",
+                        "Deep Elem Blues",
+                        "Interview",
+                        "Monkey & The Engineer"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Late Night w/ David Letterman",
+                    "lastupdate": "2004-09-06 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "mvernon"
+                },
+                "key_17": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1409",
+                    "showdate": "04/14/82",
+                    "venue": "Glens Falls Civic Center",
+                    "city": "Glens Falls",
+                    "state": "NY",
+                    "set1": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "Me And My Uncle &gt; Big River",
+                        "Deep Elem Blues",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Lazy Lightning &gt; Supplication &gt; Bertha"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "Me And My Uncle &gt; Big River",
+                        "Deep Elem Blues",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Lazy Lightning &gt; Supplication &gt; Bertha"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2008-04-06 23:43:11",
+                    "showyear": "1982",
+                    "showsuserid": "aikox2"
+                },
+                "key_18": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1410",
+                    "showdate": "04/15/82",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Candyman-> CC Rider",
+                        "Ramble On Rose",
+                        "Beat It On Down The Line",
+                        "Peggy-O-> Cassidy-> Althea-> Looks Like Rain-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Candyman-> CC Rider",
+                        "Ramble On Rose",
+                        "Beat It On Down The Line",
+                        "Peggy-O-> Cassidy-> Althea-> Looks Like Rain-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_19": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1411",
+                    "showdate": "04/17/82",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Minglewood Blues-> Sugaree-> El Paso",
+                        "Jack A Roe-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Bird Song-> Women Are Smarter"
+                    ],
+                    "set2": [
+                        "Minglewood Blues-> Sugaree-> El Paso",
+                        "Jack A Roe-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Bird Song-> Women Are Smarter"
+                    ],
+                    "set3": "",
+                    "comment": "*Without Jerry",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "mikeinboone"
+                },
+                "key_20": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1412",
+                    "showdate": "04/18/82",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Bertha-> Promised Land",
+                        "Friend Of The Devil-> CC Rider",
+                        "Ramble On Rose",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea-> Looks Like Rain",
+                        "Big Railroad Blues-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Bertha-> Promised Land",
+                        "Friend Of The Devil-> CC Rider",
+                        "Ramble On Rose",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea-> Looks Like Rain",
+                        "Big Railroad Blues-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "*Phil's Earthquake space",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_21": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1413",
+                    "showdate": "04/19/82",
+                    "venue": "Baltimore Civic Center",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "set1": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "On The Road Again",
+                        "Peggy-O",
+                        "Cassidy",
+                        "It Must Have Been The Roses-> Little Red Rooster",
+                        "Cumberland Blues-> Women Are Smarter-> Might As Well"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "On The Road Again",
+                        "Peggy-O",
+                        "Cassidy",
+                        "It Must Have Been The Roses-> Little Red Rooster",
+                        "Cumberland Blues-> Women Are Smarter-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "*Phil recites The Raven",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_22": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1414",
+                    "showdate": "05/21/82",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Big River",
+                        "Bird Song-> CC Rider",
+                        "Althea-> Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Me & My Uncle-> Big River",
+                        "Bird Song-> CC Rider",
+                        "Althea-> Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_23": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1415",
+                    "showdate": "05/22/82",
+                    "venue": "Greek Theatre, Univ. of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw-> Sugaree",
+                        "Cassidy",
+                        "Tennessee Jed-> Minglewood Blues",
+                        "Cumberland Blues",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Sugaree",
+                        "Cassidy",
+                        "Tennessee Jed-> Minglewood Blues",
+                        "Cumberland Blues",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2010-06-26 14:44:23",
+                    "showyear": "1982",
+                    "showsuserid": "MusicNevStopped"
+                },
+                "key_24": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1416",
+                    "showdate": "05/23/82",
+                    "venue": "Greek Theatre, Univ. of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Shakedown Street-> Promised Land",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser-> Little Red Rooster",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Shakedown Street-> Promised Land",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser-> Little Red Rooster",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "*Miked a Harley Davidson Motorcycle during drums",
+                    "lastupdate": "2010-06-26 14:45:11",
+                    "showyear": "1982",
+                    "showsuserid": "MusicNevStopped"
+                },
+                "key_25": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1417",
+                    "showdate": "05/28/82",
+                    "venue": "Moscone Convention Center",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway\nGreatest Story Ever Told\nAlthea\nLittle Red Rooster\nTennessee Jed\nTruckin'\nDrums *#\nSpace\nGoin' Down The Road Feelin' Bad\nNot Fade Away ^"
+                    ],
+                    "set2": [
+                        "Alabama Getaway\nGreatest Story Ever Told\nAlthea\nLittle Red Rooster\nTennessee Jed\nTruckin'\nDrums *#\nSpace\nGoin' Down The Road Feelin' Bad\nNot Fade Away ^"
+                    ],
+                    "set3": "",
+                    "comment": "Vietnam Veterans Benefit\nCountry Joe & Jefferson Starship Opened\n\nJerry Garcia - Guitar\nBob Weir - Guitar\nBrent Mydland - Keyboards\nPhil Lesh - Bass\nBill Kreutzmann - Drums\nMickey Hart - Drums\nAirto Moreira - Drums\nFlora Purim - Vocals *\nBoz Skaggs - Guitar, Vocals #\nJohn Cippolina - Guitar ^",
+                    "lastupdate": "2014-06-16 20:48:43",
+                    "showyear": "1982",
+                    "showsuserid": "schmoe75_DVD"
+                },
+                "key_26": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1418",
+                    "showdate": "07/17/82",
+                    "venue": "Ventura County Fairgrounds",
+                    "city": "Ventura",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Althea-> Little Red Rooster",
+                        "Tennessee Jed-> Truckin'"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Althea-> Little Red Rooster",
+                        "Tennessee Jed-> Truckin'"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_27": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1419",
+                    "showdate": "07/18/82",
+                    "venue": "Ventura County Fairgrounds",
+                    "city": "Ventura",
+                    "state": "CA",
+                    "set1": [
+                        "Minglewood Blues",
+                        "Friend Of The Devil",
+                        "Mama Tried &gt; Mexicali Blues",
+                        "Loser",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Looks Like Rain &gt; Deal"
+                    ],
+                    "set2": [
+                        "Minglewood Blues",
+                        "Friend Of The Devil",
+                        "Mama Tried &gt; Mexicali Blues",
+                        "Loser",
+                        "Cassidy",
+                        "Ramble On Rose",
+                        "Looks Like Rain &gt; Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2009-08-15 23:21:01",
+                    "showyear": "1982",
+                    "showsuserid": "albert_pujols"
+                },
+                "key_28": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1420",
+                    "showdate": "07/25/82",
+                    "venue": "Compton Terrace Amphitheatre",
+                    "city": "Tempe",
+                    "state": "AZ",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower-> CC Rider",
+                        "Bird Song",
+                        "El Paso",
+                        "Candyman",
+                        "Lost Sailor-> Saint Of Circumstance-> Deal"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower-> CC Rider",
+                        "Bird Song",
+                        "El Paso",
+                        "Candyman",
+                        "Lost Sailor-> Saint Of Circumstance-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_29": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1421",
+                    "showdate": "07/27/82",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Jack Straw-> Sugaree",
+                        "On The Road Again",
+                        "It Must Have Been The Roses",
+                        "Me & My Uncle-> Big River",
+                        "Peggy-O-> Little Red Rooster",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Sugaree",
+                        "On The Road Again",
+                        "It Must Have Been The Roses",
+                        "Me & My Uncle-> Big River",
+                        "Peggy-O-> Little Red Rooster",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_30": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1422",
+                    "showdate": "07/28/82",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Shakedown Street",
+                        "Beat It On Down The Line-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "Beat It On Down The Line-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Big Railroad Blues",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_31": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1423",
+                    "showdate": "07/29/82",
+                    "venue": "Red Rocks Ampitheatre",
+                    "city": "Morrison",
+                    "state": "CO",
+                    "set1": [
+                        "Minglewood Blues-> Friend Of The Devil",
+                        "Cassidy",
+                        "Loser",
+                        "Feel Like A Stranger",
+                        "Tennessee Jed-> Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Minglewood Blues-> Friend Of The Devil",
+                        "Cassidy",
+                        "Loser",
+                        "Feel Like A Stranger",
+                        "Tennessee Jed-> Looks Like Rain",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_32": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1424",
+                    "showdate": "07/31/82",
+                    "venue": "Manor Downs",
+                    "city": "Austin",
+                    "state": "TX",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Candyman",
+                        "El Paso",
+                        "Bird Song-> Little Red Rooster",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Brown Eyed Women",
+                        "The Music Never Stopped",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Candyman",
+                        "El Paso",
+                        "Bird Song-> Little Red Rooster",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Brown Eyed Women",
+                        "The Music Never Stopped",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_33": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1425",
+                    "showdate": "08/01/82",
+                    "venue": "Zoo Amphitheater",
+                    "city": "Oklahoma City",
+                    "state": "OK",
+                    "set1": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Tennessee Jed",
+                        "Me & My Uncle-> Big River",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Tennessee Jed",
+                        "Me & My Uncle-> Big River",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_34": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1426",
+                    "showdate": "08/03/82",
+                    "venue": "Starlight Theater",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower-> Minglewood Blues",
+                        "Peggy-O",
+                        "El Paso",
+                        "Cumberland Blues",
+                        "Althea-> Cassidy-> Big Railroad Blues",
+                        "Women Are Smarter",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower-> Minglewood Blues",
+                        "Peggy-O",
+                        "El Paso",
+                        "Cumberland Blues",
+                        "Althea-> Cassidy-> Big Railroad Blues",
+                        "Women Are Smarter",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_35": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1427",
+                    "showdate": "08/04/82",
+                    "venue": "Kiel Auditorium",
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil-> CC Rider",
+                        "Brown Eyed Women",
+                        "Mama Tried",
+                        "Mexicali Blues",
+                        "Row Jimmy-> Looks Like Rain",
+                        "Stagger Lee",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil-> CC Rider",
+                        "Brown Eyed Women",
+                        "Mama Tried",
+                        "Mexicali Blues",
+                        "Row Jimmy-> Looks Like Rain",
+                        "Stagger Lee",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_36": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1428",
+                    "showdate": "08/06/82",
+                    "venue": "St. Paul Civic Center",
+                    "city": "St. Paul",
+                    "state": "MN",
+                    "set1": [
+                        "Bertha-> Minglewood Blues-> Candyman",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "El Paso",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Lazy Lightning-> Supplication-> Might As Well"
+                    ],
+                    "set2": [
+                        "Bertha-> Minglewood Blues-> Candyman",
+                        "Little Red Rooster",
+                        "Bird Song",
+                        "El Paso",
+                        "Tennessee Jed",
+                        "It's All Over Now",
+                        "Lazy Lightning-> Supplication-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_37": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1429",
+                    "showdate": "08/07/82",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "The Music Never Stopped-> Sugaree-> The Music Never Stopped",
+                        "Me & My Uncle-> Big River",
+                        "It Must Have Been The Roses",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "Beat It On Down The Line-> On The Road Again",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "The Music Never Stopped-> Sugaree-> The Music Never Stopped",
+                        "Me & My Uncle-> Big River",
+                        "It Must Have Been The Roses",
+                        "CC Rider",
+                        "Ramble On Rose",
+                        "Beat It On Down The Line-> On The Road Again",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "Available as <a href=\"http://dead.net/merchandising/music/DECD232/\">Dick's Picks Volume 32</a>.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "mvernon"
+                },
+                "key_38": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1430",
+                    "showdate": "08/08/82",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Looks Like Rain",
+                        "Peggy-O",
+                        "Samson & Delilah"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "They Love Each Other",
+                        "Mama Tried-> Mexicali Blues",
+                        "Loser-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Looks Like Rain",
+                        "Peggy-O",
+                        "Samson & Delilah"
+                    ],
+                    "set3": "",
+                    "comment": "*W Zakir Hussain, **Other artist(s): with John Cippolina",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_39": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1431",
+                    "showdate": "08/10/82",
+                    "venue": "University of Iowa",
+                    "city": "Iowa City",
+                    "state": "IA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Cassidy",
+                        "It Must Have Been The Roses",
+                        "Beer Barrel Polka-> On The Road Again-> Beat It On Down The Line",
+                        "Stagger Lee",
+                        "I Need A Miracle-> Bertha"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "Minglewood Blues",
+                        "Tennessee Jed",
+                        "Cassidy",
+                        "It Must Have Been The Roses",
+                        "Beer Barrel Polka-> On The Road Again-> Beat It On Down The Line",
+                        "Stagger Lee",
+                        "I Need A Miracle-> Bertha"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_40": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "221074",
+                    "showdate": "08/22/82",
+                    "venue": "Club Front",
+                    "city": "San Rafael",
+                    "state": "CA",
+                    "set1": [
+                        "West L.A. Fadeaway\r\nDupree's Diamond Blues #\r\nDupree's Diamond Blues \r\nnoodling\r\nTouch of Grey\r\ntalking"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "# - The songs breaks down after the 1st verse or so\r\n-The recording is cut short according to tthe DHTC (missing the \r\n 2nd Touch of Grey and the 2 takes of Keep Your Day Job).",
+                    "lastupdate": "2004-07-28 14:59:21",
+                    "showyear": "1982",
+                    "showsuserid": "crmass"
+                },
+                "key_41": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1432",
+                    "showdate": "08/28/82",
+                    "venue": "Oregon Country Fair",
+                    "city": "Veneta",
+                    "state": "OR",
+                    "set1": [
+                        "Bertha-> Minglewood Blues",
+                        "Tennessee Jed",
+                        "Me & My Uncle-> Big River",
+                        "Althea",
+                        "It's All Over Now",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Bertha-> Minglewood Blues",
+                        "Tennessee Jed",
+                        "Me & My Uncle-> Big River",
+                        "Althea",
+                        "It's All Over Now",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "Springfield Creamery Presents the Second Decadenal Field TripOther artist(s): Peter Rowan; The Flying Karamozov Brothers; Strangers with Candy; Robert Cray Band;Tattoo\r\n\r\nHeld at the site of the Oregon Country Fair Grounds.  It is NOT the Oregon State Fair Grounds NOR the Oregon County Fair Grounds.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "mvernon"
+                },
+                "key_42": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1433",
+                    "showdate": "08/29/82",
+                    "venue": "Seattle Center Coliseum",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "set1": [
+                        "Jack Straw-> Big Railroad Blues",
+                        "Mama Tried-> Mexicali Blues",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Loser",
+                        "Cassidy",
+                        "It Must Have Been The Roses",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Big Railroad Blues",
+                        "Mama Tried-> Mexicali Blues",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Loser",
+                        "Cassidy",
+                        "It Must Have Been The Roses",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_43": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1434",
+                    "showdate": "09/05/82",
+                    "venue": "Glen Helen Regional Park",
+                    "city": "Devore",
+                    "state": "CA",
+                    "set1": [
+                        "Playin' In The Band-> Shakedown Street-> Minglewood Blues",
+                        "Samson & Delilah",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Playin' In The Band-> Shakedown Street-> Minglewood Blues",
+                        "Samson & Delilah",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "*Second Encore Performed 930 AM Us Festival",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_44": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1435",
+                    "showdate": "09/09/82",
+                    "venue": "Saenger Performing Arts Center",
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower",
+                        "Feel Like A Stranger",
+                        "West L.A. Fadeaway",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower",
+                        "Feel Like A Stranger",
+                        "West L.A. Fadeaway",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_45": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1436",
+                    "showdate": "09/11/82",
+                    "venue": "West Palm Beach Auditorium",
+                    "city": "West Palm Beach",
+                    "state": "FL",
+                    "set1": [
+                        "Minglewood Blues",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "CC Rider",
+                        "Loser",
+                        "Looks Like Rain",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Minglewood Blues",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "CC Rider",
+                        "Loser",
+                        "Looks Like Rain",
+                        "Tennessee Jed",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_46": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1437",
+                    "showdate": "09/12/82",
+                    "venue": "Lakeland Civic Center",
+                    "city": "Lakeland",
+                    "state": "FL",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Cassidy",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "It's All Over Now",
+                        "Might As Well"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Friend Of The Devil",
+                        "Cassidy",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "It's All Over Now",
+                        "Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_47": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1438",
+                    "showdate": "09/14/82",
+                    "venue": "University of Virginia",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "set1": [
+                        "Jack Straw",
+                        "Peggy-O-> CC Rider",
+                        "Big Railroad Blues",
+                        "El Paso",
+                        "Bird Song",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Peggy-O-> CC Rider",
+                        "Big Railroad Blues",
+                        "El Paso",
+                        "Bird Song",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_48": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1439",
+                    "showdate": "09/15/82",
+                    "venue": "Capital Centre",
+                    "city": "Landover",
+                    "state": "MD",
+                    "set1": [
+                        "Playin' In The Band-> Crazy Fingers-> Little Red Rooster",
+                        "Dupree's Diamond Blues-> Beat It On Down The Line",
+                        "It Must Have Been The Roses-> Let It Grow-> Day Job"
+                    ],
+                    "set2": [
+                        "Playin' In The Band-> Crazy Fingers-> Little Red Rooster",
+                        "Dupree's Diamond Blues-> Beat It On Down The Line",
+                        "It Must Have Been The Roses-> Let It Grow-> Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_49": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1440",
+                    "showdate": "09/17/82",
+                    "venue": "Cumberland County Civic Center",
+                    "city": "Portland",
+                    "state": "ME",
+                    "set1": [
+                        "Bertha-> Promised Land",
+                        "Candyman-> CC Rider",
+                        "Althea",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "It's All Over Now",
+                        "West L.A. Fadeaway",
+                        "Throwing Stones",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Bertha-> Promised Land",
+                        "Candyman-> CC Rider",
+                        "Althea",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "It's All Over Now",
+                        "West L.A. Fadeaway",
+                        "Throwing Stones",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_50": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1441",
+                    "showdate": "09/18/82",
+                    "venue": "Boston Garden",
+                    "city": "Boston",
+                    "state": "MA",
+                    "set1": [
+                        "Jack Straw-> Sugaree",
+                        "Mama Tried-> Mexicali Blues",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "Far From Me"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Sugaree",
+                        "Mama Tried-> Mexicali Blues",
+                        "West L.A. Fadeaway-> Little Red Rooster",
+                        "Dupree's Diamond Blues",
+                        "Cassidy",
+                        "Far From Me"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_51": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1442",
+                    "showdate": "09/20/82",
+                    "venue": "Madison Square Garden",
+                    "city": "New York",
+                    "state": "NY",
+                    "set1": [
+                        "Shakedown Street-> Minglewood Blues",
+                        "Candyman-> El Paso",
+                        "Dupree's Diamond Blues",
+                        "It's All Over Now",
+                        "Good Time Blues",
+                        "Row Jimmy",
+                        "Throwing Stones-> Day Job"
+                    ],
+                    "set2": [
+                        "Shakedown Street-> Minglewood Blues",
+                        "Candyman-> El Paso",
+                        "Dupree's Diamond Blues",
+                        "It's All Over Now",
+                        "Good Time Blues",
+                        "Row Jimmy",
+                        "Throwing Stones-> Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-06 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_52": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1443",
+                    "showdate": "09/21/82",
+                    "venue": "Madison Square Garden",
+                    "city": "New York",
+                    "state": "NY",
+                    "set1": [
+                        "Playin' In The Band-> Crazy Fingers-> Me & My Uncle-> Big River",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line-> Loser",
+                        "Looks Like Rain",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Playin' In The Band-> Crazy Fingers-> Me & My Uncle-> Big River",
+                        "West L.A. Fadeaway",
+                        "Beat It On Down The Line-> Loser",
+                        "Looks Like Rain",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-06 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_53": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1444",
+                    "showdate": "09/23/82",
+                    "venue": "Veterans' Memorial Coliseum",
+                    "city": "New Haven",
+                    "state": "CT",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Peggy-O-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Peggy-O-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_54": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1445",
+                    "showdate": "09/24/82",
+                    "venue": "Carrier Dome, Syracuse U",
+                    "city": "Syracuse",
+                    "state": "NY",
+                    "set1": [
+                        "Jack Straw",
+                        "Friend Of The Devil-> CC Rider",
+                        "Ramble On Rose",
+                        "Minglewood Blues",
+                        "Bird Song-> Looks Like Rain",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Friend Of The Devil-> CC Rider",
+                        "Ramble On Rose",
+                        "Minglewood Blues",
+                        "Bird Song-> Looks Like Rain",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_55": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1446",
+                    "showdate": "10/09/82",
+                    "venue": "Frost Amphitheatre",
+                    "city": "Palo Alto",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "On The Road Again-> Beat It On Down The Line",
+                        "West L.A. Fadeaway",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "The Music Never Stopped-> Deal"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "They Love Each Other",
+                        "On The Road Again-> Beat It On Down The Line",
+                        "West L.A. Fadeaway",
+                        "Me & My Uncle-> Big River",
+                        "Dupree's Diamond Blues",
+                        "The Music Never Stopped-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_56": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1447",
+                    "showdate": "10/10/82",
+                    "venue": "Frost Amphitheatre",
+                    "city": "Palo Alto",
+                    "state": "CA",
+                    "set1": [
+                        "Minglewood Blues-> Sugaree-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Cassidy",
+                        "Loser",
+                        "Far From Me",
+                        "Looks Like Rain-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Minglewood Blues-> Sugaree-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Cassidy",
+                        "Loser",
+                        "Far From Me",
+                        "Looks Like Rain-> China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_57": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1448",
+                    "showdate": "10/17/82",
+                    "venue": "Santa Fe Downs",
+                    "city": "Santa Fe",
+                    "state": "NM",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower-> Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Women Are Smarter",
+                        "Ramble On Rose",
+                        "Let It Grow-> Deal"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower-> Minglewood Blues",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Women Are Smarter",
+                        "Ramble On Rose",
+                        "Let It Grow-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_58": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "515941",
+                    "showdate": "11/25/82",
+                    "venue": "Bob Marley Performing Arts Center",
+                    "city": "Montego Bay",
+                    "state": "Jamaica",
+                    "set1": [
+                        "Sugaree\r\nNew Minglewood Blues\r\nLoser\r\nMan Smart (Woman Smarter)\r\nAlthea ->\r\nLet It Grow"
+                    ],
+                    "set2": [
+                        "Sugaree\r\nNew Minglewood Blues\r\nLoser\r\nMan Smart (Woman Smarter)\r\nAlthea ->\r\nLet It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "Jamaica World Music Festival",
+                    "lastupdate": "2011-04-12 09:54:35",
+                    "showyear": "1982",
+                    "showsuserid": "Wharfrat73"
+                },
+                "key_59": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1450",
+                    "showdate": "12/26/82",
+                    "venue": "Oakland Auditorium Arena",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea",
+                        "Cassidy",
+                        "Candyman-> It's All Over Now",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Mama Tried-> Mexicali Blues",
+                        "Althea",
+                        "Cassidy",
+                        "Candyman-> It's All Over Now",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_60": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1451",
+                    "showdate": "12/27/82",
+                    "venue": "Oakland Auditorium Arena",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Bird Song-> Beat It On Down The Line",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Brown Eyed Women-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "Bird Song-> Beat It On Down The Line",
+                        "They Love Each Other",
+                        "Me & My Uncle-> Big River",
+                        "Brown Eyed Women-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_61": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1452",
+                    "showdate": "12/28/82",
+                    "venue": "Oakland Auditorium Arena",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw",
+                        "Tennessee Jed-> El Paso",
+                        "Friend Of The Devil",
+                        "On The Road Again-> Touch Of Gray",
+                        "Women Are Smarter",
+                        "Dire Wolf",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Tennessee Jed-> El Paso",
+                        "Friend Of The Devil",
+                        "On The Road Again-> Touch Of Gray",
+                        "Women Are Smarter",
+                        "Dire Wolf",
+                        "Lazy Lightning-> Supplication-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_62": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1453",
+                    "showdate": "12/30/82",
+                    "venue": "Oakland Auditorium Arena",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Loser-> Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Feel Like A Stranger",
+                        "Dupree's Diamond Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Loser-> Little Red Rooster",
+                        "Big Railroad Blues",
+                        "Feel Like A Stranger",
+                        "Dupree's Diamond Blues",
+                        "The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "*W Etta James & Tower of Power Horns",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_63": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1454",
+                    "showdate": "12/31/82",
+                    "venue": "Oakland Auditorium Arena",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Cold Rain & Snow",
+                        "CC Rider***",
+                        "Cumberland Blues",
+                        "Far From Me-> Cassidy",
+                        "Ramble On Rose",
+                        "Looks Like Rain",
+                        "Day Job"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow",
+                        "CC Rider***",
+                        "Cumberland Blues",
+                        "Far From Me-> Cassidy",
+                        "Ramble On Rose",
+                        "Looks Like Rain",
+                        "Day Job"
+                    ],
+                    "set3": [
+                        "Cold Rain & Snow",
+                        "CC Rider***",
+                        "Cumberland Blues",
+                        "Far From Me-> Cassidy",
+                        "Ramble On Rose",
+                        "Looks Like Rain",
+                        "Day Job"
+                    ],
+                    "comment": "*w/ Matt Kelly **w/ John Cippolina. Etta James and Tower of Power Horns played third set",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1982",
+                    "showsuserid": "system"
+                },
+                "key_64": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "238368",
+                    "showdate": "??/??/82",
+                    "venue": "Greek Theatre - Peeks at the Greeks '82",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw(5/22)\r\nSugaree(5/22)\r\nLazy Lightening>Supplication(5/22)\r\nBird Song(5/21)\r\nLet It Grow(5/23)\r\nChina Cat Sunflower(5/22)\r\nI Know You Rider(5/22)\r\nLost Sailor(5/22)\r\nSaint of Circumstance(5/22)\r\nSpanish Jam(4/17)"
+                    ],
+                    "set2": [
+                        "Jack Straw(5/22)\r\nSugaree(5/22)\r\nLazy Lightening>Supplication(5/22)\r\nBird Song(5/21)\r\nLet It Grow(5/23)\r\nChina Cat Sunflower(5/22)\r\nI Know You Rider(5/22)\r\nLost Sailor(5/22)\r\nSaint of Circumstance(5/22)\r\nSpanish Jam(4/17)"
+                    ],
+                    "set3": "",
+                    "comment": "Peeks at the Greeks '82 - Greek '82 Highlights.",
+                    "lastupdate": "2006-02-20 17:27:00",
+                    "showyear": "1982",
+                    "showsuserid": "cm_hayden"
+                }
+            },
+            "status": "success"
+        }
+    }
+}

@@ -1,0 +1,214 @@
+
+Year: 1976
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-53a3cb56-bab1-403b-9e66-0028c4301837", "Grateful Dead", "2", "48681",  "05/06/76", "Studio", "Unknown", "Unknown",  "", "", "", "Rehearsal (mostly Cosmic Charlie)",  "2006-02-09 14:35:32", "1976", "crmass", "05". "06") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5ee08f03-1155-48f0-8cca-4d00fdad003e", "Grateful Dead", "2", "61329",  "05/28/76", "Le Club Front Studios", "San Rafael", "Ca",  "Lazy Lightning x3
+Attics of my life x3
+cassidy x2
+Cosmic Charlie", "", "", "Tour Rehearsal",  "2001-05-30 14:10:30", "1976", "newgrass", "05". "28") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-424a7cca-262b-4909-ae52-3cd8e8741dc8", "Grateful Dead", "2", "68582",  "05/29/76", "Studio Reheasal", "Novato", "CA",  "Eyes of the World
+Playin in the Band
+Jam
+Playin in the Band
+Eyes of the World (2x)
+Lazy Lightning", "", "", "",  "2001-09-11 07:45:19", "1976", "ckiefe", "05". "29") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-96b93f41-86e6-4015-87d3-d7206cf4b4b7", "Grateful Dead", "2", "68583",  "05/30/76", "Club Le Front", "San Rafael", "CA",  "Wharf Rat (2x)
+The Wheel
+Lazy Lightning
+Candyman", "", "", "",  "2007-06-22 14:45:57", "1976", "rcdupre", "05". "30") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8780837b-f2ab-4c13-ad97-59af20c94f82", "Grateful Dead", "2", "947",  "06/03/76", "Paramount Theatre", "Portland", "OR",  "Might As Well, Cassidy, Row Jimmy, Looks Like Rain, They Love Each Other, Lazy Lightning, Supplication, Candyman, The Music Never Stopped, Scarlet Begonias, Dancin In The Streets", "Samson & Delilah, Crazy Fingers-> Wharf Rat-> Let It Grow-> Drums-> It Must Have Been The Roses-> Around & Around-> Help On The Way-> Slipknot!-> Franklins Tower-> One More Saturday Night, E: The Wheel", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "03") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-666dff59-0bae-48bc-a740-029a79d3a8d5", "Grateful Dead", "2", "948",  "06/04/76", "Paramount Theatre", "Portland", "OR",  "Promised Land, Friend Of The Devil, Mama Tried, Sugaree, Cassidy, Candyman, Big River, Brown Eyed Women, Lazy Lightning-> Supplication, Mission In The Rain, Looks Like Rain, Help On The Way-> Slipknot!-> Franklins Tower", "Playin In The Band, Might As Well, Samson & Delilah, Cosmic Charlie-> Let It Grow-> Drums-> Stella Blue, Dancin In The Streets, U.S. Blues, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "04") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6ac6ceaf-3ae2-4775-9f19-6f610d783e7a", "Grateful Dead", "2", "949",  "06/09/76", "Music Hall", "Boston", "MA",  "Cold Rain & Snow, Cassidy, Scarlet Begonias, The Music Never Stopped, Crazy Fingers, Big River, They Love Each Other, Looks Like Rain, Ship of Fools, Promised Land", "Saint Stephen-> Eyes Of The World-> Let It Grow-> Drums-> Let It Grow, Brown Eyed Women, Lazy Lightning-> Supplication, High Time, Samson & Delilah, It Must Have Been The Roses, Dancin In The Streets-> Wharf Rat-> Around & Around, E: Franklins Tower", "", "",  "2008-10-07 17:19:31", "1976", "system", "06". "09") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2060b0d4-eb7c-4f7b-9c7a-67c12198cee7", "Grateful Dead", "2", "950",  "06/10/76", "Music Hall", "Boston", "MA",  "Promised Land, Sugaree, Cassidy, They Love Each Other, The Music Never Stopped, Brown Eyed Women, Lazy Lightning-> Supplication, Row Jimmy, Big River, Mission In The Rain, Looks Like Rain, Might As Well", "Samson & Delilah, Help On The Way-> Slipknot!-> Franklins Tower-> Let It Grow-> Drums-> Friend Of The Devil, Playin In The Band-> Dancin In The Streets-> U.S. Blues", "", "",  "2008-10-07 17:19:32", "1976", "system", "06". "10") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f05866c0-89a1-4f29-b3da-53867004a543", "Grateful Dead", "2", "951",  "06/11/76", "Music Hall", "Boston", "MA",  "Might As Well, Mama Tried, Tennessee Jed, Cassidy, Candyman, Big River, Scarlet Begonias-> Looks Like Rain, It Must Have Been The Roses, Lazy Lightning-> Supplication, Brown Eyed Women, Promised Land", "Saint Stephen-> Dancin In The Streets-> The Music Never Stopped, Ship of Fools, Samson & Delilah, Sugaree, Sugar Magnolia-> Eyes Of The World-> Stella Blue-> Sunshine Daydream, E: Johnny B. Goode", "", "",  "2008-10-07 17:19:34", "1976", "hamilton", "06". "11") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-cc5492f3-50d2-43b6-973a-eabbbbc60ffd", "Grateful Dead", "2", "952",  "06/12/76", "Music Hall", "Boston", "MA",  "Samson & Delilah, Row Jimmy, The Music Never Stopped, Brown Eyed Women, Big River, Looks Like Rain, Friend Of The Devil, Lazy Lightning > Supplication, High Time", "The Wheel, Cassidy, Tennessee Jed-> Let It Grow-> Drums-> Let It Grow-> Wharf Rat-> Comes A Time-> Dancin In The Streets-> Around & Around, E:Sugar Magnolia-> E:U.S. Blues-> E: Sunshine Daydream", "", "FM Broadcast WBCN Boston",  "2008-10-07 17:19:35", "1976", "hamilton", "06". "12") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5f6bf5e8-b015-4ea4-bf38-f371e656c639", "Grateful Dead", "2", "953",  "06/14/76", "Beacon Theatre", "New York", "NY",  "Cold Rain & Snow, Mama Tried, Row Jimmy, Cassidy, Brown Eyed Women, Big River, Might As Well, Lazy Lightning-> Supplication, Tennessee Jed, Playin In The Band", "The Wheel, Samson & Delilah, High Time, The Music Never Stopped, Crazy Fingers-> Dancin In The Streets-> Cosmic Charlie-> Help On The Way-> Slipknot!-> Franklins Tower-> Around & Around, E: U.S. Blues", "", "",  "2003-03-18 00:00:00", "1976", "hamilton", "06". "14") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f325de18-5359-4927-8cbc-0c11489cf153", "Grateful Dead", "2", "954",  "06/15/76", "Beacon Theatre", "New York", "NY",  "Promised Land, Sugaree, Cassidy, Candyman, The Music Never Stopped, It Must Have Been The Roses, Looks Like Rain, Tennessee Jed, Let It Grow-> Might As Well", "Saint Stephen-> Not Fade Away-> Drums-> Stella Blue, Samson & Delilah, Friend Of The Devil, Dancin In The Streets-> The Wheel-> Sugar Magnolia-> Scarlet Begonias-> Sunshine Daydream, E: Johnny B. Goode", "", "",  "2002-05-06 00:00:00", "1976", "diana", "06". "15") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4ac68e26-04ba-4359-82b6-e48d5c58c501", "Grateful Dead", "2", "955",  "06/17/76", "Capitol Theater", "Passaic", "NJ",  "Cold Rain & Snow, Big River, They Love Each Other, Cassidy, Tennessee Jed, Looks Like Rain, Row Jimmy, Promised Land", "Help On The Way-> Slipknot!-> Franklins Tower-> Dancin In The Streets-> Samson & Delilah, Lazy Lightning-> Supplication, Friend Of The Devil, Let It Grow-> Drums-> Let It Grow-> Wharf Rat-> Around & Around", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "17") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bbc21a1b-a555-45e3-9bf4-d9c1461caed8", "Grateful Dead", "2", "956",  "06/18/76", "Capitol Theater", "Passaic", "NJ",  "The Music Never Stopped, Sugaree, Mama Tried, Crazy Fingers, Big River, Brown Eyed Women, Looks Like Rain, Row Jimmy, Cassidy, Mission In The Rain, Promised Land", "Samson & Delilah, Tennessee Jed, Saint Stephen-> Not Fade Away-> Saint Stephen-> Eyes Of The World-> Drums-> The Wheel-> Sugar Magnolia, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "18") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0c5ff934-2ba1-47ec-acae-9a854747feff", "Grateful Dead", "2", "957",  "06/19/76", "Capitol Theater", "Passaic", "NJ",  "Help On The Way-> Slipknot!-> Franklins Tower-> The Music Never Stopped, Brown Eyed Women, Cassidy, They Love Each Other, Looks Like Rain, Tennessee Jed, Playin In The Band", "Might As Well, Samson & Delilah, High Time, Let It Grow-> Drums-> Let It Grow-> Dancin In The Streets-> Cosmic Charlie-> Around & Around, Goin Down The Road Feelin Bad-> One More Saturday Night, E: Not Fade Away", "", "FM Broadcast WOUR Utica, WNEW New York",  "1996-01-07 00:00:00", "1976", "system", "06". "19") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7600c030-2160-47a9-ab1f-2255554f39db", "Grateful Dead", "2", "958",  "06/21/76", "The Tower Theatre", "Upper Darby", "PA",  "The Music Never Stopped, Sugaree, Mama Tried, Brown-Eyed Women, Cassidy, Row Jimmy, Looks Like Rain, Scarlet Begonias, Lazy Lightnin->Supplication, Candyman, Promised Land", "The Wheel, Samson & Delilah, Help On The Way-> Slipknot!-> Franklins Tower-> It Must Have Been The Roses, Dancin In The Streets-> Wharf Rat-> Around & Around, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "hamilton", "06". "21") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-75b90eec-663a-48ee-89c8-18b52dbc62d2", "Grateful Dead", "2", "959",  "06/22/76", "The Tower Theatre", "Upper Darby", "PA",  "U.S. Blues, The Music Never Stopped, Crazy Fingers-> Comes A Time, Big River, Tennessee Jed, Looks Like Rain, They Love Each Other, Cassidy, Ship of Fools, Promised Land", "Playin In The Band-> Drums-> The Wheel-> Playin In The Band, Samson & Delilah, Eyes Of The World-> Dancin In The Streets-> Around & Around-> Goin Down The Road Feelin Bad-> One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "22") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-324fc546-1b7f-4934-bd62-85abda46672b", "Grateful Dead", "2", "960",  "06/23/76", "The Tower Theatre", "Upper Darby", "PA",  "The Music Never Stopped, Sugaree, Mama Tried, Row Jimmy, Big River, High Time, Looks Like Rain, Brown Eyed Women, Lazy Lightning-> Supplication, Friend Of The Devil, Promised Land", "Samson & Delilah-> Might As Well, Let It Grow-> Drums-> Let It Grow-> Cosmic Charlie, Saint Stephen-> Not Fade Away-> Saint Stephen-> Dancin In The Streets-> The Wheel-> Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "23") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-66d16db4-234d-454a-9e3f-977624a3e58c", "Grateful Dead", "2", "961",  "06/24/76", "The Tower Theatre", "Upper Darby", "PA",  "Cold Rain & Snow, Big River, Friend Of The Devil, Cassidy, It Must Have Been The Roses, Lazy Lightning-> Supplication, Tennessee Jed, Looks Like Rain, Scarlet Begonias, Promised Land", "Help On The Way-> Slipknot!-> Franklins Tower, Samson & Delilah, Wharf Rat-> Dancin In The Streets-> Sugar Magnolia", "", "FM Broadcast WMMR Philadelphia",  "1996-01-07 00:00:00", "1976", "system", "06". "24") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-90a8f3f3-4ef7-4d39-ab8c-78116f080413", "Grateful Dead", "2", "962",  "06/26/76", "Auditorium Theatre", "Chicago", "IL",  "Promised Land, Sugaree, Cassidy, Row Jimmy, Mama Tried, Tennessee Jed, Looks Like Rain, Scarlet Begonias, Lazy Lightning-> Supplication, Peggy-O, The Music Never Stopped", "Playin In The Band-> Saint Stephen-> The Wheel-> Playin In The Band, Samson & Delilah, Crazy Fingers-> Stella Blue, Around & Around-> One More Saturday Night, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "26") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8e488b13-2f5d-43c7-81bc-d83741bac0b7", "Grateful Dead", "2", "963",  "06/27/76", "Auditorium Theatre", "Chicago", "IL",  "Cold Rain & Snow, Cassidy, Brown Eyed Women, Big River, Ship of Fools, Lazy Lightning-> Supplication, Friend Of The Devil, Looks Like Rain, Might As Well", "Let It Grow-> Drums-> Let It Grow-> Wharf Rat, Samson & Delilah, Help On The Way-> Slipknot!-> Franklins Tower, Sugar Magnolia, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "06". "27") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ad5b6866-d3c9-4cec-9c01-4be179a18a2f", "Grateful Dead", "2", "964",  "06/28/76", "Auditorium Theatre", "Chicago", "IL",  "Promised Land
+They Love Each Other
+Cassidy
+Tennessee Jed
+Looks Like Rain
+Scarlet Begonias
+Lazy Lightnin -&gt;
+Supplication
+High Time
+The Music Never Stopped", "Eyes Of The World
+Happiness Is Drumming
+Wharf Rat
+Drums
+Dancing In The Street
+The Wheel
+Around And Around
+
+Encore:
+Not Fade Away", "", "",  "2014-01-23 17:53:23", "1976", "ckyhim1990", "06". "28") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7e1e4825-8bbd-4c6c-88f6-389477ae8d2a", "Grateful Dead", "2", "965",  "06/29/76", "Auditorium Theatre", "Chicago", "IL",  "Tennessee Jed, Cassidy, Peggy-O, Mama Tried, Mission In The Rain, Looks Like Rain, Brown Eyed Women, Lazy Lightning-> Supplication, Row Jimmy, The Music Never Stopped, Might As Well", "Samson & Delilah, Candyman, Playin In The Band-> Drums-> The Wheel-> Playin In The Band-> Saint Stephen-> Not Fade Away-> Saint Stephen-> One More Saturday Night, E: U.S. Blues", "", "FM Broadcast WXRT",  "1996-01-07 00:00:00", "1976", "system", "06". "29") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-cab1f74d-4b63-41b2-89fd-14f3872560dd", "Grateful Dead", "2", "966",  "07/12/76", "Orpheum Theatre", "San Francisco", "CA",  "The Music Never Stopped, Brown Eyed Women, Cassidy, Tennessee Jed, Minglewood Blues, Candyman, Looks Like Rain, Row Jimmy, Lazy Lightning-> Supplication, Deal, Promised Land", "Sugaree, Samson & Delilah, Help On The Way-> Slipknot!-> Franklins Tower-> Dancin In The Streets-> Wharf Rat-> Drums-> The Wheel-> Around & Around, E: U.S. Blues", "(Soundcheck* before show: Dancing in the Street, They Love Each Other, The Music Never Stopped (2x), Stella Blue, Stella Blue shines, Stella Blue, Let it Grow Jam, Jam > Eyes of the World)", "",  "2011-08-04 22:41:23", "1976", "system", "07". "12") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b99afb00-34bf-4ee3-a55f-553fde211945", "Grateful Dead", "2", "967",  "07/13/76", "Orpheum Theatre", "San Francisco", "CA",  "Mississippi Half Step, Big River, Peggy-O, Cassidy, Crazy Fingers-> Let It Grow-> Drums-> Let It Grow-> Might As Well", "The Music Never Stopped, It Must Have Been The Roses, Samson & Delilah, High Time, Saint Stephen-> Not Fade Away-> Saint Stephen-> Sugar Magnolia-> Stella Blue-> Sunshine Daydream, E: Dancin In The Streets", "", "",  "1996-01-07 00:00:00", "1976", "system", "07". "13") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6c631502-2262-463e-a2a3-ba265d927942", "Grateful Dead", "2", "968",  "07/14/76", "Orpheum Theatre", "San Francisco", "CA",  "Promised Land, Sugaree, Minglewood Blues, Scarlet Begonias, Looks Like Rain, They Love Each Other, Mama Tried, Ship of Fools, Playin In The Band-> Drums-> The Wheel-> Playin In The Band", "Brown Eyed Women, Samson & Delilah, Friend Of The Devil, Let It Grow-> Eyes Of The World-> Wharf Rat-> The Other One-> The Music Never Stopped, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "system", "07". "14") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3e00f25c-bcfa-4fb9-baee-8e7e53727b2e", "Grateful Dead", "2", "969",  "07/16/76", "Orpheum Theatre", "San Francisco", "CA",  "Cold Rain & Snow, Cassidy, Deal, Mama Tried, Row Jimmy, Big River, Brown Eyed Women, Looks Like Rain, Peggy-O, The Music Never Stopped-> Scarlet Begonias", "Playin In The Band-> Stronger Than Dirt-> Cosmic Charlie-> Samson & Delilah-> Spanish Jam- > Space-> Drums-> The Wheel-> Playin In The Band-> Around & Around-> High Time, Sugar Magnolia, E: U.S. Blues", "", "",  "2001-09-18 00:00:00", "1976", "system", "07". "16") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ee03aaa4-85de-4788-84e1-ee6b3e5d693c", "Grateful Dead", "2", "970",  "07/17/76", "Orpheum Theatre", "San Francisco", "CA",  "Promised Land, Mississippi Half Step, Mama Tried, Deal, Minglewood Blues, Peggy-O, Big River, Sugaree, Johnny B. Goode", "Samson & Delilah, Coomes A Time > Jam > The Other One Jam  > Drums  > The Other One  > Space  > Eyes Of The World > Jam > The Other One > Goin Down The Road Feeling Bad  > One More Saturday Night, E: U.S. Blues, Not Fade Away", "", "Donna was absent during the second set",  "2001-10-16 00:00:00", "1976", "hamilton", "07". "17") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bb233e02-1eb2-451a-a9f5-c1eb168a7d06", "Grateful Dead", "2", "971",  "07/18/76", "Orpheum Theatre", "San Francisco", "CA",  "Mississippi Half Step, Cassidy, Row Jimmy, Mama Tried, Scarlet Begonias, Looks Like Rain, Tennessee Jed, Minglewood Blues, Loser, The Music Never Stopped", "Might As Well, Samson & Delilah, Candyman, Lazy Lightning-> Supplication-> Let It Grow-> Drums-> Let It Grow-> Wharf Rat-> The Other One-> Saint Stephen-> Not Fade Away-> Saint Stephen-> The Wheel-> The Other One-> Stella Blue, Sugar Magnolia, E: Johnny B. Goode", "", "FM Broadcast on KSAN San Francisco",  "1996-01-07 00:00:00", "1976", "system", "07". "18") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-579cc877-14ad-43df-ae3e-afd56521e8ee", "Grateful Dead", "2", "972",  "08/02/76", "Colt Park", "Hartford", "CT",  "Promised Land, Mississippi Half Step, Mama Tried, Deal, Cassidy, Tennessee Jed, Big River, Brown Eyed Women, Minglewood Blues, They Love Each Other, Looks Like Rain, Loser, Lazy Lightning-> Supplication", "Might As Well, Samson & Delilah, Candyman, Playin In The Band-> Wharf Rat-> Drums-> Goin Down The Road Feelin Bad-> Playin In The Band-> Around & Around, E: U.S. Blues, E: Sugar Magnolia", "", "*Second encore",  "1996-01-07 00:00:00", "1976", "system", "08". "02") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-79b52526-bee9-4eed-81c5-e522941ab797", "Grateful Dead", "2", "973",  "08/04/76", "Roosevelt Stadium", "Jersey City", "NJ",  "Sugaree, Minglewood Blues, Row Jimmy, Big River, Loser, Looks Like Rain, They Love Each Other, The Music Never Stopped, Scarlet Begonias", "Help On The Way-> Slipknot!-> Franklins Tower-> Dancin In The Streets-> The Wheel-> Samson & Delilah, It Must Have Been The Roses, Not Fade Away-> Drums-> The Other One-> Ship of Fools, Sugar Magnolia, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "system", "08". "04") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-02b71220-9832-429f-9734-25b6cd4685f3", "Grateful Dead", "2", "974",  "09/23/76", "Cameron Indoor Stadium, Duke U", "Durham", "NC",  "Mississippi Half Step, Minglewood Blues, Ramble On Rose, Cassidy, Brown Eyed Women, Lazy Lightning-> Supplication, Crazy Fingers-> El Paso, It Must Have Been The Roses, The Music Never Stopped", "Help On The Way-> Slipknot!-> Franklins Tower-> Looks Like Rain, Eyes Of The World-> Samson & Delilah, High Time, Dancin In The Streets-> Wharf Rat-> Drums-> The Other One-> Morning Dew", "", "",  "1996-01-07 00:00:00", "1976", "system", "09". "23") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0bcb402f-3a07-40e3-b741-45455ace3f63", "Grateful Dead", "2", "975",  "09/24/76", "William and Mary College Hall", "Williamsburg", "VA",  "Promised Land, Deal, Cassidy, Sugaree, Looks Like Rain, Row Jimmy, Big River, Tennessee Jed, Playin In The Band-> Supplication-> Playin In The Band", "Might As Well, Samson & Delilah, Loser, Minglewood Blues, Help On The Way-> Slipknot!-> Franklins Tower-> The Music Never Stopped-> Stella Blue-> Around & Around, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "09". "24") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a2a100ab-aaca-4bb9-bc4b-014f90026bd9", "Grateful Dead", "2", "976",  "09/25/76", "Capital Centre", "Landover", "MD",  "Bertha, Minglewood Blues, Ramble On Rose, Cassidy, Brown Eyed Women, Mama Tried, Peggy-O, Its All Over Now, Loser, Let It Grow, Sugaree", "Lazy Lightning-> Supplication, Mississippi Half Step, Dancin In The Streets-> Cosmic Charlie, Scarlet Begonias, Saint Stephen-> Not Fade Away-> Drums-> Saint Stephen-> Sugar Magnolia", "", "This date is featured on <a href= http://mars.dead.net>Dick's Picks 20</a>.",  "2002-03-27 00:00:00", "1976", "system", "09". "25") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4562c950-eaf7-48ff-bba0-c78b927d6fca", "Grateful Dead", "2", "977",  "09/27/76", "Community War Memorial Auditorium", "Rochester", "NY",  "Promised Land, They Love Each Other, El Paso, Deal, Looks Like Rain, Row Jimmy, Its All Over Now, Loser, Lazy Lightning-> Supplication, Brown Eyed Women, The Music Never Stopped", "Might As Well, Samson & Delilah, Help On The Way-> Slipknot!-> Drums-> The Other One-> Wharf Rat-> Slipknot!-> Franklins Tower-> Around & Around, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "09". "27") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-188aad8a-608c-4625-86b9-e7d429a6f08f", "Grateful Dead", "2", "978",  "09/28/76", "Onongada County War Memorial", "Syracuse", "NY",  "Cold Rain & Snow, Big River, Bertha, Cassidy, Tennessee Jed, Minglewood Blues, Candyman, Its All Over Now, Friend Of The Devil, Let It Grow-> Goin Down The Road Feelin Bad", "Playin In The Band-> The Wheel-> Samson & Delilah-> Comes A Time-> Drums-> Eyes Of The World-> Dancin In The Streets-> Playin In The Band-> E: Johnny B. Goode", "", "This date is featured on <a href= http://mars.dead.net>Dick's Picks 20</a>.",  "2001-02-05 00:00:00", "1976", "system", "09". "28") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-70f986a0-cefb-4e66-958e-9f35732dced1", "Grateful Dead", "2", "979",  "09/30/76", "Mershon Auditorium, OSU", "Columbus", "OH",  "The Music Never Stopped, Sugaree, Minglewood, Ramble On Rose, LL Rain, Peggy-O, El Paso, Crazy Fingers> Its All Over Now, Scarlet 
+Begonias", "Lazy Lightning-> Supplication, It Must Have Been The Roses, Samson & Delilah-> Saint Stephen-> Not Fade Away-> Drums-> Wharf Rat-> Not Fade Away-> Saint Stephen-> Around & Around, E: Morning Dew", "", "",  "2001-12-03 00:00:00", "1976", "hamilton", "09". "30") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-44b3a4c0-893a-4f60-ab4e-6f63e046ac0d", "Grateful Dead", "2", "980",  "10/01/76", "Market Square Arena", "Indianapolis", "IN",  "Bertha, Mama Tried, Deal, Cassidy, Friend Of The Devil, Big River, Brown Eyed Women, Its All Over Now, Scarlet Begonias, Promised Land", "Might As Well, Samson & Delilah, Help On The Way-> Slipknot!-> Franklins Tower, Dancin In The Streets-> Drums-> The Wheel-> Ship of Fools-> Dancin In The Streets-> Goin Down The Road Feelin Bad-> One More Saturday Night, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1976", "system", "10". "01") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-113f2189-6345-456c-b6bd-43730b6de4d5", "Grateful Dead", "2", "981",  "10/02/76", "Riverfront Arena", "Cincinnati", "OH",  "Its All Over Now, Brown Eyed Women, Let It Grow, Might As Well, The Music Never Stopped", "The Music Never Stopped, Candyman, Samson & Delilah, It Must Have Been The Roses, Big River, Friend Of The Devil, Dancin In The Streets-> Drums-> The Other One-> Stella Blue-> The Other One-> Sugar Magnolia", "", "",  "1996-01-07 00:00:00", "1976", "system", "10". "02") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4f72e1fc-41d9-4d8c-bcf5-1067858ca4f0", "Grateful Dead", "2", "982",  "10/03/76", "Cobo Arena", "Detroit", "MI",  "Sugaree, Minglewood Blues, Ramble on Rose, Looks Like Rain, Loser, El Paso, Scarlet Begonias, The Music Never Stopped", "Samson & Delilah, It Must Have Been the Roses, Playin in the Band> Drums> The Wheel> Good Lovin> Jam> Comes a Time> Dancin in the Street> Not Fade Away (with China Cat tease)> Dancin in the Street > Around & Around", "", "",  "2001-06-01 00:00:00", "1976", "hamilton", "10". "03") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1724b8fb-af0d-4700-bd71-eaa80a87bb26", "Grateful Dead", "2", "983",  "10/09/76", "Oakland-Alameda County Stadium", "Oakland", "CA",  "Promised Land, Mississippi Half Step, Cassidy, Tennessee Jed, Looks Like Rain, They Love Each Other, Minglewood Blues, Scarlet Begonias, Lazy Lightning-> Supplication, Sugaree", "Saint Stephen-> Not Fade Away-> Saint Stephen-> Help On The Way-> Slipknot!-> Drums-> Samson & Delilah-> Slipknot!-> Franklins Tower-> One More Saturday Night, E: U.S. Blues", "", "Day on the Green #8 With The Who",  "1996-01-07 00:00:00", "1976", "system", "10". "09") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-092695f7-9d6a-4abf-a879-44263a3c8c0e", "Grateful Dead", "2", "984",  "10/10/76", "Oakland-Alameda County Stadium", "Oakland", "CA",  "Might As Well, Mama Tried, Ramble On Rose, Cassidy, Deal, El Paso, Loser, Promised Land, Friend Of The Devil, Dancin In The Streets-> Wharf Rat-> Dancin In The Streets", "Samson & Delilah, Brown Eyed Women, Playin In The Band-> Drums-> The Wheel-> The Other One-> Stella Blue-> Playin In The Band-> Sugar Magnolia, E: Johnny B. Goode", "", "Day on the Green #9 With The Who",  "1996-01-07 00:00:00", "1976", "system", "10". "10") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c869c892-6626-4c2c-8a20-bf78ac726611", "Grateful Dead", "2", "985",  "10/14/76", "Shrine Auditorium", "Los Angeles", "CA",  "Promised Land, They Love Each Other, Cassidy, Peggy-O, Big River, Ramble On Rose, Looks Like Rain, Deal, El Paso, Tennessee Jed, The Music Never Stopped, Scarlet Begonias", "Minglewood Blues, Mississippi Half Step, Samson & Delilah, Ship of Fools, Dancin In The Streets-> Wharf Rat-> Dancin In The Streets-> Around & Around, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1976", "system", "10". "14") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-362d6ea9-1d2f-416c-bd14-61d51261bc4f", "Grateful Dead", "2", "986",  "10/15/76", "Shrine Auditorium", "Los Angeles", "CA",  "Might As Well, Mama Tried, Row Jimmy, Its All Over Now, Loser, Minglewood Blues, Bertha, Lazy Lightning-> Supplication, Sugaree, Promised Land", "Eyes Of The World-> The Music Never Stopped, It Must Have Been The Roses, Samson & Delilah, Hes Gone-> Drums-> The Other One-> Comes A Time-> Franklins Tower-> Sugar Magnolia", "", "",  "1996-01-07 00:00:00", "1976", "system", "10". "15") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-58b47d3c-a323-4324-9386-e03c7d08036a", "Grateful Dead", "2", "987",  "12/31/76", "Cow Palace", "Daly City", "CA",  "Promised Land, Bertha, Mama Tried, They Love Each Other, Looks Like Rain, Deal, Playin In The Band", "Sugar Magnolia-> Eyes Of The World-> Wharf Rat-> Drums-> Good Lovin-> Samson & Delilah-> Scarlet Begonias-> Around & Around-> Help On The Way-> Slipknot!-> Not Fade Away-> Morning Dew, E: One More Saturday Night, E:Uncle Johns Band-> E: We Bid You Good Night*", "", "*Second Encore with Santana, Soundhole FM Broadcast KSAN San Francisco
+Entire show released in 2007 as Live At The Cow Palace, New Year's Eve, 1976 on Rhino.",  "1996-01-07 00:00:00", "1976", "greenone", "12". "31") ;

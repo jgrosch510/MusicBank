@@ -1,0 +1,1634 @@
+{
+    "db_rest": {
+        "@generator": "zend",
+        "@version": "1.0",
+        "fetchArtistYear": {
+            "shows": {
+                "key_0": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2331",
+                    "showdate": "02/19/95",
+                    "venue": "Delta Center",
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "set1": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Walkin' Blues",
+                        "Alabama Getaway*",
+                        "Me & My Uncle**-> Big River**",
+                        "Don't Ease Me In (40 mins)"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Walkin' Blues",
+                        "Alabama Getaway*",
+                        "Me & My Uncle**-> Big River**",
+                        "Don't Ease Me In (40 mins)"
+                    ],
+                    "set3": "",
+                    "comment": "* First Alabama since 6/18/89** Weir on acoustic, Soundcheck included Alabama Getaway, Attics, Schoolgirl, and It's a Man's World",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_1": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2332",
+                    "showdate": "02/20/95",
+                    "venue": "Delta Center",
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "set1": [
+                        "Bertha",
+                        "Greatest Story Ever Told",
+                        "Loser",
+                        "Little Red Rooster*",
+                        "Ramble On Rose",
+                        "El Paso**",
+                        "Lazy River Road*",
+                        "Cassidy (57 mins)"
+                    ],
+                    "set2": [
+                        "Bertha",
+                        "Greatest Story Ever Told",
+                        "Loser",
+                        "Little Red Rooster*",
+                        "Ramble On Rose",
+                        "El Paso**",
+                        "Lazy River Road*",
+                        "Cassidy (57 mins)"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic, ** Weir on \"dobro like\" instrument.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_2": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2333",
+                    "showdate": "02/21/95",
+                    "venue": "Delta Center",
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "set1": [
+                        "Salt Lake City",
+                        "Friend Of The Devil",
+                        "Wang Dang Doodle",
+                        "Tennessee Jed",
+                        "Broken Arrow",
+                        "Black Throated Wind*",
+                        "So Many Roads",
+                        "The Music Never Stopped (58 mins)"
+                    ],
+                    "set2": [
+                        "Salt Lake City",
+                        "Friend Of The Devil",
+                        "Wang Dang Doodle",
+                        "Tennessee Jed",
+                        "Broken Arrow",
+                        "Black Throated Wind*",
+                        "So Many Roads",
+                        "The Music Never Stopped (58 mins)"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic, First Salt Lake City. First Want To Make Love To You since 10/8/84, First Visions 4/22/86.  Salt Lake City from Weir's solo album Heaven Help the Fool",
+                    "lastupdate": "2008-08-04 18:09:16",
+                    "showyear": "1995",
+                    "showsuserid": "testing"
+                },
+                "key_3": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2334",
+                    "showdate": "02/24/95",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Help On The Way-> Slipknot!-> Franklin's Tower",
+                        "The Same Thing",
+                        "Althea",
+                        "When I Paint My Masterpiece*",
+                        "Loose Lucy",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Help On The Way-> Slipknot!-> Franklin's Tower",
+                        "The Same Thing",
+                        "Althea",
+                        "When I Paint My Masterpiece*",
+                        "Loose Lucy",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_4": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2335",
+                    "showdate": "02/25/95",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Peggy-O",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "Just Like Tom Thumb's Blues",
+                        "Easy Answers",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Peggy-O",
+                        "Minglewood Blues",
+                        "Row Jimmy",
+                        "Just Like Tom Thumb's Blues",
+                        "Easy Answers",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_5": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2336",
+                    "showdate": "02/26/95",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Let The Good Times Roll\nWest L.A. Fadeaway\nQueen Jane Approximately\nLazy River Road*\nMama Tried** -&gt; \nMexicali Blues**\nDon't Ease Me In**"
+                    ],
+                    "set2": [
+                        "Let The Good Times Roll\nWest L.A. Fadeaway\nQueen Jane Approximately\nLazy River Road*\nMama Tried** -&gt; \nMexicali Blues**\nDon't Ease Me In**"
+                    ],
+                    "set3": [
+                        "Let The Good Times Roll\nWest L.A. Fadeaway\nQueen Jane Approximately\nLazy River Road*\nMama Tried** -&gt; \nMexicali Blues**\nDon't Ease Me In**"
+                    ],
+                    "comment": "",
+                    "lastupdate": "2013-08-09 10:08:18",
+                    "showyear": "1995",
+                    "showsuserid": "BeLikeMike"
+                },
+                "key_6": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2337",
+                    "showdate": "03/17/95",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Here Comes Sunshine",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "Queen Jane Approximately",
+                        "Lazy River Road",
+                        "Eternity*",
+                        "Loose Lucy (55 mins)"
+                    ],
+                    "set2": [
+                        "Here Comes Sunshine",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "Queen Jane Approximately",
+                        "Lazy River Road",
+                        "Eternity*",
+                        "Loose Lucy (55 mins)"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic; Several takes of Unbroken Chain were done for soundcheck/rehearsal.",
+                    "lastupdate": "2001-09-06 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_7": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "175715",
+                    "showdate": "03/17/95",
+                    "venue": "The Spectrum (soundcheck)",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Phil Practices Base Line By Himself\r\n\"it Would Really Help To Have Vinny Here...bob Did You Give That Disc To Steve?\"\r\nMostly Dead Air",
+                        "Drummers Start To Come In\r\nPhil",
+                        "Vince",
+                        "And Drummers Practice\r\nPhil Gives Directions\r\nVince: \"let Me Here The Groove Of The Body Of The Song\"\r\nPhil To Bobby  \"i Want To Do It In Philadelphia Man\"\r\nLet's Do The Verses From A-minor C - Take 1\r\nMore From The A-minor C - Take 2\r\nPhil: \"that Tempo Is Too Fast\"\r\nNext Take From Same Spot - Take 3\r\nPhil: \"if I Have To Go \"lookin Fo Famila Fafes\"\"\r\nTake 4\r\nVince: \"is There One Of Those Elevens At The End Of The Threes\"\r\nPhil Counts Out The Changes\r\nLearning The Part After The First Verse\r\nVince: \"where In The Bar Are You Starting That Three\"\r\nBack To The Intro - Take 1\r\nIntro - Take 2\r\nIntro - Take 3 - Phil Explains The Timing\r\nPhil Works With Steve On The Tele-prompter\r\n\"well Then Get Your God Damn Earphones Tunred Up Man\"\r\nTake 4 Intro - Whole Song \r\nPhil Explains Ending\r\nEnding - Take 2\r\nWhat Are The Stumbling Blocks -- Jerry \"not Knowing It\"\r\nLet's Do Something Else For A While\r\nHere Comes Sunshine - Take 1\r\nHere Comes Sunshine - Take 2\r\n\r\nTotal"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Unbroken Chain soundcheck",
+                    "lastupdate": "2011-12-30 19:49:35",
+                    "showyear": "1995",
+                    "showsuserid": "mvernon"
+                },
+                "key_8": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2338",
+                    "showdate": "03/18/95",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "El Paso*",
+                        "Ramble On Rose",
+                        "Just Like Tom Thumb's Blues",
+                        "Jack A Roe",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "El Paso*",
+                        "Ramble On Rose",
+                        "Just Like Tom Thumb's Blues",
+                        "Jack A Roe",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic, First It's All Too Much",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_9": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2339",
+                    "showdate": "03/19/95",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Alabama Getaway",
+                        "Walkin' Blues",
+                        "So Many Roads",
+                        "Easy Answers",
+                        "Don't Ease Me In",
+                        "Unbroken Chain"
+                    ],
+                    "set2": [
+                        "Alabama Getaway",
+                        "Walkin' Blues",
+                        "So Many Roads",
+                        "Easy Answers",
+                        "Don't Ease Me In",
+                        "Unbroken Chain"
+                    ],
+                    "set3": "",
+                    "comment": "First Unbroken Chain",
+                    "lastupdate": "2002-03-01 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_10": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2340",
+                    "showdate": "03/22/95",
+                    "venue": "Charlotte Coliseum",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "set1": [
+                        "Jack Straw-> Bertha",
+                        "The Same Thing",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece",
+                        "Tennessee Jed",
+                        "The Music Never Stopped (55 mins)"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Bertha",
+                        "The Same Thing",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece",
+                        "Tennessee Jed",
+                        "The Music Never Stopped (55 mins)"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_11": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2305",
+                    "showdate": "03/23/95",
+                    "venue": "Charlotte Coliseum",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "set1": [
+                        "Mississippi Half Step",
+                        "Wang Dang Doodle",
+                        "Cold Rain & Snow",
+                        "El Paso*",
+                        "Loser",
+                        "Easy Answers",
+                        "So Many Roads"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step",
+                        "Wang Dang Doodle",
+                        "Cold Rain & Snow",
+                        "El Paso*",
+                        "Loser",
+                        "Easy Answers",
+                        "So Many Roads"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic, ** Features Bruce with drummers, Other Artist(s): Hornsby played the entire show on grand piano",
+                    "lastupdate": "2002-10-21 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "hamilton"
+                },
+                "key_12": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2304",
+                    "showdate": "03/24/95",
+                    "venue": "Charlotte Coliseum",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "High Time",
+                        "If The Shoe Fits",
+                        "Black Throated Wind*",
+                        "Bird Song",
+                        "Promised Land (65 Mins.)"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "High Time",
+                        "If The Shoe Fits",
+                        "Black Throated Wind*",
+                        "Bird Song",
+                        "Promised Land (65 Mins.)"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_13": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "130817",
+                    "showdate": "03/25/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "Unbroken Chain rehearsals"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "partial disc",
+                    "lastupdate": "2003-01-08 12:46:38",
+                    "showyear": "1995",
+                    "showsuserid": "yrekajohn"
+                },
+                "key_14": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2303",
+                    "showdate": "03/26/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "Cold Rain & Snow",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Me & My Uncle*-> Big River*",
+                        "Lazy River Road",
+                        "Eternity",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Me & My Uncle*-> Big River*",
+                        "Lazy River Road",
+                        "Eternity",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_15": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2302",
+                    "showdate": "03/27/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "Picasso Moon",
+                        "Sugaree",
+                        "It's All Over Now",
+                        "So Many Roads",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Picasso Moon",
+                        "Sugaree",
+                        "It's All Over Now",
+                        "So Many Roads",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_16": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "343719",
+                    "showdate": "03/28/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "When a Man Loves a Woman\r\nPhil Tuning\r\nBanter\r\nSchoolgirl (1)\r\nSchoolgirl (2)\r\nJerrys ABB Idea *\r\nSchoolgirl (3)\r\nThe ABB Idea Considered *\r\nNeighbor Neighbor\r\nHi-Heeled Sneakers\r\nBig Boy Pete\r\nBig Boy Pete (2)\r\nBig Boy Pete (3)\r\nPaperback Writer\r\nAttics (1)\r\nJerry Complaint\r\nAttics (2)\r\nPhil Explains to Jerry / Tuning -> Out\r\n\r\n* One Way Out Snippet"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Soundcheck",
+                    "lastupdate": "2006-11-19 21:48:59",
+                    "showyear": "1995",
+                    "showsuserid": "Wharfrat73"
+                },
+                "key_17": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2301",
+                    "showdate": "03/29/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "Jack Straw",
+                        "Row Jimmy",
+                        "Walkin' Blues",
+                        "Jack A Roe",
+                        "Mama Tried*-> Mexicali Blues-> Brown Eyed Women",
+                        "Cassidy"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Row Jimmy",
+                        "Walkin' Blues",
+                        "Jack A Roe",
+                        "Mama Tried*-> Mexicali Blues-> Brown Eyed Women",
+                        "Cassidy"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_18": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2300",
+                    "showdate": "03/30/95",
+                    "venue": "The Omni",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "set1": [
+                        "Touch Of Gray",
+                        "Good Morning Little School Girl",
+                        "Friend Of The Devil",
+                        "Queen Jane Approximately",
+                        "Loose Lucy",
+                        "Broken Arrow",
+                        "Easy Answers",
+                        "Alabama Getaway"
+                    ],
+                    "set2": [
+                        "Touch Of Gray",
+                        "Good Morning Little School Girl",
+                        "Friend Of The Devil",
+                        "Queen Jane Approximately",
+                        "Loose Lucy",
+                        "Broken Arrow",
+                        "Easy Answers",
+                        "Alabama Getaway"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_19": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2299",
+                    "showdate": "04/01/95",
+                    "venue": "Pyramid Arena",
+                    "city": "Memphis",
+                    "state": "TN",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Candyman",
+                        "Take Me To The River*",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece**",
+                        "Childhood's End",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Candyman",
+                        "Take Me To The River*",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece**",
+                        "Childhood's End",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "* First time played, ** Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_20": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2298",
+                    "showdate": "04/02/95",
+                    "venue": "Pyramid Arena",
+                    "city": "Memphis",
+                    "state": "TN",
+                    "set1": [
+                        "Shakedown Street",
+                        "The Same Thing",
+                        "Althea",
+                        "Memphis Blues*",
+                        "Tennessee Jed",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "The Same Thing",
+                        "Althea",
+                        "Memphis Blues*",
+                        "Tennessee Jed",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_21": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2297",
+                    "showdate": "04/04/95",
+                    "venue": "Jefferson Civic Center Coliseum",
+                    "city": "Birmingham",
+                    "state": "AL",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Sugaree",
+                        "Minglewood Blues",
+                        "Ramble On Rose",
+                        "Black Throated Wind*",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Sugaree",
+                        "Minglewood Blues",
+                        "Ramble On Rose",
+                        "Black Throated Wind*",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_22": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2296",
+                    "showdate": "04/05/95",
+                    "venue": "Jefferson Civic Center Coliseum",
+                    "city": "Birmingham",
+                    "state": "AL",
+                    "set1": [
+                        "Touch Of Grey",
+                        "Wang Dang Doodle",
+                        "Stagger Lee",
+                        "Me & My Uncle*-> Maggie's Farm*",
+                        "Row Jimmy",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Touch Of Grey",
+                        "Wang Dang Doodle",
+                        "Stagger Lee",
+                        "Me & My Uncle*-> Maggie's Farm*",
+                        "Row Jimmy",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic, ** Willie Green on drums",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "hamilton"
+                },
+                "key_23": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2295",
+                    "showdate": "04/07/95",
+                    "venue": "Tampa Stadium",
+                    "city": "Tampa",
+                    "state": "FL",
+                    "set1": [
+                        "Jack Straw",
+                        "Peggy-O",
+                        "Little Red Rooster",
+                        "Loose Lucy",
+                        "When I Paint My Masterpiece*",
+                        "Visions Of Johanna",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Peggy-O",
+                        "Little Red Rooster",
+                        "Loose Lucy",
+                        "When I Paint My Masterpiece*",
+                        "Visions Of Johanna",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic; Other Artist(s): Black Crowes openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_24": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "52602",
+                    "showdate": "05/17/95",
+                    "venue": "Franklyn County Airport",
+                    "city": "Highgate",
+                    "state": "VT",
+                    "set1": "",
+                    "set2": "",
+                    "set3": "",
+                    "comment": "lib bootleg",
+                    "lastupdate": "2000-12-07 22:44:08",
+                    "showyear": "1995",
+                    "showsuserid": "ryktjos"
+                },
+                "key_25": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2294",
+                    "showdate": "05/19/95",
+                    "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "set1": [
+                        "Picasso Moon",
+                        "Friend Of The Devil",
+                        "Wang Dang Doodle",
+                        "Althea",
+                        "Queen Jane Approximately",
+                        "Deal",
+                        "(50 Mins.)"
+                    ],
+                    "set2": [
+                        "Picasso Moon",
+                        "Friend Of The Devil",
+                        "Wang Dang Doodle",
+                        "Althea",
+                        "Queen Jane Approximately",
+                        "Deal",
+                        "(50 Mins.)"
+                    ],
+                    "set3": "",
+                    "comment": "Other Artist(s): Dave Mathews Band Openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_26": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2293",
+                    "showdate": "05/20/95",
+                    "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "set1": [
+                        "Mississippi Half Step",
+                        "The Race is On",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece",
+                        "Tennessee Jed",
+                        "Eternity"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step",
+                        "The Race is On",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece",
+                        "Tennessee Jed",
+                        "Eternity"
+                    ],
+                    "set3": "",
+                    "comment": "Other Artist(s): Dave Mathews Band openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "flyerfanatic"
+                },
+                "key_27": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2292",
+                    "showdate": "05/21/95",
+                    "venue": "Sam Boyd Silver Bowl, U.N.L.V.",
+                    "city": "Las Vegas",
+                    "state": "NV",
+                    "set1": [
+                        "Jack Straw",
+                        "West L.A. Fadeaway",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Just Like Tom Thumb's Blues",
+                        "So Many Roads",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "West L.A. Fadeaway",
+                        "Little Red Rooster",
+                        "Ramble On Rose",
+                        "Just Like Tom Thumb's Blues",
+                        "So Many Roads",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "Other Artist(s): Dave Mathews Band openned. * w/ Carter Beauford of DMB",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_28": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2291",
+                    "showdate": "05/24/95",
+                    "venue": "Memorial Stadium",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "set1": [
+                        "Soundcheck:\r\n\r\nTough Mama\r\nChildhood's End\r\nRain"
+                    ],
+                    "set2": [
+                        "Soundcheck:\r\n\r\nTough Mama\r\nChildhood's End\r\nRain"
+                    ],
+                    "set3": [
+                        "Soundcheck:\r\n\r\nTough Mama\r\nChildhood's End\r\nRain"
+                    ],
+                    "comment": "",
+                    "lastupdate": "2013-08-15 22:13:34",
+                    "showyear": "1995",
+                    "showsuserid": "BeLikeMike"
+                },
+                "key_29": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2290",
+                    "showdate": "05/25/95",
+                    "venue": "Memorial Stadium",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Bertha",
+                        "Good Morning Little School Girl",
+                        "Peggy-O",
+                        "El Paso",
+                        "Tennessee Jed",
+                        "Cassidy (58 Mins.)"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Bertha",
+                        "Good Morning Little School Girl",
+                        "Peggy-O",
+                        "El Paso",
+                        "Tennessee Jed",
+                        "Cassidy (58 Mins.)"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_30": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2289",
+                    "showdate": "05/26/95",
+                    "venue": "Memorial Stadium",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "set1": [
+                        "Help On The Way &gt; Slipknot! &gt; Franklin's Tower",
+                        "The Same Thing",
+                        "Loose Lucy",
+                        "Eternity*",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Help On The Way &gt; Slipknot! &gt; Franklin's Tower",
+                        "The Same Thing",
+                        "Loose Lucy",
+                        "Eternity*",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "* - Bob Weir On Acoustic Guitar",
+                    "lastupdate": "2007-09-22 02:50:36",
+                    "showyear": "1995",
+                    "showsuserid": "Object"
+                },
+                "key_31": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2288",
+                    "showdate": "05/28/95",
+                    "venue": "Portland Meadows",
+                    "city": "Portland",
+                    "state": "OR",
+                    "set1": [
+                        "Jack Straw",
+                        "Peggy-O",
+                        "Wang Dang Doodle",
+                        "Row Jimmy",
+                        "When I Paint My Masterpiece",
+                        "Brown Eyed Women",
+                        "Let It Grow (61 mins.)"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Peggy-O",
+                        "Wang Dang Doodle",
+                        "Row Jimmy",
+                        "When I Paint My Masterpiece",
+                        "Brown Eyed Women",
+                        "Let It Grow (61 mins.)"
+                    ],
+                    "set3": "",
+                    "comment": "Other artist(s): Chuck Berry openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_32": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2287",
+                    "showdate": "05/29/95",
+                    "venue": "Portland Meadows",
+                    "city": "Portland",
+                    "state": "OR",
+                    "set1": [
+                        "Let The Good Times Roll",
+                        "Jack A Roe",
+                        "Walkin' Blues",
+                        "Dire Wolf",
+                        "Black Throated Wind",
+                        "Tennessee Jed",
+                        "Just Like Tom Thumb's Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Let The Good Times Roll",
+                        "Jack A Roe",
+                        "Walkin' Blues",
+                        "Dire Wolf",
+                        "Black Throated Wind",
+                        "Tennessee Jed",
+                        "Just Like Tom Thumb's Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "Chuck Berry Opened",
+                    "lastupdate": "2013-10-13 18:47:37",
+                    "showyear": "1995",
+                    "showsuserid": "BeLikeMike"
+                },
+                "key_33": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2286",
+                    "showdate": "06/02/95",
+                    "venue": "Shoreline Amphitheatre",
+                    "city": "Mountain View",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway",
+                        "Greatest Story Ever Told",
+                        "Candyman",
+                        "Good Morning Little School Girl",
+                        "Ramble On Rose",
+                        "El Paso*",
+                        "Bird Song",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Alabama Getaway",
+                        "Greatest Story Ever Told",
+                        "Candyman",
+                        "Good Morning Little School Girl",
+                        "Ramble On Rose",
+                        "El Paso*",
+                        "Bird Song",
+                        "Promised Land"
+                    ],
+                    "set3": [
+                        "Alabama Getaway",
+                        "Greatest Story Ever Told",
+                        "Candyman",
+                        "Good Morning Little School Girl",
+                        "Ramble On Rose",
+                        "El Paso*",
+                        "Bird Song",
+                        "Promised Land"
+                    ],
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_34": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2285",
+                    "showdate": "06/03/95",
+                    "venue": "Shoreline Amphitheatre",
+                    "city": "Mountain View",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Althea",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Broken Arrow",
+                        "Stagger Lee",
+                        "Eternity*"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Althea",
+                        "Little Red Rooster",
+                        "Brown Eyed Women",
+                        "Broken Arrow",
+                        "Stagger Lee",
+                        "Eternity*"
+                    ],
+                    "set3": "",
+                    "comment": "Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_35": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2284",
+                    "showdate": "06/04/95",
+                    "venue": "Shoreline Amphitheatre",
+                    "city": "Mountain View",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "Queen Jane Approximately",
+                        "Loose Lucy",
+                        "Mama Tried*-> Mexicali Blues*",
+                        "Lazy River Road",
+                        "Cassidy (62 mins.)"
+                    ],
+                    "set2": [
+                        "Bertha",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "Queen Jane Approximately",
+                        "Loose Lucy",
+                        "Mama Tried*-> Mexicali Blues*",
+                        "Lazy River Road",
+                        "Cassidy (62 mins.)"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_36": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2283",
+                    "showdate": "06/15/95",
+                    "venue": "Franklin County Airport",
+                    "city": "Highgate",
+                    "state": "VT",
+                    "set1": [
+                        "Touch Of Gray",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "El Paso",
+                        "Ramble On Rose",
+                        "Black Throated Wind",
+                        "Loose Lucy",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Touch Of Gray",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "El Paso",
+                        "Ramble On Rose",
+                        "Black Throated Wind",
+                        "Loose Lucy",
+                        "Promised Land"
+                    ],
+                    "set3": [
+                        "Touch Of Gray",
+                        "Wang Dang Doodle",
+                        "Peggy-O",
+                        "El Paso",
+                        "Ramble On Rose",
+                        "Black Throated Wind",
+                        "Loose Lucy",
+                        "Promised Land"
+                    ],
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_37": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2282",
+                    "showdate": "06/18/95",
+                    "venue": "Giants Stadium",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Bertha",
+                        "The Same Thing",
+                        "Stagger Lee",
+                        "Eternity*",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Bertha",
+                        "The Same Thing",
+                        "Stagger Lee",
+                        "Eternity*",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic. Other Artist(s): Dylan openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_38": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2281",
+                    "showdate": "06/19/95",
+                    "venue": "Giants Stadium",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "set1": [
+                        "Cold Rain & Snow",
+                        "Good Morning Little School Girl",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Lazy River Road",
+                        "Me & My Uncle*-> Big River*",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow",
+                        "Good Morning Little School Girl",
+                        "Ramble On Rose",
+                        "It's All Over Now",
+                        "Lazy River Road",
+                        "Me & My Uncle*-> Big River*",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "hamilton"
+                },
+                "key_39": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2280",
+                    "showdate": "06/21/95",
+                    "venue": "Knickerbocker Arena",
+                    "city": "Albany",
+                    "state": "NY",
+                    "set1": [
+                        "Soundcheck:\r\n\r\nVince on piano solo",
+                        "Its All Too Much",
+                        "Its All Too Much",
+                        "Its All Too Much"
+                    ],
+                    "set2": [
+                        "Soundcheck:\r\n\r\nVince on piano solo",
+                        "Its All Too Much",
+                        "Its All Too Much",
+                        "Its All Too Much"
+                    ],
+                    "set3": [
+                        "Soundcheck:\r\n\r\nVince on piano solo",
+                        "Its All Too Much",
+                        "Its All Too Much",
+                        "Its All Too Much"
+                    ],
+                    "comment": "",
+                    "lastupdate": "2008-04-12 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_40": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2279",
+                    "showdate": "06/22/95",
+                    "venue": "Knickerbocker Arena",
+                    "city": "Albany",
+                    "state": "NY",
+                    "set1": [
+                        "Touch Of Grey",
+                        "Walkin' Blues",
+                        "It Must Have Been The Roses",
+                        "When I Paint My Masterpiece",
+                        "So Many Roads",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Touch Of Grey",
+                        "Walkin' Blues",
+                        "It Must Have Been The Roses",
+                        "When I Paint My Masterpiece",
+                        "So Many Roads",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_41": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2278",
+                    "showdate": "06/24/95",
+                    "venue": "Robert F. Kennedy Stadium",
+                    "city": "Washington",
+                    "state": "DC",
+                    "set1": [
+                        "Jack Straw",
+                        "Althea",
+                        "Little Red Rooster",
+                        "Friend Of The Devil",
+                        "El Paso*",
+                        "So Many Roads",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Althea",
+                        "Little Red Rooster",
+                        "Friend Of The Devil",
+                        "El Paso*",
+                        "So Many Roads",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic. Other Artist(s): Hornsby played the entire show",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_42": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2277",
+                    "showdate": "06/25/95",
+                    "venue": "Robert F. Kennedy Stadium",
+                    "city": "Washington",
+                    "state": "DC",
+                    "set1": [
+                        "Shakedown Street",
+                        "Wang Dang Doodle",
+                        "Jack A Roe",
+                        "Mama Tried*-> Mexicali Blues*",
+                        "Loose Lucy",
+                        "Picasso Moon"
+                    ],
+                    "set2": [
+                        "Shakedown Street",
+                        "Wang Dang Doodle",
+                        "Jack A Roe",
+                        "Mama Tried*-> Mexicali Blues*",
+                        "Loose Lucy",
+                        "Picasso Moon"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic. Other Artist(s): Horsby on piano for entire show, Dylan opened",
+                    "lastupdate": "2001-02-09 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "hamilton"
+                },
+                "key_43": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2276",
+                    "showdate": "06/27/95",
+                    "venue": "The Palace",
+                    "city": "Auburn Hills",
+                    "state": "MI",
+                    "set1": [
+                        "Greatest Story Ever Told-> Bertha",
+                        "Minglewood Blues",
+                        "Ramble On Rose",
+                        "Queen Jane Approximately",
+                        "Lazy River Road",
+                        "Eternity",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Greatest Story Ever Told-> Bertha",
+                        "Minglewood Blues",
+                        "Ramble On Rose",
+                        "Queen Jane Approximately",
+                        "Lazy River Road",
+                        "Eternity",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_44": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2275",
+                    "showdate": "06/28/95",
+                    "venue": "The Palace",
+                    "city": "Auburn Hills",
+                    "state": "MI",
+                    "set1": [
+                        "Mississippi Half Step",
+                        "Good Morning Little School Girl",
+                        "Loser",
+                        "Black Throated Wind",
+                        "Just Like Tom Thumb's Blues",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step",
+                        "Good Morning Little School Girl",
+                        "Loser",
+                        "Black Throated Wind",
+                        "Just Like Tom Thumb's Blues",
+                        "Big Railroad Blues",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2012-02-23 13:54:28",
+                    "showyear": "1995",
+                    "showsuserid": "Wharfrat73"
+                },
+                "key_45": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2274",
+                    "showdate": "06/30/95",
+                    "venue": "Three Rivers Stadium",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "Take Me To The River",
+                        "Candyman",
+                        "When I Paint My Masterpiece",
+                        "Bird Song",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "West L.A. Fadeaway",
+                        "Take Me To The River",
+                        "Candyman",
+                        "When I Paint My Masterpiece",
+                        "Bird Song",
+                        "Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "Other Artist(s): Rusted Root openned. Soundcheck included It's A Man's World and Truckin'",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_46": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2273",
+                    "showdate": "07/02/95",
+                    "venue": "Deer Creek Music Center",
+                    "city": "Noblesville",
+                    "state": "IN",
+                    "set1": [
+                        "Soundcheck:\r\n\r\nHoochie Coochie Man",
+                        "Death Dont Have No Mercy",
+                        "Visions Of Johanna",
+                        "Here Comes Sunshine",
+                        "Here Comes Sunshine",
+                        "Jesu Joy"
+                    ],
+                    "set2": [
+                        "Soundcheck:\r\n\r\nHoochie Coochie Man",
+                        "Death Dont Have No Mercy",
+                        "Visions Of Johanna",
+                        "Here Comes Sunshine",
+                        "Here Comes Sunshine",
+                        "Jesu Joy"
+                    ],
+                    "set3": [
+                        "Soundcheck:\r\n\r\nHoochie Coochie Man",
+                        "Death Dont Have No Mercy",
+                        "Visions Of Johanna",
+                        "Here Comes Sunshine",
+                        "Here Comes Sunshine",
+                        "Jesu Joy"
+                    ],
+                    "comment": "* Weir on acoustic. Major gate crash occurred during Desolation Row. Police moved in with tear gas. Second show was cancelled.",
+                    "lastupdate": "2008-04-10 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_47": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2272",
+                    "showdate": "07/05/95",
+                    "venue": "Riverport Amphitheatre",
+                    "city": "Maryland Heights",
+                    "state": "MO",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Peggy-O",
+                        "The Same Thing",
+                        "Loose Lucy",
+                        "Childhood's End",
+                        "El Paso",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Peggy-O",
+                        "The Same Thing",
+                        "Loose Lucy",
+                        "Childhood's End",
+                        "El Paso",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "Sound check included Childhoods End (x2), Corrina and WRS Prelude (Weir on acoustic)",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_48": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2271",
+                    "showdate": "07/06/95",
+                    "venue": "Riverport Amphitheatre",
+                    "city": "Maryland Heights",
+                    "state": "MO",
+                    "set1": [
+                        "Mississippi Half Step",
+                        "Take Me To The River",
+                        "Big Boss Man",
+                        "Me & My Uncle*-> Big River*",
+                        "Brown Eyed Women",
+                        "Cassidy"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step",
+                        "Take Me To The River",
+                        "Big Boss Man",
+                        "Me & My Uncle*-> Big River*",
+                        "Brown Eyed Women",
+                        "Cassidy"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_49": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2270",
+                    "showdate": "07/08/95",
+                    "venue": "Soldier Field",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "set1": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Wang Dang Doodle",
+                        "Althea",
+                        "Queen Jane Approximately",
+                        "Tennessee Jed",
+                        "Eternity*",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Sugaree",
+                        "Wang Dang Doodle",
+                        "Althea",
+                        "Queen Jane Approximately",
+                        "Tennessee Jed",
+                        "Eternity*",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "* Weir on acoustic. Other artist(s): The Band Openned",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "system"
+                },
+                "key_50": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "2269",
+                    "showdate": "07/09/95",
+                    "venue": "Soldier Field",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "set1": [
+                        "Touch Of Gray",
+                        "Little Red Rooster",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece*",
+                        "Childhood's End",
+                        "Cumberland Blues",
+                        "Promised Land"
+                    ],
+                    "set2": [
+                        "Touch Of Gray",
+                        "Little Red Rooster",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece*",
+                        "Childhood's End",
+                        "Cumberland Blues",
+                        "Promised Land"
+                    ],
+                    "set3": [
+                        "Touch Of Gray",
+                        "Little Red Rooster",
+                        "Lazy River Road",
+                        "When I Paint My Masterpiece*",
+                        "Childhood's End",
+                        "Cumberland Blues",
+                        "Promised Land"
+                    ],
+                    "comment": "* Weir on acoustic",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1995",
+                    "showsuserid": "hamilton"
+                },
+                "key_51": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "395748",
+                    "showdate": "08/09/95",
+                    "venue": "News Footage",
+                    "city": "Various",
+                    "state": "Various",
+                    "set1": "",
+                    "set2": "",
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2008-01-01 19:19:04",
+                    "showyear": "1995",
+                    "showsuserid": "PeaceTrader"
+                },
+                "key_52": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "83900",
+                    "showdate": "??/??/95",
+                    "venue": "Studio - Earthquake Country sessions",
+                    "city": "Unknown",
+                    "state": "CA",
+                    "set1": [
+                        "Lazy River Road \t\t\t\t\r\nEasy Answers \t\t\r\nSo Many Roads \t\t\t\t\t\t\r\nWave To The Wind \r\nEternity \t\t\t\t\t\t\t\r\nThe Days Between\t\t\t\t\t\r\nWay To Go Home\t\r\nCorinna \t\t\t\t\t\t\r\nLiberty"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "Studio material from which \"last album\" would have been prepared.",
+                    "lastupdate": "2007-08-05 08:56:20",
+                    "showyear": "1995",
+                    "showsuserid": "flicflac"
+                },
+                "key_53": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "446386",
+                    "showdate": "??/??/95",
+                    "venue": "Studio",
+                    "city": "Unknown",
+                    "state": "Unknown",
+                    "set1": [
+                        "Lazy River Road\r\nEasy Answers\r\nSo Many Roads\r\nWave To The Wind\r\nEternity\r\nThe Days Between\r\nWay To Go Home\r\nCorinna\r\nLiberty"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "This is a collection of songs which (if the Deadhead's Taping Compendium is to be believed) were to have formed the basis for the first GD studio album of the 1990's.  The material appears to be a mix of live SBD recordings (possibly with some minor overdubs)  and rehearsals; it's doubtful if any of this represents actual studio recordings aimed at an album release.",
+                    "lastupdate": "2009-01-23 10:50:46",
+                    "showyear": "1995",
+                    "showsuserid": "Grateful Darkstar"
+                }
+            },
+            "status": "success"
+        }
+    }
+}

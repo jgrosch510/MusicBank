@@ -1,0 +1,85 @@
+
+Year: 1965
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-145b40cb-90e1-47c6-a368-a891b25f28f5", "Grateful Dead", "2", "288237",  "03/11/65", "Golden Gates Studios", "San Francisco", "CA",  "Cant Come Down, Mindbender, The Only Time Is Now, Caution, I Know You Rider, Early Morning Rain", "", "", "From archive.org, Sources lost in recent withdrawal of files",  "2005-11-23 23:32:02", "1965", "BluesForAllah45", "03". "11") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-86f0d351-4214-415b-a4c1-b4e2f0c63e8a", "Grateful Dead", "2", "1005",  "04/01/65", "Menlo College", "Menlo Park", "CA",  "", "", "", "Warlocks - Day uncertain",  "1996-01-07 00:00:00", "1965", "system", "04". "01") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-129ab5f2-e95b-4cb2-85a6-0dad85dc78d6", "Grateful Dead", "2", "1006",  "05/05/65", "Magoos Pizza Parlor", "Menlo Park", "CA",  "", "", "", "Warlocks",  "1996-01-07 00:00:00", "1965", "system", "05". "05") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b448cd84-3bc1-47e4-a822-183a1e3a6390", "Grateful Dead", "2", "1007",  "05/12/65", "Magoos Pizza Parlor", "Menlo Park", "CA",  "", "", "", "Warlocks",  "1996-01-07 00:00:00", "1965", "system", "05". "12") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b86e8449-b766-46dd-bb9d-10cb37edf34f", "Grateful Dead", "2", "1008",  "05/27/65", "Magoos Pizza Parlor", "Menlo Park", "CA",  "", "", "", "Warlocks",  "1996-01-07 00:00:00", "1965", "system", "05". "27") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7cf708a5-6008-497a-89bf-6d78651a524e", "Grateful Dead", "2", "24",  "06/18/65", "Frenchys", "Hayward", "CA",  "", "", "", "Warlocks - Phils first show",  "1996-01-07 00:00:00", "1965", "system", "06". "18") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-71779903-f4eb-4be6-bc3f-e24515774d7e", "Grateful Dead", "2", "114803",  "07/01/65", "Acid Test", "Fillmore & L.A.", "CA",  "", "", "", "date not correct.",  "2002-09-24 22:01:05", "1965", "tymelthea", "07". "01") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7157e5b9-d7b9-4fe5-81b5-0aba33540f32", "Grateful Dead", "2", "25",  "08/01/65", "Fireside Club", "San Mateo", "CA",  "", "", "", "Warlocks - possibly for three nights, Days uncertain",  "1996-01-07 00:00:00", "1965", "system", "08". "01") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7e2a5ca9-036b-4d42-b513-cb821a6a6580", "Grateful Dead", "2", "26",  "08/02/65", "Big Als Gas House", "Redwood City", "CA",  "", "", "", "Warlocks -day uncertain",  "1996-01-07 00:00:00", "1965", "system", "08". "02") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-55bf41b3-d761-4782-b83f-fff8c2a74c95", "Grateful Dead", "2", "27",  "08/03/65", "Cinnamon A-Go-Go", "Redwood City", "CA",  "", "", "", "Warlocks - Day uncertain",  "1996-01-07 00:00:00", "1965", "system", "08". "03") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bc6de6cb-26d2-4a47-8ef9-a6a977452c40", "Grateful Dead", "2", "28",  "09/01/65", "In Room", "Belmont", "CA",  "", "", "", "Warlocks played 5 nights a week for six weeks dates uncertain",  "1996-01-07 00:00:00", "1965", "system", "09". "01") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-84318b3c-5592-4dbc-8c4f-492621efc00e", "Grateful Dead", "2", "29",  "11/01/65", "Pierres", "San Francisco", "CA",  "", "", "", "Warlocks -possibly three nights, days uncertain",  "1996-01-07 00:00:00", "1965", "system", "11". "01") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2de7f017-ea60-4096-b2fd-2ba81706218c", "Grateful Dead", "2", "30",  "11/03/65", "Golden State Studios", "San Francisco", "CA",  "Cant Come Down, Mindbender, The Only Time Is Now, Caution (Do Not Stop on Tracks), I Know You Rider, Early Morning Rain", "", "", "Warlocks - Autumn Records Demo, The Emergency Crew",  "1996-01-07 00:00:00", "1965", "hamilton", "11". "03") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1eaf6878-8fcc-452a-8f5e-a25a3e6e91b8", "Grateful Dead", "2", "164030",  "11/29/65", "The Matrix", "San Francicso", "CA",  "", "", "", "",  "2003-07-16 21:52:50", "1965", "TweedleDee", "11". "29") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d3b707e7-65f4-48d0-acb0-12ba6ab759b0", "Grateful Dead", "2", "149791",  "11/??/65", "Studio", "San Francisco", "CA",  "Speed limit", "", "", "Neal Cassidy & The Warlocks 1965",  "2006-02-28 23:30:48", "1965", "kollektionist", "11". "??") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c02cc5b9-c9ec-42d1-8c4d-0ac7be12cc58", "Grateful Dead", "2", "133784",  "12/04/65", "San Jose", "San Jose", "CA",  "", "", "", "",  "2003-01-23 01:07:22", "1965", "kmirkema", "12". "04") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6cfbf2ba-8e5c-4c9f-a1c8-6556f82e16ec", "Grateful Dead", "2", "32",  "12/10/65", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Mime Toupe Benefit - first show as The Grateful Dead Other artist(s): Jefferson Airplane; Great Society; John Handy Quintet; Mystery Tend; The Gentlemen's Band",  "1996-01-07 00:00:00", "1965", "system", "12". "10") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a12f6736-7289-442c-9587-2a43c4ba5d62", "Grateful Dead", "2", "33",  "12/11/65", "Muir Beach Lodge", "Muir Beach", "CA",  "", "", "", "Muir Beach Acid Test; according to deadlists.com, this date is reportedly Muir Beach, and 12/18/65 is Big Beat Palo Alto",  "2001-12-22 00:00:00", "1965", "system", "12". "11") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bc126449-407b-42b1-bd24-dd5abb2ffffe", "Grateful Dead", "2", "34",  "12/18/65", "The Big Beat Club", "Palo Alto", "CA",  "Golden Road To Unlimited Devotion,New Potato Caboose,Alligator,He Was A Friend Of Mine,Good Lovin*", "", "", "Big Beat Acid Test; according to deadlists.com, this date is reportedly Big Beat, while 12/11/65 is Muir Beach.
+
+* - Possibly Not From This Show",  "2007-07-18 16:40:22", "1965", "shotgun_blues", "12". "18") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7622f068-bbf7-43d3-b326-aaa60ae59048", "Grateful Dead", "2", "69790",  "??/??/65", "studio", "n/a", "CA",  "Speed Limit", "", "", "Neal Cassady & The Warlocks; studio recording/Prankster production tape circa late 1965; circulates as part of an <a href= http://db.etree.org/lookup_show.php3?shows_key=69784>Acid Test compilation</a>",  "2001-09-27 12:12:27", "1965", "hamilton", "??". "??") ;

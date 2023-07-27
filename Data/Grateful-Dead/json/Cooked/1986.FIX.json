@@ -1,0 +1,1373 @@
+{
+    "db_rest": {
+        "@generator": "zend",
+        "@version": "1.0",
+        "fetchArtistYear": {
+            "shows": {
+                "key_0": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1658",
+                    "showdate": "02/08/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Iko Iko",
+                        "Little Red Rooster-> Peggy-O",
+                        "Beat It On Down The Line-> Stagger Lee",
+                        "It's All Over Now",
+                        "Bertha-> One More Saturday Night"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Little Red Rooster-> Peggy-O",
+                        "Beat It On Down The Line-> Stagger Lee",
+                        "It's All Over Now",
+                        "Bertha-> One More Saturday Night"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_1": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1659",
+                    "showdate": "02/09/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Loser",
+                        "Women Are Smarter-> Deal"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "Loser",
+                        "Women Are Smarter-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "Chinese New Year, Chinese Symphony Orchestra opened",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_2": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1660",
+                    "showdate": "02/11/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "China Cat Sunflower-> I Know You Rider",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song-> The Music Never Stopped-> Might As Well"
+                    ],
+                    "set2": [
+                        "China Cat Sunflower-> I Know You Rider",
+                        "Minglewood Blues",
+                        "Dupree's Diamond Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song-> The Music Never Stopped-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "*with Members of the Nevelle Brothers. Encore without Phil, Weir on tamborine.",
+                    "lastupdate": "2004-02-19 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "hamilton"
+                },
+                "key_3": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1661",
+                    "showdate": "02/12/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket-> Sugaree",
+                        "Tons Of Steel",
+                        "Tennessee Jed",
+                        "Cassidy-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Sugaree",
+                        "Tons Of Steel",
+                        "Tennessee Jed",
+                        "Cassidy-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "*with Members of the Nevelle Brothers **without Phil. Neville Brothers Opened",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_4": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1662",
+                    "showdate": "02/14/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Feel Like A Stranger-> Cold Rain & Snow",
+                        "Mama Tried-> Big River",
+                        "West L.A. Fadeaway",
+                        "Looks Like Rain-> Brown Eyed Women",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger-> Cold Rain & Snow",
+                        "Mama Tried-> Big River",
+                        "West L.A. Fadeaway",
+                        "Looks Like Rain-> Brown Eyed Women",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_5": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1663",
+                    "showdate": "03/19/86",
+                    "venue": "Hampton Coliseum",
+                    "city": "Hampton",
+                    "state": "VA",
+                    "set1": [
+                        "Hell In A Bucket-> Stagger Lee",
+                        "CC Rider",
+                        "Cold Rain & Snow-> Beat It On Down The Line-> Big Railroad Blues-> Looks Like Rain-> Visions Of Johanna-> The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Stagger Lee",
+                        "CC Rider",
+                        "Cold Rain & Snow-> Beat It On Down The Line-> Big Railroad Blues-> Looks Like Rain-> Visions Of Johanna-> The Music Never Stopped-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "greenone"
+                },
+                "key_6": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1664",
+                    "showdate": "03/20/86",
+                    "venue": "Hampton Coliseum",
+                    "city": "Hampton",
+                    "state": "VA",
+                    "set1": [
+                        "Touch Of Grey",
+                        "Little Red Rooster",
+                        "Friend Of The Devil",
+                        "It's All Over Now",
+                        "Row Jimmy",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Box Of Rain"
+                    ],
+                    "set2": [
+                        "Touch Of Grey",
+                        "Little Red Rooster",
+                        "Friend Of The Devil",
+                        "It's All Over Now",
+                        "Row Jimmy",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Box Of Rain"
+                    ],
+                    "set3": "",
+                    "comment": "First Box of Rain since 07-28-73",
+                    "lastupdate": "2010-04-16 09:47:23",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_7": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1665",
+                    "showdate": "03/21/86",
+                    "venue": "Hampton Coliseum",
+                    "city": "Hampton",
+                    "state": "VA",
+                    "set1": [
+                        "Roadrunner-> Dupree's Diamond Blues",
+                        "Minglewood Blues",
+                        "Bird Song",
+                        "Tons Of Steel-> Supplication-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Roadrunner-> Dupree's Diamond Blues",
+                        "Minglewood Blues",
+                        "Bird Song",
+                        "Tons Of Steel-> Supplication-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_8": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1666",
+                    "showdate": "03/23/86",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Gimme Some Lovin'-> Deal",
+                        "Hand Jive",
+                        "Candyman",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Mama Tried-> Big River-> Might As Well"
+                    ],
+                    "set2": [
+                        "Gimme Some Lovin'-> Deal",
+                        "Hand Jive",
+                        "Candyman",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Mama Tried-> Big River-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_9": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1667",
+                    "showdate": "03/24/86",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "El Paso",
+                        "Box Of Rain"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "Dire Wolf-> Little Red Rooster",
+                        "Brown Eyed Women",
+                        "My Brother Esau",
+                        "Ramble On Rose",
+                        "El Paso",
+                        "Box Of Rain"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_10": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1668",
+                    "showdate": "03/25/86",
+                    "venue": "The Spectrum",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Tennessee Jed",
+                        "CC Rider",
+                        "Tons Of Steel",
+                        "It Must Have Been The Roses",
+                        "Desolation Row-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Tennessee Jed",
+                        "CC Rider",
+                        "Tons Of Steel",
+                        "It Must Have Been The Roses",
+                        "Desolation Row-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_11": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1669",
+                    "showdate": "03/27/86",
+                    "venue": "Cumberland County Civic Center",
+                    "city": "Portland",
+                    "state": "ME",
+                    "set1": [
+                        "Jack Straw-> Peggy-O",
+                        "Minglewood Blues",
+                        "Revolutionary Hamstrung Blues-> Bertha-> Wang Dang Doodle-> Big Railroad Blues",
+                        "Supplication-> Promised Land"
+                    ],
+                    "set2": [
+                        "Jack Straw-> Peggy-O",
+                        "Minglewood Blues",
+                        "Revolutionary Hamstrung Blues-> Bertha-> Wang Dang Doodle-> Big Railroad Blues",
+                        "Supplication-> Promised Land"
+                    ],
+                    "set3": "",
+                    "comment": "Only time \"Revolutionary Hamstrung Blues\" was ever performed.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "greenone"
+                },
+                "key_12": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1670",
+                    "showdate": "03/28/86",
+                    "venue": "Cumberland County Civic Center",
+                    "city": "Portland",
+                    "state": "ME",
+                    "set1": [
+                        "Iko Iko-> Beat It On Down The Line",
+                        "Loser",
+                        "Good Time Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Box Of Rain"
+                    ],
+                    "set2": [
+                        "Iko Iko-> Beat It On Down The Line",
+                        "Loser",
+                        "Good Time Blues",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Althea",
+                        "Box Of Rain"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_13": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1671",
+                    "showdate": "03/30/86",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Hell In A Bucket-> Sugaree",
+                        "El Paso-> Cumberland Blues",
+                        "Tons Of Steel",
+                        "CC Rider",
+                        "Dupree's Diamond Blues",
+                        "Just Like Tom Thumb's Blues-> Deal"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Sugaree",
+                        "El Paso-> Cumberland Blues",
+                        "Tons Of Steel",
+                        "CC Rider",
+                        "Dupree's Diamond Blues",
+                        "Just Like Tom Thumb's Blues-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_14": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1672",
+                    "showdate": "03/31/86",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Mississippi Half Step-> Roadrunner-> West L.A. Fadeaway",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Desolation Row-> Might As Well"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Roadrunner-> West L.A. Fadeaway",
+                        "My Brother Esau",
+                        "Brown Eyed Women",
+                        "Desolation Row-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_15": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1673",
+                    "showdate": "04/01/86",
+                    "venue": "Providence Civic Center",
+                    "city": "Providence",
+                    "state": "RI",
+                    "set1": [
+                        "Gimme Some Lovin'-> Little Red Rooster",
+                        "Stagger Lee",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Big Railroad Blues-> The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Gimme Some Lovin'-> Little Red Rooster",
+                        "Stagger Lee",
+                        "Cassidy",
+                        "Tennessee Jed",
+                        "Looks Like Rain-> Big Railroad Blues-> The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_16": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1674",
+                    "showdate": "04/03/86",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Iko Iko",
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song",
+                        "Supplication-> Let It Grow-> Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Bird Song",
+                        "Supplication-> Let It Grow-> Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_17": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1675",
+                    "showdate": "04/04/86",
+                    "venue": "Hartford Civic Center",
+                    "city": "Hartford",
+                    "state": "CT",
+                    "set1": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "CC Rider",
+                        "Candyman",
+                        "It's All Over Now",
+                        "Crazy Fingers-> Greatest Story Ever Told-> Day Job"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "Dire Wolf",
+                        "CC Rider",
+                        "Candyman",
+                        "It's All Over Now",
+                        "Crazy Fingers-> Greatest Story Ever Told-> Day Job"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_18": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1676",
+                    "showdate": "04/12/86",
+                    "venue": "Irvine Meadows",
+                    "city": "Irvine",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket-> Bertha",
+                        "Little Red Rooster",
+                        "Loser",
+                        "Beat It On Down The Line",
+                        "Althea",
+                        "Hand Jive",
+                        "Row Jimmy",
+                        "Jack Straw"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Bertha",
+                        "Little Red Rooster",
+                        "Loser",
+                        "Beat It On Down The Line",
+                        "Althea",
+                        "Hand Jive",
+                        "Row Jimmy",
+                        "Jack Straw"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_19": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1677",
+                    "showdate": "04/13/86",
+                    "venue": "Irvine Meadows",
+                    "city": "Irvine",
+                    "state": "CA",
+                    "set1": [
+                        "Iko Iko",
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Desolation Row",
+                        "Mississippi Half Step",
+                        "Supplication-> Let It Grow"
+                    ],
+                    "set2": [
+                        "Iko Iko",
+                        "Minglewood Blues",
+                        "Peggy-O",
+                        "Desolation Row",
+                        "Mississippi Half Step",
+                        "Supplication-> Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "hamilton"
+                },
+                "key_20": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1678",
+                    "showdate": "04/18/86",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "CC Rider",
+                        "Brown Eyed Women",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Tons Of Steel",
+                        "My Baby Left Me-> That's Alright Mama",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "CC Rider",
+                        "Brown Eyed Women",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Tons Of Steel",
+                        "My Baby Left Me-> That's Alright Mama",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_21": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1679",
+                    "showdate": "04/19/86",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "Friend Of The Devil",
+                        "Cassidy",
+                        "Big Railroad Blues",
+                        "One More Saturday Night"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "Friend Of The Devil",
+                        "Cassidy",
+                        "Big Railroad Blues",
+                        "One More Saturday Night"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_22": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1680",
+                    "showdate": "04/21/86",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Mississippi Half Step-> El Paso",
+                        "Row Jimmy",
+                        "My Brother Esau",
+                        "Cumberland Blues",
+                        "Desolation Row",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> El Paso",
+                        "Row Jimmy",
+                        "My Brother Esau",
+                        "Cumberland Blues",
+                        "Desolation Row",
+                        "Ramble On Rose",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Benefit *W/ Jose Lorenzo, **without Jerry & Phil Brent Played throught drums",
+                    "lastupdate": "2004-09-03 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_23": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1681",
+                    "showdate": "04/22/86",
+                    "venue": "Berkeley Community Theater",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Box Of Rain-> Visions Of Johanna",
+                        "Mama Tried-> Big River",
+                        "Bird Song",
+                        "Little Red Rooster",
+                        "Deal"
+                    ],
+                    "set2": [
+                        "Box Of Rain-> Visions Of Johanna",
+                        "Mama Tried-> Big River",
+                        "Bird Song",
+                        "Little Red Rooster",
+                        "Deal"
+                    ],
+                    "set3": "",
+                    "comment": "Rex Benefit",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_24": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1682",
+                    "showdate": "05/03/86",
+                    "venue": "Cal Expo",
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "set1": [
+                        "Cold Rain & Snow-> The Race is On",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "High Time",
+                        "Beat It On Down The Line-> Promised Land-> Deal"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow-> The Race is On",
+                        "They Love Each Other",
+                        "CC Rider",
+                        "High Time",
+                        "Beat It On Down The Line-> Promised Land-> Deal"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_25": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1683",
+                    "showdate": "05/04/86",
+                    "venue": "Cal Expo Amphitheatre",
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "set1": [
+                        "One More Saturday Night-> Mississippi Half Step-> Little Red Rooster",
+                        "Candyman",
+                        "Me & My Uncle> Mexicali",
+                        "China Cat Sunflower> I Know You Rider"
+                    ],
+                    "set2": [
+                        "One More Saturday Night-> Mississippi Half Step-> Little Red Rooster",
+                        "Candyman",
+                        "Me & My Uncle> Mexicali",
+                        "China Cat Sunflower> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "\"Radioactive cloud\" rap during \"Good Lovin\"",
+                    "lastupdate": "2002-09-05 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "hamilton"
+                },
+                "key_26": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1684",
+                    "showdate": "05/10/86",
+                    "venue": "Frost Amphitheatre",
+                    "city": "Palo Alto",
+                    "state": "CA",
+                    "set1": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "Desolation Row",
+                        "Tennessee Jed",
+                        "Minglewood Blues",
+                        "Big Railroad Blues",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Bertha-> Greatest Story Ever Told",
+                        "West L.A. Fadeaway",
+                        "Desolation Row",
+                        "Tennessee Jed",
+                        "Minglewood Blues",
+                        "Big Railroad Blues",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_27": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1685",
+                    "showdate": "05/11/86",
+                    "venue": "Frost Amphitheatre",
+                    "city": "Palo Alto",
+                    "state": "CA",
+                    "set1": [
+                        "Gimme Some Lovin'-> Dancin' In The Streets",
+                        "Good Time Blues",
+                        "Iko Iko",
+                        "My Brother Esau",
+                        "It Must Have Been The Roses",
+                        "Cassidy-> Might As Well"
+                    ],
+                    "set2": [
+                        "Gimme Some Lovin'-> Dancin' In The Streets",
+                        "Good Time Blues",
+                        "Iko Iko",
+                        "My Brother Esau",
+                        "It Must Have Been The Roses",
+                        "Cassidy-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_28": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1686",
+                    "showdate": "06/20/86",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Midnight Hour-> Mississippi Half Step",
+                        "El Paso-> West L.A. Fadeaway",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Midnight Hour-> Mississippi Half Step",
+                        "El Paso-> West L.A. Fadeaway",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_29": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1687",
+                    "showdate": "06/21/86",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Loser",
+                        "Desolation Row",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "Friend Of The Devil",
+                        "CC Rider",
+                        "Loser",
+                        "Desolation Row",
+                        "China Cat Sunflower-> I Know You Rider"
+                    ],
+                    "set3": "",
+                    "comment": "*Dedicated to Len Bias",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_30": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1688",
+                    "showdate": "06/22/86",
+                    "venue": "Greek Theatre, U. Of California",
+                    "city": "Berkeley",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw",
+                        "It Must Have Been The Roses",
+                        "Cassidy",
+                        "Row Jimmy",
+                        "Minglewood Blues-> Big Railroad Blues",
+                        "Mama Tried-> Big River",
+                        "Stagger Lee",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set2": [
+                        "Jack Straw",
+                        "It Must Have Been The Roses",
+                        "Cassidy",
+                        "Row Jimmy",
+                        "Minglewood Blues-> Big Railroad Blues",
+                        "Mama Tried-> Big River",
+                        "Stagger Lee",
+                        "Hell In A Bucket-> Might As Well"
+                    ],
+                    "set3": "",
+                    "comment": "*Second Encore. FM Broadcast KPFA Berkeley",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_31": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1689",
+                    "showdate": "06/26/86",
+                    "venue": "Hubert H. Humphrey Metrodome",
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "set1": [
+                        "Gimme Some Lovin'",
+                        "Sugaree",
+                        "Little Red Rooster",
+                        "Iko Iko",
+                        "My Brother Esau",
+                        "Tennessee Jed",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Terrapin Station-> Estimated Prophet-> Drums-> The Wheel-> Truckin'-> Black Peter-> Around & Around-> Sugar Magnolia",
+                        "E: Brokedown Palace"
+                    ],
+                    "set2": "",
+                    "set3": "",
+                    "comment": "The Dead Opened up for Dylan & Petty & Heartbreakers\r\nThe Dead played one long set.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "hamilton"
+                },
+                "key_32": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1690",
+                    "showdate": "06/28/86",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Ramble On Rose",
+                        "CC Rider",
+                        "Row Jimmy",
+                        "Beat It On Down The Line-> Touch Of Gray",
+                        "Looks Like Rain",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Ramble On Rose",
+                        "CC Rider",
+                        "Row Jimmy",
+                        "Beat It On Down The Line-> Touch Of Gray",
+                        "Looks Like Rain",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_33": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1691",
+                    "showdate": "06/29/86",
+                    "venue": "Alpine Valley Music Theatre",
+                    "city": "East Troy",
+                    "state": "WI",
+                    "set1": [
+                        "Mississippi Half Step-> Franklin's Tower-> Dancin' In The Streets",
+                        "Brown Eyed Women",
+                        "Minglewood Blues",
+                        "Just Like Tom Thumb's Blues",
+                        "Stagger Lee",
+                        "Samson & Delilah"
+                    ],
+                    "set2": [
+                        "Mississippi Half Step-> Franklin's Tower-> Dancin' In The Streets",
+                        "Brown Eyed Women",
+                        "Minglewood Blues",
+                        "Just Like Tom Thumb's Blues",
+                        "Stagger Lee",
+                        "Samson & Delilah"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_34": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1692",
+                    "showdate": "06/30/86",
+                    "venue": "River Bend Music Center",
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "set1": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "Mama Tried-> Big River",
+                        "Loser",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Feel Like A Stranger",
+                        "Friend Of The Devil",
+                        "Mama Tried-> Big River",
+                        "Loser",
+                        "Cassidy",
+                        "West L.A. Fadeaway",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_35": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1693",
+                    "showdate": "07/02/86",
+                    "venue": "Rubber Bowl, University of Akron",
+                    "city": "Akron",
+                    "state": "OH",
+                    "set1": [
+                        "Alabama Getaway-> Greatest Story Ever Told-> They Love Each Other",
+                        "Little Red Rooster*",
+                        "Don't Think Twice It's Alright*",
+                        "It's All Over Now Baby Blue*",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Don't Ease Me In"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Greatest Story Ever Told-> They Love Each Other",
+                        "Little Red Rooster*",
+                        "Don't Think Twice It's Alright*",
+                        "It's All Over Now Baby Blue*",
+                        "Candyman",
+                        "Me & My Uncle-> Mexicali Blues",
+                        "Don't Ease Me In"
+                    ],
+                    "set3": "",
+                    "comment": "*W Bob Dylan, **Without Jerry. Dylan, Petty and Heartbreakers opened.",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_36": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1694",
+                    "showdate": "07/04/86",
+                    "venue": "Rich Stadium",
+                    "city": "Buffalo",
+                    "state": "NY",
+                    "set1": [
+                        "Jack Straw\nDupree's Diamond Blues\nCC Rider\nTennessee Jed\nMy Brother Esau\nTouch Of Gray"
+                    ],
+                    "set2": [
+                        "Jack Straw\nDupree's Diamond Blues\nCC Rider\nTennessee Jed\nMy Brother Esau\nTouch Of Gray"
+                    ],
+                    "set3": "",
+                    "comment": "*Broadcast on TV for Farm Aid. Dylan, Petty & Heartbreakers Opened.",
+                    "lastupdate": "2014-07-24 20:58:46",
+                    "showyear": "1986",
+                    "showsuserid": "propylaen2001"
+                },
+                "key_37": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1695",
+                    "showdate": "07/06/86",
+                    "venue": "Robert F. Kennedy Stadium",
+                    "city": "Washington",
+                    "state": "DC",
+                    "set1": [
+                        "Hell In A Bucket-> Sugaree",
+                        "Me & My Uncle-> Big River",
+                        "Row Jimmy",
+                        "Cassidy",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket-> Sugaree",
+                        "Me & My Uncle-> Big River",
+                        "Row Jimmy",
+                        "Cassidy",
+                        "Althea",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "Dylan, Petty & Heartbreakers Opened.",
+                    "lastupdate": "2002-11-06 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_38": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1696",
+                    "showdate": "07/07/86",
+                    "venue": "Robert F. Kennedy Stadium",
+                    "city": "Washington",
+                    "state": "DC",
+                    "set1": [
+                        "Ramble On Rose",
+                        "Minglewood Blues",
+                        "It Must Have Been The Roses",
+                        "It's All Over Now Baby Blue*",
+                        "Desolation Row*"
+                    ],
+                    "set2": [
+                        "Ramble On Rose",
+                        "Minglewood Blues",
+                        "It Must Have Been The Roses",
+                        "It's All Over Now Baby Blue*",
+                        "Desolation Row*"
+                    ],
+                    "set3": "",
+                    "comment": "*w/ Bob Dylan; Dylan, Petty & Heartbreakers Opened.",
+                    "lastupdate": "2004-02-23 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "hamilton"
+                },
+                "key_39": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1697",
+                    "showdate": "12/15/86",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Touch Of Gray",
+                        "CC Rider",
+                        "When Push Comes To Shove",
+                        "Beat It On Down The Line-> Greatest Story Ever Told",
+                        "Loser",
+                        "Cassidy",
+                        "Althea",
+                        "My Brother Esau",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set2": [
+                        "Touch Of Gray",
+                        "CC Rider",
+                        "When Push Comes To Shove",
+                        "Beat It On Down The Line-> Greatest Story Ever Told",
+                        "Loser",
+                        "Cassidy",
+                        "Althea",
+                        "My Brother Esau",
+                        "Candyman",
+                        "Let It Grow"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_40": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1698",
+                    "showdate": "12/16/86",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Row Jimmy",
+                        "Me & My Uncle-> Big River",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "When Push Comes To Shove",
+                        "Sugaree-> Jack Straw"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Row Jimmy",
+                        "Me & My Uncle-> Big River",
+                        "Stagger Lee",
+                        "Minglewood Blues",
+                        "When Push Comes To Shove",
+                        "Sugaree-> Jack Straw"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_41": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1699",
+                    "showdate": "12/17/86",
+                    "venue": "Oakland-Alameda County Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Alabama Getaway-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "Tons Of Steel-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Desolation Row",
+                        "When Push Comes To Shove",
+                        "The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Alabama Getaway-> Promised Land",
+                        "West L.A. Fadeaway",
+                        "Tons Of Steel-> Little Red Rooster",
+                        "Tennessee Jed",
+                        "Desolation Row",
+                        "When Push Comes To Shove",
+                        "The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_42": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1700",
+                    "showdate": "12/27/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Playin' In The Band-> Bertha",
+                        "Mama Tried-> Mexicali Blues",
+                        "Ramble On Rose",
+                        "Little Red Rooster",
+                        "Bird Song"
+                    ],
+                    "set2": [
+                        "Playin' In The Band-> Bertha",
+                        "Mama Tried-> Mexicali Blues",
+                        "Ramble On Rose",
+                        "Little Red Rooster",
+                        "Bird Song"
+                    ],
+                    "set3": "",
+                    "comment": "Nevelle Brothers Opened",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_43": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1701",
+                    "showdate": "12/28/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Cold Rain & Snow",
+                        "Minglewood Blues",
+                        "Row Jimmy-> El Paso",
+                        "Stagger Lee",
+                        "Box Of Rain-> Big Railroad Blues-> Promised Land"
+                    ],
+                    "set2": [
+                        "Cold Rain & Snow",
+                        "Minglewood Blues",
+                        "Row Jimmy-> El Paso",
+                        "Stagger Lee",
+                        "Box Of Rain-> Big Railroad Blues-> Promised Land"
+                    ],
+                    "set3": [
+                        "Cold Rain & Snow",
+                        "Minglewood Blues",
+                        "Row Jimmy-> El Paso",
+                        "Stagger Lee",
+                        "Box Of Rain-> Big Railroad Blues-> Promised Land"
+                    ],
+                    "comment": "Nevelle Brothers Opened",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "mvernon"
+                },
+                "key_44": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1702",
+                    "showdate": "12/30/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Hell In A Bucket",
+                        "Althea",
+                        "CC Rider",
+                        "Cumberland Blues",
+                        "My Brother Esau-> When Push Comes To Shove",
+                        "Beat It On Down The Line",
+                        "Greatest Story Ever Told",
+                        "Don't Ease Me In-> The Music Never Stopped"
+                    ],
+                    "set2": [
+                        "Hell In A Bucket",
+                        "Althea",
+                        "CC Rider",
+                        "Cumberland Blues",
+                        "My Brother Esau-> When Push Comes To Shove",
+                        "Beat It On Down The Line",
+                        "Greatest Story Ever Told",
+                        "Don't Ease Me In-> The Music Never Stopped"
+                    ],
+                    "set3": "",
+                    "comment": "*W Hamza El Din and Jose Lorenzo. **W members of the Nevelle Brothers. Nevelle Brothers Opened",
+                    "lastupdate": "1996-01-07 00:00:00",
+                    "showyear": "1986",
+                    "showsuserid": "system"
+                },
+                "key_45": {
+                    "name": "Grateful Dead",
+                    "artist_key": "2",
+                    "shows_key": "1703",
+                    "showdate": "12/31/86",
+                    "venue": "Henry J. Kaiser Convention Center",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "set1": [
+                        "Jack Straw-&gt;\nSugaree\nMe & My Uncle-&gt;\nMexicali Blues\nCandyman\nDesolation Row\nU.S. Blues"
+                    ],
+                    "set2": [
+                        "Jack Straw-&gt;\nSugaree\nMe & My Uncle-&gt;\nMexicali Blues\nCandyman\nDesolation Row\nU.S. Blues"
+                    ],
+                    "set3": [
+                        "Jack Straw-&gt;\nSugaree\nMe & My Uncle-&gt;\nMexicali Blues\nCandyman\nDesolation Row\nU.S. Blues"
+                    ],
+                    "comment": "FM Broadcast on KFOG\n\nDavid Crosby then The Neville Brothers opened",
+                    "lastupdate": "2010-06-22 10:51:58",
+                    "showyear": "1986",
+                    "showsuserid": "MusicNevStopped"
+                }
+            },
+            "status": "success"
+        }
+    }
+}

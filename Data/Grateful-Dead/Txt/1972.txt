@@ -1,0 +1,485 @@
+
+Year: 1972
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e05620c6-639f-41a4-8b22-160ca0a68f9e", "Grateful Dead", "2", "747",  "01/02/72", "Winterland Arena", "San Francisco", "CA",  "Truckin, Sugaree, Mr. Charlie, Beat It On Down The Line, Loser, Jack Straw, Chinatown Shuffle, Your Love At Home, Tennessee Jed, El Paso, You Win Again, Big Railroad Blues, Mexicali Blues, Playin In The Band, Next Time You See Me, Brown Eyed Women, Casey Jones", "Good Lovin-> China Cat Sunflower-> I Know You Rider-> Good Lovin, Ramble On Rose, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "Other artist(s): GD; NRPS; Yogi Phlegm",  "1996-01-07 00:00:00", "1972", "system", "01". "02") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-33cea5ba-c7a8-491f-88bb-ff1310625fe2", "Grateful Dead", "2", "748",  "03/05/72", "Winterland Arena", "San Francisco", "CA",  "Bertha, Black Throated Wind, Mr. Charlie, Sugaree, Greatest Story Ever Told, Next Time You See Me, Tennessee Jed, Jack Straw, China Cat Sunflower-> I Know You Rider, Mexicali Blues, You Win Again, El Paso, Casey Jones", "Good Lovin, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "American Indian Benefit - Other artist(s): GD; NRPS; Yogi phlegm",  "1996-01-07 00:00:00", "1972", "system", "03". "05") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e5620534-275f-42f3-b677-714a5dab38c9", "Grateful Dead", "2", "749",  "03/21/72", "Academy Of Music", "New York", "NY",  "Bertha, Black-Throated Wind, Sugaree, Next Time You See Me, Greatest Story Ever Told, Loser, Mr. Charlie, Looks Like Rain, Tennessee Jed, Playin In The Band, You Win Again, Cumberland Blues, Chinatown Shuffle, El Paso, Good Lovin &gt; Casey Jones", "Truckin &gt; Drums &gt; The Other One &gt; Wharf Rat &gt; Jam, Sugar Magnolia, Two Souls In Communion, Ramble On Rose, Uncle Johns Band, Big Railroad Blues, Not Fade Away &gt; Goin Down The Road Feelin Bad &gt; One More Saturday Night", "", "",  "2007-08-14 17:55:30", "1972", "STLBlues", "03". "21") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b0919859-bbb1-4bf9-af7d-e3d0f44cbb5c", "Grateful Dead", "2", "750",  "03/22/72", "Academy of Music", "New York", "NY",  "Greatest Story Ever Told, Deal, Mr. Charlie, Black Throated Wind, China Cat Sunflower > I Know You Rider, Mexicali Blues, Tennessee Jed, Two Souls In Communion, Me And Bobby McGee, Loser, Big Boss Man, Jack Straw, Big Railroad Blues, Looks Like Rain, Casey Jones", "Me And My Uncle, Sugaree, Chinatown Shuffle, Playing In The Band, It Hurts Me Too, Brown Eyed Women, El Paso, Brokedown Palace, Sugar Magnolia > Caution (Do Not Stop On Tracks) > Jam > Uncle Johns Band, E: One More Saturday Night", "", "setlist courtesy deadlists.com",  "1996-01-07 00:00:00", "1972", "hamilton", "03". "22") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-11c17fa9-5e85-43e0-a7ab-b7148ab97123", "Grateful Dead", "2", "751",  "03/23/72", "Academy of Music", "New York", "NY",  "China Cat Sunflower-> I Know You Rider, Black Throated Wind, Chinatown Shuffle, Brown Eyed Women, Beat It On Down The Line, Looks Like Rain, Mr. Charlie, Jack Straw, Next Time You See Me, Playin In The Band, Comes A Time, Me And Bobby McGee, Casey Jones", "Truckin, Ramble On Rose, Two Souls In Communion, Mexicali Blues, Dark Star, Big Boss Man, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: Sugar Magnolia", "", "",  "2004-09-05 22:38:10", "1972", "hamilton", "03". "23") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7f7a526e-8c14-467c-859a-07060e479388", "Grateful Dead", "2", "752",  "03/25/72", "Academy of Music", "New York", "NY",  "Hey Bo Diddley*-> Im A Man*-> Jam*-> Take It Off*-> Mona*, Wow Wow Hey Hey*, Slow Blues*, Pollution*, Eighteen Children*, Jam*, Jam*", "How Sweet It Is, Are You Lonely For Me, Next Time You See Me, Brown Eyed Women, Smokestack Lightning, Sitting On Top Of The World, Sugaree, Looks Like Rain, Bertha, Mr. Charlie, Playin In The Band, Good Lovin, Turn On Your Love Light", "", "*w/ Bo Diddley; Hells Angels party; Other artist on bill: Bo Diddley",  "2003-04-15 00:00:00", "1972", "hamilton", "03". "25") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8075e3ef-d07d-45d2-8523-3da7b3c34970", "Grateful Dead", "2", "753",  "03/26/72", "Academy of Music", "New York", "NY",  "Greatest Story Ever Told, Cold Rain &amp; Snow, Chinatown Shuffle, Black Throated Wind, You Win Again, Mr. Charlie, Jack Straw, Loser, Looks Like Rain, Big Railroad Blues, Big Boss Man, Playin In The Band, El Paso, Good Lovin", "Truckin &gt; Drums &gt; The Other One &gt; Me And My Uncle &gt; The Other One &gt; Wharf Rat, Sugar Magnolia, The Stranger (Two Souls In Communion), Not Fade Away &gt; Goin Down The Road Feeling Bad &gt; Not Fade Away", "", "",  "2015-05-25 12:43:28", "1972", "Zoooma1", "03". "26") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-aa94918d-5849-4a16-9f34-67cccafd3dc4", "Grateful Dead", "2", "754",  "03/27/72", "Academy of Music", "New York", "NY",  "Bertha, Black Throated Wind, Chinatown Shuffle, Brown Eyed Women, China Cat Sunflower-> I Know You Rider-> Me And Bobby McGee, Mr. Charlie, Looks Like Rain, Deal, It Hurts Me Too, Cumberland Blues, Playin In The Band", "Greatest Story Ever Told, Ramble On Rose, Big Boss Man, El Paso, Good Lovin, Me & My Uncle, Two Souls In Communion, Sugar Magnolia, Loser, Casey Jones, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "03". "27") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-25c6f099-6c54-497e-b77c-18eab854d4ad", "Grateful Dead", "2", "755",  "03/28/72", "Academy of Music", "New York", "NY",  "Truckin, Tennessee Jed, Chinatown Shuffle, Black Throated Wind, You Win Again, Mr. Charlie, Mexicali Blues, Brokedown Palace, China Cat Sunflower-> I Know You Rider, Casey Jones, Next Time You See Me, Cumberland Blues, Looks Like Rain, Big River, El Paso", "Playin In The Band, Sugaree, Two Souls In Communion, Sugar Magnolia-> The Other One, It Hurts Me Too, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E:Sidewalks Of New York*-> E: One More Saturday Night", "", "* Only time played",  "2004-09-06 00:00:00", "1972", "hamilton", "03". "28") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-57396e02-a0ec-4568-b9be-2fea22c63619", "Grateful Dead", "2", "756",  "04/07/72", "Wembley Empire Pool", "London", "England",  "Greatest Story Ever Told, Sugaree, Chinatown Shuffle, China Cat Sunflower-> I Know You Rider, Big Boss Man, Black Throated Wind, Loser, Mr. Charlie, Beat It On Down The Line, Tennessee Jed, Playin In The Band, Casey Jones", "Truckin-> Drums-> The Other One-> El Paso-> The Other One-> Wharf Rat, Ramble On Rose, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "Sound check: Hey Bo Diddley",  "1996-01-07 00:00:00", "1972", "hamilton", "04". "07") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d89735d2-5af5-4248-b176-c3968306571e", "Grateful Dead", "2", "757",  "04/08/72", "Wembley Empire Pool", "London", "England",  "Bertha, Me & My Uncle, Mr. Charlie, Deal, Black Throated Wind, Next Time You See Me, Cumberland Blues, Brown Eyed Women, Beat It On Down The Line, Tennessee Jed, Playin In The Band, Good Lovin, Looks Like Rain, Casey Jones", "Truckin, Big Railroad Blues, It Hurts Me Too, Dark Star-> Mind Left Body Jam -> Sugar Magnolia-> Caution (Do Not Stop On Tracks); E: One More Saturday Night", "", "",  "2000-12-18 00:00:00", "1972", "hamilton", "04". "08") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ab2351cf-014f-4fb9-bf7f-a423d7a5769e", "Grateful Dead", "2", "758",  "04/11/72", "Newcastle City Hall", "Newcastle", "England",  "Greatest Story Ever Told, Deal, Mr. Charlie, Black Throated Wind, Tennessee Jed, Big Boss Man, Beat It On Down The Line, Sugaree, Jack Straw, Chinatown Shuffle, China Cat Sunflower-> I Know You Rider, Playin In The Band, Next Time You See Me, Brown Eyed Women, Looks Like Rain, Big Railroad Blues, Casey Jones", "Good Lovin, Ramble On Rose, Truckin-> Drums-> The Other One-> Comes A Time-> Sugar Magnolia, E: Brokedown Palace", "", "",  "2002-06-09 00:00:00", "1972", "hamilton", "04". "11") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6f097e6a-7de5-4628-82a1-575d57174bd9", "Grateful Dead", "2", "759",  "04/14/72", "Tivoli Theater", "Copenhagen", "Denmark",  "Bertha, Me & My Uncle, Mr. Charlie, You Win Again, Black Throated Wind, Chinatown Shuffle, Loser, Me And Bobby McGee, Cumberland Blues, Playin In The Band, Tennessee Jed, El Paso, Big Boss Man, Beat It On Down The Line, Casey Jones", "Truckin, It Hurts Me Too, Brown Eyed Women, Looks Like Rain, Dark Star-> Sugar Magnolia, Good Lovin-> Caution (Do Not Stop on Tracks)-> Who Do You Love-> Caution (Do Not Stop on Tracks)-> Good Lovin, Ramble On Rose, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "",  "2001-10-22 00:00:00", "1972", "hamilton", "04". "14") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-39c9909c-cbb1-4011-b32a-4fdcbc9d829e", "Grateful Dead", "2", "761",  "04/16/72", "Stakladen, Aarhus University", "Aarhus", "Denmark",  "Greatest Story Ever Told, Sugaree, Chinatown Shuffle, Black Throated Wind, Tennessee Jed, Mr. Charlie, Beat It On Down The Line, China Cat Sunflower-> I Know You Rider, Mexicali Blues, Loser, Next Time You See Me, Playin In The Band, Dire Wolf", "Good Lovin, Cumberland Blues, El Paso, Deal, Truckin-> Caution (Do Not Stop on Tracks)-> Uncle Johns Band-> The Other One-> Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "04". "16") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a55f4a7a-f278-4111-9216-5e962b523ca8", "Grateful Dead", "2", "762",  "04/17/72", "Tivoli Concert Hall", "Copenhagen", "Denmark",  "Cold Rain And Snow, Me And Bobby McGee*, Chinatown Shuffle*, China Cat Sunflower* &gt; I Know You Rider*, Jack Straw*, Hes Gone*, Next Time You See Me*, Black-Throated Wind", "Casey Jones, Mr. Charlie, Playing In The Band, Sugaree, One More Saturday Night*, Hurts Me Too*, Ramble On Rose*, El Paso*, Big Railroad Blues*, Truckin*", "Dark Star, Sugar Magnolia, Caution (Do Not Stop On Tracks), Johnny B. Goode", "* - Recorded by Danish Television for subsequent broadcast as TV from the Tivoli in three parts on April 17, 1972, August 12, 1972 and August 25, 1972.
+
+There was no encore for this show.  One More Saturday Night was played in the second set and was the intended final song for the TV broadcast, which explains why Bob Weir said Bye, bye at the end of the song.  The television cameras were not on for the third set.",  "2012-02-03 14:36:36", "1972", "STLBlues", "04". "17") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-448f9155-8879-4f07-8609-b73a40651340", "Grateful Dead", "2", "763",  "04/21/72", "Beat Club", "Bremen", "Germany",  "Bertha
+Playing In The Band *
+Mr. Charlie
+Sugaree
+One More Saturday Night
+Playing In The Band *
+Beat It On Down The Line
+Truckin
+Drums
+The Other One", "", "Soundcheck:
+Loser
+Black Throated Wind", "Jerry Garcia - Guitar
+Bob Weir - Guitar
+Ron Pigpen McKernan - Keyboards
+Keith Godchaux - Piano
+Phil Lesh - Bass
+Bill Kreutzmann - Drums
+Donna Jean Godchaux - Vocals *",  "2014-07-27 02:46:44", "1972", "schmoe75_DVD", "04". "21") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a0baf4fd-247e-4254-9c62-243c5ddac6df", "Grateful Dead", "2", "764",  "04/24/72", "Rheinhalle", "Düsseldorf", "Germany",  "Truckin, Tennessee Jed, Chinatown Shuffle, Black Throated Wind, China Cat Sunflower &gt; I Know You Rider, Mr. Charlie, Beat It On Down The Line, Loser, Playin In The Band, Next Time You See Me, Me And Bobby McGee, Good Lovin, Casey Jones", "Hes Gone, It Hurts Me Too, El Paso, Dark Star &gt; Me & My Uncle &gt; Wharf Rat &gt; Sugar Magnolia, Not Fade Away &gt; Goin Down The Road Feelin Bad &gt; Not Fade Away 
+
+E: One More Saturday Night", "", "",  "2007-08-30 16:54:33", "1972", "rcdupre", "04". "24") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bb1a3d3b-d678-447f-af0b-e150ccd297f2", "Grateful Dead", "2", "765",  "04/26/72", "Jahrhundert Halle", "Frankfurt", "Germany",  "Bertha, Me & My Uncle, Mr. Charlie, Hes Gone, Black Throated Wind, Next Time You See Me, China Cat Sunflower-> I Know You Rider, Jack Straw, Big Railroad Blues, Playin In The Band, Chinatown Shuffle, Loser, Beat It On Down The Line, You Win Again, Good Lovin, Dire Wolf", "Truckin-> Drums-> The Other One-> Comes A Time-> Sugar Magnolia, El Paso, Tennessee Jed, Greatest Story Ever Told, Two Souls In Communion, Casey Jones, Turn On Your Love Light-> Goin Down The Road Feelin Bad-> One More Saturday Night", "", "This date is featured on <a href= http://mars.dead.net>Hundred Year Hall</a>.",  "2001-02-06 00:00:00", "1972", "greenone", "04". "26") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1d7d1e27-5895-4bf4-b79e-fe9fd81d9fcb", "Grateful Dead", "2", "766",  "04/29/72", "Musikhalle", "Hamburg", "Germany",  "Playin In The Band, Sugaree, Mr. Charlie, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Big Boss Man, Jack Straw, Loser, Chinatown Shuffle, Me & My Uncle, Big Railroad Blues, Good Lovin, Casey Jones", "Greatest Story Ever Told, Hes Gone, Next Time You See Me, Dark Star-> Sugar Magnolia-> Caution (Do Not Stop on Tracks)-> Who Do You Love, E: One More Saturday Night, E: Uncle Johns Band*", "", "Second Encore",  "2003-01-23 00:00:00", "1972", "hamilton", "04". "29") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-879cc5eb-db31-4f47-a919-a2ac292b97f2", "Grateful Dead", "2", "2344",  "05/03/72", "Olympia Theater", "Paris", "France",  "Bertha, Me & My Uncle, Mr. Charlie, Sugaree, Black Throated Wind, Chinatown Shuffle, China Cat Sunflower-> I Know You Rider, Beat It On Down The Line, Hes Gone, Next Time You See Me, Playin In The Band, Tennessee Jed, Good Lovin, Sing Me Back Home, Casey Jones", "Greatest Story Ever Told, Ramble On Rose, It Hurts Me Too, Truckin-> Space-> The Other One-> Drums-> The Other One-> Me And Bobby McGee-> The Other One-> Wharf Rat, Jack Straw, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "5/3/72 was one of the Honeymoon tapes that were taken from David Gans'house while he was away on his honeymoon.",  "2001-01-17 00:00:00", "1972", "hamilton", "05". "03") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c507e3ce-00c4-40e1-a8ad-8c31ff9a59ef", "Grateful Dead", "2", "767",  "05/04/72", "Olympia Theater", "Paris", "France",  "Greatest Story Ever Told, Deal, Mr. Charlie, Beat It On Down The Line, Brown Eyed Women, Chinatown Shuffle, Playin In The Band, You Win Again, It Hurts Me Too, Hes Gone, El Paso, Big Railroad Blues, Two Souls In Communion, Casey Jones", "Good Lovin, Next Time You See Me, Ramble On Rose, Jack Straw, Dark Star-> Drums-> Dark Star-> Sugar Magnolia, Sing Me Back Home, Mexicali Blues, Big Boss Man, Uncle Johns Band, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "5/4/72 was one of the Honeymoon tapes that were taken from David Gans'house while he was away on his honeymoon.",  "2001-01-17 00:00:00", "1972", "hamilton", "05". "04") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-57e5c2f7-8769-4511-97b8-324268ebb7df", "Grateful Dead", "2", "768",  "05/07/72", "Bickershaw Festival", "Wigan", "England",  "Truckin, Sugaree, Mr. Charlie, Deal, Beat It On Down The Line, Hes Gone, Chinatown Shuffle, China Cat Sunflower> I Know You Rider, Black-Throated Wind, Next Time You See Me, Playing in the Band, Tennessee Jed, Good Lovin, Casey Jones", "Greatest Story Ever Told, Big Boss Man, Ramble On Rose, Jack Straw, Dark Star-> Drums-> The Other One-> Sing Me Back Home, Sugar Magnolia, Turn On Your Love Light-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "Other artist(s): NRPS",  "2003-03-11 00:00:00", "1972", "hamilton", "05". "07") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e03152b6-bae9-4846-a9c0-a85da8e1545a", "Grateful Dead", "2", "769",  "05/10/72", "Concertgebouw", "Amsterdam", "Netherlands",  "Bertha, Me & My Uncle, Mr. Charlie, China Cat Sunflower-> I Know You Rider, Black Throated Wind, Loser, Next Time You See Me, El Paso, Hes Gone, Chinatown Shuffle, Playing in the Band, Big Railroad Blues, Jack Straw, Tennessee Jed, Big Boss Man, Greatest Story Ever Told, Casey Jones", "Truckin-> Drums-> The Other One-> Me And Bobby McGee-> The Other One-> Wharf Rat, Beat It On Down The Line, Two Souls In Communion, Ramble On Rose, Sing Me Back Home, Sugar Magnolia-> Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "", "",  "2001-01-28 00:00:00", "1972", "hamilton", "05". "10") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5972cf28-9553-4e6f-975b-bda61e41ba3a", "Grateful Dead", "2", "770",  "05/11/72", "Rotterdam Civic Hall", "Rotterdam", "Netherlands",  "Playin In The Band, Sugaree, Mr. Charlie, Black Throated Wind, Deal, Chinatown Shuffle, Mexicali Blues, China Cat Sunflower-> I Know You Rider, It Hurts Me Too, Beat It On Down The Line, Brown Eyed Women, Jack Straw, Big Railroad Blues, Good Lovin, Casey Jones", "Morning Dew, Me & My Uncle, Two Souls In Communion, El Paso, Tennessee Jed, Next Time You See Me, Dark Star-> Drums-> Dark Star-> Sugar Magnolia-> Caution (Do Not Stop on Tracks)-> Who Do You Love-> Truckin-> Uncle Johns Band, E: One More Saturday Night", "", "",  "2001-10-23 00:00:00", "1972", "hamilton", "05". "11") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7f7ef8f4-c782-4d1b-a032-a814ed179561", "Grateful Dead", "2", "771",  "05/13/72", "Lille Fairgrounds", "Lille", "France",  "Bertha, Black Throated Wind, Chinatown Shuffle, Loser, Beat It On Down The Line, Mr. Charlie, China Cat Sunflower-> I Know You Rider, Me & My Uncle, Big Railroad Blues, Next Time You See Me, Playin In The Band, Sugaree, Mexicali Blues, Casey Jones", "Truckin, Drums-> The Other One-> Big River, Hes Gone, It Hurts Me Too, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "05". "13") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2e50ad92-ba1c-4005-adf4-a9a2307e18fe", "Grateful Dead", "2", "772",  "05/16/72", "Theatre Hall", "Luxembourg", "Luxembourg",  "Souncheck:
+
+Big River, Sugar Magnolia
+
+Set 1:
+
+Bertha, Me & My Uncle, Mr. Charlie, Sugaree, Black Throated Wind, Chinatown Shuffle, China Cat Sunflower &gt; I Know You Rider, Beat It On Down The Line, It Hurts Me Too, Tennessee Jed, Playin In The Band, Promised Land", "Truckin &gt; Drums &gt; The Other One &gt; Sing Me Back Home, Sugar Magnolia, Not Fade Away &gt; Goin Down The Road Feelin Bad &gt; Not Fade Away 
+
+E: One More Saturday Night", "", "",  "2008-02-12 22:21:03", "1972", "rcdupre", "05". "16") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-482c851e-31a9-42ad-8b92-c5475bc3f0a7", "Grateful Dead", "2", "773",  "05/18/72", "Kongressaal Deutsches Museum", "München", "Germany",  "Truckin, Sugaree, Mr. Charlie, Jack Straw, Tennessee Jed, Chinatown Shuffle, Black Throated Wind, China Cat Sunflower-> I Know You Rider, El Paso, It Hurts Me Too, You Win Again, Playin In The Band, Good Lovin, Casey Jones", "Sitting On Top Of The World-> Me & My Uncle, Ramble On Rose, Beat It On Down The Line, Dark Star-> Morning Dew-> Drums-> Sugar Magnolia, E: Sing Me Back Home, E: One More Saturday Night*", "", "*second encore",  "2009-11-12 21:55:13", "1972", "system", "05". "18") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-38391011-7f4d-4e8c-a416-1761c82c85a6", "Grateful Dead", "2", "774",  "05/23/72", "The Strand Lyceum", "London", "England",  "Promised Land, Sugaree, Mr. Charlie, Black Throated Wind, Tennessee Jed, Next Time You See Me, Jack Straw, China Cat Sunflower->  I Know You Rider, Me And My Uncle, Chinatown Shuffle, Big Railroad Blues, Two Souls In Communion, Playing In The Band, Sittin On Top Of The World, Rockin Pneumonia & The Boogie Woogie Flu, Mexicali Blues, Good Lovin, Casey Jones", "Ramble On Rose, Dark Star-> Drums-> Dark Star-> Morning Dew, Hes Gone, Sugar Magnolia, Comes A Time, Goin Down The Road Feelin Bad-> Not Fade Away-> Hey Bo Diddley-> Not Fade Away, E: Uncle Johns Band", "", "",  "2002-04-03 00:00:00", "1972", "diana", "05". "23") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f844da88-66be-49c1-9d95-d093a0e30d06", "Grateful Dead", "2", "775",  "05/24/72", "The Strand Lyceum", "London", "England",  "Cold Rain & Snow, Beat It On Down The Line, Mr. Charlie, Deal, Me & My Uncle, It Hurts Me Too, Dire Wolf, Black Throated Wind, Chinatown Shuffle, China Cat Sunflower-> I Know You Rider, Playin In The Band, You Win Again, Jack Straw, Casey Jones", "Rockin Pneumonia, Mexicali Blues, Black Peter, Truckin-> Drums-> The Other One-> Sing Me Back Home-> Sugar Magnolia, Turn On Your Love Light, E: One More Saturday Night", "", "Mexican Hat Dance tuning before Truckin - Other artist(s): NRPS",  "1996-01-07 00:00:00", "1972", "hamilton", "05". "24") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d673e53a-253c-407d-8a9b-9edacf0250c0", "Grateful Dead", "2", "776",  "05/25/72", "The Strand Lyceum", "London", "England",  "Promised Land, Brown Eyed Women, Big Boss Man, Black Throated Wind, Tennessee Jed, Mr. Charlie, Jack Straw, China Cat Sunflower-> I Know You Rider, Me And Bobby McGee, Good Lovin, Playin In The Band, Brokedown Palace, Casey Jones", "Me & My Uncle, Big Railroad Blues, Chinatown Shuffle, Ramble On Rose, Uncle Johns Band  > Jam  > Wharf Rat > Dark Star > Sugar Magnolia, Comes A Time, El Paso, Sittin On Top Of The World, Goin Down The Road Feeling Bad, One More Saturday Night", "", "Other artist(s): NRPS",  "2004-09-05 19:13:04", "1972", "hamilton", "05". "25") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d230c399-c679-4a1a-a508-58b6c911f85e", "Grateful Dead", "2", "777",  "05/26/72", "The Strand Lyceum", "London", "England",  "Promised Land, Sugaree, Mr. Charlie, Black Throated Wind, Loser, Next Time You See Me, El Paso, Dire Wolf, Two Souls In Communion, Playin In The Band, Hes Gone, Cumberland Blues, Jack Straw, Chinatown Shuffle, China Cat Sunflower-> I Know You Rider, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "Truckin-> The Other One-> Morning Dew-> The Other One-> Sing Me Back Home, Me & My Uncle, Ramble On Rose, Sugar Magnolia, Casey Jones, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "05". "26") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-956620c0-057b-4887-80fc-7949ba0392c2", "Grateful Dead", "2", "409966",  "05/??/72", "BBC Interview of Bob Weir", "London", "England",  "Part 1
+
+The Wembley Pool concerts and what Bobby thought of the audience response
+The way in which the band put a set together
+How The Dead improvise and move from one song to another
+How the music is developing
+Pigpen's planned solo album
+More about the improvisation
+Workingman's Dead
+A live album to come (Europe '72)
+The future of the band
+A sociological phenomena!
+The Dead Family structure
+Europe '72 tour
+European audiences
+
+
+Part 2
+
+About Bobby's, then newly released, album Ace", "", "", "",  "2008-05-20 19:22:36", "1972", "other3", "05". "??") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ce6773c3-234b-4262-8c9d-bda12a5a602e", "Grateful Dead", "2", "778",  "06/17/72", "Hollywood Bowl", "Hollywood", "CA",  "Promised Land, Sugaree, Black Throated Wind, Tennessee Jed, Me & My Uncle, China Cat Sunflower-> I Know You Rider, Playin In The Band, Loser, Beat It On Down The Line, Stella Blue, El Paso, Casey Jones", "Truckin-&gt; Drums-&gt; The Other One-&gt; Ramble On Rose, Rockin Pneumonia, Sugar Magnolia, You Win Again, Not Fade Away-&gt; Goin Down The Road Feelin Bad-&gt; Not Fade Away 
+
+E: One More Saturday Night", "", "Pigpens last show",  "2011-10-10 00:10:33", "1972", "system", "06". "17") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-78b76f5d-77cc-4162-afc7-63468b0145a6", "Grateful Dead", "2", "48653",  "07/16/72", "Dillon Stadium", "Hartford", "CT",  "The Promised Land, Cold Rain And Snow, Black Throated Wind, Sugaree, Playing In The Band, Tennessee Jed, Jack Straw, Deal, Mexicali Blues, Stella Blue, Cumberland Blues, Me And My Uncle, Mississippi Half-Step Uptown Toodeloo##, Sing Me Back Home", "Ramble On Rose, Truckin > Drums > The Other One > Hes Gone > The Other One, Looks Like Rain, Sugar Magnolia, Not Fade Away* > Goin Down The Road Feeling Bad* > Hey Bo Diddley*, E: Johnny B. Goode", "", "##-first time played.
+* w/ guests Dickey Betts and Berry Oakley",  "2006-05-13 22:43:26", "1972", "dbhelm", "07". "16") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-22af4312-3741-4364-be90-a4f29de0028f", "Grateful Dead", "2", "779",  "07/18/72", "Roosevelt Stadium", "Jersey City", "NJ",  "Bertha, Me & My Uncle, Bird Song, Promised Land, Sugaree, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Jack Straw, Loser, Beat It On", "Greatest Story Ever Told, Playin In The Band, Brown Eyed Women, Tennessee Jed, Truckin-> Dark Star-> Comes A Time", "Sugar Magnolia, Ramble On Rose, Mississippi Half Step-> Sing Me Back Home, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "",  "1996-01-07 00:00:00", "1972", "system", "07". "18") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-381659ff-dc3a-4149-be7e-4fe07fd529d7", "Grateful Dead", "2", "780",  "07/21/72", "Paramount Northwest Theater", "Seattle", "WA",  "Promised Land, Sugaree, Black Throated Wind, Cumberland Blues, Bobby McGee, Loser, Mexicali Blues, China Cat Sunflower -> I Know You Rider, Beat It On Down The Line, Stella Blue, Playing In The Band, Tennessee Jed", "Casey Jones, Weather Report Suite Prelude -> Me & My Uncle, Deal, Jack Straw, Hes Gone, Truckin -> Drums -> Jam -> The Other One -> Comes A Time, Sugar Magnolia -> Ramble On Rose, Goin Down the Road Feeling Bad -> Not Fade Away", "", "",  "2004-07-26 00:00:00", "1972", "flyerfanatic", "07". "21") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9bd37d3e-2772-4b24-8517-2105c9e5edfe", "Grateful Dead", "2", "781",  "07/22/72", "Paramount Northwest Theater", "Seattle", "WA",  "Bertha, Me & My Uncle, You Win Again, Jack Straw, Bird Song, Beat It On Down The Line, Sugaree, Black Throated Wind, Big Railroad Blues, Cumberland Blues, Playin In The Band, Brown Eyed Women, El Paso, Tennessee Jed", "China Cat Sunflower-> I Know You Rider, Mexicali Blues, Deal, Promised Land, Stella Blue, Mississippi Half Step, Me And Bobby McGee, Ramble On Rose, Truckin-> Hes Gone, Sugar Magnolia, Morning Dew, Uncle Johns Band, One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "07". "22") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7f8e75f0-476b-415f-99de-46be1b648374", "Grateful Dead", "2", "782",  "07/25/72", "Paramount Theater", "Portland", "OR",  "The Promised Land, Sugaree, Me And My Uncle, Bird Song, Black Throated Wind, Cumberland Blues, Jack Straw, Big Railroad Blues, El Paso, Tennessee Jed, Playing In The Band, Loser, Beat It On Down The Line, Casey Jones", "Hes Gone, Greatest Story Ever Told, China Cat Sunflower > I Know You Rider, Mexicali Blues, Truckin > The Other One Jam > Drums > The Other One > Wharf Rat, Sugar Magnolia, Sing Me Back Home, Not Fade Away > Goin Down The Road Feeling Bad > Not Fade Away", "", "",  "2003-08-05 00:00:00", "1972", "hamilton", "07". "25") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d322f8d6-c708-40c2-aeee-b2121aa15543", "Grateful Dead", "2", "783",  "07/26/72", "Paramount Theater", "Portland", "OR",  "Cold Rain & Snow, Black Throated Wind, Mississippi Half Step, Mexicali Blues, Sugaree, El Paso, China Cat Sunflower-> I Know You Rider, Jack Straw, Tennessee Jed, Playin In The Band, Casey Jones", "Promised Land, Hes Gone, Me & My Uncle, You Win Again, Greatest Story Ever Told, Ramble On Rose, Dark Star-> Comes A Time, Sugar Magnolia, Brown Eyed Women, Beat It On Down The Line, Stella Blue, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "Mexican Hat Dance tuning before B.. Wind",  "1996-01-07 00:00:00", "1972", "system", "07". "26") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e7c1aff8-b638-4f83-bee1-4dc5fa861fbe", "Grateful Dead", "2", "784",  "08/12/72", "Sacramento Memorial Auditorium", "Sacramento", "CA",  "Promised Land, Sugaree, Me & My Uncle, Bird Song, Black Throated Wind, Deal, El Paso, Tennessee Jed, Playin In The Band, Big Railroad Blues, Cumberland Blues, Stella Blue, Jack Straw, Casey Jones", "Greatest Story Ever Told, Ramble On Rose, Beat It On Down The Line, Hes Gone-> Drums-> The Other One-> Black Peter-> The Other One-> Truckin, Mississippi Half Step, Sugar Magnolia, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "08". "12") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bfd672e6-879d-471c-aa5d-ea9c36a66ffe", "Grateful Dead", "2", "785",  "08/20/72", "San Jose Civic Auditorium", "San Jose", "CA",  "Bertha, Me & My Uncle, Sugaree, Beat It On Down The Line, Bird Song, Jack Straw, Friend Of The Devil, Black Throated Wind, Cumberland Blues, El Paso, Loser, Playin In The Band", "Promised Land, Brown Eyed Women, Me And Bobby McGee, Truckin-> Drums-> The Other One-> Stella Blue, Sugar Magnolia, Casey Jones-> One More Saturday Night, E: Uncle Johns Band", "", "",  "1996-01-07 00:00:00", "1972", "system", "08". "20") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9a721ce9-3f82-4401-8889-1d93a5464e42", "Grateful Dead", "2", "786",  "08/21/72", "Berkeley Community Theater", "Berkeley", "CA",  "Promised Land, Hes Gone, Black Throated Wind, Friend Of The Devil, Jack Straw, China Cat Sunflower-> I Know You Rider, Me & My Uncle, Sugaree, Beat It On Down The Line, Stella Blue, Playin In The Band, Brown Eyed Women, Mexicali Blues, Casey Jones", "Greatest Story Ever Told, Ramble On Rose, Dark Star-> El Paso-> Jam-> Deal, Sugar Magnolia, Mississippi Half Step, Uncle Johns Band-> One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "08". "21") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-86c2bc89-fcda-4612-adca-e70f67354018", "Grateful Dead", "2", "787",  "08/22/72", "Berkeley Community Theater", "Berkeley", "CA",  "Bertha, Greatest Story Ever Told, Loser, Black Throated Wind, Friend Of The Devil, Big River, Bird Song, Beat It On Down The Line, Tennessee Jed, Me & My Uncle, Hes Gone, Playin In The Band", "Promised Land, Brown Eyed Women, Mexicali Blues, Truckin-> Drums-> The Other One-> Stella Blue, El Paso, Ramble On Rose, Not Fade Away-> Goin Down The Road Feelin Bad-> Hey Bo Diddley, Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "system", "08". "22") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9b54bfcc-c77b-416c-af6e-9e64c880a0ef", "Grateful Dead", "2", "788",  "08/24/72", "Berkeley Community Theater", "Berkeley", "CA",  "Promised Land, Sugaree, Jack Straw, China Cat Sunflower-> I Know You Rider, Me & My Uncle, Bird Song, Beat It On Down The Line, Tennessee Jed, Playin In The Band, Casey Jones", "Mississippi Half Step, Mexicali Blues, Brown Eyed Women, Truckin, Dark Star-> Morning Dew, Sugar Magnolia, Sing Me Back Home, One More Saturday Night, E: Uncle Johns Band", "", "",  "1996-01-07 00:00:00", "1972", "system", "08". "24") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6bae443e-5336-43a3-a6c1-27ecafe4155b", "Grateful Dead", "2", "789",  "08/25/72", "Berkeley Community Theater", "Berkeley", "CA",  "Cold Rain And Snow, Black Throated Wind, Hes Gone, Beat It On Down The Line, Loser, The Frozen Logger, El Paso, Black Peter, Jack Straw, Friend Of The Devil, The Promised Land, Bird Song, Playing In The Band, Bertha", "Truckin &gt; The Other One*", "", "* - The Rest Of Set 2 Is Unknown",  "2008-09-07 18:53:05", "1972", "markmurg", "08". "25") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-305f0ff1-b41c-472b-b06b-5228dd72cc34", "Grateful Dead", "2", "790",  "08/27/72", "Old Renaissance Faire Grounds", "Veneta", "OR",  "Promised Land, Sugaree, Me & My Uncle, Deal, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Mexicali Blues, Bertha", "Playin In The Band, Hes Gone, Jack Straw, Bird Song, Greatest Story Ever Told", "Dark Star-> El Paso, Sing Me Back Home, Sugar Magnolia, Casey Jones, One More Saturday Night", "Springfield Creamery benefit - Field Trip - not 08-28-72 - Other artist(s): NRPS",  "1996-01-07 00:00:00", "1972", "system", "08". "27") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a6ea06f6-f79d-423f-ba86-80c4c353a9ae", "Grateful Dead", "2", "791",  "09/03/72", "Folsom Field, U of Colorado", "Boulder", "CO",  "Promised Land, Sugaree, Me & My Uncle, Tennessee Jed, Black Throated Wind, Bird Song, Beat It On Down The Line, Mississippi Half Step, Playin In The Band, Casey Jones", "Bertha, El Paso, Brown Eyed Women, Mexicali Blues, China Cat Sunflower-> I Know You Rider, Truckin, Loser, Hes Gone-> The Other One-> Wharf Rat, Johnny B. Goode", "Cold Rain & Snow, Sugar Magnolia, Deal, Jack Straw, Ramble On Rose, Rockin Pneumonia, Not Fade Away", "",  "2003-01-25 00:00:00", "1972", "hamilton", "09". "03") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3f7096a1-1c36-44d8-86f4-fdaa0977ad07", "Grateful Dead", "2", "792",  "09/09/72", "Hollywood Palladium", "Hollywood", "CA",  "Promised Land, Sugaree, Me & My Uncle, Bird Song, Black Throated Wind, Tennessee Jed, Mexicali Blues, Deal, Playin In The Band, Loser, Johnny B. Goode", "China Cat Sunflower-> I Know You Rider, Friend Of The Devil, Jack Straw, Hes Gone-> Truckin-> The Other One, Stella Blue, El Paso, Casey Jones, Sugar Magnolia, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "09". "09") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7594dd5d-eafa-4475-8972-a7981fe4df1a", "Grateful Dead", "2", "793",  "09/10/72", "Hollywood Palladium", "Hollywood", "CA",  "Bertha, Greatest Story Ever Told, Mississippi Half Step, Black Throated Wind, Bird Song, Promised Land, Deal, El Paso, Sugaree, Playin In The Band, Casey Jones", "Hes Gone-> Truckin, Ramble On Rose, Beat It On Down The Line, Black Peter, Dark Star*-> Drums-> Jack Straw*-> Sing Me Back Home*, Sugar Magnolia*, E: One More Saturday Night", "", "*w/ David Crosby",  "2002-03-21 00:00:00", "1972", "system", "09". "10") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0c1a262d-61f1-4c80-a63c-6dae7360ca88", "Grateful Dead", "2", "794",  "09/15/72", "Music Hall", "Boston", "MA",  "Promised Land, Sugaree, Greatest Story Ever Told, China Cat Sunflower-> I Know You Rider, Black Throated Wind, Tennessee Jed, El Paso, Loser, Jack Straw, Friend Of The Devil, Playin In The Band, Casey Jones", "Hes Gone-> Me & My Uncle, Bird Song, Mexicali Blues, Ramble On Rose, Truckin-> Drums-> The Other One-> Sugar Magnolia, E: One More Saturday Night", "", "",  "2008-10-07 16:03:20", "1972", "system", "09". "15") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6daf1bd8-afc0-4763-93f6-0a4374424b66", "Grateful Dead", "2", "795",  "09/16/72", "Music Hall", "Boston", "MA",  "Bertha, Me & My Uncle, Deal, Black Throated Wind, You Win Again, Big River, Bird Song, Mexicali Blues, Stella Blue, Jack Straw, Big Railroad Blues, Playin In The Band", "Morning Dew, Greatest Story Ever Told, Hes Gone, El Paso, Dont Ease Me In, Dark Star-> Brokedown Palace, Promised Land, Ramble On Rose, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "",  "2008-10-07 16:03:23", "1972", "system", "09". "16") ;
+#
+# Key: key_51
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-22beb972-2235-4493-af81-8079a52fd21a", "Grateful Dead", "2", "796",  "09/17/72", "Baltimore Civic Center", "Baltimore", "MD",  "Promised Land, Sugaree, Black Throated Wind, Friend Of The Devil, El Paso, Bird Song, Big River, Tennessee Jed, Mexicali Blues, China Cat Sunflower-> I Know You Rider, Playin In The Band, Casey Jones", "Truckin, Loser, Jack Straw, Mississippi Half Step, Me & My Uncle, Hes Gone-> The Other One-> Sing Me Back Home, Sugar Magnolia, Uncle Johns Band, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "09". "17") ;
+#
+# Key: key_52
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5efc7f64-f9e2-433e-ac35-4eb15f6bd31c", "Grateful Dead", "2", "797",  "09/19/72", "Roosevelt Stadium", "Jersey City", "NJ",  "Bertha-> Greatest Story Ever Told, Bird Song, Black Throated Wind, Big Railroad Blues, Me & My Uncle, Sugaree, Jack Straw, Tennessee Jed, Promised Land", "Mississippi Half Step, Mexicali Blues, Brokedown Palace, Beat It On Down The Line, Deal, Big River, Hes Gone-> Other One Jam-> Other One->Space->Other One 2nd Verse-> Stella Blue%, Sugar Magnolia, Casey Jones
+E: One More Saturday Night, Johnny B Goode", "", "",  "1996-01-07 00:00:00", "1972", "mvernon", "09". "19") ;
+#
+# Key: key_53
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1d86cedc-3907-40e8-ba9b-b6bbaf634cb8", "Grateful Dead", "2", "798",  "09/21/72", "The Spectrum", "Philadelphia", "PA",  "Promised Land, Bird Song, El Paso, China Cat Sunflower-> I Know You Rider, Black Throated Wind, Big Railroad Blues, Jack Straw, Loser, Big River, Ramble On Rose, Cumberland Blues, Playin In The Band", "Hes Gone, Truckin, Black Peter, Mexicali Blues, Dark Star-> Mind Left Body Jam -> Morning Dew, Beat It On Down The Line, Mississippi Half Step, Sugar Magnolia, Friend Of The Devil, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "09". "21") ;
+#
+# Key: key_54
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c31598c9-b8c0-4139-b1e7-fc9971bc38db", "Grateful Dead", "2", "799",  "09/23/72", "Palace Theater", "Waterbury", "CT",  "Big River, Sugaree, Mexicali Blues, Friend of the Devil, Black Throated Wind, China Cat Sunflower> I Know You Rider, Me and My Uncle, Tennessee Jed, Jack Straw, Bird Song, El Paso, Deal, Playin in the Band", "Promised Land> Bertha> Greatest Story Ever Told, Brown Eyed Women, Around and Around, Its All Over Now, Baby Blue, Cryptical Envelopment> Drums> The Other One> Wharf Rat, Beat it on Down the Line, Ramble on Rose, Sugar Magnolia, Goin Down the Road Feelin Bad> Not Fade Away>  One More Saturday Night", "", "",  "2001-01-01 00:00:00", "1972", "hamilton", "09". "23") ;
+#
+# Key: key_55
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5354affe-cf89-4800-9316-e7b07e93df35", "Grateful Dead", "2", "800",  "09/24/72", "Palace Theater", "Waterbury", "CT",  "Big Railroad Blues, Mexicali Blues, Loser, Black Throated Wind, Cumberland Blues, Sugaree, El Paso, Tennessee Jed, Beat It On Down The Line, Bird Song, Big River, Brown Eyed Women, Playin In The Band", "Greatest Story Ever Told &gt; Bertha &gt; Promised Land, Friend Of The Devil, Jack Straw, Tomorrow Is Forever*, Me & My Uncle, Dark Star &gt; Drums &gt; China Cat Sunflower &gt; I Know You Rider, Sugar Magnolia 
+
+E: One More Saturday Night", "", "* - First Time Played",  "2008-02-09 20:40:36", "1972", "throwingstones1088", "09". "24") ;
+#
+# Key: key_56
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bcbea4de-4264-4a6d-8931-06e4bc1b70cf", "Grateful Dead", "2", "801",  "09/26/72", "Stanley Theatre", "Jersey City", "NJ",  "Promised Land, Cold Rain & Snow, Me & My Uncle, Hes Gone, Mexicali Blues, Deal, Big River, Cumberland Blues, Black Throated Wind, Bird Song, Sugaree, Around & Around, Playin In The Band", "El Paso, Mississippi Half Step, Greatest Story Ever Told, Tomorrow Is Forever, Truckin-> The Other One-> Its All Over Now Baby Blue, Sugar Magnolia, E:26 Miles-> E: Johnny B. Goode", "", "* Only time played",  "1996-01-07 00:00:00", "1972", "system", "09". "26") ;
+#
+# Key: key_57
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f36c6c5d-61ef-45ae-82db-23342f748299", "Grateful Dead", "2", "802",  "09/27/72", "Stanley Theatre", "Jersey City", "NJ",  "Morning Dew, Beat It On Down The Line, Friend Of The Devil, Black Throated Wind, Tennessee Jed, Mexicali Blues, Bird Song, Big River, Brokedown Palace, El Paso, China Cat Sunflower-> I Know You Rider, Playin In The Band", "Hes Gone, Jack Straw, Deal, Greatest Story Ever Told, Ramble On Rose, Dark Star-> Cumberland Blues, Attics Of My Life, Promised Land, Uncle Johns Band, Casey Jones, E: Around & Around", "", "This date is featured on <a href= http://mars.dead.net>Dick's Picks 11</a>.",  "2001-02-05 00:00:00", "1972", "system", "09". "27") ;
+#
+# Key: key_58
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3b51235c-67db-4688-9975-61813aa0ed1f", "Grateful Dead", "2", "803",  "09/28/72", "Stanley Theatre", "Jersey City", "NJ",  "Truckin, Loser, Beat It On Down The Line, Brown Eyed Women, Mexicali Blues, Mississippi Half Step, Black Throated Wind, Dont Ease Me In, Big River, Tennessee Jed, Promised Land, China Cat Sunflower-> I Know You Rider, Playin In The Band", "Bertha-> Greatest Story Ever Told, Brokedown Palace, Me & My Uncle, Ramble On Rose, El Paso, Hes Gone-> The Other One-> Me And Bobby McGee-> The Other One-> Wharf Rat, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "system", "09". "28") ;
+#
+# Key: key_59
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-56e201e6-a6d4-4d3d-8890-aa5196dc57d0", "Grateful Dead", "2", "804",  "09/30/72", "American University", "Washington", "DC",  "Deal, Mexicali Blues, Sugaree, Black Throated Wind, China Cat Sunflower-> I Know You Rider, El Paso, Bird Song, Big River, Loser, Playin In The Band, Casey Jones", "Greatest Story Ever Told, Hes Gone, Me & My Uncle, Brokedown Palace, Truckin-> The Other One, Sing Me Back Home, Sugar Magnolia, Mississippi Half Step, Uncle Johns Band, E: One More Saturday Night", "", "Outdoor Concert",  "1996-01-07 00:00:00", "1972", "system", "09". "30") ;
+#
+# Key: key_60
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6e7f1e45-f7a4-406f-ab93-daf5cfc00c8f", "Grateful Dead", "2", "805",  "10/02/72", "Springfield Civic Center", "Springfield", "MA",  "Cold Rain & Snow, Mexicali Blues, Tennessee Jed, Beat It On Down The Line, Bird Song, Black Throated Wind, Big Railroad Blues, El Paso, Brown Eyed Women, Cumberland Blues, Jack Straw, Dont Ease Me In, Playin In The Band, Casey Jones", "Promised Land, Hes Gone-> Me And Bobby McGee, China Cat Sunflower-> I Know You Rider, Tomorrow Is Forever, Greatest Story Ever Told, Mississippi Half Step-> Stella Blue, Truckin-> Nobodys Fault But Mine-> Drums-> Uncle Johns Band Jam-> Morning Dew, Sugar Magnolia, E:Uncle Johns Band-> E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1972", "system", "10". "02") ;
+#
+# Key: key_61
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5145ef2d-5112-400a-a6f0-36ba18020ba0", "Grateful Dead", "2", "806",  "10/09/72", "Winterland Arena", "San Francisco", "CA",  "Promised Land, Deal, Beat It On Down The Line, Friend Of The Devil, Me & My Uncle, Tennessee Jed, Black Throated Wind, Loser, El Paso, Box Of Rain, China Cat Sunflower-> I Know You Rider, Mexicali Blues, Sugaree, Playin In The Band", "Jam*, Hes Gone, Big River, Mississippi Half Step, Greatest Story Ever Told, Brokedown Palace, Truckin-> The Other One-> Wharf Rat, Sugar Magnolia, Casey Jones, E: Johnny B. Goode", "", "*with Grace Slick; road crew benefit; Other artist(s): NRPS",  "2001-09-10 00:00:00", "1972", "system", "10". "09") ;
+#
+# Key: key_62
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6464c39e-444a-47dc-84d1-42a824ec5cfe", "Grateful Dead", "2", "807",  "10/17/72", "Fox Theatre", "St. Louis", "MO",  "Promised Land, Bird Song, El Paso, Sugaree, Me & My Uncle, Tennessee Jed, Big River, China Cat Sunflower-> I Know You Rider, Black Throated Wind, Deal, Cumberland Blues, Playin In The Band, Casey Jones", "Greatest Story Ever Told, Dont Ease Me In, Mexicali Blues, Black Peter, Me And Bobby McGee, Bertha, Jack Straw, Friend Of The Devil, Beat It On Down The Line, Ramble On Rose, Mississippi Half Step-> Sugar Magnolia-> Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away, E: Uncle Johns Band, E: Johnny B. Goode*", "", "",  "1996-01-07 00:00:00", "1972", "system", "10". "17") ;
+#
+# Key: key_63
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-45ef2318-1af8-4985-885e-1477c454aa0f", "Grateful Dead", "2", "567704",  "10/18/72", "Fox Theatre", "St. Louis", "MO",  "Bertha
+Me and My Uncle
+Dont Ease Me In
+Mexicali Blues
+Brown Eyed Women
+Beat It On Down the Line
+Bird Song
+Big River
+Loser
+Jack Straw
+Big Railroad Blues
+El Paso
+China Cat Sunflower >
+I Know You Rider", "Playin In the Band >
+Drums >
+Dark Star >
+Morning Dew >
+Playin In the Band
+Deal
+Promised Land
+Brokedown Palace
+One More Saturday Night
+Casey Jones", "", "",  "2013-01-24 00:42:06", "1972", "philmatera", "10". "18") ;
+#
+# Key: key_64
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d230c69b-807f-4ef9-b029-d39b66efdccc", "Grateful Dead", "2", "809",  "10/19/72", "Fox Theatre", "St. Louis", "MO",  "Promised Land, Tennessee Jed, Jack Straw, Dont Ease Me In, Black Throated Wind, Sugaree, Mexicali Blues, Bertha, El Paso, China Cat Sunflower-> I Know You Rider, Beat It On Down The Line, Dire Wolf, Around & Around, Casey Jones", "Big River, Friend Of The Devil, Me & My Uncle, Bird Song, Truckin-> Drums-> The Other One-> Hes Gone-> The Other One, Greatest Story Ever Told, Comes A Time, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "system", "10". "19") ;
+#
+# Key: key_65
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4ad6d30f-edb0-439c-b59e-77b8be955215", "Grateful Dead", "2", "810",  "10/21/72", "Alumni Lawn, Vanderbilt University", "Nashville", "TN",  "Bertha, Me & My Uncle, Deal, Beat It On Down The Line, Sugaree, El Paso, China Cat Sunflower-> I Know You Rider, Black Throated Wind, Tennessee Jed, Jack Straw, Loser, Playin In The Band", "Promised Land, Brown Eyed Women, Big River, Hes Gone, Greatest Story Ever Told, Bird Song, Truckin-> The Other One-> Morning Dew, Sugar Magnolia, E: Johnny B. Goode", "", "",  "2013-10-13 18:46:22", "1972", "BeLikeMike", "10". "21") ;
+#
+# Key: key_66
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e69922eb-aaf4-4377-bafd-f4ce1f52db12", "Grateful Dead", "2", "811",  "10/23/72", "Milwaukee Performing Arts Center", "Milwaukee", "WI",  "Promised Land, Sugaree, Big River, Loser, Jack Straw, Deal, El Paso, Tennessee Jed, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Mexicali Blues, Stella Blue, Beat It On Down The Line, Rockin Pneumonia, Playin In The Band", "Bertha, Me & My Uncle, Brown Eyed Women, Greatest Story Ever Told, Brokedown Palace, Dark Star-> Mississippi Half Step, Me And Bobby McGee, Tomorrow Is Forever, Sugar Magnolia, Uncle Johns Band, One More Saturday Night", "", "",  "1996-01-07 00:00:00", "1972", "system", "10". "23") ;
+#
+# Key: key_67
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4591a931-e0bc-4fdb-997e-00b5d901f209", "Grateful Dead", "2", "812",  "10/24/72", "Milwaukee Performing Arts Center", "Milwaukee", "WI",  "[setlist according to Deadbase:] Promised Land, Ramble On Rose, El Paso, Deal, Truckin-> Drums-> The Other One, E: Casey Jones, E: Johnny B. Goode", "[set 2 according to deadlists.com, with set 1 reportedly unknown:] Truckin > The Other One  > Drums > The Other One > Philo Stomp  > Space > Hes Gone  > The Other One, Casey Jones, Johnny B. Goode", "", "there is obviously some discrepancy here.",  "2001-10-25 00:00:00", "1972", "hamilton", "10". "24") ;
+#
+# Key: key_68
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-81176a81-d346-4b03-b651-f502e9860f9b", "Grateful Dead", "2", "813",  "10/26/72", "Cincinnati Music Hall", "Cincinnati", "OH",  "The Promised Land, Sugaree, Me And Bobby McGee, Dont Ease Me In, Mexicali Blues, Bird Song, Big River, Tennessee Jed, Beat It On Down The Line, Brown Eyed Women, El Paso, China Cat Sunflower > I Know You Rider, Casey Jones", "Playing In The Band, Deal, Me And My Uncle, Brokedown Palace, Truckin > Nobodys Fault But Mine Jam > Dark Star  > Sugar Magnolia, Sing Me Back Home, One More Saturday Night", "", "",  "2001-02-20 00:00:00", "1972", "system", "10". "26") ;
+#
+# Key: key_69
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-25d7a314-8e95-421d-9eb7-db61cd9fd0d9", "Grateful Dead", "2", "814",  "10/27/72", "Veterans Memorial Hall", "Columbus", "OH",  "Bertha, Mexicali Blues, Loser, Jack Straw, Big Railroad Blues, El Paso, Sugaree, Beat It On Down The Line, Brown Eyed Women, Box Of Rain, Black Throated Wind, Tennessee Jed, Me And Bobby McGee, Bird Song, Big River, Casey Jones", "Greatest Story Ever Told, Ramble On Rose, Truckin-> The Other One-> Mississippi Half Step, Morning Dew, Tomorrow Is Forever, Promised Land, Deal, Sugar Magnolia, E: Uncle Johns Band", "", "",  "1996-01-07 00:00:00", "1972", "system", "10". "27") ;
+#
+# Key: key_70
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-83e05435-a83e-4a72-b321-9900c92eda93", "Grateful Dead", "2", "815",  "10/28/72", "Cleveland Public Hall", "Cleveland", "OH",  "Promised Land, Friend Of The Devil, Jack Straw, China Cat Sunflower -> I Know You Rider, Mexicali Blues, Box Of Rain, Me And Bobby McGee, Candyman, Me And My Uncle, Sugaree, Playing In The Band", "Hes Gone, El Paso, Dont Ease Me In, Greatest Story Ever Told, Brown Eyed Women, Beat It On Down The Line, Attics Of My Life, Big River, Dark Star -> Sugar Magnolia, Casey Jones, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1972", "stark1", "10". "28") ;
+#
+# Key: key_71
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b3c40d08-60bb-495b-9f79-69f46281ce15", "Grateful Dead", "2", "816",  "10/30/72", "Ford Auditorium", "Detroit", "MI",  "Bertha, Me & My Uncle, Deal, Black-Throated Wind, Sugaree, El Paso, Bird Song, Big River, China Cat Sunflower, I Know You Rider, Jack Straw, Dont Ease Me In, Mexicali Blues, Box of Rain, Playin in the Band", "Truckin, Ramble on Rose, The Promised Land, Tomorrow is Forever, Around & Around, Candyman, Greatest Story Ever Told, Mississippi Half-Step, Sugar Magnolia, Not Fade Away, Goin Down the Road Feelin Bad, Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "diana", "10". "30") ;
+#
+# Key: key_72
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5c524c11-3459-4e7f-8c1f-7ad3dd8968b6", "Grateful Dead", "2", "817",  "11/12/72", "Soldiers and Sailors Memorial Hall", "Kansas City", "KS",  "Me And Bobby McGee, Deal, Black Throated Wind, Cumberland Blues, Bird Song, Mexicali Blues, Box Of Rain, Beat It On Down The Line, Candyman, Truckin, Casey Jones", "Bertha, Me And My Uncle, Tennessee Jed, Playing In The Band, Stella Blue, El Paso, Friend Of The Devil, Big River, Hes Gone > Not Fade Away > Goin Down The Road Feeling Bad > Not Fade Away", "", "",  "2002-04-10 00:00:00", "1972", "diana", "11". "12") ;
+#
+# Key: key_73
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c84dee71-f6e7-4a85-b465-db5799da33aa", "Grateful Dead", "2", "57684",  "11/13/72", "Soldiers and Sailors Memorial Hall", "Kansas City", "KS",  "Cold Rain And Snow, Beat It On Down The Line, Loser, Jack Straw, China Cat Sunflower > I Know You Rider, Box Of Rain, Black Throated Wind, Candyman, El Paso, Tomorrow Is Forever, Around And Around, Brown Eyed Women, Playing In The Band", "The Promised Land, Ramble On Rose, Me And Bobby McGee, Dark Star > Morning Dew,  Sugar Magnolia, Casey Jones, E: Johnny B. Goode", "", "setlist courtesy deadlists.com",  "2002-02-16 00:00:00", "1972", "ckiefe", "11". "13") ;
+#
+# Key: key_74
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-857368cc-313d-4800-9e75-232667e835c8", "Grateful Dead", "2", "818",  "11/14/72", "Civic Center Music Hall", "Oklahoma City", "OK",  "Promised Land, Sugaree, El Paso, Loser, Black Throated Wind, Bertha, Mexicali Blues, Tennessee Jed, Big River, China Cat Sunflower &gt; I Know You Rider, Box Of Rain, Beat It On Down The Line, Friend Of The Devil, Around And Around, Casey Jones", "The Greatest Story Ever Told, Brown Eyed Women, Me And My Uncle, Deal, Me And Bobby McGee, Hes Gone &gt; Truckin &gt; The Other One &gt; Sing Me Back Home, Sugar Magnolia, Uncle Johns Band
+
+E: One More Saturday Night", "", "",  "2010-01-22 15:26:59", "1972", "MusicNevStopped", "11". "14") ;
+#
+# Key: key_75
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a9a2d5db-8094-4dda-beba-782a9877fae0", "Grateful Dead", "2", "819",  "11/15/72", "Civic Center Music Hall", "Oklahoma City", "OK",  "Bertha
+Beat It On Down The Line
+Bird Song
+Jack Straw
+Candyman
+Big River
+Sugaree
+El Paso
+Box Of Rain
+Deal
+Cumberland Blues
+Around And Around
+China Cat Sunflower -&gt;
+I Know You Rider", "Promised Land
+Ramble On Rose
+Mexicali Blues
+Brokedown Palace
+Playing In The Band
+Big Railroad Blues
+Me And Bobby McGee
+Wharf Rat
+Sugar Magnolia
+Not Fade Away -&gt;
+Goin Down The Road Feeling Bad -&gt;
+Not Fade Away
+
+Encore:
+Johnny B. Goode", "", "",  "2013-08-20 22:54:15", "1972", "snockaholic", "11". "15") ;
+#
+# Key: key_76
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1b2a7050-6c4a-45e6-9941-4e492506f0e5", "Grateful Dead", "2", "820",  "11/17/72", "Century II Convention Hall", "Wichita", "KS",  "Promised Land, Sugaree, Me & My Uncle, Tennessee Jed, B.T. Wind, Birdsong, Jack Straw, Box of Rain, Dont Ease Me In, Beat It On Down The Line, Brown Eyed Women, Big River, China Cat Sunflower-> I Know You Rider, Around & Around, Casey Jones", "Cumberland Blues, El Paso, Uncle Johns Band, Hes Gone-> Truckin-> The Other One, Brokedown Palace, Sugar Magnolia, Uncle Johns Band, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1972", "mvernon", "11". "17") ;
+#
+# Key: key_77
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-39435552-c385-4c23-8d42-4741e2d09a6f", "Grateful Dead", "2", "821",  "11/18/72", "Hofheinz Pavilion", "Houston", "TX",  "The Promised Land
+Sugaree
+Mexicali Blues
+Loser
+Black Throated Wind
+Tennessee Jed
+El Paso
+Big Railroad Blues
+Box Of Rain
+China Cat Sunflower -&gt;
+I Know You Rider
+Beat It On Down The Line
+Brown Eyed Women
+Around And Around
+Casey Jones", "Bertha -&gt;
+Greatest Story Ever Told
+Hes Gone
+Jack Straw
+Deal
+Playing In The Band
+Mississippi Half-step Uptown Toodeloo
+Sugar Magnolia
+One More Saturday Night
+
+Encore:
+Uncle Johns Band", "", "",  "2015-01-02 14:34:12", "1972", "Wharfrat73", "11". "18") ;
+#
+# Key: key_78
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f7f5fda8-9e4f-4460-9cf5-8d2c9d5389cc", "Grateful Dead", "2", "822",  "11/19/72", "Hofheinz Pavilion", "Houston", "TX",  "Bertha, Me & My Uncle, Sugaree, Beat It On Down The Line, Bird Song, Black Throated Wind, Dont Ease Me In, Mexicali Blues, Box Of Rain, Tomorrow Is Forever, Big River, China Cat Sunflower-> I Know You Rider, Playin In The Band, Casey Jones", "Promised Land, Ramble On Rose, El Paso, Stella Blue, Jack Straw, Dark Star-> Weather Report Suite Prelude-> Mississippi Half Step, Around & Around, Big Railroad Blues, Sugar Magnolia-> Goin Down The Road Feelin Bad", "", "'Stars & Stripes Forever' tuning before 'Tomorrow Is Forever' 'Nickelodeon' tuning be ore 'Playin' 'Dixie' tuning before 'Dark Star",  "1996-01-07 00:00:00", "1972", "system", "11". "19") ;
+#
+# Key: key_79
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5e377712-f71e-4aa5-855c-89433dd59d83", "Grateful Dead", "2", "823",  "11/22/72", "Austin Municipal Auditorium", "Austin", "TX",  "Promised Land, Sugaree, Mexicali Blues, Loser, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Beat It On Down The Line, Candyman, El Paso, Bird Song, Playin In The Band, Casey Jones", "Greatest Story Ever Told, Hes Gone-> Truckin-> Drums-> The Other One-> Stella Blue, Big River, Ramble On Rose, Sugar Magnolia, Brokedown Palace, Around & Around, One More Saturday Night, E: Uncle Johns Band", "", "",  "1996-01-07 00:00:00", "1972", "system", "11". "22") ;
+#
+# Key: key_80
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-30c25156-af35-4bb1-ba9d-6113b22cb3e5", "Grateful Dead", "2", "824",  "11/24/72", "Dallas Memorial Auditorium", "Dallas", "TX",  "Dont Ease Me In, Me & My Uncle, Brown Eyed Women, Black Throated Wind, Bertha, El Paso, Deal, Beat It On Down The Line, Tennessee Jed, Jack Straw, Sugaree, Playin In The Band", "China Cat Sunflower-> I Know You Rider, Box Of Rain, Truckin, Ramble On Rose, Big River, Casey Jones, Sugar Magnolia, Not Fade Away-> Goin Down The Road Feelin Bad-> Not Fade Away", "", "",  "1996-01-07 00:00:00", "1972", "system", "11". "24") ;
+#
+# Key: key_81
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-589c1265-ffd5-4a47-90ca-770b918437e6", "Grateful Dead", "2", "825",  "11/26/72", "San Antonio Civic Auditorium", "San Antonio", "TX",  "Promised Land, Deal, Mexicali Blues, Sugaree, Black Throated Wind, Bird Song, Beat It On Down The Line, China Cat Sunflower-> I Know You Rider, Box Of Rain, El Paso, Big Railroad Blues, Around & Around, Casey Jones", "Playin In The Band, Brown Eyed Women, Jack Straw, Dont Ease Me In, Big River, Dark Star-> Me And Bobby McGee, Brokedown Palace, Sugar Magnolia, Goin Down The Road Feelin Bad-> One More Saturday Night", "", "Beer Barrel Polka and Zippedy Doo Dah tunings before B.E. Women",  "2002-03-13 00:00:00", "1972", "hamilton", "11". "26") ;
+#
+# Key: key_82
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1f3d1df0-0e13-47ce-99ad-02a2a82349d0", "Grateful Dead", "2", "56947",  "12/10/72", "Winterland Arena", "San Francisco", "CA",  "Cold Rain And Snow, Beat It On Down The Line, Dont Ease Me In, Black Throated Wind, Bird Song, El Paso, Around And Around, Tennessee Jed, Big River, Box Of Rain, Candyman, Bertha, Playing In The Band, Casey Jones", "The Promised Land, Stella Blue, Jack Straw, China Cat Sunflower > I Know You Rider, Truckin > The Other One, Deal, Sugar Magnolia, Ramble On Rose, Johnny B. Goode, E: Uncle Johns Band", "", "",  "2007-03-01 00:00:00", "1972", "greenone", "12". "10") ;
+#
+# Key: key_83
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-37dad312-a681-4fc6-becc-921f957f83d2", "Grateful Dead", "2", "826",  "12/11/72", "Winterland Arena", "San Francisco", "CA",  "Promised Land, Sugaree, Mexicali Blues, Loser, Me And Bobby McGee, Brown Eyed Women, Beat It On Down The Line, China Cat Sunflower-> I Know You Rider, Box Of Rain, Hes Gone, Around & Around, Friend Of The Devil, Playin In The Band", "Mississippi Half Step, Me & My Uncle, Big Railroad Blues, Dark Star-> Stella Blue, Big River, Deal, Tomorrow Is Forever, Sugar Magnolia, E: Casey Jones", "", "Other artist(s): GD; Sons Of Champlin",  "2013-09-30 11:02:01", "1972", "BeLikeMike", "12". "11") ;
+#
+# Key: key_84
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d56db500-b5ef-489a-94e5-f01820e2afba", "Grateful Dead", "2", "827",  "12/12/72", "Winterland Arena", "San Francisco", "CA",  "Bertha, Beat It On Down the Line, Brown-Eyed Women, Mexicali Blues, Bird Song, Jack Straw, Cumberland Blues, Box of Rain, El Paso, Dont Ease Me In, Me & Bobby McGee, Tennessee Jed, Around & Around", "Playin In The Band, Hes Gone-> Truckin-> The Other One, Sugar Magnolia, Sing Me Back Home, Goin Down The Road Feelin Bad-> One More Saturday Night, E: Johnny B. Goode", "", "Other artist(s): GD: Rowan Brothers {with David Grisman on electric piano",  "1996-01-07 00:00:00", "1972", "hamilton", "12". "12") ;
+#
+# Key: key_85
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0d0c731a-1ec9-4583-b7b6-f3d71ad13dd7", "Grateful Dead", "2", "828",  "12/15/72", "Long Beach Arena", "Long Beach", "CA",  "Promised Land, Sugaree, Black Throated Wind, Tennessee Jed, El Paso, Candyman, Big River, China Cat Sunflower -> I Know You Rider, Box Of Rain, Mexicali Blues, Brown Eyed Women, Beat It On Down The Line, Loser, Playing In The Band, Casey Jones", "Greatest Story Ever Told, Deal, Me And My Uncle, Hes Gone, Truckin -> Dark Star -> Morning Dew, Sugar Magnolia, Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1972", "hamilton", "12". "15") ;
+#
+# Key: key_86
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-98365f70-15d2-4569-b0a0-2f948f29f8ac", "Grateful Dead", "2", "829",  "12/31/72", "Winterland Arena", "San Francisco", "CA",  "Around & Around, Deal, Mexicali Blues, Brown Eyed Women, Box Of Rain, Jack Straw, Dont Ease Me In, Beat It On Down The Line, Candyman, El Paso, Tennessee Jed, Playin In The Band, Casey Jones**", "Promised Land, Mississippi Half Step, Big River, Sugaree, Truckin-> The Other One-> Drums-> The Other One*-> Morning Dew*, Sugar Magnolia, Sing Me Back Home, Johnny B. Goode, E: Uncle Johns Band, E: One More Saturday Night", "", "*with David Crosby on either or both; **came back to play Casey Jones; FM  broadcast KSAN; Other artists on bill: NRPS; Sons Of Champlin; user reports Bear said this was the last night the Kool-Aid acid medium was used.",  "2003-10-09 00:00:00", "1972", "system", "12". "31") ;
+#
+# Key: key_87
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c313d04f-b791-4ac9-b166-99872908e445", "Grateful Dead", "2", "156064",  "??/??/72", "Compilation- Old World Shuffle", "various", "Europe",  "", "", "", "compilation of Pigpen tunes from Pigpens Last Tour",  "2003-05-31 11:18:21", "1972", "hamilton", "??". "??") ;

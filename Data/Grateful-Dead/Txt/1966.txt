@@ -1,0 +1,539 @@
+
+Year: 1966
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2c123f68-a891-4c11-b224-6f2a00c7112b", "Grateful Dead", "2", "145644",  "01/02/66", "The Unsurpassed Dead Demos", "various studio", "demos",  "Stealin (tk 4-5 instr), Stealin (tk 6), I Know You Rider (version 1 tk 1), Dont Ease Me In (version 1 tk 1-2-3 instr), Dont Ease Me In (version 1 tk 4-5-6 instr), Dont Ease Me In (version 1 tk 7-8 instr), Dont Ease Me In (version 2 tk 1-2-3 instr), Dont Ease Me In (version 2 tk 4-5 instr), Dont Ease Me In (version 2 tk 6), Dont Ease Me In (version 2 tk 7-8 instr), You Dont Have To Ask (tk 12-13-14), Taste Bud (tk 1 instr), Taste Bud (tk 2), Cardboard Cowboy (tk 2 instr), Cardboard Cowboy (tk 3 instr), Cardboard Cowboy (tk 4 instr), Cardboard Cowboy (tk 5), Stealin (tk 1 instr), I Know You Rider (version 2 tk 1 instr), I Know You Rider (version 2 tk 2), Cold Rain And Snow (tk 1 instr), Cold Rain And Snow (tk 2 instr), Cold Rain And Snow (tk 3 instr), Cold Rain And Snow (tk 4 instr), Cold Rain And Snow (tk 5 instr)", "Cold Rain And Snow (tk 6 instr), Cold Rain And Snow (tk 7 instr), Cold Rain And Snow (tk 8 instr), Cold Rain And Snow (tk 9 instr), Cold Rain And Snow (tk 10), Instrumental, I Know You Rider (tk 1 instr), Ripple, My Sweet Little Angel (Pigpen vocals), Masons Children, Uncle Johns Band, Shakedown Street, Fire On The Mountain, Pride Of Cucamonga (3 tks), Money Money, Guitar Instrumental, Unbroken Chain (2 tks)", "", "",  "2012-01-07 16:10:55", "1966", "bcc32065", "01". "02") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2b8d2b30-d1dc-457f-b6fe-3c1945cb76b2", "Grateful Dead", "2", "137473",  "01/05/66", "Fillmore Auditorium", "S.F.", "CA",  "More Power Rap,King Bee,Hog For You Baby,Caution,Death Dont,Star-Spangled Banner", "", "", "",  "2012-01-09 18:58:28", "1966", "mikemcd", "01". "05") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f6952cd2-2fee-479a-b724-4f7383a3e479", "Grateful Dead", "2", "36",  "01/07/66", "The Matrix", "San Francisco", "CA",  "Its A Sin, Sick And Tired, Mindbender, On The Road Again, She Belongs To Me, Ill Go Crazy, Cant Come Down, Death Dont Have No Mercy, Parchman Farm, Midnight Hour, The Only Time Is Now, Early Morning Rain, Its All Over Now Baby Blue", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "01". "07") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-474987c6-873b-4397-bdcc-c127668c4bf5", "Grateful Dead", "2", "48652",  "01/08/66", "Fillmore Auditorium", "San Francisco", "CA",  "More Power Rap, Im A King Bee, Hog For You Baby, Caution (Do Not Stop On Tracks) > Death Dont Have No Mercy, Final Remarks, Star-Spangled Banner, More Final Remarks", "", "", "",  "2001-11-01 00:00:00", "1966", "hamilton", "01". "08") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-77c9419f-90bd-49e5-a9da-e7e6f4706010", "Grateful Dead", "2", "63",  "01/13/66", "The Matrix", "San Francisco", "CA",  "All Of My Love, Hog For You Baby", "", "", "Afternoon show - actual date of list unknown",  "1996-01-07 00:00:00", "1966", "system", "01". "13") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-05588984-a1e0-4b7a-8c73-aac46888c898", "Grateful Dead", "2", "64",  "01/14/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Appeal 3-benefit For S.F. Mime Troupe - Dead billed as -The Grateful Dead, Fomerly The Warlocks Other artist(s): Great Society; Mystery Trend; GD; Sam Thomas & The The Gentlemen's Band",  "1996-01-07 00:00:00", "1966", "system", "01". "14") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-406fc70c-acef-436f-87ff-f70675e33658", "Grateful Dead", "2", "65",  "01/15/66", "The Matrix", "San Francisco", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "01". "15") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7d6235aa-66a8-4f8c-9283-c034eadd0f84", "Grateful Dead", "2", "66",  "01/16/66", "The Matrix", "San Francisco", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "01". "16") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a3ddcac7-a2a3-41b4-b700-e95306e1c4cb", "Grateful Dead", "2", "67",  "01/22/66", "Longshoremans Hall", "San Francisco", "CA",  "", "", "", "Trips Festival - Other artist(s): Big Brother & The Holding Company",  "1996-01-07 00:00:00", "1966", "system", "01". "22") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d25d8136-9af7-427f-8ff7-6a1905b2b8e9", "Grateful Dead", "2", "68",  "01/23/66", "Longshoremans Hall", "San Francisco", "CA",  "", "", "", "Trips Festival",  "1996-01-07 00:00:00", "1966", "system", "01". "23") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8919f02a-a321-4cb1-b14f-bf5eb1ddfafa", "Grateful Dead", "2", "69",  "01/28/66", "The Matrix", "San Francisco", "CA",  "", "", "", "Other artist(s): Big Brother & The Holding Company",  "1996-01-07 00:00:00", "1966", "system", "01". "28") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a088fb5e-91d1-4b3c-ac6c-baa997e11f42", "Grateful Dead", "2", "70",  "01/29/66", "Sound City Acid Test", "San Francisco", "CA",  "Ken Kesey interviewed by Frank Fey,Ken Babbs and harmonica,Take Two: Ken Kesey,Bull,Peggy The Pistol,One-way Ticket,Bells And Fairies,Levitation,Trip X,The End", "", "", "Only Jerry and Pigpen in attendence",  "2009-02-08 07:30:20", "1966", "system", "01". "29") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e2180dbe-01b6-4a71-902f-76183fd82142", "Grateful Dead", "2", "71",  "01/29/66", "The Matrix", "San Francisco", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "01". "29") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-fab334ab-9984-4ecc-b85f-a75f466ba357", "Grateful Dead", "2", "147728",  "01/??/66", "Archives Volume 1", "Studios", "CA",  "*11/3/65  San Francisco,CA Demos for Autumn Records:,Cant Come Down, Mindbender, The Only Time ,Is Now, I Know You Rider, Early Morning Rain                  ,                                                                                                   ,*Early 66           1st Single Session for Scorpio Records:   ,Dont Ease Me In, Stealin                   ,,*Early 66           Pre 1st LP Outtakes:                 ,You Dont Have to Ask, I Know You Rider, ,Cardboard Cowboy, I Know You Rider (instrumental),                 ,The Lindy, The Lindy(instrumental), Alice D. Millionaire, ,Alice D. Millionaire (instrumental).                                                                    ,                                                                                                                                                                                                                                                  ,*Early 66           Neal Cassidy Unreleased Film Music:                  ,Speed Limit-instrumental w/ Neal Cassidy talking                   ,,*Early 66           Menlo Park Demos:                      ,Sick and Tired, Mindbender, New ,Things Running Around My Mind                  ,                                                 ,*Early 67            Acetate not used for 1st LP:                          ,Broken Heart                               ,   ,*Early 67            Acetate of Unreleased Movie Soundtrack from Fire in the City:  ,Fire In The City Tonight (Jazz Singer-Jon Hendrick on vocals)    , ,*1967   Burbank,CA       Acetate Burbank Studios:                            ,Lovelight", "", "", "GD Archives Vol 1",  "2006-02-28 23:08:17", "1966", "Rodiebluez", "01". "??") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4d5136ed-99d3-4bc7-af81-5696db0ed2d2", "Grateful Dead", "2", "168758",  "02/01/66", "Viola Lee Blues Rehearsals", "Unknown", "Unknown",  "talk & tunings - It's just Weir and his ass-holed guitar,Viola Lee Blues #1 verse 1 - aborted,Viola Lee Blues #2 verses 1 & 2 - aborted - watch it pig! b, man, b,talk & tunings,Viola Lee Blues #3 with harmonica - aborted,discussions,Viola Lee Blues #4 with organ verse 1 & harmonica - aborted,tape playback? more talk,Viola Lee Blues #5 verse 1 - same verse again - verse 1 - aborted,Phil comments,Viola Lee Blues #6 verses 1 & 2 - aborted,more discussions,Viola Lee Blues #7 verses 1 & 2 & 3 - then stopped,talk & tunings - that's tasty - let's just play,Viola Lee Blues #8 verse 1 - aborted,talk & wild comments & confusion,Viola Lee Blues #9 verses 2 & 3 - aborted,more talk - I think you're against us - Pigpen's a conspiracy,You may know by ... passage repeated,Viola Lee Blues #10 verses 1 & 2 & 3 ; jam ; tape cuts", "", "", "<b>January-February 1966 ??</b>,(exact date unknown),<b>The Viola Lee Blues Rehearsals</b>,,,This is a wonderful piece of Dead rehearsal tape that I have not seen circulating in the digital realm.,The cassette was played back on Nak CR7E with azimuth adjustment.,Sound Forge was used for noise reduction.,Research and A&gt;D transfer by Uli Teute,Sound tweaking and SHN seeding by Hanno Bunjes,August 2003",  "2010-06-13 02:20:10", "1966", "MusicNevStopped", "02". "01") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7f54fd81-2c7b-44ca-bc06-92f6eb672ee1", "Grateful Dead", "2", "72",  "02/05/66", "The Questing Beast", "Berkeley", "CA",  "", "", "", "Rehearsal",  "1996-01-07 00:00:00", "1966", "system", "02". "05") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-213eb4a9-6376-42c0-9a84-8a5339321527", "Grateful Dead", "2", "73",  "02/06/66", "Northridge Unitarian Church", "Los Angeles", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "02". "06") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-55a48ad4-a803-44bf-a3bd-c054029d65c3", "Grateful Dead", "2", "74",  "02/12/66", "Youth Opportunities Center", "Compton", "CA",  "Who Cares? Pigpen rap", "", "", "Watts Acid Test",  "2007-02-16 15:53:32", "1966", "sshaw13", "02". "12") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-dc330c81-a34c-43e1-b8eb-52063e7a6c10", "Grateful Dead", "2", "108645",  "02/15/66", "Ivar Theather", "Los Angeles", "CA",  "", "", "", "",  "2002-08-12 17:17:00", "1966", "youngone", "02". "15") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5479cb0c-8929-4f11-a5ac-24ddc16885a3", "Grateful Dead", "2", "183607",  "02/17/66", "Unknown", "Unknown", "Unknown",  "", "", "", "",  "2006-01-18 09:11:57", "1966", "danburnfin", "02". "17") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e28c2342-78e5-4de8-bd79-5f6f8059e8e3", "Grateful Dead", "2", "75",  "02/23/66", "Unknown location", "Unknown City", "Unknown",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "02". "23") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f5a8cb71-4ce3-4afa-852b-4f83a29de39e", "Grateful Dead", "2", "76",  "02/25/66", "Ivar Theater", "Los Angeles", "CA",  "Shes On The Road Again, Next Time You See Me, I Know You Rider, Hey Little One, Cold Rain & Snow, King Bee, Caution, Stealin", "", "", "Attribution of these tracks to this date uncertain. Additional material may also circulate on CD with this: Stealin from late summmer 66; Good Morning, Lil School Girl, You Dont Love Me, Good Morning, Lil School Girl ,from mid-to-late 66",  "2001-07-03 00:00:00", "1966", "hamilton", "02". "25") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d23ef986-9bdb-49c2-99d4-500e76fc258a", "Grateful Dead", "2", "96131",  "03/02/66", "Troupers Hall", "Los Angeles", "CA",  "Stealin,Wham!,Hey Little One,Im A Hog For You Baby,You Dont Have To Ask,Cold Rain And Snow,Next Time You See Me,Viola Lee Blues,Big Boss Man,Sitting On Top Of The World,Dancing In The Streets,I Know You Rider,He Was A Friend Of Mine,Next Time You See Me,Good Morning Little Schoolgirl", "", "", "1-7 Troupers Hall, L.A. 3/2/66,8-14 Fillmore, S.F. 7/3/66,15 Matrix Club, S.F. 1/66",  "2002-05-11 11:30:59", "1966", "slidething", "03". "02") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1f821a2d-b021-4156-b229-555a69eb733b", "Grateful Dead", "2", "77",  "03/03/66", "A.I.A.A. Hall", "Los Angeles", "CA",  "", "", "", "With the film -Psychedelic Experience-",  "1996-01-07 00:00:00", "1966", "system", "03". "03") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-665d2385-cd82-4e0e-ad2a-1ec8e0f9b736", "Grateful Dead", "2", "579394",  "03/09/66", "unknown", "unknown", "unknown",  "Who Do You Love", "", "", "",  "2013-08-22 20:33:22", "1966", "John_Doe", "03". "09") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e3411e08-8093-4665-be49-ff7608eb4832", "Grateful Dead", "2", "78",  "03/12/66", "Danish Center", "Los Angeles", "CA",  "Viola Lee Blues, One Kind Favor, I Know You Rider, You See A Broken Heart, Its A Sin, Beat It On Down The Line, Next Time You See Me, Death Dont Have No Mercy, Midnight Hour", "", "", "Pico Acid Test - list may belong to another night",  "1996-01-07 00:00:00", "1966", "system", "03". "12") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3abf83a7-bb64-47d2-8c06-de309db647af", "Grateful Dead", "2", "79",  "03/19/66", "Carthay Studios", "Los Angeles", "CA",  "/Viola Lee Blues,,I Need Some Coke... And there Will Be A Slight Pause... Stage Talk,,/One Kind Favor,,I Know You Rider,,You See A Broken Heart,,/It's A Sin,,P.A. And tasting And Tuning Stage Talk,,Beat It On Down The Line,,Just Bearly PA Stage Talk,,Heads Up,,How's The PA Now Stage Talk,,Next Time You See Me,,Take A Break And Ice Cream Stage Talk,,/Slow R And B Instrumental,,Noodling Onwards/,,/Death Don't Have No Mercy  (6:01),,A Little Tune Now Called The... Midnight Hour/", "", "", "Acid Test, moved from UCLA at the last minute.",  "2007-01-27 09:36:56", "1966", "johnhell", "03". "19") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-61ad6c83-4988-4458-b91d-269ae92a733d", "Grateful Dead", "2", "80",  "03/25/66", "Troupers Hall", "Los Angeles", "CA",  "Stealin, Jam, Hey Little One, Hog For You Baby, You Dont Have To Ask, Cold Rain & Snow, Next Time You See Me", "", "", "List incomplete; see deadlists.com for anecdotes et al for this night",  "2001-12-21 00:00:00", "1966", "system", "03". "25") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5a7b07a4-5e74-4e4c-a520-d46b2631d355", "Grateful Dead", "2", "123648",  "04/07/66", "Unknown", "Los Angeles", "CA",  "FM-announcers, Pig Pen-Rap", "", "", "",  "2002-11-27 09:46:54", "1966", "UliBraasch", "04". "07") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-355f1906-ab58-4efb-b045-015f72a8065e", "Grateful Dead", "2", "81",  "04/22/66", "Longshoremans Hall", "San Francisco", "CA",  "?,?,New Orleans,Twist And Shout", "", "", "Trips Festival",  "2010-07-28 12:39:09", "1966", "SNIPER777", "04". "22") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7d734684-e062-457e-85ad-147e85c1abbe", "Grateful Dead", "2", "82",  "04/23/66", "Longshoremans Hall", "San Francisco", "CA",  "", "", "", "Trips 196? Festival - -Dress the Way You Are Other artist(s):; The Loading Zone, Celebrity Drop Ins & Trips Regulars",  "1996-01-07 00:00:00", "1966", "system", "04". "23") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-07c294b4-3a63-42a5-a8dc-fddb66d1cb51", "Grateful Dead", "2", "83",  "04/24/66", "Longshoremans Hall", "San Francisco", "CA",  "Its A Sin,Viola Lee Blues,Midnight Hour,Beat It On Down The Line,Blues Jam*", "", "", "Trips Festival,,* - w/ Jorma Kaukonen And Jack Cassidy",  "2010-07-28 12:41:30", "1966", "SNIPER777", "04". "24") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3af90242-98ad-4e01-8c20-87df97e8fdf5", "Grateful Dead", "2", "84",  "05/07/66", "Harmon Gym, U. of California", "Berkeley", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "05". "07") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4d6076d0-e3f3-4d94-9a7b-7395ff41215e", "Grateful Dead", "2", "1",  "05/14/66", "Veterans Memorial Hall", "Berkeley", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "05". "14") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1c48df32-dab7-4842-99f0-44efcb35b90d", "Grateful Dead", "2", "147879",  "05/16/66", "Fillmore West", "San Francisco", "CA",  "", "", "", "All",  "2003-04-05 14:47:33", "1966", "carter2002", "05". "16") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5f645774-a32d-44b3-a8eb-539c65f69373", "Grateful Dead", "2", "2",  "05/19/66", "Avalon Ballroom", "San Francisco", "CA",  "Beat It On Down The Line,  Standing On The Corner, Mindbender, It Hurts Me Too, Viola Lee Blues, I Know You  Rider, Its A Sin, Sick And Tired, Cream Puff War", "Sittin On Top Of The World, Minglewood Blues, Cold Rain And Snow, Come Back Baby, Silver Threads And Golden Needles, Its All Over Now Baby Blue, Good Lovin , You Dont Have To Ask", "", "Straight Theater benefit - Other artist(s): The Wildflower, The Outfit",  "2001-06-26 00:00:00", "1966", "hamilton", "05". "19") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1fae6912-825f-4e57-b67c-bc5a2b9190a5", "Grateful Dead", "2", "3",  "05/22/66", "Rancho Otompall", "Novato", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "05". "22") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b6827204-115c-455a-bbf6-f7beb5e86347", "Grateful Dead", "2", "4",  "05/25/66", "Unknown Location", "San Francisco", "CA",  "", "", "", "Other artist(s): The Charlatans",  "1996-01-07 00:00:00", "1966", "system", "05". "25") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6ad13bd8-7c28-4eaf-aed9-0b94bddc2919", "Grateful Dead", "2", "5",  "05/28/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Hay Feaver Dance - The First Family Dog production with Dead",  "1996-01-07 00:00:00", "1966", "system", "05". "28") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-463a8a3f-c4c3-4e7e-bad5-278095d3fc36", "Grateful Dead", "2", "6",  "05/29/66", "California Hall", "San Francisco", "CA",  "", "", "", "LEMAR Benefit Ball - -Aid the end of marijuana prohibition - Other artist(s): The Charlatans",  "1996-01-07 00:00:00", "1966", "system", "05". "29") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-27cdf753-3222-47a4-8ace-afed34c52218", "Grateful Dead", "2", "162952",  "05/??/66", "GD Hour 557", "Unknown", "Unknown",  "Shes On The Road Again,Next Time You See Me,I Know You Rider,Hey Little One,Cold Rain And Snow,King Bee>,Caution,Stealin", "", "", "This tape of unknown origin was broadcast on the Grateful Dead Hour. Venue, city and date are unknown, but judging by the sound this tape can be placed in May 1966, possibly later.",  "2006-03-01 10:42:44", "1966", "kollektionist", "05". "??") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-76d40fed-2665-4c3d-809b-6609d4e54f56", "Grateful Dead", "2", "7",  "06/01/66", "Speedway Meadows G. Gate Park", "San Francisco", "CA",  "", "", "", "Numerous unscheduled Performances June, July and August days uncertain",  "1996-01-07 00:00:00", "1966", "system", "06". "01") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-072c3fc1-ddb8-48f3-b39f-fe2308ad2f7a", "Grateful Dead", "2", "9",  "06/01/66", "U. of Ca. Medical Center", "San Francisco", "CA",  "", "", "", "LSD Conference",  "1996-01-07 00:00:00", "1966", "system", "06". "01") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-461413a0-c216-46c9-a792-036899266628", "Grateful Dead", "2", "10",  "06/03/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): QMS, GD; The Mothers",  "1996-01-07 00:00:00", "1966", "system", "06". "03") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7b9f6d54-3f7a-445d-81f0-0b0a3ea003f2", "Grateful Dead", "2", "11",  "06/04/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): QMS, GD; The Mothers",  "1996-01-07 00:00:00", "1966", "system", "06". "04") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-34883e3c-feb0-47e6-a55e-85f7c11ac15d", "Grateful Dead", "2", "12",  "06/10/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "The Quick and the Dead - Other artist(s): QMS, The New Tweedy Brothers",  "1996-01-07 00:00:00", "1966", "system", "06". "10") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2fdc1820-2ce2-4594-9949-1d73165218c3", "Grateful Dead", "2", "13",  "06/11/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "The Quick and the Dead - Other artist(s): QMS, The New Tweedy Brothers",  "1996-01-07 00:00:00", "1966", "system", "06". "11") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-aabfdc19-3cab-4281-94e5-1657f773b7de", "Grateful Dead", "2", "164031",  "06/16/66", "Fillmore West", "San Francisco", "CA",  "", "", "", "",  "2003-08-13 10:48:12", "1966", "TweedleDee", "06". "16") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c7346249-78e5-4f09-8686-452b79cd1c2c", "Grateful Dead", "2", "14",  "06/17/66", "Veterans Memorial Hall", "San Jose", "CA",  "", "", "", "Other artist(s): The Jaywalkers",  "1996-01-07 00:00:00", "1966", "system", "06". "17") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-108e286b-9783-41fc-9dfd-cce409729f1c", "Grateful Dead", "2", "15",  "06/18/66", "Veterans Memorial Hall", "San Jose", "CA",  "", "", "", "Other artist(s): The Jaywalkers",  "1996-01-07 00:00:00", "1966", "system", "06". "18") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-248eb846-7bd5-45a8-af63-11a4c540bca6", "Grateful Dead", "2", "67216",  "06/??/66", "Scorpio Studio Outtakes", "San Francisco", "CA",  "Stealin ; I Know You Rider ; Dont Ease Me In ; You Dont Have To Ask ; Tastebud ; Cardboard Cowboy ; Stealin ; I Know You Rider ; Cold Rain And Snow", "", "", "Setlist courtesy deadlists.com, their comments: Scorpio studio outtakes. Multiple takes of listed songs. Material  from these sessions was used to make the Scorpio 45 RPM record.",  "2002-02-16 00:00:00", "1966", "Sandollar", "06". "??") ;
+#
+# Key: key_51
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-60bfc3a0-9080-4221-abec-8e1e1e357c60", "Grateful Dead", "2", "88120",  "06/??/66", "Unknown", "Unknown", "Unknown",  "GDH Intro,Shes On The Road Again,Next Time You See Me,I Know You Rider,Hey Little One,Cold Rain and Snow,King Bee-&gt;,Caution,Stealin,GDH Outro", "", "", "Various songs from June 66 and dates are unsure",  "2008-11-28 17:22:47", "1966", "terraphan", "06". "??") ;
+#
+# Key: key_52
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d3303ce5-9bb5-49b1-a275-9221c119740c", "Grateful Dead", "2", "177390",  "07/01/66", "Unknown (perhaps Fillmore Auditorium)", "San Francisco", "CA",  "Cold Rain And Snow ,Its All Over Now, Baby Blue ,Cream Puff War ,King Bee,Stealin ,Dancin In The Streets", "", "", "",  "2003-10-12 13:54:08", "1966", "mvernon", "07". "01") ;
+#
+# Key: key_53
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6cfcd184-d1ce-45e0-8a26-f469da2a441c", "Grateful Dead", "2", "46740",  "07/03/66", "Fillmore Auditorium", "San Francisco", "CA",  "Dancin In The Street, I Know You Rider, He Was A  Friend Of Mine, Next Time You See Me, Viola Lee Blues, Big Boss Man, Sittin On Top Of The World", "", "", "Independence Ball - Other artist(s): Love & Group B.; setlist courtesy deadlists.com- other sources may place songs in incorrect order",  "2002-05-03 00:00:00", "1966", "hamilton", "07". "03") ;
+#
+# Key: key_54
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-86b012f1-dcc6-428e-be86-f8d0b871f407", "Grateful Dead", "2", "17",  "07/08/66", "Santa Venetia Armory", "San Rafael", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "07". "08") ;
+#
+# Key: key_55
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e5b2b02f-37b4-4df2-87ce-87550a0eadad", "Grateful Dead", "2", "18",  "07/09/66", "Santa Venetia Armory", "San Rafael", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "07". "09") ;
+#
+# Key: key_56
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b865f563-01f1-410d-91e7-6a286d6c8ff7", "Grateful Dead", "2", "19",  "07/14/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "A Pleasure Dome Presented By The San Francisco Calliope Co. Other artist(s): Hindustani Jazz Sextet, GD; Big Brother & The Holding Company.",  "1996-01-07 00:00:00", "1966", "system", "07". "14") ;
+#
+# Key: key_57
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bc2e2f22-b885-4eba-8dc2-2fcec0ef781e", "Grateful Dead", "2", "20",  "07/15/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Jefferson Airplane; GD",  "1996-01-07 00:00:00", "1966", "system", "07". "15") ;
+#
+# Key: key_58
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-548f102d-6a13-460d-b090-6300f54479df", "Grateful Dead", "2", "21",  "07/16/66", "Fillmore Auditorium", "San Francisco", "CA",  "I Know You Rider, Big Boss Man, Standing On The Corner, Beat It On Down The Line, In The Pines, Cardboard Cowboy, Nobodys Fault But Mine, Next Time You See Me, He Was A Friend Of Mine, Cream Puff War", "Viola Lee Blues, Dont Ease Me In &gt; Pain In My Heart, Minglewood Blues &gt; Sittin On Top Of The World, You Dont Have To Ask, Cold Rain And Snow &gt; Good Morning Little Schoolgirl &gt; Its All Over Now Baby Blue, Dancing In The Streets", "", "Jefferson Airplane Opened",  "2008-04-07 16:00:55", "1966", "aikox2", "07". "16") ;
+#
+# Key: key_59
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-475ac189-7471-49c8-b989-b2a5494cd389", "Grateful Dead", "2", "22",  "07/17/66", "Fillmore Auditorium", "San Francisco", "CA",  "Big Boss Man, Cold Rain And Snow, It\s All Over Now Baby Blue, Cream Puff War, King Bee, Stealin, Dancing In The Streets.,,,This is the complete 7/17/66. What was earlier had as 7/17/66 is really part of 7/16/66", "", "", "Setlist courtesy <a href= http://www.deadlists.com>deadlists.com</a>. Afternoon concert 2:00 PM, List Uncertain  Other artists: Jefferson Airplane; material from set is included on The Golden Road Box Set- <a href= http://mars.dead.net>go buy it</a>",  "2009-11-18 04:54:31", "1966", "gold soundz", "07". "17") ;
+#
+# Key: key_60
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ce8e2eff-4abc-4459-a79b-bb6b9763c00c", "Grateful Dead", "2", "37",  "07/29/66", "P.N.E. Garden Auditorium", "Vancouver", "BC",  "(one option for date:) Dancin In The Streets, Im A King Bee, One Kind Favor, You Dont Have To Ask, Hey Little One, Beat It On Down The Line, Good Morning Little Schoolgirl, Minglewood Blues", "(another option for date:) Standing On The Corner, Rider, Next Time, SOTOTW, Dont Have To Ask, Big Boss Man, Stealin, Cardboard Cowboy, Baby Blue, Cream Puff War; Viola Lee Blues, BIODTL, Schoolgirl", "", "British Columbia Festival - Trips Festival. Note confusion over dates of material. Setlist(s) courtesy <a href= http://www.deadlists.com>deadlists.com</a>- see that site for discussion of 7/29,30,31/66 material. Taping Addendum reportedly has additional discussion.",  "2003-08-18 00:00:00", "1966", "hamilton", "07". "29") ;
+#
+# Key: key_61
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3109a0cb-b976-4970-9eed-826d93a40a72", "Grateful Dead", "2", "38",  "07/30/66", "P.N.E. Garden Auditorium", "Vancouver", "BC",  "(one option for date:) Standing On The Corner, Rider, Next Time, SOTOTW, Dont Have To Ask, Big Boss Man, Stealin, Cardboard Cowboy, Baby Blue, Cream Puff War; Viola Lee Blues, BIODTL, Schoolgirl", "(another option for date:) Dancin In The Streets ; Im A King Bee ; One Kind Favor ; You Dont. Have To Ask ; Hey Little One ; Beat It On Down The Line ; Good Morning Little Schoolgirl ; Minglewood Blues Dancin In The Streets ; Im A King Bee ; One Kind Favor ; You Dont. Have To Ask ; Hey Little One ; Beat It On Down The Line ; Good Morning Little Schoolgirl ; Minglewood Blues", "", "British Columbia Festival - Trips Festival. Note confusion over dates of material. Setlist(s) courtesy <a href= http://www.deadlists.com>deadlists.com</a>- see that site for discussion of 7/29,30,31/66 material. Taping Addendum reportedly has additional discussion.",  "2003-08-18 00:00:00", "1966", "Flyerfanatic", "07". "30") ;
+#
+# Key: key_62
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-65a43d25-1e2b-4798-b12a-d680934b2b20", "Grateful Dead", "2", "39",  "07/31/66", "P.N.E. Garden Auditorium", "Vancouver", "BC",  "", "", "", "British Columbia Festival - Trips Festival; see www.deadlists.com for discussion of 7/29,30,31/66 material",  "2001-01-25 00:00:00", "1966", "system", "07". "31") ;
+#
+# Key: key_63
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f78e932b-9b47-4f79-89fd-9dc4aad029a5", "Grateful Dead", "2", "222289",  "08/01/66", "Unknown", "Unknown", "CA",  "Good Morning Little Schoolgirl > You Dont Love Me > Good Morning Little Schoolgirl", "", "", "Actual date unknown.  Sometimes circulates as 2/66",  "2004-08-08 00:47:17", "1966", "circus", "08". "01") ;
+#
+# Key: key_64
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-96f7865d-3747-469f-bfa2-1a65e7cbd52b", "Grateful Dead", "2", "40",  "08/05/66", "Afterthought", "Vancouver", "BC",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "08". "05") ;
+#
+# Key: key_65
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b4c341c2-83ca-44d6-8aec-0249cf208f0a", "Grateful Dead", "2", "41",  "08/06/66", "Afterthought", "Vancouver", "BC",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "08". "06") ;
+#
+# Key: key_66
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d45897f4-ec02-4647-9220-8863bf5bfee6", "Grateful Dead", "2", "42",  "08/07/66", "Fillmore Auditorium", "San Francisco", "CA",  "Midnight Hour*,", "", "", "*with Joan Baez & Mimi Farina 3rd Annual Childrens Adventure Day Canp benefit- 3:OOPM to lAM Other artist(s): QMS,Big Brother & The Holding Co.; GD; The Grass Roots; Sunshine The Committee; New Improved Jook Savages; The P.H. Factor; Si Perkoff Jazz Quinte",  "1996-01-07 00:00:00", "1966", "system", "08". "07") ;
+#
+# Key: key_67
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8802197d-e72c-4f64-a79e-77b15d75b636", "Grateful Dead", "2", "43",  "08/12/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Jefferson Airplane; GD",  "1996-01-07 00:00:00", "1966", "system", "08". "12") ;
+#
+# Key: key_68
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0ddd44c4-4983-40de-8a26-351974dd1bca", "Grateful Dead", "2", "44",  "08/13/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Jefferson Airplane; GD",  "1996-01-07 00:00:00", "1966", "system", "08". "13") ;
+#
+# Key: key_69
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1a5c39ba-9bb3-4151-b3ce-c06160ac4d47", "Grateful Dead", "2", "45",  "08/19/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Sopwith Camel",  "1996-01-07 00:00:00", "1966", "system", "08". "19") ;
+#
+# Key: key_70
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3a188b8b-85f6-4e2f-9681-200f03ea77fe", "Grateful Dead", "2", "46",  "08/20/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Sopwith Camel",  "1996-01-07 00:00:00", "1966", "system", "08". "20") ;
+#
+# Key: key_71
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9a9e9b68-32e9-4166-9b21-661396fcd71d", "Grateful Dead", "2", "47",  "08/27/66", "I.D.B.S. Hall", "Pescadero", "CA",  "", "", "", "Tour Del Mar Bicycle Race and Folk-Rock Festival - Other artist(s): QMS; Collosal Pomegranate'",  "1996-01-07 00:00:00", "1966", "system", "08". "27") ;
+#
+# Key: key_72
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f0b947bc-6f60-4c2a-88cc-f8c50e414cbe", "Grateful Dead", "2", "48",  "08/28/66", "I.D.B.S. Hall", "Pescadero", "CA",  "", "", "", "Tour Del Mar Bicycle Race and Folk-Rock Festival - Other artist(s): QMS; Collosal Pomegranate'",  "1996-01-07 00:00:00", "1966", "system", "08". "28") ;
+#
+# Key: key_73
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bbcb5728-7ef7-4c7f-95ff-db303c8b202c", "Grateful Dead", "2", "49",  "09/02/66", "La Dolphine", "Hillsborough", "CA",  "The Head Has Become Fat Rap,A Mexican Story, 25 Bennies,A Tarnished Galahad,Get It Off The Ground Rap,Its Good To Be God Rap,Nirvana Army Rap,The Butcher Is Back", "Acid Test Graduation Announce,Send Me To The Moon,Ken Keseys dialogue,Closing Jam,Prankster Electronics", "", "Debutante dance",  "2008-10-23 09:04:38", "1966", "terraphan", "09". "02") ;
+#
+# Key: key_74
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6fbbc114-2914-4593-9c66-be446c9c2071", "Grateful Dead", "2", "50",  "09/04/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD: QMS; Country Joe & The Fish - first Grateful Dead headline at the Fillmore",  "1996-01-07 00:00:00", "1966", "system", "09". "04") ;
+#
+# Key: key_75
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7edd0e59-4591-4444-86b7-4bcac21b22ed", "Grateful Dead", "2", "51",  "09/05/66", "Rancho Otompali", "Novato", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "09". "05") ;
+#
+# Key: key_76
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9720cfbe-9e2a-41f6-a1d2-65477b51d24c", "Grateful Dead", "2", "52",  "09/11/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "BOTH AND Jazz Club Benefit - Gigantic All-Night Jazz/Rock Dance-Concert Other artist(s): John Hendricks Trio, Elvin Jones; Joe Henderson Quartet, Big Mama Thornton Denny Zeitlin Trio; Jefferson Airplane; The Great Society; The Wildflower; GD",  "1996-01-07 00:00:00", "1966", "system", "09". "11") ;
+#
+# Key: key_77
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9e46a1b1-0433-4c4a-86fe-79a66254e76a", "Grateful Dead", "2", "53",  "09/16/66", "Avalon Ballroom", "San Francisco", "CA",  "I Know You Rider, It Hurts Me Too, Its All Over Now Baby Blue, Good Morning Little School Girl, Lindy, Dancin In The Streets, E: Midnight Hour", "", "", "Actual date for list unknown -first Kelly/Mouse skull & rose - Other artist(s): Oxford Circle",  "1996-01-07 00:00:00", "1966", "system", "09". "16") ;
+#
+# Key: key_78
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-71489804-e521-4653-8f11-995f890b1930", "Grateful Dead", "2", "54",  "09/17/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Oxford Circle",  "1996-01-07 00:00:00", "1966", "system", "09". "17") ;
+#
+# Key: key_79
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f7e8070c-8c21-433d-8654-996b83221ac1", "Grateful Dead", "2", "62273",  "09/19/66", "Fillmore West", "San Francisco", "CA",  "High Healed Sneakers,Pain in My Heart,Cold Rain and Snow,BIODTL,Cream Puff War,The Same Thing,He Was a Friend of Mine", "Smokestack Lightning,King Bee,Midnight Hour", "", "",  "2012-01-26 20:16:03", "1966", "jpschust", "09". "19") ;
+#
+# Key: key_80
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-965cc1fe-c375-4421-884a-14bd24e6ac70", "Grateful Dead", "2", "55",  "09/23/66", "Pioneer Ballroom", "Suisun City", "CA",  "", "", "", "Other artist(s): The 13 Experience",  "1996-01-07 00:00:00", "1966", "system", "09". "23") ;
+#
+# Key: key_81
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4222141a-27f8-4759-b619-ebfe51b62ea1", "Grateful Dead", "2", "56",  "09/24/66", "Pioneer Ballroom", "Suisun City", "CA",  "", "", "", "Other artist(s): The 13 Experience",  "1996-01-07 00:00:00", "1966", "system", "09". "24") ;
+#
+# Key: key_82
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-07c8fbd3-6915-4171-ad2a-78b0a06bc401", "Grateful Dead", "2", "66968",  "09/??/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "",  "2001-08-19 06:10:37", "1966", "1346", "09". "??") ;
+#
+# Key: key_83
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-11690972-aa36-407a-b7f2-a31b44668236", "Grateful Dead", "2", "53292",  "10/01/66", "SF State College", "San Francisco", "CA",  "Acid Test", "", "", "",  "2001-04-11 00:00:00", "1966", "hamilton", "10". "01") ;
+#
+# Key: key_84
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-80dc5c52-84bb-4a61-95a1-df4e3db95717", "Grateful Dead", "2", "57",  "10/02/66", "Commons, S.F. State College", "San Francisco", "CA",  "Jerry Garcia Intro,A Mexican Story: 25 Bennies,Get It Off The Ground Rap,Its Good To Be God Rap,Nirvana Army Rap,The Butcher Is Back ,Acid Test Graduation Announcement,Send Me To The Moon,Jerry Garcia interview,Sound Collage,Ken Kesey Interview,Sound Collage,Jerry Garcia Interview,Music / Sound Collage #1,Ken Kesey Interview,Sound Collage", "", "", "San Franisco State Trips Festival - Friday 3:00 PM to Sunday 3:00 PM Other artist(s): Mimi Farina; The Only Alternative; The Committee; Congress Of Wonders",  "2008-10-23 09:06:25", "1966", "terraphan", "10". "02") ;
+#
+# Key: key_85
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-51391b2b-359a-4bbb-ab69-ea6cfdbdde28", "Grateful Dead", "2", "58",  "10/06/66", "Golden Gate Park", "San Francisco", "CA",  "", "", "", "Lunatic Protest Demonstration - LSD rally",  "1996-01-07 00:00:00", "1966", "system", "10". "06") ;
+#
+# Key: key_86
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-20f028d7-2587-4fe2-8090-c44f06888ff0", "Grateful Dead", "2", "59",  "10/07/66", "Winterland Arena", "San Francisco", "CA",  "Stealin, Dont Ease Me In, Cold Rain & Snow, Cream Puff War, Walkin Blues", "", "", "First Dead Winterland",  "1996-01-07 00:00:00", "1966", "greenone", "10". "07") ;
+#
+# Key: key_87
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5dd5827b-e425-49e7-8ff4-5cd2044049fc", "Grateful Dead", "2", "60",  "10/08/66", "Mt. Tamalpais Amphitheatre", "Marin County", "CA",  "", "", "", "Afternoon gig at the Peace Benefit - Other artist(s): Joan Baez; Mimi Farina; QMS Other artist(s): Butterfield Blues Band; Jefferson Airplane; GD",  "1996-01-07 00:00:00", "1966", "system", "10". "08") ;
+#
+# Key: key_88
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ef1fbb30-8436-4a7c-a0df-318fbb895c2d", "Grateful Dead", "2", "85",  "10/09/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Afternoon Concert 2:00 PM - Other artist(s): Butterfield Blues Band; Jefferson Airplane; GD",  "1996-01-07 00:00:00", "1966", "system", "10". "09") ;
+#
+# Key: key_89
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3c591f11-e581-453c-9260-1d538c3adcf8", "Grateful Dead", "2", "86",  "10/15/66", "The Heliport", "Sausalito", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "10". "15") ;
+#
+# Key: key_90
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b01e0e06-7f85-437b-8d01-7b7c9354531d", "Grateful Dead", "2", "87",  "10/16/66", "Golden Gate Park", "San Francisco", "CA",  "", "", "", "Artists Liberation Front Free Festival",  "1996-01-07 00:00:00", "1966", "system", "10". "16") ;
+#
+# Key: key_91
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e6ed75ef-fe4a-43c7-a55e-b19ff16486ff", "Grateful Dead", "2", "88",  "10/21/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD; Lightning Hopkins; Loading Zone",  "1996-01-07 00:00:00", "1966", "system", "10". "21") ;
+#
+# Key: key_92
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-631c522c-ed39-417e-9ddb-876ff75e46cb", "Grateful Dead", "2", "89",  "10/22/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD; Lightning Hopkins; Loading Zone",  "1996-01-07 00:00:00", "1966", "system", "10". "22") ;
+#
+# Key: key_93
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e3125a7d-ed8f-4c05-9bad-20f5066622fd", "Grateful Dead", "2", "90",  "10/23/66", "Las Lomas High School", "Walnut Creek", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "10". "23") ;
+#
+# Key: key_94
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9197fa32-52c5-4ef2-a4bb-c46b795064e6", "Grateful Dead", "2", "91",  "10/26/66", "The North Face Ski Shop", "Berkeley", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "10". "26") ;
+#
+# Key: key_95
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-96f4260a-2634-402a-9338-adff68fe4128", "Grateful Dead", "2", "92",  "10/31/66", "California Hall", "San Francisco", "CA",  "", "", "", "Dance of Death Costume Ball- Other artist(s): QMS; Mimi Farina",  "1996-01-07 00:00:00", "1966", "system", "10". "31") ;
+#
+# Key: key_96
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-b0c6d38c-eb49-4161-9146-ec7bc0d58c9c", "Grateful Dead", "2", "93",  "11/04/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Oxford Circle",  "1996-01-07 00:00:00", "1966", "system", "11". "04") ;
+#
+# Key: key_97
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-08eadf65-0cd6-43a9-a416-e5a4ee01ecd3", "Grateful Dead", "2", "94",  "11/05/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Oxford Circle",  "1996-01-07 00:00:00", "1966", "system", "11". "05") ;
+#
+# Key: key_98
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d5f98d58-8bce-4282-bdb1-cac59a936e9c", "Grateful Dead", "2", "95",  "11/09/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "11". "09") ;
+#
+# Key: key_99
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ea33cf3e-48ec-4014-97f2-a04fbfb8762b", "Grateful Dead", "2", "96",  "11/12/66", "The Old Cheese Factory", "San Francisco", "CA",  "", "", "", "Anniversary Party - Other artist(s): Andrew Staples",  "1996-01-07 00:00:00", "1966", "system", "11". "12") ;
+#
+# Key: key_100
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4909a376-5277-4ab2-a5af-94649cf7d07d", "Grateful Dead", "2", "97",  "11/13/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "A Zenefit - Zen Mountain Center Benefit - Other artist(s): QMS; Big Brother & The Holding Co.",  "1996-01-07 00:00:00", "1966", "system", "11". "13") ;
+#
+# Key: key_101
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4911aab0-d3d3-471f-81f9-aeaac0f8b8e1", "Grateful Dead", "2", "98",  "11/18/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD; James Cotton Blues Band; Lothar & The Hand People",  "1996-01-07 00:00:00", "1966", "system", "11". "18") ;
+#
+# Key: key_102
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9fbcb8a2-c36c-4124-9165-ff323a215b35", "Grateful Dead", "2", "99",  "11/19/66", "Fillmore Auditorium", "San Francisco", "CA",  "Bill Graham Intro*, Cold Rain &amp; Snow, Hi-Heel Sneakers, Pain In My Heart, Beat It On Down The Line**, Cream Puff War, The Same Thing, He Was A Friend Of Mine, Dancin In The Streets", "Smokestack Lightning-> Im A King Bee, Midnight Hour", "", "Other Artists On Bill: James Cotton Blues Band; Lothar & The Hand People. ,,*Bill Graham Introduces The Grateful Dead As The Charles Atlas Of The Psychedelic Set.,A Liberated Bootleg CD That Circulates Of This Show Is Missing The Bill Graham Intro, Has 'Cold Rain & Snow' Inserted Between 'Pain In My Heart' And 'Beat It On Down The Line', And Is Also Missing 'Dancin' In The Streets'.,,**11 Beat BIODTL.",  "2015-05-15 15:51:30", "1966", "Oldneumanntapr", "11". "19") ;
+#
+# Key: key_103
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-886c89c3-8b6a-4d21-aaf0-9a59cf3f09a1", "Grateful Dead", "2", "100",  "11/20/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Student Non-violent Coordinating Comittee benefit - 3:00 PM to 12 AM Other artist(s): GD; James Cotton Blues Band; Lothar & The Hand People, QMS, Johnny Talbot & De Thangs",  "1996-01-07 00:00:00", "1966", "system", "11". "20") ;
+#
+# Key: key_104
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ccce5687-4409-4a0c-900c-37809fda7d01", "Grateful Dead", "2", "101",  "11/23/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Private Thanksgiving party",  "1996-01-07 00:00:00", "1966", "system", "11". "23") ;
+#
+# Key: key_105
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2161898d-a0de-4424-ae81-e1e7d4d67947", "Grateful Dead", "2", "102",  "11/28/66", "The Matrix", "San Francisco", "CA",  "", "", "", "Other artist(s): Terry Pond",  "1996-01-07 00:00:00", "1966", "system", "11". "28") ;
+#
+# Key: key_106
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9dbf63e8-8393-430f-9c74-ab5d336276fa", "Grateful Dead", "2", "103",  "11/29/66", "The Matrix", "San Francisco", "CA",  "(unknown)", "Me & My Uncle, The Same Thing, Stealin, Big Boy Pete, One Kind Favor, Early Morning Rain, Cold Rain & Snow, Viola Lee Blues", "Down So Long, Theres Something On Your Mind, Lindy, Good Morning Little School Girl, I Just Want To Make Love To You", "setlist courtesy <a href= http://www.deadlists.com>deadlists.com</a> (see discussion there);  Merry-Go-Round Broke Down Tuning after I Just Want To Make Love - Other artist(s): Jerry Pond",  "2001-08-10 00:00:00", "1966", "system", "11". "29") ;
+#
+# Key: key_107
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4ec6e27a-ef04-4bdd-b838-1bd37edf1fb9", "Grateful Dead", "2", "104",  "11/30/66", "The Matrix", "San Francisco", "CA",  "", "", "", "Other artist(s): Jerry Pond",  "1996-01-07 00:00:00", "1966", "system", "11". "30") ;
+#
+# Key: key_108
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e8cee055-383b-4a3a-b4f9-4e709b4d056f", "Grateful Dead", "2", "579818",  "11/??/66", "KFRC studio", "San Francisco", "CA",  "Interview", "", "", "",  "2013-09-02 07:42:29", "1966", "John_Doe", "11". "??") ;
+#
+# Key: key_109
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8093a4ad-1e73-4f07-b4c8-c088ee45a4b2", "Grateful Dead", "2", "105",  "12/01/66", "The Matrix", "San Francisco", "CA",  "Minglewood Blues, Betty & Dupree, Next Time You See Me, I Know You Rider, Big Boss Man, One Kind Favor, Alice D. Millionaire, Me & My Uncle, Cream Puff War", "You Dont Love Me, Beat It On Down The Line, It Hurts Me Too, On The Road Again, Look Over Yonders Wall, My Own Fault, Down So Long, Cold Rain & Snow, Viola Lee Blues", "Deep Elem Blues, Theres Something On Your Mind, Big Boy Pete, Death Dont Have No Mercy, Lindy, Dancin In The Streets, Me & My Uncle", "Merry-Go-Round Broke Down Tuning after, Me & My Uncle - Other artist(s): Jerry Pond",  "1996-01-07 00:00:00", "1966", "system", "12". "01") ;
+#
+# Key: key_110
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8a04926f-afe0-4877-b6c9-41e27531a537", "Grateful Dead", "2", "106",  "12/02/66", "Pauley Ballroom, U. of California", "Berkeley", "CA",  "", "", "", "Danse Macabre - Other artist(s): Country Joe & The Fish",  "1996-01-07 00:00:00", "1966", "system", "12". "02") ;
+#
+# Key: key_111
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-973cde60-5d43-4dad-90e2-56ddaa2315d9", "Grateful Dead", "2", "189267",  "12/05/66", "Studio: 1st album outtakes", "San Francisco", "CA",  "I Know Your Rider,Cold Rain and Snow,Cream Puff War,Sitting on Top of the World,The Same Thing,Stealin,New Minglewood Blues,Your Sons and Daughters *,Fire in the City *", "", "", "* Jon Hendricks and the Warlocks",  "2006-11-24 23:40:35", "1966", "cybrxena69", "12". "05") ;
+#
+# Key: key_112
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-44ade595-37bd-40ca-badc-84aa3d85bd69", "Grateful Dead", "2", "107",  "12/09/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD; Big Mama Mae Thornton; Tim Rose",  "1996-01-07 00:00:00", "1966", "system", "12". "09") ;
+#
+# Key: key_113
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c7cca11e-7d60-40b8-b0db-bd56df570107", "Grateful Dead", "2", "108",  "12/10/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): GD; Big Mama Mae Thornton; Tim Rose",  "1996-01-07 00:00:00", "1966", "system", "12". "10") ;
+#
+# Key: key_114
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8d974dd1-3ca9-4a46-aeb8-64c1b6b72f95", "Grateful Dead", "2", "109",  "12/11/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Big Mama Mae Thornton; Tim Rose- afternoon concert 2.00 pm",  "1996-01-07 00:00:00", "1966", "system", "12". "11") ;
+#
+# Key: key_115
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5ed3a574-5113-4fe4-b2db-20b176f000bf", "Grateful Dead", "2", "110",  "12/20/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Otis Redding; GD",  "1996-01-07 00:00:00", "1966", "system", "12". "20") ;
+#
+# Key: key_116
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-50cc9ac6-a62a-4882-a1dd-9b123c3739da", "Grateful Dead", "2", "111",  "12/21/66", "Continental Ballroom", "Santa Clara", "CA",  "", "", "", "",  "1996-01-07 00:00:00", "1966", "system", "12". "21") ;
+#
+# Key: key_117
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d84c4870-73de-4820-856b-189d39f36a77", "Grateful Dead", "2", "112",  "12/23/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Moby Grape; Steve Miller Band",  "1996-01-07 00:00:00", "1966", "system", "12". "23") ;
+#
+# Key: key_118
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-91e70df7-f0eb-4dea-80c8-e6088d98005e", "Grateful Dead", "2", "113",  "12/24/66", "Avalon Ballroom", "San Francisco", "CA",  "", "", "", "Other artist(s): Moby Grape; Steve Miller Band",  "1996-01-07 00:00:00", "1966", "system", "12". "24") ;
+#
+# Key: key_119
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-200351b4-e2e0-4574-b960-d945b4eb9fcc", "Grateful Dead", "2", "114",  "12/28/66", "Governors Hall", "Sacramento", "CA",  "", "", "", "Beaux Arts Ball w/ QMS opening",  "1996-01-07 00:00:00", "1966", "hamilton", "12". "28") ;
+#
+# Key: key_120
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0fd0e061-e7d3-4c85-915a-d5dd28878307", "Grateful Dead", "2", "115",  "12/29/66", "Santa Venetia Armory", "San Rafael", "CA",  "", "", "", "Other artist(s): Moby Grape; The Morning Glory",  "1996-01-07 00:00:00", "1966", "system", "12". "29") ;
+#
+# Key: key_121
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-09d55faa-9261-42f2-8398-70d69ad44e9e", "Grateful Dead", "2", "116",  "12/30/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "Other artist(s): Jefferson Airplane; GD; QMS",  "1996-01-07 00:00:00", "1966", "system", "12". "30") ;
+#
+# Key: key_122
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-90f94722-06a0-4b82-a162-178ad2a4eb9a", "Grateful Dead", "2", "117",  "12/31/66", "Fillmore Auditorium", "San Francisco", "CA",  "", "", "", "New Year's Bash -first Bill Graham New Year'show - Other artist(s): Jefferson Airplane; GD; QMS",  "1996-01-07 00:00:00", "1966", "system", "12". "31") ;
+#
+# Key: key_123
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d998470f-c3d8-46a4-8a5d-6521a4c8e269", "Grateful Dead", "2", "8",  "??/??/66", "Pauley Ballroom", "Berkeley", "CA",  "You Dont Have To Ask,Viola Lee Blues  ,I Know You Rider,Midnight Hour", "", "", "University Of California At Berkeley",  "2010-07-28 12:43:30", "1966", "SNIPER777", "??". "??") ;
+#
+# Key: key_124
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4db7aebd-5f20-44ee-9b30-9f29ec7f5aef", "Grateful Dead", "2", "35",  "??/??/66", "Viola Lee Blues Rehearsals", "Unknown", "CA",  "~10 rehearsals of Viola Lee Blues, with banter", "", "", "Date uncertain, possibly January-February 1966. Note the ??/??/66 material that was redundantly listed here in the db prior to 8/2003 is <a href= http://db.etree.org/lookup_show.php3?shows_key=48058>elsewhere</a> instead (~2 users may want to move). This entry is now for Viola Lee Rehearsals. Thanks, admin.,,entered as Portland Acid Test - day uncertain; Owsley's comments quoted at <a href= http://www.deadlists.com>deadlists.com</a>: Portland acid test was either on Dec 18 '65, or Jan 15 '66; this setlist submitted by user from <a href= http://www.well.com/conf/gdhour/gdh.logs/557>GDH 557</a>, marked ??/??/66 date uncertain",  "2005-10-24 17:13:53", "1966", "hamilton", "??". "??") ;
+#
+# Key: key_125
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c6a1a74a-7512-49ad-8244-92fdff3745f3", "Grateful Dead", "2", "48058",  "??/??/66", "Various", "Various", "CA",  "circa 66,Total time 56:36,,1. Shes On The Road Again (2:48) ,2. Next Time You See Me (3:30) ,3. I Know You Rider (2:53) ,4. Hey Little One (5:16) ,5. Cold Rain & Snow (3:09) ,6. King Bee > (6:03) ,7. Caution (8:38) ,8. Stealin // (1:13) ,a users Note: tracks 1-8 are reportedly from 2/25/66 Ivar Theater, Los Angeles. I find that exceedingly hard to believe. The material here is much tighter and the recording far better than those from 3/12 or 3/25. I date the above material from May or later. ,9. Stealin (3:02) ,Note: From late summmer 66. ,10. Good Morning, Lil School Girl > (7:43) ,11. You Dont Love Me > (5:38) ,12. Good Morning, Lil School Girl (6:35)", "", "", "",  "2005-12-08 18:16:37", "1966", "hamilton", "??". "??") ;
+#
+# Key: key_126
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-01d96ff5-0122-45c8-95a7-0582a2b17fbc", "Grateful Dead", "2", "69784",  "??/??/66", "Acid Tests", "various", "CA",  "", "", "", "This is a placeholder entry for a circulating compilation of Acid Test and supplemental material from various dates. There are 3 discs worth of 66 tests, reportedly:  1/8/66, 1/29/66, 3/12/66, 10/2/66, 10/31/66. There is an additional disc of Cassady and/or Jerry tracks from 65 and/or 67. Individual dates for the tests will also be listed in the db. The db structure precludes the use of date-range entries.",  "", "1966", "hamilton", "??". "??") ;
+#
+# Key: key_127
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ab7e586a-9654-419b-a391-fba7dd2dc773", "Grateful Dead", "2", "149792",  "??/??/66", "Acid Test Reels - 1965-1967", "Acid Test", "CA",  "Grateful Dead & Merry Pranksters,The Acid Test Reels - 1965-1967,A chronological compilation of the Acid Test recordings listed in The Grateful Dead Tapers Compendium Volume One.,,DISC ONE: Fillmore Acid Test/Sound City Acid Test, The Fillmore Acid Test, Fillmore Auditorium, San Francisco, CA - January 8, 1966, 1.  Stage Chaos/More Power Rap, 2.  King Bee, 3.  Im A Hog For You Baby, 4.  Caution: Do Not Step On Tracks >, 5.  Death Dont Have No Mercy, 6.  Star Spangled Banner / closing remarks,, The Sound City Acid Test, 363 6th Street, San Francisco, CA - January 29, 1966, 7.  Ken Kesey interviewed by Frank Fey, 8.  Ken Babbs and harmonica, 9.  Take Two: Ken Kesey, 10. Bull, 11. Peggy The Pistol, 12. One-way Ticket, 13. Bells And Fairies, 14. Levitation, 15. Trip X, 16. The End,, 7-16 The Acid Test: A Sound City Production,,DISC TWO: Pico Acid Test /S.F. State U Acid Test (pt.1), The Pico Acid Test, Danish Center, Los Angeles, CA - March 12, 1966, 1.  Viola Lee Blues, 2.  You See A Broken Heart, 3.  In The Midnight Hour,, The San Francisco State Acid Test  , Whatever It Is Festival, San Francisco State University, San Francisco, CA, Stereo Control Room Master (rec. 4:00AM - 6:00AM)- October 2, 1966, 4.  The Head Has Become Fat Rap, 5.  A Mexican Story: 25 Bennies, 6.  A Tarnished Galahad, 7.  Get It Off The Ground Rap >, 8.  Its Good To Be God Rap >, 9.  Nirvana Army Rap >, 10. The Butcher Is Back, 11. Acid Test Graduation Announcement, 12. Send Me To The Moon >Closing Rap,, Credits on 10/2/66:, Voices: Ken Kesey and Hugh Romney, Guitar: Ken Kesey, Violin: Dale Kesey, Organ: Jerry Garcia, Engineering: Steve Newman, Ken Kesey, Mountain Girl,,DISC THREE: S.F. State U Acid Test (pt. 2)/Graduation Jam, The San Francisco State Acid Test  , Whatever It Is Festival, San Francisco State University, San Francisco, CA - October 2, 1966, 1.  Ken Keseys dialogue (isolated remix),, Merry Prankster Sound Collage Sequences - October 2, 1966, 2.  Prankster Music/Sound Collage #1(sequence 1), 3.  Kesey Rap > Prankster Music/Sound Collage #2 (sequence 2), 4.  Prankster Sound Collage #3 > Prankster Raga(sequence 3),, Prankster Recordings broadcast over the P.A., End of Whatever It Is Festival - October 2, 1966, 5.  Closing Jam, 6.  Prankster Electronics,, Acid Test Graduation Jam, Winterland, San Francisco, CA - October 31, 1966,7.  Jam Session (musicians unknown), from The World Of Acid film soundtrack,,Disc Four: Related Recordings, Neal Cassidy & The Warlocks 1965, 1.  Speed Limit,     studio recording/Prankster production tape circa late 1965,     Straight Theater, Haight Street, San Francisco, CA - July 23, 1967, 2.  Neal Cassidy Raps (backed by The Dead),     recording released as a flexi-disc in the 1st printing of The Dead Book,, Acid Tests Production Reel, 3.  Jerry Garcia commentary with Acid Test audio,     710 Haight Street House, San Francisco, CA - summer 1967,, 4. - 6.  Jerry Garcia one hour interview about music, drugs, politics and social changes circa 1967,,The 1h Jerry interview on disc 4 is split into 3 smaller pieces (a-c).", "", "", "A chronological compilation of the Acid Test recordings listed in The Grateful Dead Tapers Compendium Volume One.",  "2006-02-23 18:21:09", "1966", "kollektionist", "??". "??") ;
+#
+# Key: key_128
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d08d4074-f15b-4cb8-b603-c89f0305908f", "Grateful Dead", "2", "176903",  "??/??/66", "Avalon Ballroom", "San Francisco", "CA",  "?Vintage Dead?,Avalon Ballroom, San Francisco,Sunflower/MGM (SUN-5001, October 1970),,1 Disc,01 I Know You Rider 04:24,02 It Hurts Me Too04:25  ,03 Its All Over Now Baby Blue 04:54  ,04 Dancing in the Street06:56,05 In the Midnight Hour 18:28 ,  ,                                                39:11", "?Historic Dead?,Avalon Ballroom, San Francisco,Sunflower/MGM (SNF-5004 May/June 1971),,06 Good Morning Little Schoolgirl 11:06,07 Lindy  03:03,08 Stealin  03:03,09 The Same Thing  12:03,,                                                 29:16", "The History Of The Grateful Dead(Pride/MGM PRD-0016),1 LP compilation of tracks from this set.,,Dancin' In The Streets,Lindy,Stealin',It's All Over Now Baby Blue,I Know You Rider,Midnight Hour,It Hurts Me Too", "Musicians: Jerry Garcia , Bob Weir, *Pigpen, Phil Lesh, Bill Kreutzmann,,Recorded Live at the Avalon Ballroom, San Francisco, 1966  (possibly recorded on September 16 and 17, 1966, which are the nights shown on the Kelly / Mouse poster seen on the cover) Tracks 8, 9 possibly recorded on November 1966 at The Matrix, San Francisco,,Produced and Engineered by Robert Cohen,(Tracks 8,9 Produced by Peter Abram),Edit and Remix by Richard Delvy,,Cover art - John Pierce, Mokelvey (Vintage),Back cover photos - Baron Wolman (Vintage),Poster design - Kelly / Mouse Studios (Vintage),Ripple Bottle by Gallo (Vintage),Album design - Robert Hickson (Historic),,Original LP master tapes remastered for CD at Polygram (1995) > DAT > CDR,,Background on these LPs:,These 2 LPs were release without explicit permission from the Dead.Producer Robert Cohen (a bit more on Mr. Cohen here: http://www.lumiereprod.com/history.html) got the masters from recordingsmade at the Avalon, adding applause and other sounds where needed to helpthe flow (there is a bit of audio, a small segment with some mostlyinaudible band chatter, which was added to extend tracks so theywouldn't end so abruptly.  The same segment used in a couple of differentspots, once as a loop that repeats 2-3 times).  Some of the songs have cutintros, but are segued with applause anyway.  These are pretty muchbootleg quality from today's perspective, and frankly most interest inthese LPs is because of their status as collectibles rather than beingworthwhile musically.  But fans of the early days will especially enjoythe lengthy workouts of Midnight Hour, The Same Thing and GoodMorning Little Schoolgirl.,,Some info on the Sunflower label:,http://www.bsnpubs.com/mgm/sunflower.html,,Footnote: An LP released in 1973, The History Of The Grateful Dead(Pride/MGM PRD-0016), compiled the following tracks from the SunflowerLPs: Dancin' In The Street, It's All Over Now, Baby Blue, I Know YouRider, In The Midnight Hour, It Hurts Me Too, Lindy and Stealin'.  Therewas also an official release on Warners released in 1973 with virtuallythe same title (subtitled Bear's Choice, as we all know), so the PrideLP couldn't have been very welcome at that time.",  "2006-12-17 22:02:25", "1966", "afterdinnermint", "??". "??") ;
+#
+# Key: key_129
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5b147c5e-02fb-424d-80e7-c84d58f8f8ac", "Grateful Dead", "2", "349095",  "??/??/66", "Various", "Various", "Compilation",  "Possibly 2/12/66:,Viola Lee Blues,Dont Ease Me In,Tastebud,,&quot;Longshoremans Hall 1st Night:&quot;,Beat It On Down The Line,Schoolgirl &gt; You Dont Love Me &gt; Schoolgirl ,,Unlabeled Reel:,Pigpen Raps,Billy, Bobby, &amp; Pigpen &gt;,New Orleans (Attempt),Twist And Shout,,&quot;Longshoremans Hall 3rd Night:&quot;,Its A Sin,Viola Lee Blues,Midnight Hour,Beat It On Down The Line,Blues Jam (With Jorma &amp; Jack) ,,Pauley Ballroom #2 (No Date):,You Dont Have To Ask - Phil Talks About The Move To L.A.,Viola Lee Blues ,I Know You Rider,Midnight Hour (Plug Pulled)", "", "", "",  "2013-08-27 10:34:23", "1966", "snockaholic", "??". "??") ;
+#
+# Key: key_130
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4384861f-f792-402e-9a3f-a5bafed64627", "Grateful Dead", "2", "400367",  "??/??/66", "Unknown", "Unknown", "Unknown",  "Shes On The Road Again,Next Time You See Me,I Know You Rider,Hey Little One,Cold Rain And Snow,King Bee>,Caution,Stealin", "", "", "GDhour Broadcast",  "2008-02-11 22:38:31", "1966", "spaceddeadhead", "??". "??") ;
+#
+# Key: key_131
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-18175f91-e3f3-4a9a-8456-e19ac66f9051", "Grateful Dead", "2", "405291",  "??/??/66", "GD HOUR 557", "unknown", "unknown",  "", "", "", "",  "2008-03-28 16:16:54", "1966", "squalo1972", "??". "??") ;
+#
+# Key: key_132
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3c40e841-2208-40ea-aef6-c903be376d35", "Grateful Dead", "2", "524196",  "??/??/66", "Vintage and Historic Dead", "Unknown", "Unknown",  "", "", "", "",  "2011-07-16 16:26:36", "1966", "hombre1176", "??". "??") ;
+#
+# Key: key_133
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5d5d73f8-ae96-4660-8c71-2fc09332ca6c", "Grateful Dead", "2", "579359",  "??/??/66", "unknown", "unknown", "unknown",  "Who Do You Love", "", "", "",  "2013-08-22 07:02:20", "1966", "John_Doe", "??". "??") ;

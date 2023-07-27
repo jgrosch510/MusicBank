@@ -1,0 +1,341 @@
+
+Year: 1974
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a4f9420f-77d1-44eb-8b17-a19bb8eca4f3", "Grateful Dead", "2", "183194",  "01/02/74", "Bootleg Unsurpassed Vol. 8", "San Francisco", "CA",  "1974 Mars Hotel Rehearsals 
+1. Pride Of Cucamonga #1 > Pride Of Cucamonga #2 6:40 
+2. Money Money 5:41 
+3.Unbroken Chain #1 > 
+Unbroken Chain #2 8:03 
+4. Unbroken Chain (acoustic) 6:19 Phil Teaching the Band!
+1974 Mars Hotel Demos ; All Instrumental 
+5. Unbroken Chain 6:46 
+6. Scarlet Begonias 8:45 
+7. Pride Of Cucamonga 5:00 
+8. Ship Of Fools 4:25 
+9. Money Money 7:54 
+10. Loose Lucy 6:21 
+Total Time 65:59", "", "", "",  "2003-11-18 10:32:52", "1974", "okcomputerboy", "01". "02") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7b1d9384-2804-45da-8b98-3b27a8a6ae02", "Grateful Dead", "2", "311587",  "02/02/74", "Unknown", "Unknown", "Unknown",  "", "", "", "",  "2006-03-29 17:54:48", "1974", "tpcreed", "02". "02") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-24ff86f2-3804-41ef-9b97-41a60cf3b24a", "Grateful Dead", "2", "903",  "02/22/74", "Winterland Arena", "San Francisco", "CA",  "U.S. Blues, Beat It On Down The Line, Brown Eyed Women, Mexicali Blues, It Must Have Been The Roses, Black Throated Wind, They Love Each Other, Big River, Loose Lucy, El Paso, Row Jimmy, Playin In The Band", "Tennessee Jed, Me & My Uncle, Ship of Fools, The Race is On, China Cat Sunflower-> I Know You Rider, Truckin-> Nobodys Fault But Mine-> Goin Down The Road Feelin Bad", "Mississippi Half Step, Promised Land, Brokedown Palace, Jack Straw, Eyes Of The World -> China Doll -> Wharf Rat -> Sugar Magnolia, E: Uncle Johns Band", "Reported Soundcheck before this show, which may also circulate, possibly misdated, as 2/24/74: Let It Grow, They Love Each Other, U. S. Blues #1 -> U. S. Blues #2, Attics Of My Life, It Must Have Been The Roses -> Jam",  "2002-04-02 00:00:00", "1974", "stark1", "02". "22") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e3bfca12-495b-4a93-826f-041ac9ef68d7", "Grateful Dead", "2", "904",  "02/23/74", "Winterland Arena", "San Francisco", "CA",  "Around & Around, Dire Wolf, Me And Bobby McGee, Sugaree, Mexicali Blues, Here Comes Sunshine, Beat It On Down The Line, Ship of Fools, Jack Straw, Deal, Promised Land-> Bertha-> Greatest Story Ever Told", "Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Stella Blue, Big River, Ramble On Rose, Me & My Uncle, Hes Gone-> Truckin-> Drums-> The Other One*-> Eyes Of The World, One More Saturday Night, E: Casey Jones, E: Johnny B. Goode**-> E: We Bid You Good Night", "", "**Second Encore *Slipknot Intro",  "1996-01-07 00:00:00", "1974", "system", "02". "23") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-598307e7-7718-4729-80c4-0943eaa83974", "Grateful Dead", "2", "905",  "02/24/74", "Winterland Arena", "San Francisco", "CA",  "U.S. Blues, Mexicali Blues, Brown Eyed Women, Beat It On Down The Line, Candyman, Jack Straw, China Cat Sunflower &gt; I Know You Rider, El Paso, Loser, Playin In The Band", "Cumberland Blues, It Must Have Been The Roses, Big River, Bertha, Weather Report Suite Prelude &gt; Weather Report Suite Part 1 &gt; Let It Grow &gt; Row Jimmy &gt; Ship Of Fools, Promised Land, Dark Star &gt; Morning Dew, Sugar Magnolia, Not Fade Away &gt; Going Down The Road Feelin Bad &gt; Not Fade Away
+
+E: Its All Over Now Baby Blue", "", "",  "2011-10-27 14:23:32", "1974", "charliemiller", "02". "24") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3682d8d4-0059-4c65-8227-9d0aeea3343d", "Grateful Dead", "2", "71322",  "02/24/74", "Winterland Arena- soundcheck", "San Francisco", "CA",  "Let It Grow, They Love Each Other Let It Grow, They Love Each Other, U. S. Blues #1 -> U. S. Blues #2, Attics Of My Life, It Must Have Been The Roses -> Jam", "", "", "Material has been circulated as this date via a 2001 shn set, but is more likely a mislabel of what is really 2/22/74 soundcheck",  "2002-06-13 18:16:19", "1974", "hamilton", "02". "24") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-49c3f663-35bd-4af8-b93e-1fb2f337dc9e", "Grateful Dead", "2", "906",  "03/23/74", "Cow Palace", "Daly City", "CA",  "U.S. Blues, Promised Land, Brown Eyed Women, Mexicali Blues, Tennessee Jed, Black Throated Wind, Scarlet Begonias, Beat It On Down The Line, It Must Have Been The Roses, El Paso, Deal, Cassidy, China Cat Sunflower-> I Know You Rider, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow", "Playin In The Band-> Uncle Johns Band-> Morning Dew-> Uncle Johns Band-> Playin In The Band, Ship of Fools, Big River, Ramble On Rose, Me & My Uncle, Bertha, Around & Around, Wharf Rat-> Sugar Magnolia, Casey Jones, E: One More Saturday Night", "", "material from this date is featured on Dick's Picks 24- <a href= http://mars.dead.net>go buy it</a>",  "2002-03-11 00:00:00", "1974", "system", "03". "23") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-11da2dda-73c2-4ae4-9c7f-036120686587", "Grateful Dead", "2", "106069",  "03/25/74", "Wally Heiders Studio (Mars Hotel outtakes)", "San Francisco", "CA",  "-Unbroken Chain Instrumental (Reel wow & fluter, Minor distortion)
+-Scarlet Begonias Instrumental (Drop Out 2:36)
+-Pride Of Cucamongo Instrumental
+-Ship Of Fools Instrumental w/ Acoustic
+-Money Honey Instrumental
+-Loose Lucy Instrumental
+-US Blues Instrumental
+Filler:
+Early Crazy Fingers 6-3-75 Aces Mill Valley", "", "", "Studio Instumental Roughs From Vault Reel Marked 3-74",  "2003-05-22 06:09:15", "1974", "rodiebluez", "03". "25") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-157924c3-f745-44ff-8df9-aa18573da5c5", "Grateful Dead", "2", "907",  "05/12/74", "University of Nevada", "Reno", "NV",  "Promised Land, Beer Barrel Polka, Tennessee Jed, Jack Straw, Brown Eyed Women, Beat It on Down the Line, China Cat Sunflower-> I Know You Rider, El Paso, U.S. Blues, Greatest Story Ever Told, It Must Have Been The Roses, Me And Bobby McGee, Deal", "Mississippi Half Step, Truckin-> Nobodys Fault But Mine-> The Other One-> Heaven Help The Fool Jam-> Row Jimmy, Big River, Ship of Fools, Sugar Magnolia", "", "",  "2001-11-02 00:00:00", "1974", "hamilton", "05". "12") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-73cf111f-f7f7-4be2-9349-5fcf81297aa3", "Grateful Dead", "2", "908",  "05/14/74", "Adams Field House, U of Montana", "Missoula", "MT",  "Bertha, Me & My Uncle, Loser, Black Throated Wind, Scarlet Begonias, It Must Have Been The Roses, Jack Straw, Tennessee Jed, Deal, Big River, Brown Eyed Women, Playin In The Band", "U.S. Blues, El Paso, Row Jimmy, Weather Report Suite Prelude-&gt; Weather Report Suite Part 1-&gt; Let It Grow-&gt; Dark Star-&gt; China Doll, Promised Land, Not Fade Away-&gt; Goin Down The Road Feelin Bad
+
+Encore: One More Saturday Night", "", "",  "2014-06-03 18:13:31", "1974", "duggy", "05". "14") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-838c0880-8008-4096-b370-d6f5b2297565", "Grateful Dead", "2", "909",  "05/17/74", "P.N.E. Coliseum", "Vancouver", "BC",  "Promised Land, Deal, The Race is On, Ramble On Rose, Jack Straw, Dire Wolf, Beat It On Down The Line, Loose Lucy, Big River, It Must Have Been The Roses, Mexicali Blues, Row Jimmy, Playin In The Band", "U.S. Blues, Me & My Uncle, Ship of Fools, Money Money, China Cat Sunflower-> I Know You Rider, Greatest Story Ever Told, Sugaree, Truckin-> Nobodys Fault But Mine-> Eyes Of The World-> China Doll, Sugar Magnolia", "", "",  "2002-11-06 00:00:00", "1974", "hamilton", "05". "17") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-48146855-09a9-4436-b533-979b86e4df56", "Grateful Dead", "2", "910",  "05/19/74", "Portland Memorial Coliseum", "Portland", "OR",  "Mississippi Half-Step Uptown Toodeloo, Mexicali Blues, Big Railroad Blues, Black Throated Wind, Scarlet Begonias, Beat It On Down The Line, Tennessee Jed, Me And Bobby McGee, Sugaree, Jack Straw, It Must Have Been The Roses, El Paso, Loose Lucy, Money Money, China Cat Sunflower &gt; I Know You Rider", "Promised Land, Bertha &gt; Greatest Story Ever Told, Ship Of Fools, Weather Report Suite &gt; Wharf Rat, Big River, Peggy-O, Truckin &gt; Mind Left Body Jam &gt; Not Fade Away &gt; Goin Down The Road Feeling Bad &gt; One More Saturday Night
+
+E: U.S. Blues", "", "",  "2010-03-25 00:43:53", "1974", "gold soundz", "05". "19") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3bf62b26-e645-444f-83eb-aaa486f8ab94", "Grateful Dead", "2", "911",  "05/21/74", "Edmundson Pavilion, U of Washington", "Seattle", "WA",  "Me & My Uncle, Brown Eyed Women, Beat It On Down The Line, Deal, Mexicali Blues, It Must Have Been The Roses, The Race is On, Scarlet Begonias, El Paso, Row Jimmy, Money Money, Ship of Fools, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> China Doll", "Playin In The Band, U.S. Blues, Big River, Stella Blue, Around & Around, Eyes Of The World-> Wharf Rat-> Sugar Magnolia, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1974", "system", "05". "21") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-6b7a81f3-3de3-4f10-a21b-fe3d37198087", "Grateful Dead", "2", "912",  "05/25/74", "Campus Stadium, UC Santa Barbara", "Goleta", "CA",  "U.S. Blues, Mexicali Blues, Deal, Jack Straw, Scarlet Begonias, Beat It On Down The Line, Brown Eyed Women, Me & My Uncle, Sugaree, El Paso, China Cat Sunflower-> I Know You Rider, Around & Around", "Promised Land, Ship of Fools, Big River, Tennessee Jed, Truckin-> Let It Grow-> Wharf Rat-> Beer Barrel Polka-> Sugar Magnolia-> Goin Down The Road Feelin Bad-> One More Saturday Night, E: Casey Jones", "", "Other artist(s): Maria Muldar, Great American String Band, Elvin Bishop",  "1996-01-07 00:00:00", "1974", "system", "05". "25") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-864f46bd-0e1d-4627-8fec-744b17f4e69b", "Grateful Dead", "2", "913",  "06/08/74", "Oakland-Alameda County Coliseum", "Oakland", "CA",  "Promised Land, Brown Eyed Women, Me And Bobby McGee, Scarlet Begonias, Mexicali Blues, It Must Have Been The Roses, Me & My Uncle, Tennessee Jed, Greatest Story Ever Told, China Cat Sunflower-> I Know You Rider, Around & Around", "U.S. Blues, Big River, Ship of Fools, Playin In The Band-> Wharf Rat-> Playin In The Band, Eyes Of The World, Sugar Magnolia, E:Casey Jones-> E: One More Saturday Night", "", "Other artist(s): Beach Boys, NRPS, Commander Cody",  "1996-01-07 00:00:00", "1974", "system", "06". "08") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-fae34ff3-b44d-4723-b924-1adbdfd95f04", "Grateful Dead", "2", "914",  "06/16/74", "Des Moines State Fair Grandstand", "Des Moines", "IA",  "Bertha, Mexicali Blues, Row Jimmy, Beat It On Down The Line, Scarlet Begonias, Black Throated Wind, Sugaree, El Paso, It Must Have Been The Roses, Jack Straw, China Cat Sunflower> I Know You Rider, Around & Around", "U.S. Blues, The Race is On, Eyes Of The World-> Big River, Playin In The Band, Tennessee Jed, Me & My Uncle, Deal, Greatest Story Ever Told, Ship Of Fools", "Truckin-> Nobodys Fault But Mine-> Wharf Rat-> Goin Down The Road Feelin Bad, E: Casey Jones", "Setlist order not 100% certain. The list here is given in the order of a ~1999-circulated SBD.",  "2001-07-03 00:00:00", "1974", "hamilton", "06". "16") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-a1bd0196-8dcd-4aaf-9fdf-40be5c6a6d89", "Grateful Dead", "2", "915",  "06/18/74", "Freedom Hall", "Louisville", "KY",  "Soundcheck:
+
+They Love Each Other, U.S. Blues
+
+Set 1:
+
+Promised Land, It Must Have Been The Roses, Black Throated Wind, Ramble On Rose, Beat It On Down The Line, Loser, Mexicali Blues, Eyes Of The World &gt; China Doll, Around And Around", "Loose Lucy, El Paso, Row Jimmy, Weather Report Suite Prelude &gt; Weather Report Suite Part 1 &gt; Let It Grow &gt; The Other One &gt; Its A Sin &gt; Stella Blue, Big River, Tennessee Jed, Sugar Magnolia
+
+E: Morning Dew", "", "",  "2009-02-13 15:06:19", "1974", "Puffmon2", "06". "18") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-343f1583-904a-43a3-bf98-288e8c001732", "Grateful Dead", "2", "916",  "06/20/74", "The Omni", "Atlanta", "GA",  "U.S. Blues, Beat It On Down The Line, Brown Eyed Women, Mexicali Blues, It Must Have Been The Roses, Jack Straw, Me & My Uncle, To Lay Me Down, El Paso, China Cat Sunflower-> I Know You Rider, Around & Around", "Scarlet Begonias, Big River, Ship of Fools, Truckin-> Eyes Of The World-> Slipknot*-> China Doll-> One More Saturday Night", "", "* = First time played.",  "2012-09-25 08:55:07", "1974", "windmail", "06". "20") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f3c53d63-8cbd-4455-9c29-0d2d3fdcbaa3", "Grateful Dead", "2", "917",  "06/22/74", "Jai-Alai Fronton", "Miami", "FL",  "Promised Land, Bertha-> Greatest Story Ever Told, Deal, Me And Bobby McGee, Scarlet Begonias, Jack Straw, Loose Lucy, Mexicali Blues, Sugaree, The Race is On, It Must Have Been The Roses, Playin In The Band", "China Cat Sunflower-> I Know You Rider, Me & My Uncle, Ship of Fools, El Paso, Eyes Of The World-> Wharf Rat-> Sugar Magnolia, E: Johnny B. Goode", "", "",  "1996-01-07 00:00:00", "1974", "system", "06". "22") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c8f88a09-3d35-4cc3-afe6-e666e05f6c67", "Grateful Dead", "2", "918",  "06/23/74", "Jai-Alai Fronton", "Miami", "FL",  "Ramble On Rose, Black Throated Wind, Mississippi Half Step, Beat It On Down The Line, Row Jimmy, Jack Straw, Let It Rock, Cumberland Blues, El Paso, To Lay Me Down, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> China Doll", "Phil & Ned-> Ship of Fools, Big River, Black Peter, Around & Around, Dark Star-> Spanish Jam-> U.S. Blues, Uncle Johns Band-> One More Saturday Night, E: Casey Jones", "", "",  "1996-01-07 00:00:00", "1974", "system", "06". "23") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e51f5bea-4019-43a9-9cb8-9fc6c10e30a5", "Grateful Dead", "2", "919",  "06/26/74", "Providence Civic Center", "Providence", "RI",  "Big River, Brown Eyed Women, Beat It On Down The Line, Scarlet Begonias, Black Throated Wind, Row Jimmy, Mexicali Blues, Deal, The Race is On, Mississippi Half Step, El Paso, Ship of Fools, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> It Must", "U.S. Blues, Me & My Uncle, Jam-> China Cat Sunflower-> I Know You Rider-> Beer Barrel Polka-> Truckin-> The Other One-> Spanish Jam-> Wharf Rat-> Sugar Magnolia, E: Eyes Of The World", "", "",  "1996-01-07 00:00:00", "1974", "system", "06". "26") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-dd0360e3-3f2b-4ab3-9bdf-ce0fa0379f77", "Grateful Dead", "2", "920",  "06/28/74", "Boston Garden", "Boston", "MA",  "Mississippi Half Step-> It Must Have Been The Roses-> Jack Straw, Beat It On Down The Line, Deal, Mexicali Blues, Tennessee Jed, Me And Bobby McGee, Loose Lucy, El Paso, Sugaree, Around & Around", "Phil & Ned*, Sugar Magnolia-> Scarlet Begonias, Big River, To Lay Me Down, Me & My Uncle, Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Heaven Help The Fool Jam-> U.S. Blues-> Promised Land-> Goin Down The Road Feelin Bad-> Sunshine Daydream, E: Ship of Fools", "", "*Phil & Ned Between sets. This date is featured on <a href= http://mars.dead.net>Dick's Picks 12</a>.",  "2001-02-05 00:00:00", "1974", "system", "06". "28") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2d1f9f1e-00b7-489d-a66c-a8770bf81133", "Grateful Dead", "2", "921",  "06/30/74", "Springfield Civic Center", "Springfield", "MA",  "Dont Ease Me In, Black Throated Wind, Peggy-O, Jack Straw, Loser, Greatest Story Ever Told, Cumberland Blues, Dire Wolf, Playin In The Band &gt; Uncle Johns Band &gt; Playin In The Band", "China Cat Sunflower &gt; I Know You Rider, Big River, Scarlet Begonias, El Paso, U.S. Blues &gt; Truckin &gt; Eyes Of The World &gt; Stella Blue, Not Fade Away &gt; Goin Down The Road Feelin Bad &gt; One More Saturday Night", "", "",  "2009-02-18 00:44:18", "1974", "nugs420247", "06". "30") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c620cd81-12b8-4d8a-b7a2-5cfacd84ec67", "Grateful Dead", "2", "922",  "07/19/74", "Selland Arena", "Fresno", "CA",  "Bertha, Mexicali Blues, Deal, Beat It On Down The Line, Row Jimmy, Me And Bobby McGee, Scarlet Begonias, El Paso, Tennessee Jed, Playin In The Band", "Phil & Ned*, Brown Eyed Women, Me & My Uncle, It Must Have Been The Roses, Jack Straw, Hes Gone-> U.S. Blues**-> Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Eyes Of The World-> China Doll-> One More Saturday Night", "", "*Phil & Ned Between sets.**Without Phil",  "1996-01-07 00:00:00", "1974", "system", "07". "19") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-14073dd9-5d26-403c-b594-f66717bfdef8", "Grateful Dead", "2", "923",  "07/21/74", "Hollywood Bowl", "Los Angeles", "CA",  "Promised Land, Tennessee Jed, Me & My Uncle, Sugaree, Jack Straw, Mississippi Half Step-> It Must Have Been The Roses, El Paso, Scarlet Begonias, Around & Around", "Phil & Ned*, China Cat Sunflower-> I Know You Rider, Big River, Row Jimmy, Playin In The Band-> Wharf Rat-> Truckin-> Nobodys Fault But Mine-> Playin In The Band, Ship of Fools, Sugar Magnolia, E: U.S. Blues", "", "*Phi & Ned Between sets Commander Cody, Maria Muldar & John Kahn Opened",  "1996-01-07 00:00:00", "1974", "system", "07". "21") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4ad5d1d8-63c6-48c1-81c2-2eeb5068451e", "Grateful Dead", "2", "924",  "07/25/74", "International Amphitheater", "Chicago", "IL",  "Me & My Uncle, Loose Lucy, Black Throated Wind, Loser, Beat It On Down The Line, Sugaree, Mexicali Blues, Brown Eyed Women, El Paso, Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Around & Around", "Phil & Ned*, Scarlet Begonias, Big River, It Must Have Been The Roses, Jack Straw, Dark Star-> Stella Blue, Johnny B. Goode, Uncle Johns Band-> U.S. Blues, One More Saturday Night, E: Ship Of Fools", "", "*Phil & Ned Between sets.",  "2001-06-07 00:00:00", "1974", "hamilton", "07". "25") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-4abc6996-fd73-4d8b-b366-a13ef302d572", "Grateful Dead", "2", "925",  "07/27/74", "Civic Center", "Roanoke", "VA",  "Bertha
+Mexicali Blues
+Row Jimmy
+Jack Straw
+Mississippi Half-Step Uptown Toodleoo &gt;
+It Must Have Been The Roses
+Me And Bobby McGee
+Tennessee Jed
+Playin In The Band", "China Cat Sunflower &gt;
+I Know You Rider
+Me And My Uncle
+Ramble On Rose
+Big River
+U.S. Blues &gt;
+Promised Land
+Brokedown Palace
+Not Fade Away &gt;
+Goin Down The Road Feelin Bad &gt;
+Johnny B. Goode", "", "",  "2012-02-06 08:56:31", "1974", "vatec80", "07". "27") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0ab35e72-7aab-4e8a-aca6-566de4f42cea", "Grateful Dead", "2", "926",  "07/29/74", "Capital Centre", "Landover", "MD",  "Promised Land, Sugaree, Black Throated Wind, It Must Have Been The Roses, Cumberland Blues, Scarlet Begonias, Jack Straw, Deal, El Paso, To Lay Me Down, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow", "Phil & Ned*, Hes Gone-> Truckin-> Nobodys Fault But Mine-> The Other One-> Wharf Rat-> Spanish Jam-> Around & Around, Peggy-O, U.S. Blues, Sugar Magnolia, E: Casey Jones", "", "",  "1996-01-07 00:00:00", "1974", "Wharfrat73", "07". "29") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1f58fb18-7900-44d7-9fe2-e3465bff9370", "Grateful Dead", "2", "927",  "07/31/74", "Dillon Stadium", "Hartford", "CT",  "Scarlet Begonias, Me And My Uncle, Brown Eyed Women, Beat It On Down The Line, Mississippi Half-Step Uptown Toodeloo -> It Must Have Been The Roses, Mexicali Blues, Row Jimmy, Jack Straw, China Cat Sunflower -> I Know You Rider, Around And Around", "Bertha, Big River, Eyes Of The World -> China Doll, Promised Land, Ship of Fools,                         Weather Report Suite Prelude -> Weather Report Suite Part 1-> Let It Grow", "El Paso, Ramble On Rose, Greatest Story Ever Told, To Lay Me Down, Truckin -> Mind Left Body Jam -> Spanish Jam -> Wharf Rat -> U.S. Blues, One More Saturday Night, E: Uncle Johns Band", "Phil & Ned between sets 2 & 3",  "1996-01-07 00:00:00", "1974", "stark1", "07". "31") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0e20e861-ad61-4dda-908b-94f3f31cfc10", "Grateful Dead", "2", "928",  "08/04/74", "Philadelphia Civic Arena", "Philadelphia", "PA",  "Bertha, Mexicali Blues, Scarlet Begonias, Black Throated Wind, Deal, Beat It On Down The Line, Peggy-O, Jack Straw, Loser, El Paso, Row Jimmy, Playin In The Band", "Phil & Ned*, Ship of Fools, Big River, Loose Lucy, Me & My Uncle, It Must Have Been The Roses, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Wharf Rat-> U.S. Blues, Sugar Magnolia, E: Casey Jones", "", "*Phil & Ned Between sets.",  "1996-01-07 00:00:00", "1974", "system", "08". "04") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c995eb57-b104-4ec5-a96d-9feaa03e665b", "Grateful Dead", "2", "929",  "08/05/74", "Philadelphia Civic Arena", "Philadelphia", "PA",  "Promised Land, Brown Eyed Women, Beat It On Down The Line, Dire Wolf, Me And Bobby McGee, Tennessee Jed, Jack Straw, Deal, El Paso, China Cat Sunflower-> I Know You Rider, Around & Around", "Phil & Ned*, Mississippi Half Step-> It Must Have Been The Roses, Big River, Ramble On Rose, Me & My Uncle, Scarlet Begonias, Hes Gone-> Truckin-> Jam-> The Other One Jam -> Space -> Jam -> Stella Blue-> One More Saturday Night, E: U.S. Blues", "", "*Phil & Ned Between sets.",  "1996-01-07 00:00:00", "1974", "wiedmann", "08". "05") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-68e6b440-fbc1-4dc1-825f-f35338f6119a", "Grateful Dead", "2", "930",  "08/06/74", "Roosevelt Stadium", "Jersey City", "NJ",  "Bertha, Mexicali Blues, Dont Ease Me In, Beat It On Down The Line, Sugaree, Jack Straw, Eyes Of The World, Promised Land, Deal, Playin In The Band-> Scarlet Begonias-> Playin In The Band", "Phil & Ned*, Uncle Johns Band, Black Peter, El Paso, Loose Lucy, Big River, Ship of Fools, Me & My Uncle, Row Jimmy, Sugar Magnolia-> Hes Gone-> Truckin-> Drums-> Spanish Jam-> The Other One-> Goin Down The Road Feelin Bad-> Sunshine Daydream, E: U.S. Blues", "", "*Phil & Ned Between sets.",  "1996-01-07 00:00:00", "1974", "system", "08". "06") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2f2ab8f2-866c-4e2d-b444-a85026af4478", "Grateful Dead", "2", "931",  "09/09/74", "Alexandra Palace", "London", "England",  "Bertha, Promised Land, It Must Have Been The Roses, Jack Straw, Scarlet Begonias, Mexicali Blues, Row Jimmy, Playin In The Band", "Deal, El Paso, Ship of Fools, Tennessee Jed, Truckin-> Wharf Rat-> Uncle Johns Band, Johnny B. Goode, E: U.S. Blues, E: One More Saturday Night*", "", "*Second Encore.  This date is featured on <a href= http://mars.dead.net>Dick's Picks 7</a>. (soundcheck = Jack Straw?)",  "2003-03-11 00:00:00", "1974", "system", "09". "09") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7fd7b2c6-1422-41d3-942d-c4853ba363a4", "Grateful Dead", "2", "932",  "09/10/74", "Alexandra Palace", "London", "England",  "Around & Around, Mississippi Half Step, Beat It On Down The Line, Peggy-O, Tennessee Jed, Black Throated Wind, China Cat Sunflower-> I Know You Rider, Loser, Black Peter, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Stella Blue", "Phil & Ned*, Me & My Uncle, Dire Wolf, Not Fade Away, Ramble On Rose, Big River, Dark Star-> Morning Dew, Sugar Magnolia, E: U.S. Blues", "", "*Phil & Ned Between sets.  This date is featured on <a href= http://mars.dead.net>Dick's Picks 7</a>.",  "2004-09-06 00:00:00", "1974", "system", "09". "10") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-387c2ff0-8cdc-471e-ba36-ad75941b78ea", "Grateful Dead", "2", "65352",  "09/11/74", "Alexandra Palace", "London", "England",  "Scarlet Begonias, Mexicali Blues, Brown Eyed Women, Beat It On Down The Line, Sugaree, Jack Straw, Row Jimmy, Me And Bobby McGee, Tennessee Jed, Big River, It Must Have Been The Roses, Playin In The Band", "Phil & Ned*-> Jam-> Eyes Of The World-> Jam-> Wharf Rat, Around And Around, Ship Of Fools, Goin Down The Road Feelin Bad, Sugar Magnolia, E: U.S. Blues", "", "This date is featured on <a href= http://mars.dead.net>Dick's Picks 7</a>.",  "2004-09-06 00:00:00", "1974", "stark1", "09". "11") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-69117483-3c5c-42d4-8eb5-d33c8067a0b7", "Grateful Dead", "2", "934",  "09/14/74", "Olympia Halle", "Munich", "Germany",  "Bertha, Me & My Uncle, Deal, Jack Straw, Scarlet Begonias, Promised Land, Loser, El Paso, Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow, Tennessee Jed, Around & Around", "Phil & Ned*, Big River, Sugaree, Mexicali Blues, Mississippi Half Step-> It Must Have Been The Roses, Truckin-> Wharf Rat-> Sugar Magnolia, Eyes Of The World-> One More Saturday Night, E: U.S. Blues", "", "*Phil & Ned Between sets.",  "2004-09-06 00:00:00", "1974", "system", "09". "14") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e4d7855a-038f-4db4-b4ee-0ae0565a480e", "Grateful Dead", "2", "935",  "09/18/74", "Parc des Expositions", "Dijon", "France",  "Uncle Johns Band, Jack Straw, Friend Of The Devil, Black Throated Wind, Scarlet Begonias, Mexicali Blues, Row Jimmy, Beat It On Down The Line, Deal, The Race is On, To Lay Me Down, Playin In The Band", "Phil & Ned*, Loose Lucy, Big River, Peggy-O, Me & My Uncle, Eyes Of The World > China Doll >  Hes Gone >  Truckin (1) >  Drums >  Caution (Do Not Stop On Tracks) Jam >  Ship Of Fools, Johnny B. Goode; E: U.S. Blues", "", "*Phil & Ned Between sets.",  "2001-01-24 00:00:00", "1974", "hamilton", "09". "18") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-81a492b6-c840-4d72-b08f-31c845e1450f", "Grateful Dead", "2", "936",  "09/20/74", "Palais Des Sports", "Paris", "France",  "Cumberland Blues, Jack Straw, It Must Have Been The Roses, Beat It On Down The Line, Scarlet Begonias, Black Throated Wind, Friend Of The Devil, El Paso, Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow-> Stella Blue, Around & Around", "China Cat Sunflower, I Know You Rider, Big River, Brown Eyed Women, Greatest Story Ever Told, Brokedown Palace, Truckin, Eyes Of The World, Not Fade Away, Goin Down The Road Feelin Bad, One More Saturday Night, E: U.S. Blues", "", "",  "2004-09-06 00:00:00", "1974", "system", "09". "20") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c50317d2-0bd3-4cd1-aba1-2e1a79d307c4", "Grateful Dead", "2", "937",  "09/21/74", "Palais Des Sports", "Paris", "France",  "Bertha, Mexicali Blues, Sugaree, Promised Land, Peggy-O, Me & My Uncle, Deal, The Race Is On, Loose Lucy, El Paso, Eyes Of The World-&gt; China Doll", "Phil & Ned-&gt; Playin In The Band-&gt; Drums-&gt; Playin In The Band", "Row Jimmy, Big River, Ship of Fools, Uncle Johns Band, Around & Around, Morning Dew, Sugar Magnolia, E: Casey Jones", "Third Set with Ned Lagin",  "2006-06-02 10:24:14", "1974", "m z", "09". "21") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-03089ef2-542e-4ffe-bdb7-22b3a2f09867", "Grateful Dead", "2", "240371",  "09/??/74", "Alexandra Palace (Dicks Picks 7)", "London", "England",  "Scarlet Begonias
+Mexicali Blues
+Row Jimmy
+Black-Throated Wind
+Mississippi Half-Step Uptown Toodeloo
+Beat It On Down The Line
+Tennessee Jed
+Playing In The Band", "Weather Report Suite->
+Stella Blue
+Jack Straw
+Brown-eyed Women
+Big River
+Truckin->
+Wood Green Jam->
+Wharf Rat", "Me and My Uncle
+Not Fade Away
+Dark Star->
+Spam Jam->
+Morning Dew
+U.S. Blues", "Dickss Picks Volume Seven.
+Sets = CDs.",  "2007-03-29 09:54:59", "1974", "system", "09". "??") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0495ea8e-13c9-4efd-9c7e-c87eb9e09a94", "Grateful Dead", "2", "241224",  "09/??/74", "Alexandra Palace", "London", "England",  "", "", "", "",  "2005-01-08 08:16:32", "1974", "douglaswoody37", "09". "??") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2fb583da-eda0-4ff5-b269-8aaed9a14b60", "Grateful Dead", "2", "938",  "10/16/74", "Winterland Arena", "San Francisco", "CA",  "Bertha, Jack Straw, Deal, Mexicali Blues, It Must Have Been The Roses, Beat It On Down The Line, Scarlet Begonias, Me And Bobby McGee, Tennessee Jed, Cumberland Blues, Row Jimmy, Playing In The Band", "Phil & Ned -> Space -> Wharf Rat -> Space -> Eyes Of The World, Big River, Ship Of Fools, Truckin ->           Goin Down The Road Feelin Bad -> Uncle Johns Band, Johnny B. Goode, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1974", "stark1", "10". "16") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-47524134-ba14-430f-8de5-f2d7ae2b1b88", "Grateful Dead", "2", "939",  "10/17/74", "Winterland Arena", "San Francisco", "CA",  "Promised Land, Mississippi Half Step, Black Throated Wind, Friend Of The Devil, Jack Straw, Loser, El Paso, China Cat Sunflower-> I Know You Rider, Me & My Uncle, It Must Have Been The Roses, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow", "Scarlet Begonias, Big River, Ramble On Rose, Mexicali Blues, Hes Gone-> The Other One-> Spanish Jam-> Heaven Help The Fool Jam-> The Other One-> Stella Blue, Sugar Magnolia, E: Casey Jones, E: U.S. Blues", "", "*Phil and Ned Between Sets",  "1996-01-07 00:00:00", "1974", "system", "10". "17") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e1a25265-c87a-4b1d-b25b-cfe4633a62d3", "Grateful Dead", "2", "940",  "10/18/74", "Winterland Arena", "San Francisco", "CA",  "Around & Around, Sugaree, Beer Barrel Polka Tuning, Mexicali Blues, Peggy-O, Beat It On Down The Line, Brown Eyed Women, Cumberland Blues, El Paso, Tennessee Jed, Jack Straw, Row Jimmy, Weather Report Suite Prelude-> Weather Report Suite Part 1-> Let It Grow", "Phil & Ned-> Dark Star-> Drums-> Dark Star-> Morning Dew", "Promised Land-> Bertha-> Greatest Story Ever Told, Ship of Fools, Not Fade Away-> Goin Down The Road Feelin Bad-> One More Saturday Night, E: U.S. Blues", "",  "1996-01-07 00:00:00", "1974", "system", "10". "18") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e9eb8021-f978-41e6-badf-5419f1c69f21", "Grateful Dead", "2", "941",  "10/19/74", "Winterland Arena", "San Francisco", "CA",  "Mississippi Half Step, Me & My Uncle, Friend Of The Devil, Beat It On Down The Line, It Must Have Been The Roses, El Paso, Loose Lucy, Black Throated Wind, Scarlet Begonias, To Lay Me Down, Mama Tried, Eyes Of The World-> China Doll, Big River", "Phil & Ned*, Uncle Johns Band, Big Railroad Blues, The Race is On, Tomorrow Is Forever, Mexicali Blues, Dire Wolf, Sugar Magnolia-> Hes Gone-> Truckin-> Caution (Do Not Stop on Tracks) Jam-> Drums-> Truckin-> Black Peter, Sunshine Daydream, E: One More Saturday Night, E: U.S. Blues", "", "",  "1996-01-07 00:00:00", "1974", "system", "10". "19") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-c97dfdac-6169-47eb-8bc2-6d92754eb48f", "Grateful Dead", "2", "942",  "10/20/74", "Winterland Arena", "San Francisco", "CA",  "Cold Rain & Snow, Mama Tried, Deal, Beat It On Down The Line, Loser, Jack Straw, Tennessee Jed, El Paso, Brokedown Palace, China Cat Sunflower-> I Know You Rider, Around & Around", "Playin In The Band-> Drums*-> Not Fade Away*-> Drums*-> The Other One*-> Wharf Rat*-> Playin In The Band*", "Good Lovin*, It Must Have Been The Roses,Promised Land*, Eyes Of The World-> Stella Blue, Sugar Magnolia*, E: Johnny B. Goode, E: Mississippi Half Step-> We Bid You Good Night", "*with Mickey Hart; Last Wall of Sound show; Phil Lesh and Ned Lagin (Seastones) between sets",  "2001-06-19 00:00:00", "1974", "system", "10". "20") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9bb8c4ea-706d-4a51-99f0-25ed9d57e372", "Grateful Dead", "2", "258955",  "10/??/74", "Winterland Arena", "San Franciso", "CA",  "US Blues 
+One More Saturday Night
+China Cat Sunflower> 
+I Know You Rider
+Eyes of the World> 
+China Doll 
+Playing In The Band 
+Scarlet Begonias 
+He?s Gone> 
+Jam>
+Weirdness>
+The Other One>
+Spanish Jam>
+Mind Left Body Jam>
+The Other One>
+Stella Blue
+Casey Jones
+Uncle John?s Band 
+Big Railroad Blues 
+Tomorrow Is Forever 
+Sugar Magnolia> 
+He?s Gone> 
+Caution Jam> 
+Drums> 
+Space>
+Truckin?>
+Black Peter 
+Sunshine Daydream
+Weather Report Suite 
+Jam> 
+Dark Star>
+Morning Dew 
+Not Fade Away> 
+Goin? Down The Road Feeling Bad>
+Soundcheck
+Playing In The Band> 
+Drums>
+Not Fade Away>
+Drums>
+The Other One>
+Wharf Rat>
+Playing In The Band
+Johnny B. Goode 
+Mississippi Half Step Uptown Toodeloo> 
+We Bid You Goodnight", "", "", "The Grateful Dead Movie soundtrack. 5 disc set. recorded 10.16-10.20, 1974.",  "2006-03-02 20:24:42", "1974", "rebaman39", "10". "??") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1d548a2b-3da5-4030-a193-5d105b21a0e2", "Grateful Dead", "2", "319410",  "12/01/74", "Studio", "Unknown", "Unknown",  "Pride Of Cucamonga, Money Money, Unbroken Chain, Unbroken Chain, Unbroken Chain, Scarlet Begonias, Pride of Cucamonga, Ship Of Fools, Money Money, Loose Lucy, Unbroken Chain, Scarlet Begonias, Pride Of Cucamonga, Ship Of Fools, Money Money, Loose Lucy, US Blues", "", "", "",  "2006-05-25 16:59:51", "1974", "GDead321", "12". "01") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-de3f4067-8fea-4fe0-a6bb-ded76feffe34", "Grateful Dead", "2", "294292",  "12/??/74", "Unknown", "Unknown", "Unknown",  "", "", "", "Mars Hotel Sessions",  "2006-01-07 02:01:57", "1974", "sddan", "12". "??") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-43498679-e4be-4049-9582-b5ad05e8a514", "Grateful Dead", "2", "51081",  "??/??/74", "China-Rider Compilation", "Various", "Various",  "2-22 S:RM:P:D:CD, 2-24 S:RM:D:CD, 3-23 S:RM:D:CD, 5-12 S:RM:C:D:C:CD 5-17 S:RM:C:D:CD 5-19 S:RM:C:D:CD 5-25 S:RM:C:D:CD 6-8 AUD:CM:R:D:CD 6-16 S:RM:C:D:CD 6-20 S:RM:C:D:CD", "6-22 S:RM:C:D:CD 6-26 AUD:CM:CD 6-30 S:RM:C:D:CD 7-21 AUD:CM:CD 7-27 SRM:C:D:CD 7-31 S:RM:D:CD 8-5 S:RM:C:C:D:CD 9-10 S:RM:C:D:CD 9-20  S:RM:P:D:CD 10-17 S:RM:C:CD 10-20 S:RM:C:R:P:D:CD", "", "DSH Show Record Notes: I merged the former xx/xx/74 China-Rider entry to prepare for a shn link, hich needs the ?? format. A former ??/??/74 listing is apparently part of Dick's Gift, Legion of Mary/Jerry Garcia material, and doesn't really belong in the Grateful Dead listing.",  "2002-02-16 00:00:00", "1974", "hamilton", "??". "??") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e13b59c0-0934-4797-a921-ac2085d83dc2", "Grateful Dead", "2", "70353",  "??/??/74", "Studio (Mars Hotel Outtakes)", "Unknown", "CA",  "Pride Of Cucamonga [6:40]
+Money Money [5:41]
+Unbroken Chain [8:03]
+Unbroken Chain [6:19]
+Unbroken Chain [6:47]
+Scarlet Begonias [4:20]
+Pride Of Cucamonga [4:24]
+Ship Of Fools [5:00]
+Money Money [4:25]
+Loose Lucy [3:14]
+US Blues [4:40]
+Crazy Fingers [6:22]", "Unbroken Chain [6:57]
+Scarlet Begonias [4:20]
+Pride Of Cucamonga [4:28]
+Ship of Fools [4:59]
+Money Money [4:28]
+Loose Lucy [3:18]
+US Blues [4:41]", "", "Session 2- All Songs Are Performed Instrumental",  "2008-10-02 14:51:16", "1974", "diana", "??". "??") ;

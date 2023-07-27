@@ -1,0 +1,336 @@
+
+Year: 1995
+
+#
+# Key: key_0
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-03eb6caa-a141-4ed2-8d01-f726372d87c6", "Grateful Dead", "2", "2331",  "02/19/95", "Delta Center", "Salt Lake City", "UT",  "Jack Straw, Sugaree, Walkin Blues, Alabama Getaway*, Me & My Uncle**-> Big River**, Dont Ease Me In (40 mins)", "China Cat Sunflower-> I Know You Rider, Samson & Delilah, If The Shoe Fits, New Speedway Boogie, Estimated Prophet-> Drums-> Space-> I Need A Miracle-> Attics Of My Life-> Johnny B. Goode, E: Its All Over Now Baby Blue (114 mins)", "", "* First Alabama since 6/18/89** Weir on acoustic, Soundcheck included Alabama Getaway, Attics, Schoolgirl, and Its a Mans World",  "1996-01-07 00:00:00", "1995", "system", "02". "19") ;
+#
+# Key: key_1
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3fea181d-dca4-4c80-8d18-4d82f2840627", "Grateful Dead", "2", "2332",  "02/20/95", "Delta Center", "Salt Lake City", "UT",  "Bertha, Greatest Story Ever Told, Loser, Little Red Rooster*, Ramble On Rose, El Paso**, Lazy River Road*, Cassidy (57 mins)", "Box Of Rain, Eyes Of The World-> Playin In The Band-> Uncle Johns Band-> Drums-> Space-> The Last Time-> Stella Blue-> Throwing Stones-> Not Fade Away, E: Rain (97 mins)", "", "* Weir on acoustic, ** Weir on dobro like instrument.",  "1996-01-07 00:00:00", "1995", "system", "02". "20") ;
+#
+# Key: key_2
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7322405b-331a-4a2d-b5c4-1ca7e327045c", "Grateful Dead", "2", "2333",  "02/21/95", "Delta Center", "Salt Lake City", "UT",  "Salt Lake City, Friend Of The Devil, Wang Dang Doodle, Tennessee Jed, Broken Arrow, Black Throated Wind*, So Many Roads, The Music Never Stopped (58 mins)", "Foolish Heart, Samba In The Rain, Truckin-> I I Just Want To Make Love To You To You-> That Would Be Something-> Drums-> Space-> Visions Of Johanna-> Sugar Magnolia, E: Liberty (85 mins)", "", "* Weir on acoustic, First Salt Lake City. First Want To Make Love To You since 10/8/84, First Visions 4/22/86.  Salt Lake City from Weirs solo album Heaven Help the Fool",  "2008-08-04 18:09:16", "1995", "testing", "02". "21") ;
+#
+# Key: key_3
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1e945024-f8c9-437f-9c39-dedfee57865b", "Grateful Dead", "2", "2334",  "02/24/95", "Oakland-Alameda County Coliseum", "Oakland", "CA",  "Help On The Way-> Slipknot!-> Franklins Tower, The Same Thing, Althea, When I Paint My Masterpiece*, Loose Lucy, Let It Grow", "Scarlet Begonias-> Fire On The Mountain, Way To Go Home-> Saint Of Circumstance-> Corinna-> Drums-> Space-> Visions Of Johanna-> Turn On Your Love Light, E: U.S. Blues", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "02". "24") ;
+#
+# Key: key_4
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0ce1ad16-0e87-4af5-942a-e48ed3d116a5", "Grateful Dead", "2", "2335",  "02/25/95", "Oakland-Alameda County Coliseum", "Oakland", "CA",  "Feel Like A Stranger, Peggy-O, Minglewood Blues, Row Jimmy, Just Like Tom Thumbs Blues, Easy Answers, Deal", "Victim Or The Crime-> New Speedway Boogie-> Looks Like Rain-> Terrapin Station-> Drums-> Space-> The Other One-> Wharf Rat-> One More Saturday Night, E: Lucy In The Sky With Diamonds", "", "",  "1996-01-07 00:00:00", "1995", "system", "02". "25") ;
+#
+# Key: key_5
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e2f66524-364f-4646-87a3-f90bf07ec81f", "Grateful Dead", "2", "2336",  "02/26/95", "Oakland-Alameda County Coliseum", "Oakland", "CA",  "Let The Good Times Roll
+West L.A. Fadeaway
+Queen Jane Approximately
+Lazy River Road*
+Mama Tried** -&gt; 
+Mexicali Blues**
+Dont Ease Me In**", "Drums-&gt; 
+Iko Iko -&gt; 
+Samson &amp; Delilah -&gt; 
+Ship of Fools
+Estimated Prophet+ -&gt; 
+Eyes Of The World+ ++ -&gt; 
+Drums++ -&gt; 
+Space+ -&gt; 
+I Need A Miracle -&gt; 
+The Days Between+ -&gt;
+Not Fade Away+
+
+Encore: 
+Box Of Rain", "Mardis Gras Parade Before Second Set. 
+* Weir On Acoustic
+** Weir On Dobro Like Instrument
++ W/ David Murray
+++ W/ Sikiru On Talking Drum
+
+David Murray And Octofunk Opened.", "",  "2013-08-09 10:08:18", "1995", "BeLikeMike", "02". "26") ;
+#
+# Key: key_6
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1955953a-99d4-450d-ba51-8998fed33638", "Grateful Dead", "2", "2337",  "03/17/95", "The Spectrum", "Philadelphia", "PA",  "Here Comes Sunshine, Wang Dang Doodle, Peggy-O, Queen Jane Approximately, Lazy River Road, Eternity*, Loose Lucy (55 mins)", "China Cat Sunflower-> I Know You Rider, Samba In The Rain-> Truckin-> New Speedway Boogie-> Jam-> Drums-> Space-> All Along The Watchtower-> Standing On the Moon-> Sugar Magnolia, E: Lucy In The Sky With Diamonds (85 mins)", "", "* Weir on acoustic; Several takes of Unbroken Chain were done for soundcheck/rehearsal.",  "2001-09-06 00:00:00", "1995", "system", "03". "17") ;
+#
+# Key: key_7
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-20a5cbed-ed52-422f-bbcc-32cb6609fce7", "Grateful Dead", "2", "175715",  "03/17/95", "The Spectrum (soundcheck)", "Philadelphia", "PA",  "Phil Practices Base Line By Himself
+it Would Really Help To Have Vinny Here...bob Did You Give That Disc To Steve?
+Mostly Dead Air, Drummers Start To Come In
+Phil, Vince, And Drummers Practice
+Phil Gives Directions
+Vince: let Me Here The Groove Of The Body Of The Song
+Phil To Bobby  i Want To Do It In Philadelphia Man
+Let's Do The Verses From A-minor C - Take 1
+More From The A-minor C - Take 2
+Phil: that Tempo Is Too Fast
+Next Take From Same Spot - Take 3
+Phil: if I Have To Go lookin Fo Famila Fafes
+Take 4
+Vince: is There One Of Those Elevens At The End Of The Threes
+Phil Counts Out The Changes
+Learning The Part After The First Verse
+Vince: where In The Bar Are You Starting That Three
+Back To The Intro - Take 1
+Intro - Take 2
+Intro - Take 3 - Phil Explains The Timing
+Phil Works With Steve On The Tele-prompter
+well Then Get Your God Damn Earphones Tunred Up Man
+Take 4 Intro - Whole Song 
+Phil Explains Ending
+Ending - Take 2
+What Are The Stumbling Blocks -- Jerry not Knowing It
+Let's Do Something Else For A While
+Here Comes Sunshine - Take 1
+Here Comes Sunshine - Take 2
+
+Total", "", "", "Unbroken Chain soundcheck",  "2011-12-30 19:49:35", "1995", "mvernon", "03". "17") ;
+#
+# Key: key_8
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-749249f6-01c5-4979-bca1-2cc60434206d", "Grateful Dead", "2", "2338",  "03/18/95", "The Spectrum", "Philadelphia", "PA",  "Hell In A Bucket, West L.A. Fadeaway, El Paso*, Ramble On Rose, Just Like Tom Thumbs Blues, Jack A Roe, Promised Land", "Its All Too Much, Iko Iko, Playin In The Band-> Uncle Johns Band-> Drums-> Space-> The Last Time-> Visions Of Johanna-> One More Saturday Night, E: Rain", "", "* Weir on acoustic, First Its All Too Much",  "1996-01-07 00:00:00", "1995", "system", "03". "18") ;
+#
+# Key: key_9
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2d9fa36d-d158-420a-9f12-4eb561239ebc", "Grateful Dead", "2", "2339",  "03/19/95", "The Spectrum", "Philadelphia", "PA",  "Alabama Getaway, Walkin Blues, So Many Roads, Easy Answers, Dont Ease Me In, Unbroken Chain", "Samson & Delilah, Way To Go Home, Crazy Fingers, Corinna-> Mathilda-> Drums-> Space-> I Need A Miracle-> Stella Blue-> Not Fade Away, E: Brokedown Palace", "", "First Unbroken Chain",  "2002-03-01 00:00:00", "1995", "system", "03". "19") ;
+#
+# Key: key_10
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-fb7e2466-006b-4358-ba1f-92463af36be6", "Grateful Dead", "2", "2340",  "03/22/95", "Charlotte Coliseum", "Charlotte", "NC",  "Jack Straw-> Bertha, The Same Thing, Lazy River Road, When I Paint My Masterpiece, Tennessee Jed, The Music Never Stopped (55 mins)", "Victim Or The Crime-> Foolish Heart-> Saint Of Circumstance-> Hes Gone-> Drums-> Space-> I Want To Tell You-> Attics Of My Life-> Turn On Your Love Light, E: The Mighty Quinn (93 mins)", "", "",  "1996-01-07 00:00:00", "1995", "system", "03". "22") ;
+#
+# Key: key_11
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ed5e955d-841b-40bc-8286-8b4f83681de2", "Grateful Dead", "2", "2305",  "03/23/95", "Charlotte Coliseum", "Charlotte", "NC",  "Mississippi Half Step, Wang Dang Doodle, Cold Rain & Snow, El Paso*, Loser, Easy Answers, So Many Roads", "Unbroken Chain, Scarlet Begonias-> Fire On The Mountain-> Corinna-> Mathilda-> Jam**-> Drums-> Space-> The Days Between-> Good Lovin, E: The Weight", "", "* Weir on acoustic, ** Features Bruce with drummers, Other Artist(s): Hornsby played the entire show on grand piano",  "2002-10-21 00:00:00", "1995", "hamilton", "03". "23") ;
+#
+# Key: key_12
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-d9595a6f-1c5f-4249-9ff8-8413026dd014", "Grateful Dead", "2", "2304",  "03/24/95", "Charlotte Coliseum", "Charlotte", "NC",  "Feel Like A Stranger, Stagger Lee, Minglewood Blues, High Time, If The Shoe Fits, Black Throated Wind*, Bird Song, Promised Land (65 Mins.)", "Here Comes Sunshine, Samba In The Rain, Women Are Smarter, Eyes Of The World-> Drums-> Space-> The Last Time-> Black Peter-> Around & Around, E: Liberty (88 Mins.)", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "03". "24") ;
+#
+# Key: key_13
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-0bd4667c-6c87-4426-92f9-6a86ab7b9de0", "Grateful Dead", "2", "130817",  "03/25/95", "The Omni", "Atlanta", "GA",  "Unbroken Chain rehearsals", "", "", "partial disc",  "2003-01-08 12:46:38", "1995", "yrekajohn", "03". "25") ;
+#
+# Key: key_14
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3f1ad200-b1c2-4a26-8107-0f737b2a1a1c", "Grateful Dead", "2", "2303",  "03/26/95", "The Omni", "Atlanta", "GA",  "Cold Rain & Snow, Little Red Rooster, Ramble On Rose, Me & My Uncle*-> Big River*, Lazy River Road, Eternity, Dont Ease Me In", "Samson & Delilah, Its All Too Much, Crazy Fingers-> Estimated Prophet-> Terrapin Station-> Drums-> Space-> The Other One-> Morning Dew, E: Johnny B. Goode", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "03". "26") ;
+#
+# Key: key_15
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-7562d355-9c22-4748-9872-ea542abcf975", "Grateful Dead", "2", "2302",  "03/27/95", "The Omni", "Atlanta", "GA",  "Picasso Moon, Sugaree, Its All Over Now, So Many Roads, Let It Grow", "Iko Iko, Way To Go Home, Playin In The Band-> Uncle Johns Band-> Drums-> Space-> The Days Between-> Sugar Magnolia, E: I Fought The Law", "", "",  "1996-01-07 00:00:00", "1995", "system", "03". "27") ;
+#
+# Key: key_16
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-14e5aa56-a0a9-4117-901d-aabf9e88637f", "Grateful Dead", "2", "343719",  "03/28/95", "The Omni", "Atlanta", "GA",  "When a Man Loves a Woman
+Phil Tuning
+Banter
+Schoolgirl (1)
+Schoolgirl (2)
+Jerrys ABB Idea *
+Schoolgirl (3)
+The ABB Idea Considered *
+Neighbor Neighbor
+Hi-Heeled Sneakers
+Big Boy Pete
+Big Boy Pete (2)
+Big Boy Pete (3)
+Paperback Writer
+Attics (1)
+Jerry Complaint
+Attics (2)
+Phil Explains to Jerry / Tuning -> Out
+
+* One Way Out Snippet", "", "", "Soundcheck",  "2006-11-19 21:48:59", "1995", "Wharfrat73", "03". "28") ;
+#
+# Key: key_17
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f163951d-c3bf-4e11-ac5e-4fadecc7ef29", "Grateful Dead", "2", "2301",  "03/29/95", "The Omni", "Atlanta", "GA",  "Jack Straw, Row Jimmy, Walkin Blues, Jack A Roe, Mama Tried*-> Mexicali Blues-> Brown Eyed Women, Cassidy", "Unbroken Chain, Help On The Way-> Slipknot!-> Franklins Tower-, Corinna-> Mathilda-> Drums-> Space-> I Need A Miracle-> Standing On the Moon-> Not Fade Away, E: U.S. Blues", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "03". "29") ;
+#
+# Key: key_18
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-480be8ec-2c96-4b3c-bdf0-e1bd5decff5d", "Grateful Dead", "2", "2300",  "03/30/95", "The Omni", "Atlanta", "GA",  "Touch Of Gray, Good Morning Little School Girl, Friend Of The Devil, Queen Jane Approximately, Loose Lucy, Broken Arrow, Easy Answers, Alabama Getaway", "Beer Barrel Polka Tuning, China Cat Sunflower-> I Know You Rider-> Looks Like Rain, Samba In The Rain, Hes Gone-> That Would Be Something-> Drums-> Space-> Visions Of Johanna-> Throwing Stones-> Turn On Your Love Light, E: Lucy In The Sky With Diamonds", "", "",  "1996-01-07 00:00:00", "1995", "system", "03". "30") ;
+#
+# Key: key_19
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ae02355e-f547-4cd1-a961-668dddc096ba", "Grateful Dead", "2", "2299",  "04/01/95", "Pyramid Arena", "Memphis", "TN",  "Hell In A Bucket, Candyman, Take Me To The River*, Lazy River Road, When I Paint My Masterpiece**, Childhoods End, Deal", "Foolish Heart, Way To Go Home-> Saint Of Circumstance, Eyes Of The World-> Drums-> Space-> The Wheel-> All Along The Watchtower-, Standing On the Moon, E: One More Saturday Night", "", "* First time played, ** Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "04". "01") ;
+#
+# Key: key_20
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8cf11b3f-3449-46d7-a13c-21ae21b52471", "Grateful Dead", "2", "2298",  "04/02/95", "Pyramid Arena", "Memphis", "TN",  "Shakedown Street, The Same Thing, Althea, Memphis Blues*, Tennessee Jed, Promised Land", "Here Comes Sunshine-> Eternity-> Crazy Fingers-> Estimated Prophet-> Drums-> Space-> The Last Time-> Wharf Rat-> Not Fade Away, E: Unbroken Chain", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "04". "02") ;
+#
+# Key: key_21
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1dcb7ca6-707e-4fa8-83b2-b8b7efb97f30", "Grateful Dead", "2", "2297",  "04/04/95", "Jefferson Civic Center Coliseum", "Birmingham", "AL",  "Feel Like A Stranger, Sugaree, Minglewood Blues, Ramble On Rose, Black Throated Wind*, Dont Ease Me In", "Victim Or The Crime, Iko Iko, Corinna, Terrapin Station-> Drums-> Space-> Easy Answers->Stella Blue, Around & Around, E: The Mighty Quinn", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "04". "04") ;
+#
+# Key: key_22
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5949f222-2d74-4904-bbe7-faa9359dd577", "Grateful Dead", "2", "2296",  "04/05/95", "Jefferson Civic Center Coliseum", "Birmingham", "AL",  "Touch Of Grey, Wang Dang Doodle, Stagger Lee, Me & My Uncle*-> Maggies Farm*, Row Jimmy, The Music Never Stopped", "Here Comes Sunshine, Way To Go Home, Truckin-> That Would Be Something-> Uncle Johns Band-> Mathilda**-> Drums**-> Space-> I Need A Miracle-> Morning Dew, E: Johnny B. Goode", "", "* Weir on acoustic, ** Willie Green on drums",  "1996-01-07 00:00:00", "1995", "hamilton", "04". "05") ;
+#
+# Key: key_23
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-f320a53c-40ab-42cd-a4b9-8655a9dcd403", "Grateful Dead", "2", "2295",  "04/07/95", "Tampa Stadium", "Tampa", "FL",  "Jack Straw, Peggy-O, Little Red Rooster, Loose Lucy, When I Paint My Masterpiece*, Visions Of Johanna, Promised Land", "Eyes Of The World-> Saint Of Circumstance, Samba In The Rain, Unbroken Chain, Corinna, Drums-> Space-> Easy Answers, The Days Between, Not Fade Away, E: U.S. Blues", "", "* Weir on acoustic; Other Artist(s): Black Crowes openned",  "1996-01-07 00:00:00", "1995", "system", "04". "07") ;
+#
+# Key: key_24
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-26710e89-6e95-4142-84be-ef8317603a80", "Grateful Dead", "2", "52602",  "05/17/95", "Franklyn County Airport", "Highgate", "VT",  "", "", "", "lib bootleg",  "2000-12-07 22:44:08", "1995", "ryktjos", "05". "17") ;
+#
+# Key: key_25
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-950ccd83-fd7f-4422-b401-85afab8678fe", "Grateful Dead", "2", "2294",  "05/19/95", "Sam Boyd Silver Bowl, U.N.L.V.", "Las Vegas", "NV",  "Picasso Moon, Friend Of The Devil, Wang Dang Doodle, Althea, Queen Jane Approximately, Deal, (50 Mins.)", "Here Comes Sunshine, Way To Go Home, Playin In The Band-> Uncle Johns Band-> Drums-> Space-> Easy Answers-> Standing On the Moon-> Around & Around, (85 Mins.), E: Lucy In The Sky With Diamonds", "", "Other Artist(s): Dave Mathews Band Openned",  "1996-01-07 00:00:00", "1995", "system", "05". "19") ;
+#
+# Key: key_26
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3d3d519c-8033-46c5-94bf-8c519f684db9", "Grateful Dead", "2", "2293",  "05/20/95", "Sam Boyd Silver Bowl, U.N.L.V.", "Las Vegas", "NV",  "Mississippi Half Step, The Race is On, Lazy River Road, When I Paint My Masterpiece, Tennessee Jed, Eternity", "China Cat Sunflower-> I Know You Rider-> Samba In The Rain, Women Are Smarter, Truckin-> Drums-> Space-> The Last Time-> That Would Be Something-> Morning Dew, E: One More Saturday Night", "", "Other Artist(s): Dave Mathews Band openned",  "1996-01-07 00:00:00", "1995", "flyerfanatic", "05". "20") ;
+#
+# Key: key_27
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-36a6197f-0926-42e1-ac12-6598d0854692", "Grateful Dead", "2", "2292",  "05/21/95", "Sam Boyd Silver Bowl, U.N.L.V.", "Las Vegas", "NV",  "Jack Straw, West L.A. Fadeaway, Little Red Rooster, Ramble On Rose, Just Like Tom Thumbs Blues, So Many Roads, Promised Land", "Samson & Delilah, Unbroken Chain, Eyes Of The World-> Corinna-> Drums*-> Space-> The Other One-> The Days Between-> Sugar Magnolia, E: Liberty", "", "Other Artist(s): Dave Mathews Band openned. * w/ Carter Beauford of DMB",  "1996-01-07 00:00:00", "1995", "system", "05". "21") ;
+#
+# Key: key_28
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5db0f5f6-2e57-45a6-abec-0c6d557624e6", "Grateful Dead", "2", "2291",  "05/24/95", "Memorial Stadium", "Seattle", "WA",  "Soundcheck:
+
+Tough Mama
+Childhoods End
+Rain", "Touch Of Grey
+Minglewood Blues
+Lazy River Road
+Me & My Uncle
+Big River
+Bird Song", "Iko Iko
+St. Of Circumstance
+Way To Go Home
+I Want To Tell You
+Estimated Prophet
+Drums
+Space
+I Need A Miracle
+Wharf Rat
+Turn On Your Lovelight
+
+Encore:
+U.S. Blues", "",  "2013-08-15 22:13:34", "1995", "BeLikeMike", "05". "24") ;
+#
+# Key: key_29
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-286e7121-1fed-4f1f-84c0-0b4c351a7c6c", "Grateful Dead", "2", "2290",  "05/25/95", "Memorial Stadium", "Seattle", "WA",  "Feel Like A Stranger, Bertha, Good Morning Little School Girl, Peggy-O, El Paso, Tennessee Jed, Cassidy (58 Mins.)", "Foolish Heart, Victim Or The Crime, Samba In The Rain, Hes Gone, Drums-> Space-> The Wheel, Throwing Stones-> Not Fade Away (88 Min.), E: The Mighty Quinn", "", "",  "1996-01-07 00:00:00", "1995", "system", "05". "25") ;
+#
+# Key: key_30
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-1007f0e2-ec20-4710-9ac5-7bfca7f86fc7", "Grateful Dead", "2", "2289",  "05/26/95", "Memorial Stadium", "Seattle", "WA",  "Help On The Way &gt; Slipknot! &gt; Franklins Tower, The Same Thing, Loose Lucy, Eternity*, Dont Ease Me In", "Scarlet Begonias &gt; Fire On The Mountain &gt; Playin In The Band &gt; Uncle Johns Band &gt; Drums &gt; Space &gt; Easy Answers, Stella Blue &gt; Good Lovin 
+
+E: Liberty", "", "* - Bob Weir On Acoustic Guitar",  "2007-09-22 02:50:36", "1995", "Object", "05". "26") ;
+#
+# Key: key_31
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-09261af9-281b-4337-ac1a-892a7a4c308e", "Grateful Dead", "2", "2288",  "05/28/95", "Portland Meadows", "Portland", "OR",  "Jack Straw, Peggy-O, Wang Dang Doodle, Row Jimmy, When I Paint My Masterpiece, Brown Eyed Women, Let It Grow (61 mins.)", "Samson & Delilah, Way To Go Home, Crazy Fingers-> Corinna-> Drums-> Space-> All Along The Watchtower-> Black Peter-> Around & Around (84 mins.), E: Box Of Rain", "", "Other artist(s): Chuck Berry openned",  "1996-01-07 00:00:00", "1995", "system", "05". "28") ;
+#
+# Key: key_32
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-e2f4a752-5273-49be-9b8f-f5eb9cbc510b", "Grateful Dead", "2", "2287",  "05/29/95", "Portland Meadows", "Portland", "OR",  "Let The Good Times Roll, Jack A Roe, Walkin Blues, Dire Wolf, Black Throated Wind, Tennessee Jed, Just Like Tom Thumbs Blues, The Music Never Stopped", "Shakedown Street, Looks Like Rain, Samba In The Rain-> Terrapin Station-> Drums-> Space-> The Last Time-> The Days Between-> Sugar Magnolia, E: Liberty", "", "Chuck Berry Opened",  "2013-10-13 18:47:37", "1995", "BeLikeMike", "05". "29") ;
+#
+# Key: key_33
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8c23e575-ed41-4379-a8a8-ab625d80082c", "Grateful Dead", "2", "2286",  "06/02/95", "Shoreline Amphitheatre", "Mountain View", "CA",  "Alabama Getaway, Greatest Story Ever Told, Candyman, Good Morning Little School Girl, Ramble On Rose, El Paso*, Bird Song, Promised Land", "New Speedway Boogie, That Would Be Something, Way To Go Home, Saint Of Circumstance, Hes Gone-> Drums-> Chanting by Gyoto Monks-> Space-> Easy Answers, Standing On the Moon, Around & Around, E: Lucy In The Sky With Diamonds", "Weir on acoustic. Other Artist(s): Gyoto Monks", "",  "1996-01-07 00:00:00", "1995", "system", "06". "02") ;
+#
+# Key: key_34
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bf3cbdfa-7d77-4cd2-a795-0f67f1b7e52a", "Grateful Dead", "2", "2285",  "06/03/95", "Shoreline Amphitheatre", "Mountain View", "CA",  "Hell In A Bucket, Althea, Little Red Rooster, Brown Eyed Women, Broken Arrow, Stagger Lee, Eternity*", "China Cat Sunflower-> I Know You Rider, Samba In The Rain, Playin In The Band-> Uncle Johns Band-> Drums-> Space-> Box Of Rain, Stella Blue, Throwin Stones-> One More Saturday Night, E: Liberty", "", "Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "06". "03") ;
+#
+# Key: key_35
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8e7c483f-f9dc-49e9-b74c-22c46ff4a730", "Grateful Dead", "2", "2284",  "06/04/95", "Shoreline Amphitheatre", "Mountain View", "CA",  "Bertha, Wang Dang Doodle, Peggy-O, Queen Jane Approximately, Loose Lucy, Mama Tried*-> Mexicali Blues*, Lazy River Road, Cassidy (62 mins.)", "Here Comes Sunshine, Victim Or The Crime, Unbroken Chain, Eyes Of The World-> Drums-> Space-> I Need A Miracle-> The Days Between-> Not Fade Away, E: Brokedown Palace (91 mins.)", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "06". "04") ;
+#
+# Key: key_36
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8837897e-0764-4c3a-ac24-e7d200cb42d6", "Grateful Dead", "2", "2283",  "06/15/95", "Franklin County Airport", "Highgate", "VT",  "Touch Of Gray, Wang Dang Doodle, Peggy-O, El Paso, Ramble On Rose, Black Throated Wind, Loose Lucy, Promised Land", "Here Comes Sunshine, Samba In The Rain, Truckin-> Rollin & Tumblin*-> That Would Be Something-> Hes Gone-> Drums-> Space-> Box Of Rain-> Standing On the Moon-> Sugar Magnolia, E: Liberty", "* First Rollin and Tumblin. Other Artist(s): Dylan openned", "",  "1996-01-07 00:00:00", "1995", "system", "06". "15") ;
+#
+# Key: key_37
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-3bdc968b-910b-4122-9b0f-cedd7abd1027", "Grateful Dead", "2", "2282",  "06/18/95", "Giants Stadium", "East Rutherford", "NJ",  "Feel Like A Stranger, Bertha, The Same Thing, Stagger Lee, Eternity*, Deal", "China Cat Sunflower-> I Know You Rider, Way To Go Home, Samson & Delilah, Eyes Of The World-> Drums-> Space-> Spanish Jam-> I Need A Miracle-> Wharf Rat-> Not Fade Away, E: Lucy In The Sky With Diamonds", "", "* Weir on acoustic. Other Artist(s): Dylan openned",  "1996-01-07 00:00:00", "1995", "system", "06". "18") ;
+#
+# Key: key_38
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-156dc772-6c8c-4d48-828a-9ee87452beb1", "Grateful Dead", "2", "2281",  "06/19/95", "Giants Stadium", "East Rutherford", "NJ",  "Cold Rain & Snow, Good Morning Little School Girl, Ramble On Rose, Its All Over Now, Lazy River Road, Me & My Uncle*-> Big River*, Dont Ease Me In", "Iko Iko, Unbroken Chain, Samba In The Rain, Corinna > Mathilda > Drums > Space > The Other One > Stella Blue, Throwin Stones > Turn On Your Love Light E: Brokedown Palace", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "hamilton", "06". "19") ;
+#
+# Key: key_39
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-03963ea6-7c74-47bf-bc3a-402f4e339eab", "Grateful Dead", "2", "2280",  "06/21/95", "Knickerbocker Arena", "Albany", "NY",  "Soundcheck:
+
+Vince on piano solo, Its All Too Much, Its All Too Much, Its All Too Much", "Hell In A Bucket, Loser, Take Me To The River, Row Jimmy, Broken Arrow, Promised Land", "Scarlet Begonias-> Fire On The Mountain, Women Are Smarter, Its All Too Much, Playin In The Band-> Drums-> Space-> Easy Answers-> Morning Dew, E: U.S. Blues", "",  "2008-04-12 00:00:00", "1995", "system", "06". "21") ;
+#
+# Key: key_40
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-675600ce-d65b-4d4b-b2e6-d6855cc00204", "Grateful Dead", "2", "2279",  "06/22/95", "Knickerbocker Arena", "Albany", "NY",  "Touch Of Grey, Walkin Blues, It Must Have Been The Roses, When I Paint My Masterpiece, So Many Roads, The Music Never Stopped", "Help On The Way-> Slipknot!-> Franklins Tower, Samba In The Rain, Estimated Prophet-> Terrapin Station-> Drums-> Silent Way Jam-> Space-> All Along The Watchtower-> Black Peter-> Around & Around, E: I Fought The Law,", "", "",  "2004-09-03 00:00:00", "1995", "system", "06". "22") ;
+#
+# Key: key_41
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-9bdf6e03-3a64-45b0-83c7-f847ea100b56", "Grateful Dead", "2", "2278",  "06/24/95", "Robert F. Kennedy Stadium", "Washington", "DC",  "Jack Straw, Althea, Little Red Rooster, Friend Of The Devil, El Paso*, So Many Roads, Promised Land", "Iko Iko, Way To Go Home, Saint Of Circumstance-> New Speedway Boogie-> That Would Be Something-> Drums-> Space-> The Days Between, One More Saturday Night, E: Black Muddy River", "", "* Weir on acoustic. Other Artist(s): Hornsby played the entire show",  "1996-01-07 00:00:00", "1995", "system", "06". "24") ;
+#
+# Key: key_42
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-bd0717ba-0260-4e5b-b7ae-a6a6a6d6b387", "Grateful Dead", "2", "2277",  "06/25/95", "Robert F. Kennedy Stadium", "Washington", "DC",  "Shakedown Street, Wang Dang Doodle, Jack A Roe, Mama Tried*-> Mexicali Blues*, Loose Lucy, Picasso Moon", "Box Of Rain, Rain, Samson & Delilah, Ship of Fools, Truckin-> Rollin & Tumblin-> Samba In The Rain-> Drums-> Space-> Wharf Rat-> Not Fade Away, E: Brokedown Palace", "", "* Weir on acoustic. Other Artist(s): Horsby on piano for entire show, Dylan opened",  "2001-02-09 00:00:00", "1995", "hamilton", "06". "25") ;
+#
+# Key: key_43
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-cea3e6f1-cfaf-438a-a3a8-0a8e3d0fd89a", "Grateful Dead", "2", "2276",  "06/27/95", "The Palace", "Auburn Hills", "MI",  "Greatest Story Ever Told-> Bertha, Minglewood Blues, Ramble On Rose, Queen Jane Approximately, Lazy River Road, Eternity, Dont Ease Me In", "Victim Or The Crime-> Foolish Heart, Its All Too Much, Corinna-> Jam-> Drums-> Space-> The Last Time-> Standing On the Moon-> Sugar Magnolia, E: Liberty", "", "",  "1996-01-07 00:00:00", "1995", "system", "06". "27") ;
+#
+# Key: key_44
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-29d0a213-2b39-4239-b135-e8f14b2cb06f", "Grateful Dead", "2", "2275",  "06/28/95", "The Palace", "Auburn Hills", "MI",  "Mississippi Half Step, Good Morning Little School Girl, Loser, Black Throated Wind, Just Like Tom Thumbs Blues, Big Railroad Blues, The Music Never Stopped", "China Cat Sunflower-> I Know You Rider, Way To Go Home, Estimated Prophet, Uncle Johns Band-> Drums-> Space-> Easy Answers-> Attics Of My Life-> Good Lovin, E: Lucy In The Sky With Diamonds", "", "",  "2012-02-23 13:54:28", "1995", "Wharfrat73", "06". "28") ;
+#
+# Key: key_45
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-57dc7e45-7374-4b34-9fa9-bfdcaabeb44b", "Grateful Dead", "2", "2274",  "06/30/95", "Three Rivers Stadium", "Pittsburgh", "PA",  "Hell In A Bucket, West L.A. Fadeaway, Take Me To The River, Candyman, When I Paint My Masterpiece, Bird Song, Promised Land", "Rain, Box Of Rain, Samba In The Rain, Looks Like Rain-> Terrapin Station-> Drums-> Space-> I Need A Miracle-> Standing On the Moon, E: Gloria", "", "Other Artist(s): Rusted Root openned. Soundcheck included Its A Mans World and Truckin",  "1996-01-07 00:00:00", "1995", "system", "06". "30") ;
+#
+# Key: key_46
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ad1e428e-9abd-471c-b4e3-fe521015b2ed", "Grateful Dead", "2", "2273",  "07/02/95", "Deer Creek Music Center", "Noblesville", "IN",  "Soundcheck:
+
+Hoochie Coochie Man, Death Dont Have No Mercy, Visions Of Johanna, Here Comes Sunshine, Here Comes Sunshine, Jesu Joy", "Here Comes Sunshine, Walkin Blues, Dire Wolf, Its All Over Now, Broken Arrow, Desolation Row*, Tennessee Jed, Let It Grow", "Scarlet Begonias-> Fire On The Mountain, Victim Or The Crime, Its All Too Much-> New Speedway Boogie-> Drums-> Space-> Attics Of My Life-> Sugar Magnolia, E: The Mighty Quinn", "* Weir on acoustic. Major gate crash occurred during Desolation Row. Police moved in with tear gas. Second show was cancelled.",  "2008-04-10 00:00:00", "1995", "system", "07". "02") ;
+#
+# Key: key_47
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-435a2432-c23b-4651-9fd3-074331c531c8", "Grateful Dead", "2", "2272",  "07/05/95", "Riverport Amphitheatre", "Maryland Heights", "MO",  "Feel Like A Stranger, Peggy-O, The Same Thing, Loose Lucy, Childhoods End, El Paso, Dont Ease Me In", "Iko Iko, Playin In The Band, Crazy Fingers, Corinna-> Drums-> Space-> Goin Down The Road Feelin Bad-> Throwing Stones-> Not Fade Away, E: Black Muddy River", "", "Sound check included Childhoods End (x2), Corrina and WRS Prelude (Weir on acoustic)",  "1996-01-07 00:00:00", "1995", "system", "07". "05") ;
+#
+# Key: key_48
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-8fba66f0-a787-489b-873c-a5e496945b34", "Grateful Dead", "2", "2271",  "07/06/95", "Riverport Amphitheatre", "Maryland Heights", "MO",  "Mississippi Half Step, Take Me To The River, Big Boss Man, Me & My Uncle*-> Big River*, Brown Eyed Women, Cassidy", "Eyes Of The World, Unbroken Chain, Samba In The Rain-> Truckin-> Hes Gone-> Drums-> Space-> The Last Time-> Stella Blue-> Around & Around, E: Liberty", "", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "system", "07". "06") ;
+#
+# Key: key_49
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ecbe0b57-b84c-4c5f-8041-1c8bfe89bbab", "Grateful Dead", "2", "2270",  "07/08/95", "Soldier Field", "Chicago", "IL",  "Jack Straw, Sugaree, Wang Dang Doodle, Althea, Queen Jane Approximately, Tennessee Jed, Eternity*, Dont Ease Me In", "China Cat Sunflower-> I Know You Rider, Its All Too Much, Saint Of Circumstance-> Terrapin Station-> Drums-> Space-> The Other One-> Visions Of Johanna, One More Saturday Night, E: U.S. Blues", "", "* Weir on acoustic. Other artist(s): The Band Openned",  "1996-01-07 00:00:00", "1995", "system", "07". "08") ;
+#
+# Key: key_50
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-ef520d7d-35a7-4d13-bc4a-ae7e59ef5341", "Grateful Dead", "2", "2269",  "07/09/95", "Soldier Field", "Chicago", "IL",  "Touch Of Gray, Little Red Rooster, Lazy River Road, When I Paint My Masterpiece*, Childhoods End, Cumberland Blues, Promised Land", "Shakedown Street, Samson & Delilah, So Many Roads, Samba In The Rain, Corrina, Drums, Space, Unbroken Chain, Sugar Magnolia", "E: Black Muddy River, Box Of Rain", "* Weir on acoustic",  "1996-01-07 00:00:00", "1995", "hamilton", "07". "09") ;
+#
+# Key: key_51
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5d3cc560-8d43-41ad-8524-c0bb91570349", "Grateful Dead", "2", "395748",  "08/09/95", "News Footage", "Various", "Various",  "", "", "", "",  "2008-01-01 19:19:04", "1995", "PeaceTrader", "08". "09") ;
+#
+# Key: key_52
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-5bd424f7-3722-4642-bdbc-e820a4df80ab", "Grateful Dead", "2", "83900",  "??/??/95", "Studio - Earthquake Country sessions", "Unknown", "CA",  "Lazy River Road 				
+Easy Answers 		
+So Many Roads 						
+Wave To The Wind 
+Eternity 							
+The Days Between					
+Way To Go Home	
+Corinna 						
+Liberty", "", "", "Studio material from which last album would have been prepared.",  "2007-08-05 08:56:20", "1995", "flicflac", "??". "??") ;
+#
+# Key: key_53
+# -----------------------------------
+insert into setlists (  rec_id,  band, artist_key, show_key,  show_date, venue, city, state_abbr,  set_1, set_2, set_3, comment,  last_update, show_year, show_user_id  show_month, show_day)  values ( "GDS-2bd6e2fe-102c-4387-9d44-1b7831ea632b", "Grateful Dead", "2", "446386",  "??/??/95", "Studio", "Unknown", "Unknown",  "Lazy River Road
+Easy Answers
+So Many Roads
+Wave To The Wind
+Eternity
+The Days Between
+Way To Go Home
+Corinna
+Liberty", "", "", "This is a collection of songs which (if the Deadheads Taping Compendium is to be believed) were to have formed the basis for the first GD studio album of the 1990s.  The material appears to be a mix of live SBD recordings (possibly with some minor overdubs)  and rehearsals; its doubtful if any of this represents actual studio recordings aimed at an album release.",  "2009-01-23 10:50:46", "1995", "Grateful Darkstar", "??". "??") ;

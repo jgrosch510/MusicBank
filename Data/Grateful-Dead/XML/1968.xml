@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_rest generator="zend" version="1.0"><fetchArtistYear><shows><key_0><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>188774</shows_key><showdate>01/02/68</showdate><venue>Studio</venue><city>San Mateo</city><state>CA</state><set1>St. Stephen, The Eleven, Barbed Wire Whipping Party, Doin That Rag, Dupree's Diamond Blues, Jam, China Cat, Rosemary, Cosmic Charlie, Doin That Rag, Mountains of The Moon, Dupree's Diamond Blues</set1><set2></set2><set3></set3><comment>AOXOMOXOA OUTTAKES</comment><lastupdate>2003-12-23 14:28:46</lastupdate><showyear>1968</showyear><showsuserid>antidote</showsuserid></key_0><key_1><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>240</shows_key><showdate>01/17/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Turn On Your Lovelight, Dark Star -&gt; China Cat Sunflower -&gt; The Eleven -&gt; New Potato Caboose -&gt; Born Cross Eyed -&gt; Spanish Jam</set1><set2>Beat It On Down The Line, Morning Dew, Cryptical Envelopment -&gt; The Other One -&gt; Cryptical Envelopment -&gt; Good Morning Little Schoolgirl</set2><set3></set3><comment>'Ben Franklin's Birthday' - Other artist(s): QMS; Jerry Abrams</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>stark1</showsuserid></key_1><key_2><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>241</shows_key><showdate>01/20/68</showdate><venue>The Eureka Municipal Auditorium</venue><city>Eureka</city><state>CA</state><set1>Jam &gt; Clementine &gt; New Potato Caboose &gt; Born Cross Eyed &gt; Spanish Jam &gt; Caution Jam &gt; Dark Star</set1><set2></set2><set3></set3><comment>Tour Of The Great Pacific Northwest Begins- also QMS&#13;
+"The Quick &amp; The Dead"</comment><lastupdate>1996-08-11 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_2><key_3><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>242</shows_key><showdate>01/22/68</showdate><venue>Eagles Auditorium</venue><city>Seattle</city><state>WA</state><set1>Alligator
+Cryptical Envelopement -&amp;gt;
+The Other One -&amp;gt;
+Cryptical Envelopement -&amp;gt;
+New Potato Caboose -&amp;gt;
+Born Cross-Eyed -&amp;gt;
+Spanish Jam -&amp;gt;
+Dark Star -&amp;gt;
+China Cat Sunflower -&amp;gt;
+The Eleven -&amp;gt;
+Caution (Do Not Stop on Tracks) -&amp;gt;
+Feedback</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>2014-08-10 10:58:13</lastupdate><showyear>1968</showyear><showsuserid>BeLikeMike</showsuserid></key_3><key_4><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>58310</shows_key><showdate>01/23/68</showdate><venue>Eagles Auditorium</venue><city>Seattle</city><state>WA</state><set1>Cryptical Envelopment &amp;gt;
+The Other One &amp;gt;
+Cryptical Envelopment &amp;gt;
+Clementine &amp;gt;
+New Potato Caboose &amp;gt;
+Born Cross-Eyed &amp;gt;
+Spanish Jam
+Beat It On Down The Line
+Hurts Me Too
+Viola Lee Blues
+Dark Star &amp;gt;
+China Cat Sunflower &amp;gt;
+The Eleven
+Turn On Your Lovelight</set1><set2></set2><set3></set3><comment></comment><lastupdate>2014-08-10 11:00:02</lastupdate><showyear>1968</showyear><showsuserid>BeLikeMike</showsuserid></key_4><key_5><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>183608</shows_key><showdate>01/24/68</showdate><venue>Unknown</venue><city>Unknown</city><state>Unknown</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2006-01-18 09:12:54</lastupdate><showyear>1968</showyear><showsuserid>danburnfin</showsuserid></key_5><key_6><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>243</shows_key><showdate>01/26/68</showdate><venue>Eagles Auditorium</venue><city>Seattle</city><state>WA</state><set1>New Potato Caboose-&amp;gt;
+Born Cross-Eyed
+Caution (Do Not Stop on Tracks)</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS</comment><lastupdate>2014-08-10 10:55:21</lastupdate><showyear>1968</showyear><showsuserid>BeLikeMike</showsuserid></key_6><key_7><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>244</shows_key><showdate>01/27/68</showdate><venue>Eagles Auditorium</venue><city>Seattle</city><state>WA</state><set1>Born Cross-Eyed, </set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS</comment><lastupdate>2014-08-10 10:49:09</lastupdate><showyear>1968</showyear><showsuserid>BeLikeMike</showsuserid></key_7><key_8><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>53293</shows_key><showdate>01/28/68</showdate><venue>Eagles Auditorium</venue><city>Seatlle</city><state>WA</state><set1>China&#13;
+jam&#13;
+I know you rider&#13;
+smokestack ltng&#13;
+new potato&#13;
+born crosseyed&#13;
+spanish jam&#13;
+alligator&#13;
+caution&#13;
+feedback</set1><set2></set2><set3></set3><comment>DSH note: This user-entered showdate does not appear at deadlists.com, and I can't find a matching setlist for another date. More authoritative info would be appreciated, thanks!</comment><lastupdate>2002-02-16 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>ike6009</showsuserid></key_8><key_9><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>245</shows_key><showdate>01/29/68</showdate><venue>Port</venue><city>Portland</city><state>OR</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_9><key_10><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>246</shows_key><showdate>01/30/68</showdate><venue>Erb Memorial Union Ballroom</venue><city>Eugene</city><state>OR</state><set1>New Potato Caboose</set1><set2>
+</set2><set3>
+</set3><comment>University Of Oregon</comment><lastupdate>2009-04-09 00:18:07</lastupdate><showyear>1968</showyear><showsuserid>Ifthir</showsuserid></key_10><key_11><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>247</shows_key><showdate>02/02/68</showdate><venue>Crystal Ballroom</venue><city>Portland</city><state>OR</state><set1>Viola Lee Blues &gt; Feedback ; Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; Clementine &gt; Good Morning Little School Girl*&#13;
+</set1><set2></set2><set3></set3><comment>*The version of Good Morning Little Schoolgirl that is on tapes in circulation with this date is actually from 02/03/68 and was spliced in to replace the 02/02/68 version by David Gans. Info courtesy &lt;a href= "http://www.deadlists.com"&gt;deadlists.com&lt;/a&gt;&#13;
+</comment><lastupdate>2004-09-03 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_11><key_12><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>248</shows_key><showdate>02/03/68</showdate><venue>The Crystal Ballroom</venue><city>Portland</city><state>OR</state><set1>Dark Star &gt; China Cat Sunflower &gt; The Eleven &gt; Feedback, Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; New Potato Caboose, Born Cross-Eyed &gt; Jam, Good Morning Little Schoolgirl*</set1><set2></set2><set3></set3><comment>setlist courtesy deadlists.com, including notes: *The Good Morning Little Schoolgirl from this show circulates on tapes of  02/02/68 since it has been spliced in to replace the 02/02/68 version on tapes of that show in a DHH broadcast.  See listing for 02/02/68. DeadBase XI lists a different order, and has It Hurts Me Too after New Potato Caboose.</comment><lastupdate>2002-06-11 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>diana</showsuserid></key_12><key_13><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>249</shows_key><showdate>02/04/68</showdate><venue>Gym, South Oregon College</venue><city>Ashland</city><state>OR</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_13><key_14><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>250</shows_key><showdate>02/14/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Morning Dew
+Good Morning Little Schoolgirl
+Dark Star &amp;gt;
+China Cat Sunflower &amp;gt;
+The Eleven &amp;gt;
+Turn On Your Lovelight</set1><set2>Cryptical Envelopment-&amp;gt; 
+The Other One-&amp;gt; 
+Cryptical Envelopment-&amp;gt; 
+New Potato Caboose-&amp;gt; 
+Born Cross-Eyed-&amp;gt; 
+Spanish Jam
+Alligator-&amp;gt; Drums-&amp;gt; Alligator-&amp;gt; 
+Caution (Do Not Stop On Tracks)
+
+Encore: 
+Midnight Hour</set2><set3></set3><comment>Official Opening; "St. Valentine's Day, Be Mine" poster; FM broadcast KMPX-San Francisco; Other artist(s): Country Joe &amp; The Fish; Second set in remembrance of Neal Cassidy&#13;
+&lt;p&gt;According to Deadbase IX,  Good Morning Little Schoolgirl is the first song of Set 1. Morning Dew location is unclear in setlist.</comment><lastupdate>2015-01-05 19:34:16</lastupdate><showyear>1968</showyear><showsuserid>aikox2</showsuserid></key_14><key_15><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>251</shows_key><showdate>02/17/68</showdate><venue>Selland Arena</venue><city>Fresno</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Country Joe &amp; The Fish</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_15><key_16><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>252</shows_key><showdate>02/22/68</showdate><venue>King's Beach Bowl</venue><city>Lake Tahoe</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>"Trip and Ski" - Other artist(s):. Morning Glory</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_16><key_17><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>253</shows_key><showdate>02/23/68</showdate><venue>King's Beach Bowl</venue><city>Lake Tahoe</city><state>CA</state><set1>Viola Lee Blues &gt; Drums &gt; Viola Lee Blues, Hurts Me Too, Dark Star &gt; China Cat Sunflower &gt; The Eleven &gt; Turn On Your Lovelight, Born Cross-eyed &gt; Spanish Jam.</set1><set2></set2><set3></set3><comment>"Trip and Ski" - Other artist(s):. Morning Glory</comment><lastupdate>2007-03-03 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>Wharfrat73</showsuserid></key_17><key_18><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>254</shows_key><showdate>02/24/68</showdate><venue>King's Beach Bowl</venue><city>Lake Tahoe</city><state>CA</state><set1>Dark Star, Morning Dew, Good Morning Little Schoolgirl, Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; New Potato Caboose, Alligator &gt; Drums &gt; China Cat Sunflower &gt; The Eleven &gt; Alligator &gt; Drums &gt; Alligator &gt; Caution (Do Not Stop On Tracks) &gt; Feedback. </set1><set2></set2><set3></set3><comment>"Trip and Ski" - Other artist(s):. Morning Glory.</comment><lastupdate>2007-03-03 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>Wharfrat73</showsuserid></key_18><key_19><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>332278</shows_key><showdate>02/28/68</showdate><venue>The Fillmore West</venue><city>San Francisco</city><state>CA</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2006-08-26 14:37:45</lastupdate><showyear>1968</showyear><showsuserid>the earl</showsuserid></key_19><key_20><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>255</shows_key><showdate>03/01/68</showdate><venue>The Looking Glass</venue><city>Walnut Creek</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_20><key_21><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>71913</shows_key><showdate>03/02/68</showdate><venue>The Looking Glass</venue><city>Walnut Creek</city><state>CA</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2001-10-23 12:15:35</lastupdate><showyear>1968</showyear><showsuserid>merrydankster</showsuserid></key_21><key_22><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>256</shows_key><showdate>03/03/68</showdate><venue>Haight Street</venue><city>San Francisco</city><state>CA</state><set1>Viola Lee Blues, Smokestack Lightning, Turn On Your Love Light, It Hurts Me Too</set1><set2>
+</set2><set3>
+</set3><comment>Afternoon concert</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_22><key_23><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>257</shows_key><showdate>03/11/68</showdate><venue>Sacramento Memorial Auditorium</venue><city>Sacramento</city><state>CA</state><set1>Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement-&gt; New Potato Caboose-&gt; Born Cross-Eyed-&gt; Caution (Do Not Stop on Tracks) Jam</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Cream</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_23><key_24><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>258</shows_key><showdate>03/15/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Jefferson Airplane</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_24><key_25><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>259</shows_key><showdate>03/16/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Dark Star-&gt; China Cat Sunflower-&gt; The Eleven-&gt; Good Morning Little Schoolgirl</set1><set2>Morning Dew, It Hurts Me Too, Cryptical Envelopment-&gt; The Other One-&gt; Cryptical Envelopment-&gt; Alligator-&gt; Caution-&gt; Feedback, And We Bid You Goodnight</set2><set3></set3><comment>Other artist(s): Jefferson Airplane; setlist courtesy deadlists.com, which notes: "Morning Dew is the set 2 opener on the master reel, but it gets rearranged to the end of side A on cassettes copies and to the end of disc #2 on the circulating CDs."</comment><lastupdate>2002-12-02 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_25><key_26><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>260</shows_key><showdate>03/17/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Dark Star-&gt; Born Cross-Eyed, Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement-&gt; New Potato Caboose, China Cat Sunflower, The Eleven-&gt; Caution (Do Not Stop on Tracks)</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Jefferson Airplane</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_26><key_27><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>261</shows_key><showdate>03/18/68</showdate><venue>Green St.</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>KMPX-FM Strike Benefit</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_27><key_28><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>262</shows_key><showdate>03/20/68</showdate><venue>Avalon Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>KMPX-FM Strike Benefit</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_28><key_29><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>263</shows_key><showdate>03/22/68</showdate><venue>State Fair Coliseum</venue><city>Detroit</city><state>MI</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Eric Burdon &amp; The Animals; Eire Apparent; Apostles; Jagged Edge</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_29><key_30><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>264</shows_key><showdate>03/23/68</showdate><venue>State Fair Coliseum</venue><city>Detroit</city><state>MI</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Eric Burdon &amp; The Animals; Eire Apparent; Apostles; Jagged Edge</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_30><key_31><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>265</shows_key><showdate>03/26/68</showdate><venue>Melodyland Theater</venue><city>Anaheim</city><state>CA</state><set1>Good Morning Little Schoolgirl &gt; Death Don't Have No Mercy, Sittin' On Top Of The World, Dark Star</set1><set2></set2><set3></set3><comment></comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_31><key_32><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>266</shows_key><showdate>03/29/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Good Morning Little Schoolgirl
+Death Don't Have No Mercy
+Sitting On Top Of The World
+Dark Star
+Morning Dew
+Turn On Your Lovelight -&amp;gt;
+That's It For The Other One -&amp;gt;
+New Potato Caboose -&amp;gt;
+Born Cross Eyed</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Chuck Berry; Curly Cook's Hurdy-Gurdy Band</comment><lastupdate>2010-06-30 15:32:39</lastupdate><showyear>1968</showyear><showsuserid>charlie miller</showsuserid></key_32><key_33><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>267</shows_key><showdate>03/30/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Morning Dew, Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; Dark Star &gt; China Cat Sunflower &gt; The Eleven &gt; Turn On Your Lovelight</set1><set2>Born Cross-Eyed &gt; Feedback &gt; Spanish Jam &gt; Death Don't Have No Mercy, Turn On Your Lovelight, Beat It On Down The Line, Dancing In The Street</set2><set3></set3><comment>Other artists on bill: Chuck Berry; Curly Cook's Hurdy-Gurdy Band; note old listing from Deadbase had previously listed for this date: New Potato Caboose, Alligator-&gt; Drums-&gt; Alligator-&gt; Caution (Do Not Stop on Tracks); setlist above is from deadlists.com, updated here 3/03- they comment that "set 2" material is likely from separate unknown date </comment><lastupdate>2003-03-28 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_33><key_34><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>268</shows_key><showdate>03/31/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Turn On Your Lovelight
+Beat It On Down The Line
+Dancing In The Street
+Caution (Do Not Stop On Tracks) &amp;gt;
+Feedback &amp;gt;
+And We Bid You Goodnight</set1><set2></set2><set3></set3><comment></comment><lastupdate>2010-07-30 21:05:49</lastupdate><showyear>1968</showyear><showsuserid>1478</showsuserid></key_34><key_35><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>269</shows_key><showdate>04/03/68</showdate><venue>Winterland Arena</venue><city>San Francisco</city><state>CA</state><set1>Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement-&gt; New Potato Caboose-&gt; Born Cross-Eyed, Alligator-&gt; Drums-&gt; Alligator-&gt; Caution (Do Not Stop on Tracks)</set1><set2>
+</set2><set3>
+</set3><comment>KMPX-FM Strike benefit</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_35><key_36><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>270</shows_key><showdate>04/19/68</showdate><venue>Thee Image, Miami Beach</venue><city>Miami</city><state>FL</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Blues Image; Kollektions; The Bangles</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_36><key_37><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>271</shows_key><showdate>04/20/68</showdate><venue>Thee Image, Miami Beach</venue><city>Miami</city><state>FL</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Blues Image; Kollektions; The Bangles</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_37><key_38><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>272</shows_key><showdate>04/21/68</showdate><venue>Thee Image, Miami Beach</venue><city>Miami</city><state>FL</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Blues Image; Kollektions; The Bangles</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_38><key_39><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>273</shows_key><showdate>04/26/68</showdate><venue>Electric Factory</venue><city>Philadelphia</city><state>PA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_39><key_40><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>274</shows_key><showdate>04/27/68</showdate><venue>Electric Factory</venue><city>Philadelphia</city><state>PA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_40><key_41><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>275</shows_key><showdate>04/28/68</showdate><venue>Electric Factory</venue><city>Philadelphia</city><state>PA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_41><key_42><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>276</shows_key><showdate>05/03/68</showdate><venue>Low Library Plaza, Columbia U.</venue><city>New York</city><state>NY</state><set1>Cold Rain &amp; Snow, Sitting On Top Of The World</set1><set2>
+</set2><set3>
+</set3><comment>These songs appear in the film "Columbia Revolt"</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_42><key_43><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>277</shows_key><showdate>05/04/68</showdate><venue>Gym, S.U.N.Y.</venue><city>Stony Brook</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Incredible String Band</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_43><key_44><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>278</shows_key><showdate>05/05/68</showdate><venue>Central Park</venue><city>New York</city><state>NY</state><set1></set1><set2></set2><set3></set3><comment>Aftenoon concert</comment><lastupdate>2003-03-10 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_44><key_45><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>279</shows_key><showdate>05/07/68</showdate><venue>Electric Circus</venue><city>New York</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Late show</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_45><key_46><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>280</shows_key><showdate>05/07/68</showdate><venue>Electric Circus</venue><city>New York</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Early show</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_46><key_47><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>282</shows_key><showdate>05/08/68</showdate><venue>Electric Circus</venue><city>New York</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Early show</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_47><key_48><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>283</shows_key><showdate>05/09/68</showdate><venue>Electric Circus</venue><city>New York</city><state>NY</state><set1>He Was A Friend Of Mine, </set1><set2>
+</set2><set3>
+</set3><comment>Late show</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_48><key_49><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>284</shows_key><showdate>05/09/68</showdate><venue>Electric Circus</venue><city>New York</city><state>NY</state><set1></set1><set2></set2><set3></set3><comment>Early show</comment><lastupdate>2006-04-26 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_49><key_50><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>285</shows_key><showdate>05/11/68</showdate><venue>The Dome</venue><city>Virginia Beach</city><state>VA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_50><key_51><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>286</shows_key><showdate>05/17/68</showdate><venue>Shrine Auditorium</venue><city>Los Angeles</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Steve Miller Band, Taj Mahall</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_51><key_52><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>287</shows_key><showdate>05/18/68</showdate><venue>Santa Clara County Fairgrounds</venue><city>San Jose</city><state>CA</state><set1>Alligator-&gt; Drums-&gt; Alligator-&gt; Caution (Do Not Stop on Tracks)-&gt; Feedback</set1><set2></set2><set3></set3><comment>Northern California Folk-Rock Festival - afternoon concert; Other artists on bill: The Doors, The Animals, Big Brother &amp; The Holding Co., Youngbloods, Electric Flag, Jefferson Airplane, Kaleidoscope, Country Joe &amp; The Fish, Taj Mahal</comment><lastupdate>2001-11-19 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_52><key_53><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>288</shows_key><showdate>05/18/68</showdate><venue>Shrine Auditorium</venue><city>Los Angeles</city><state>CA</state><set1> </set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Steve Miller Band, Taj Mahall
+
+Evening Show.  The Band played the Santa Clara County Fairgrounds in the afternoon.</comment><lastupdate>2011-08-13 23:52:40</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_53><key_54><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>100157</shows_key><showdate>05/21/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Jam, Good Shepherd, Jam, My Babe, My Baby Told Me, Key to the Highway</set1><set2></set2><set3></set3><comment>Deadlists comments, "This circulates as "Tuesday Night Jam" with: Jerry Garcia, Jorma Kaukonen, Jack Casady, Elvin Bishop, Steve Miller, Mickey Hart, and Will Scarlett. All those names except Will Scarlet are listed on the poster, which says it was a benefit ($1 admission) - but doesn't say what the benefit was for! The poster calls this a "Rock Jam" and says it will be "Heavy". This used to circulate as "Unknown '67 from the Matrix". Jorma was asked and he does remember this."</comment><lastupdate>2002-07-04 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>diana</showsuserid></key_54><key_55><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>289</shows_key><showdate>05/24/68</showdate><venue>National Guard Armory</venue><city>St. Louis</city><state>MO</state><set1>Lovelight, Cryptical Envelopment &gt; Other one &gt; Cryptical Envelopment &gt; Dark Star &gt; Saint Stephen &gt; the Eleven &gt; Caution (Do Not Stop on tracks) &gt; Feedback &gt; We Bid You Good Night.</set1><set2></set2><set3></set3><comment>Other artist(s): Iron Butterfly; First St. Louis show.</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>mvernon</showsuserid></key_55><key_56><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>290</shows_key><showdate>05/25/68</showdate><venue>National Guard Armory</venue><city>St. Louis</city><state>MO</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Iron Butterfly; GD</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_56><key_57><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>291</shows_key><showdate>05/30/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>"Memorial" - Other artist(s): Charlie Musselwhite; Petrus</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_57><key_58><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>292</shows_key><showdate>05/31/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>"Memorial" - Other artist(s): Charlie Musselwhite; Petrus</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_58><key_59><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>55640</shows_key><showdate>05/??/68</showdate><venue>Unknown</venue><city>Unknown</city><state>Unknown</state><set1>St. Stephen (beginning cuts)-&gt; Cryptical Envelopment-&gt; That's It For The Other One-&gt; Cryptical Envelopment-&gt; New Potato Caboose, Alligator-&gt; Caution</set1><set2></set2><set3></set3><comment>Deadlists.com notes as of 9/01: 'Although this fragment circulates as "Fall 1968", it is from Bear reels labeled only "May '68"'.&#13;
+</comment><lastupdate>2002-02-16 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>jcurrier</showsuserid></key_59><key_60><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>293</shows_key><showdate>06/01/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>"Memorial" - Other artist(s): Charlie Musselwhite; Petrus</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_60><key_61><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>294</shows_key><showdate>06/07/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Saint Stephen-&gt; Dark Star</set1><set2>
+</set2><set3>
+</set3><comment>These songs may be from the next two nights - Other artist(s): Jefferson Airplane; Fleetwood Mac</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_61><key_62><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>295</shows_key><showdate>06/08/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Jefferson Airplane; Fleetwood Mac</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_62><key_63><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>296</shows_key><showdate>06/09/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Jefferson Airplane; Fleetwood Mac</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_63><key_64><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>297</shows_key><showdate>06/14/68</showdate><venue>Fillmore East (Late Show)</venue><city>New York</city><state>NY</state><set1>Feedback-&gt; The Eleven-&gt; Saint Stephen, Alligator-&gt; Turn On Your Love Light-&gt; Caution (Do Not Stop on Tracks)-&gt; Drums-&gt; Caution (Do Not Stop on Tracks)-&gt; Feedback</set1><set2></set2><set3></set3><comment>Late show (note may be found mislabelled as "early show"); setlist courtesy &lt;a href= "http://www.deadlists.com"&gt;Deadlists&lt;/a&gt;. </comment><lastupdate>2004-09-03 09:28:28</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_64><key_65><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>298</shows_key><showdate>06/14/68</showdate><venue>Fillmore East (Early Show)</venue><city>New York</city><state>NY</state><set1>Morning Dew % Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; New Potato Caboose</set1><set2></set2><set3></set3><comment>Early Show; does not circulate as of 5/01; note some copies of Late Show may be mislabelled as Early. Eyewitness setlist courtesy &lt;a href= "http://www.deadlists.com"&gt;Deadlists&lt;/a&gt;.</comment><lastupdate>2004-09-03 09:27:57</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_65><key_66><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>299</shows_key><showdate>06/15/68</showdate><venue>Fillmore East</venue><city>New York</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Late show - Other artist(s): GD; Jeff Beck Group; Seventh Sons</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_66><key_67><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>300</shows_key><showdate>06/15/68</showdate><venue>Fillmore East</venue><city>New York</city><state>NY</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Early show - Other artist(s): GD; Jeff Beck Group; Seventh Sons</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_67><key_68><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>301</shows_key><showdate>06/19/68</showdate><venue>Carousel Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Lovelight -&gt; NFA -&gt; Lovelight, Jam -&gt; The Main Ten -&gt; Jam -&gt; Dark Star Jam -&gt; Other One Jam -&gt; Jam</set1><set2></set2><set3></set3><comment>With John Cipollina on most of this, probably the reason the Dead always mixed him so low every time he played with them after this!&#13;
+Black Man's Free Store benefit -Other artist(s): Richie Havens</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>greenone</showsuserid></key_68><key_69><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>288338</shows_key><showdate>06/??/68</showdate><venue>carousel ballroom</venue><city>san francisco</city><state>ca</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2005-11-25 00:25:43</lastupdate><showyear>1968</showyear><showsuserid>douglaswoody37</showsuserid></key_69><key_70><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>302</shows_key><showdate>07/11/68</showdate><venue>Shrine Auditorium</venue><city>Los Angeles</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s):; Blue Cheer</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_70><key_71><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>303</shows_key><showdate>07/12/68</showdate><venue>King's Beach Bowl</venue><city>Lake Tahoe</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Working Class</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_71><key_72><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>304</shows_key><showdate>07/13/68</showdate><venue>King's Beach Bowl</venue><city>Lake Tahoe</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Working Class</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_72><key_73><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>324798</shows_key><showdate>07/18/68</showdate><venue>Anthem Of The Sun Live</venue><city>Compilation</city><state>Various</state><set1>That's It For The Other One  11-01-68&#13;
+       I. Cryptical Envelopment&#13;
+       II. Quadlibet For Tender Feet&#13;
+       III. The Faster We Go, The Rounder We Get&#13;
+       IV. We Leave The Castle&#13;
+New Potato Caboose   08-22-68&#13;
+Born Cross-Eyed   01-17-68&#13;
+Alligator   05-xx-68&#13;
+Caution (Do Not Stop On Tracks)   05-xx-68&#13;
+&#13;
+bonus track&#13;
+&#13;
+Feedback   11-01-68</set1><set2></set2><set3></set3><comment>Released July 18 1968&#13;
+&#13;
+Feedback might seem like a strange choice as a bonus track.  The reason I've included it is because Caution is incomplete and cuts before the end.  I didn't want to leave it hanging so this seemed like a way to a better ending.&#13;
+&#13;
+All tracks have been changed in some way for the purpose of this compilation.&#13;
+ &#13;
+</comment><lastupdate>2006-10-02 07:44:01</lastupdate><showyear>1968</showyear><showsuserid>MTNJAM</showsuserid></key_73><key_74><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>305</shows_key><showdate>08/02/68</showdate><venue>The Hippodrome</venue><city>San Diego</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Curly Cookes Hurdy-Gurdy Band; Maya</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_74><key_75><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>306</shows_key><showdate>08/03/68</showdate><venue>The Hippodrome</venue><city>San Diego</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Curly Cookes Hurdy-Gurdy Band; Maya</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_75><key_76><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>307</shows_key><showdate>08/04/68</showdate><venue>Orange County Fairgrounds</venue><city>Costa Mesa</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>"First Annual Newport Pop Festival" Other artist(s):.- Jefferson Airplane; Eric Burden &amp; The Animals; The Byrds Big Br. &amp; The Holding Co.; Electric Flag; Canned Heat; QMS Iron Butterfly; Things To Come; Country Joe and the Fish; Illinois Speed Press Sonny &amp;</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_76><key_77><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>308</shows_key><showdate>08/20/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>Dark Star-&gt; Saint Stephen-&gt; Death Don't Have No Mercy</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): GD; Kaleidoscope; Albert Collins Venue used to be called "Carousel Ballroom</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_77><key_78><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>309</shows_key><showdate>08/21/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>Cryptical Envelopement-&gt; Drums-&gt; The Other One-&gt; Cryptical Envelopement, Good Morning Little School Girl, Alligator</set1><set2>Dark Star-&gt; Saint Stephen-&gt; Death Don't Have No Mercy-&gt; Turn On Your Love Light, E: Midnight Hour</set2><set3>
+</set3><comment>Alligator contains We Bid You Goodnight Theme. Other artist(s): GD; Kaleidoscope; Albert Collins</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_78><key_79><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>310</shows_key><showdate>08/22/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>Saint Stephen, Death Don't Have No Mercy, Turn On Your Love Light</set1><set2>Dark Star-&gt; Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement-&gt; New Potato Caboose, Alligator, Drums-&gt; Alligator, Caution (Do Not Stop on Tracks), Feedback, We Bid You Good Night</set2><set3>
+</set3><comment>Other artist(s): GD; Kaleidoscope; Albert Collins</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_79><key_80><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>311</shows_key><showdate>08/23/68</showdate><venue>Shrine Auditorium</venue><city>Los Angeles</city><state>CA</state><set1>Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement, Dark Star-&gt; Saint Stephen-&gt; The Eleven-&gt; Death Don't Have No Mercy, Alligator-&gt; Drums-&gt; Alligator-&gt; Caution (Do Not Stop on Tracks)</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>fwagner.etree</showsuserid></key_80><key_81><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>312</shows_key><showdate>08/24/68</showdate><venue>Shrine Auditorium</venue><city>Los Angeles</city><state>CA</state><set1>Good Morning Little School Girl, Dark Star-&gt; Saint Stephen-&gt; The Eleven-&gt; Death Don't Have No Mercy, Cryptical Envelopement-&gt; The Other One-&gt; Cryptical Envelopement-&gt; New Potato Caboose-&gt; Turn On Your Love Light, E: Morning Dew</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_81><key_82><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>313</shows_key><showdate>08/28/68</showdate><venue>Avalon Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Dark Star-&gt; Saint Stephen-&gt; The Eleven-&gt; Death Don't Have No Mercy, Turn On Your Love Light, Good Morning Little School Girl</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_82><key_83><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>64396</shows_key><showdate>08/29/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>St. Stephen
+Cryptical&amp;gt; 
+TOO&amp;gt; 
+Cryptical 
+New Potato Caboose 
+Alligator 
+Caution Jam 
+
+
+</set1><set2></set2><set3></set3><comment>Venue not confirmed.</comment><lastupdate>2008-09-25 22:58:58</lastupdate><showyear>1968</showyear><showsuserid>stark1</showsuserid></key_83><key_84><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>314</shows_key><showdate>08/30/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): GD; Preservation Hall Jazz Band; Sons of Champlain</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_84><key_85><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>315</shows_key><showdate>08/31/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): GD; Preservation Hall Jazz Band; Sons of Champlain</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_85><key_86><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>316</shows_key><showdate>09/01/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): GD; Preservation Hall Jazz Band; Sons of Champlain</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_86><key_87><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>317</shows_key><showdate>09/01/68</showdate><venue>Palace of Fine Arts Theatre</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Haight-Ashbury Medical Clinic benefit - afternoon concert</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_87><key_88><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>318</shows_key><showdate>09/02/68</showdate><venue>Betty Nelson's Organic Raspberry Farm</venue><city>Sultan</city><state>WA</state><set1>Dark Star, Saint Stephen -&amp;gt; The Eleven -&amp;gt; Death Don't Have No Mercy, Cryptical Envelopment -&amp;gt; Drums -&amp;gt; The Other One -&amp;gt; Cryptical Envelopment -&amp;gt; Alligator -&amp;gt; Drums -&amp;gt; Alligator -&amp;gt; Caution (Do Not Stop on Tracks) -&amp;gt; Feedback</set1><set2></set2><set3></set3><comment>Sky River Festival</comment><lastupdate>2011-08-20 13:19:21</lastupdate><showyear>1968</showyear><showsuserid>Cfrolio</showsuserid></key_88><key_89><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>319</shows_key><showdate>09/05/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Saint Stephen, </set1><set2>
+</set2><set3>
+</set3><comment>Dead begin recording Aoxomoxoa</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_89><key_90><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>320</shows_key><showdate>09/06/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Saint Stephen, Whats Become Of The Baby</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_90><key_91><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>171197</shows_key><showdate>09/07/68</showdate><venue>Russian River Festival</venue><city>Santa Rosa</city><state>CA</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2003-09-04 22:34:48</lastupdate><showyear>1968</showyear><showsuserid>rodiebluez</showsuserid></key_91><key_92><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>321</shows_key><showdate>09/10/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Saint Stephen, </set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_92><key_93><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>322</shows_key><showdate>09/11/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Saint Stephen, Whats Become Of The Baby</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_93><key_94><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>323</shows_key><showdate>09/13/68</showdate><venue>Pacific Recording Studio</venue><city>San Mateo</city><state>CA</state><set1>St. Stephen&#13;
+Dupree's Diamond Blues&#13;
+Rosemary&#13;
+Doin' that Rag&#13;
+Mountains Of The Moon&#13;
+China Cat Sunflower&#13;
+What's Become of the Baby&#13;
+Cosmic Charlie&#13;
+Dark Star&#13;
+St. Stephen</set1><set2></set2><set3></set3><comment>Original mixes of Aoxomoxoa tracks were recorded between 09/13/68 and 03/11/69, released 06/20/69 then recalled in September '71.</comment><lastupdate>2006-08-24 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>wiedmann</showsuserid></key_94><key_95><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>324</shows_key><showdate>09/20/68</showdate><venue>Berkeley Community Theater</venue><city>Berkeley</city><state>CA</state><set1>Good Morning Little Schoolgirl, St Stephen&gt; The Eleven &gt; Drums*</set1><set2></set2><set3></set3><comment>*with Vince Delgado and Shankar Ghosh; setlist courtesy deadlists.com (Deadbase IX may be incorrect); other artists on bill: Steve Miller, Ace Of Cups</comment><lastupdate>2001-11-09 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_95><key_96><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>325</shows_key><showdate>09/21/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_96><key_97><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>326</shows_key><showdate>09/22/68</showdate><venue>Del Mar Fairgrounds</venue><city>San Diego</city><state>CA</state><set1>Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment, Good Morning Little  Schoolgirl, New Potato Caboose, Alligator &gt; Caution (Do Not Stop On Tracks) &gt; Feedback, In The Midnight Hour</set1><set2></set2><set3></set3><comment>Other artist(s): Buddy Miles Express; Tai Mahal; QMS; Sons Of Champlin; Mother Earth Curly Cooke's Hurdy-Gurdy band; Youngbloods; Ace Of Cups; Phoenix; possible setlist via deadlists.com, through Deadbase IX, with added note: "Tapes Of 08/21/68 I often circulate with this date."</comment><lastupdate>2002-03-17 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_97><key_98><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>327</shows_key><showdate>09/26/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_98><key_99><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>328</shows_key><showdate>09/29/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Saint Stephen, </set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_99><key_100><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>329</shows_key><showdate>10/02/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Whats Become Of The Baby, </set1><set2>
+</set2><set3>
+</set3><comment>Outtakes</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_100><key_101><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>330</shows_key><showdate>10/03/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Barbed Wire Whipping Party, Whats Become Of The Baby, Barbed Wire Whipping Party</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_101><key_102><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>331</shows_key><showdate>10/04/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Clementine, Barbed Wire Whipping Party*</set1><set2>
+</set2><set3>
+</set3><comment>*Chorus</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_102><key_103><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>332</shows_key><showdate>10/05/68</showdate><venue>Sacramento Memorial Auditorium</venue><city>Sacramento</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_103><key_104><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>333</shows_key><showdate>10/07/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Clementine, Barbed Wire Whipping Party</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_104><key_105><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>334</shows_key><showdate>10/08/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>Clementine Jam, Clementine Jam&gt;The Eleven Jam&gt;Death Don't Have No Mercy, The Seven, Dark Star Jam&gt;Cosmic Charlie</set1><set2>Next Time You See Me Jam, Jam, The Other One&gt;Jam</set2><set3>Jam, Jam, Jam, Prisoner Blues, Jam</set3><comment>Mickey And The Hartbeats - rehearsal</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_105><key_106><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>335</shows_key><showdate>10/09/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>currently unknown</set1><set2></set2><set3></set3><comment>Mickey And The Hartbeats; note 9/02/01: according to &lt;a href= "http://www.deadlists.com"&gt;Deadlists&lt;/a&gt;, what usually circulates as this date is actually an out-of-order version of 10/10/68 material. </comment><lastupdate>2001-09-02 21:40:29</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_106><key_107><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>336</shows_key><showdate>10/10/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>Jam , It's A Sin, Next Time You See Me Jam, The Rub Jam, Look On Yonder Wall, Jam &gt; Turn On Your Lovelight Jam &gt; Drums &gt; Jam &gt; The Other One Jam &gt; Jam &gt; Death Don't Have No Mercy, Dark Star Jam  &gt; The Eleven Jam  &gt; The Seven</set1><set2></set2><set3></set3><comment>Mickey And The Hartbeats, w/Paul Butterfield (harmonica); note as of 9/02/01: corrected setlist courtesy &lt;a href= "http://www.deadlists.com"&gt;Deadlists&lt;/a&gt;- see that site for extensive discussion. This material also reportedly circulates reordered and mislabeled as 10/9/68.</comment><lastupdate>2001-09-02 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_107><key_108><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>337</shows_key><showdate>10/11/68</showdate><venue>Avalon Ballroom</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Lee Michaels; Linn County; Mance Lipscomb</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_108><key_109><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>338</shows_key><showdate>10/12/68</showdate><venue>Avalon Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Dark Star &gt; St Stephen &gt; The Eleven  &gt; Death Don't Have No Mercy </set1><set2>Cryptical Envelopment &gt; Drums  &gt; Other One  &gt; Cryptical Envelopment  &gt; New Potato Caboose  &gt; Jam  &gt; Drums &gt; Jam  &gt; Feedback</set2><set3></set3><comment>this date generally circulates mislabeled as "10/13/68" from a copy of an FM broadcast; for more info see &lt;a href= "http://www.deadlists.com"&gt;deadlists.com&lt;/a&gt;; Other artist(s): Lee Michaels; Linn County; Mance Lipscomb</comment><lastupdate>2001-10-25 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_109><key_110><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>339</shows_key><showdate>10/13/68</showdate><venue>Avalon Ballroom</venue><city>San Francisco</city><state>CA</state><set1>Dark Star  &gt; St Stephen &gt; The Eleven  &gt; Death Don't Have No Mercy [9:07]</set1><set2>Cryptical Envelopment &gt; Drums &gt; Other One   &gt; Cryptical Envelopment  &gt; New Potato Caboose  &gt; Drums &gt; Jam &gt; Feedback</set2><set3></set3><comment>According to &lt;a href= "http://www.deadlists.com"&gt;Deadlists&lt;/a&gt;, "This list is for the real 10-13-68 (see comments for [Deadlist's] 10-12-68)"; not FM broadcast KPFA-Berkeley - tapes of a broadcast of 10/12/68 circulate mislabeled as 10/13/68.</comment><lastupdate>2001-10-25 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_110><key_111><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>198135</shows_key><showdate>10/15/68</showdate><venue>SAN FRANCISCO,CA</venue><city>SAN FRANCISCO</city><state>CA</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2004-02-12 08:14:13</lastupdate><showyear>1968</showyear><showsuserid>mikesgroove</showsuserid></key_111><key_112><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>340</shows_key><showdate>10/18/68</showdate><venue>The Bank</venue><city>Torrance</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): CleveLand Wrecking Company</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_112><key_113><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>171199</shows_key><showdate>10/19/68</showdate><venue>Matrix</venue><city>San Francisco</city><state>CA</state><set1></set1><set2></set2><set3></set3><comment></comment><lastupdate>2003-09-04 22:53:20</lastupdate><showyear>1968</showyear><showsuserid>rodiebluez</showsuserid></key_113><key_114><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>341</shows_key><showdate>10/20/68</showdate><venue>Greek Theatre, U. Of California</venue><city>Berkeley</city><state>CA</state><set1>Good Mornin' Little Schoolgirl, Turn on Your Lovelight, Dark Star &gt; St. Stephen &gt; The Eleven &gt; Caution (Do Not Stop On Tracks) &gt; Feedback</set1><set2></set2><set3></set3><comment>Sunday afternoon show, with Canned Heat, Mad River, Stonehenge, Linn County</comment><lastupdate>2002-05-20 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_114><key_115><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>342</shows_key><showdate>10/21/68</showdate><venue>Jefferson Airplane House</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Garcia, Hart, Kaukonen, Casady, Dryden</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_115><key_116><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>343</shows_key><showdate>10/29/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Mickey And The Hartbeats</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_116><key_117><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>344</shows_key><showdate>10/30/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>Dark Star Jam -&gt; Death Letter Blues, Other One Jam, Saint Stephen Jam, Jam -&gt; Lovelight Jam, Jam -&gt; Eleven Jam -&gt; Death Don't Have No Mercy -&gt; Jam, Prisoner Blues*, Jam, Dark Star Jam</set1><set2></set2><set3></set3><comment>*with Elvin Bishop; Mickey And The Hartbeats; setlist courtesy deadlists.com</comment><lastupdate>2001-07-13 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_117><key_118><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>345</shows_key><showdate>10/31/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Mickey And The Hartbeats</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_118><key_119><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>346</shows_key><showdate>11/01/68</showdate><venue>The Silver Dollar Fair</venue><city>Chico</city><state>CA</state><set1>Alligator-&gt; Drums-&gt; Alligator-&gt; Caution (Do Not Stop on Tracks), Dark Star-&gt; Cryptical Envelopment-&gt; Drums-&gt; The Other One-&gt; Cryptical Envelopment-&gt; New Potato Caboose, We Bid You Good Night</set1><set2></set2><set3></set3><comment>Garcia can clearly be heard saying this was the Dead's final set of the evening, and then Alligator begins.</comment><lastupdate>2002-09-15 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>diana</showsuserid></key_119><key_120><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>347</shows_key><showdate>11/04/68</showdate><venue>Longshoreman's Hall</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>0000-00-00 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_120><key_121><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>348</shows_key><showdate>11/05/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Clementine, </set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_121><key_122><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>349</shows_key><showdate>11/06/68</showdate><venue>Pacific High Recording</venue><city>San Mateo</city><state>CA</state><set1>Turn On Your Love Light, Dark Star-&gt; Saint Stephen-&gt; The Eleven</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_122><key_123><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>350</shows_key><showdate>11/07/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS: GD; Linn Country</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_123><key_124><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>351</shows_key><showdate>11/08/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS, GD; Linn Country</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_124><key_125><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>352</shows_key><showdate>11/09/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS; GD; Linn County</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_125><key_126><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>353</shows_key><showdate>11/10/68</showdate><venue>Fillmore West</venue><city>San Francisco</city><state>CA</state><set1>Morning Dew, </set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): QMS; GD; Linn County</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_126><key_127><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>354</shows_key><showdate>11/17/68</showdate><venue>Eagle's Auditorium</venue><city>Seattle</city><state>WA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Native American Fund benefit</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_127><key_128><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>355</shows_key><showdate>11/22/68</showdate><venue>Columbus Veterans Hall</venue><city>Columbus</city><state>OH</state><set1>Morning Dew, Good Morning Little Schoolgirl, Dark Star &gt; Saint Stephen &gt; The Eleven &gt; Turn On Your Lovelight, Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; The Other One Jam &gt; New Potato Caboose, And We Bid You Good Night</set1><set2></set2><set3></set3><comment>Billy absent due to illness; show was mentioned along with 11/23/68 in testimony during Garcia vs. Garcia dispute over Jerry's will</comment><lastupdate>2003-03-11 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_128><key_129><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>356</shows_key><showdate>11/23/68</showdate><venue>Memorial Auditorium, Ohio University</venue><city>Athens</city><state>OH</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>First concert with Tom Constanton</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_129><key_130><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>357</shows_key><showdate>11/24/68</showdate><venue>Hyde Park Teen Center</venue><city>Cincinnati</city><state>OH</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_130><key_131><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>358</shows_key><showdate>11/27/68</showdate><venue>The Kinetic Playground</venue><city>Chicago</city><state>IL</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Procol Harum</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_131><key_132><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>359</shows_key><showdate>11/28/68</showdate><venue>The Kinetic Playground</venue><city>Chicago</city><state>IL</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Procol Harum</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_132><key_133><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>360</shows_key><showdate>12/01/68</showdate><venue>Grande Ballroom</venue><city>Detroit</city><state>MI</state><set1>We Bid You Good Night, </set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Popcorn Blizzard</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_133><key_134><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>361</shows_key><showdate>12/06/68</showdate><venue>The Spectrum</venue><city>Philadelphia</city><state>PA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Quaker City Rock Festival</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_134><key_135><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>362</shows_key><showdate>12/07/68</showdate><venue>Bellarmine College</venue><city>Louisville</city><state>KY</state><set1>Dark Star &gt; St. Stephen &gt; The Eleven, Death Don't Have No Mercy, Cryptical Envelopment &gt; Drums &gt; The Other One &gt; Cryptical Envelopment &gt; Jam &gt;  New Potato Caboose*</set1><set2>Rosemary, He Was A Friend Of Mine, It Hurts Me Too, Morning Dew &gt; And We Bid You Goodnight</set2><set3></set3><comment>*bass solo based in part on Chopin's Minute Waltz</comment><lastupdate>2001-06-14 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_135><key_136><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>363</shows_key><showdate>12/10/68</showdate><venue>Alembic Studios</venue><city>San Francisco</city><state>CA</state><set1>Turn On Your Love Light, Dark Star-&gt; Saint Stephen, Saint Stephen-&gt; The Eleven, The Eleven</set1><set2>
+</set2><set3>
+</set3><comment>With Tom Constanten Day uncertain</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_136><key_137><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>364</shows_key><showdate>12/13/68</showdate><venue>The Bank</venue><city>Torrance</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Magic Sam; Turnqist Remedy</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_137><key_138><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>365</shows_key><showdate>12/14/68</showdate><venue>The Bank</venue><city>Torrance</city><state>CA</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>Other artist(s): Magic Sam; Turnqist Remedy</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_138><key_139><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>367</shows_key><showdate>12/20/68</showdate><venue>Shrine Exhibition Hall</venue><city>Los Angeles</city><state>CA</state><set1>The Eleven &amp;gt; 
+Mountains Of The Moon*
+Lovelight</set1><set2></set2><set3></set3><comment>* Garcia Solo Acoustic; list incomplete - from end of set; Other artist(s): Country Joe &amp; The Fish, Spirit, Pulse, Sir Douglas Quintet, Mint Tatoo&#13;
+&#13;
+</comment><lastupdate>2014-08-04 00:36:29</lastupdate><showyear>1968</showyear><showsuserid>BeLikeMike</showsuserid></key_139><key_140><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>368</shows_key><showdate>12/21/68</showdate><venue>Shrine Exhibition Hall</venue><city>Los Angeles</city><state>CA</state><set1>Turn on Your Lovelight Cryptical Envelopment &gt; The Other One &gt; Cryptical Envelopment &gt; It Hurts Me Too, Alligator &gt; Drums &gt; Alligator &gt; Caution &gt; Feedback &gt; And We Bid You Goodnight&#13;
+</set1><set2></set2><set3></set3><comment>Other artist(s):; Country Joe &amp; The Fish; Spirit; Pulse; Sir Douglas Quinte; Mint Tatoo</comment><lastupdate>2001-06-19 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_140><key_141><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>71903</shows_key><showdate>12/24/68</showdate><venue>The Matrix</venue><city>San Francisco</city><state>CA</state><set1>Jam</set1><set2></set2><set3></set3><comment>Hartbeats, w/ Harvey Mandel &amp; George Chambers</comment><lastupdate>2002-02-16 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>balou2</showsuserid></key_141><key_142><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>369</shows_key><showdate>12/28/68</showdate><venue>Unknown Location</venue><city>Houston</city><state>TX</state><set1>
+</set1><set2>
+</set2><set3>
+</set3><comment>
+</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_142><key_143><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>370</shows_key><showdate>12/29/68</showdate><venue>Gulfstream Park Racetrack</venue><city>Hallandale</city><state>FL</state><set1>Lovelight, Dark Star &gt; St.Stephen &gt; The Eleven &gt; Cryptical Envelopment &gt; Drums &gt; The Other One &gt; Cryptical Envelopment &gt; Feedback &gt; We Bid You Goodnight</set1><set2></set2><set3></set3><comment>Miami Pop Festival</comment><lastupdate>0000-00-00 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>hamilton</showsuserid></key_143><key_144><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>371</shows_key><showdate>12/31/68</showdate><venue>Winterland Arena</venue><city>San Francisco</city><state>CA</state><set1>Midnight Hour, Dark Star-&gt; Saint Stephen-&gt; The Eleven-&gt; Turn On Your Love Light</set1><set2>
+</set2><set3>
+</set3><comment>The list from 05-03-69 often appears on tapes with this date "The Fillmore Scene at Wintertand" - 9 PM to 9 AM - "Includes Breakfast" Other artist(s): GD; QMS; It's A Beautiful Day; Santana</comment><lastupdate>1996-01-07 00:00:00</lastupdate><showyear>1968</showyear><showsuserid>system</showsuserid></key_144><key_145><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>53298</shows_key><showdate>12/??/68</showdate><venue>Alembic Studios</venue><city>San Francisco</city><state>Ca</state><set1>Dark Star&gt;St. Stephen, St. Stephen&gt; The Eleven </set1><set2></set2><set3></set3><comment>rehearsal with Tom Constanten</comment><lastupdate>2000-12-23 13:42:50</lastupdate><showyear>1968</showyear><showsuserid>sageandspirt</showsuserid></key_145><key_146><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>48654</shows_key><showdate>??/??/68</showdate><venue>Unknown or Various</venue><city>Unknown</city><state>Unknown</state><set1>placeholder entry- see comments</set1><set2></set2><set3></set3><comment>This is a single placeholder entry for, among other things, ~7 undated '68 fragments, which as of of 2002 have been circulating together on 5 reels&gt; 4 CDs (&lt;a href= "http://db.etree.org/shninfo_detail.php?shnid=9426"&gt;more info&lt;/a&gt;). Also, &lt;a href= "http://db.etree.org/shninfo_detail.php?shnid=12618"&gt;Alembic Rehearsals&lt;/a&gt; Feel free to use this entry to list any other unknown '68 material you may have- you can specify details in your own personal notes section on your list. This show record will remain open-ended without specific setlists.</comment><lastupdate>2005-12-08 18:17:45</lastupdate><showyear>1968</showyear><showsuserid>crmass</showsuserid></key_146><key_147><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>145667</shows_key><showdate>??/??/68</showdate><venue>1968 Mystery Reels</venue><city>Various</city><state>Various</state><set1>Disk 1 [47:18]&#13;
+--------------------------------------------------------------	&#13;
+Excerpt # 1 per The Deadhead's Taping Compendium&#13;
+Source: SBD&gt;MR&gt;DAT(s)&gt;CDR&#13;
+Conversion: CDR &gt; EAC(secure) &gt;  mkwact(seekable)&#13;
+&#13;
+01. [00:17] (fades in)//St. Stephen &gt;&#13;
+02. [02:20] Jam (St. Stephen ish)&#13;
+03. [01:46] Cryptical Envelopment Reprise &gt;&#13;
+04. [04:41] The Other One &gt;&#13;
+05. [06:05] Cryptical Envelopment &gt;&#13;
+06. [04:25] New Potato Caboose &gt;&#13;
+07. [06:21] Thirteens Jam &gt;&#13;
+08. [03:21] Alligator &gt;&#13;
+09. [04:25] Drumz &gt;&#13;
+10. [09:04] Jam (Cautionish) &gt;&#13;
+11. [04:27] Caution(Do Not Step on Tracks)//&#13;
+	&#13;
+	&#13;
+This partial set is a differently tracked version of this corresponding entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	St Stephen [#2:40] &gt; Cryptical Envelopment [1:42] &gt; Drums [0:14] &gt; The &#13;
+Other One [4:28] &gt; Cryptical Envelopment [6:03] &gt; New Potato Caboose [10:46] &gt; &#13;
+Alligator [3:20] &gt; Drums [6:19] &gt; Caution (Do Not Stop On Tracks) {11:29#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS	At 3:56 into the Drums after Alligator, they start singing Alligator vocals and at 4:35 in to it, Jerry joins in with a Caution type solo.  Although this fragment circulates as "Fall 1968", "3/22/68 Detroit", and "May 1968", it is from an unlabeled reel. There is an entry for this set list on p. 164 of Volume 1 of The Deadhead's Taping Compendium.  According to Rob Eaton: "There were 5 unlabeled 7 inch reels found in the Vault many years ago.  Several contained very early versions of Stephen. The tape you describe is one of these unknown reels. The best estimate for a date would be April/May 1968 or spring '68."&#13;
+RECORDING	45 SBD&#13;
+--------------------------------------------------------------	&#13;
+	&#13;
+&#13;
+--------------------------------------------------------------	&#13;
+Disk 2 [43:10]&#13;
+--------------------------------------------------------------	&#13;
+Excerpt # 2 per The Deadhead's Taping Compendium&#13;
+&#13;
+Source:  SBD&gt;MR&gt;DAT&gt;CDR&#13;
+Conversion: CDR &gt; EAC(secure) &gt; Cool Edit (fix drop outs) &gt; shntool (retrack on sectors) &gt; mkwact(seekable)&#13;
+ &#13;
+01. [01:31] Drumz &gt;&#13;
+02. [13:59] (post-Alligator) Jam&#13;
+&#13;
+This partial set corresponds to this entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	Drums [#1:30]&gt; Jam [13:59] &gt; Caution [1:07#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS	The date and location of this recording are unknown.  Its hard to say for sure, but it sounds like late 1968 - maybe September or October or thereabouts.  The Drums has that Bol scat "Ya, Ya, Yakita, Yakita" in it. &#13;
+RECORDING	17 SBD&#13;
+&#13;
+Excerpt # 3 per The Deadhead's Taping Compendium&#13;
+&#13;
+Source:  SBD&gt;MR&gt;DAT&gt;CDR&#13;
+Conversion: CDR &gt; EAC(secure) &gt;  mkwact(seekable)&#13;
+&#13;
+03. [01:06] (fades in)//Cryptical Envelopment &gt;&#13;
+04. [02:31] The Other One &gt;&#13;
+05. [03:30] Cryptical Envelopment &gt;&#13;
+06. [08:41] New Potato Caboose //&#13;
+07. [04:05] It Hurts Me Too&#13;
+08. [03:17] Born Cross Eyed //&#13;
+&#13;
+This partial set corresponds to this entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	Cryptical Envelopment [#1:06] &gt; The Other One [2:31] &gt; Cryptical Envelopment [3:30] &gt; New Potato Caboose [8:41] ; It Hurts Me Too [#4:05] ; Born Cross-Eyed [3:08#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS	The date and location of this recording are unknown. There is no Drums after the first Cryptical, The Other One has the standard lyrics, but Bobby stumbles with them as on 2-3-68.  This recording is probably very close to that date.&#13;
+RECORDING	25 SBD&#13;
+&#13;
+Excerpt # 4 per The Deadhead's Taping Compendium&#13;
+&#13;
+Source:  SBD&gt;MR&gt;C&gt;DAT&gt;CDR&#13;
+Conversion: CDR &gt; EAC(secure) &gt;  mkwact(seekable)&#13;
+&#13;
+09. [04:04] //Dark Star &gt;&#13;
+10. [00:21] St. Stephen //&#13;
+&#13;
+This partial set corresponds to this entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	Dark Star [#4:05] &gt; St. Stephen [0:06#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS	The date and location of this recording are unknown.  Its sounds like it's from 1968, but maybe it's early 1969?&#13;
+RECORDING	5 SBD&#13;
+&#13;
+--------------------------------------------------------------	&#13;
+Disk 3 [78:21]&#13;
+--------------------------------------------------------------	&#13;
+Excerpt # 5 per The Deadhead's Taping Compendium&#13;
+&#13;
+Source: SBD&gt;MR&gt;C&gt;DAT&gt;CDR&#13;
+&#13;
+Conversion: CDR &gt; EAC(secure) &gt;  mkwact(seekable)&#13;
+&#13;
+SET list&#13;
+01. [00:39] //Cryptical Envelopment &gt; &#13;
+02. [05:24] The Other One  &gt; &#13;
+03. [09:37] Cryptical Envelopment &gt; &#13;
+04. [15:18] Good Morning Little Schoolgirl; &#13;
+05. [13:36] //Dark Star &gt; &#13;
+06. [03:34] St. Stephen &gt; &#13;
+07. [12:09] The Eleven &gt; &#13;
+08. [08:06] Death Don't Have No Mercy//; &#13;
+09. [09:55] Turn On Your Lovelight//&#13;
+&#13;
+hiss level significantly higher than the other disks in this set and some distortion on bass - looks to have more than 1 cassette generation.  fairly frequent partial channel drop outs from what might be tape decay on some songs&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	Cryptical Envelopment [#0:39] &gt; The Other One  [5:24] &gt; Cryptical &#13;
+Envelopment [9:37] &gt; Good Morning Little Schoolgirl [14:49] ; Dark Star  &#13;
+[#13:33] &gt; St. Stephen  [3:34] &gt; The Eleven [12:09] &gt; Death Don't Have No Mercy &#13;
+[8:%07] ; Turn On Your Lovelight [9:48#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS	The date and location of this recording are unknown.  It begins with a cut right into the "doesn't seem to matter" line in Cryptical Envelopment.  There is a six second or so drum solo intro to The Other One.  At the "one man gathers what another man spills" break in St. Stephen, Jerry and maybe two others laugh, but there are not really any words.&#13;
+RECORDING	78 SBD&#13;
+&#13;
+--------------------------------------------------------------	&#13;
+Disk 4 [75:43]&#13;
+--------------------------------------------------------------	&#13;
+Excerpt # 6 per The Deadhead's Taping Compendium&#13;
+&#13;
+Source: MR &gt; C &gt; DAT &gt; CD&#13;
+Conversion: CDR &gt; EAC(secure) &gt; Cool Edit(minor cleanup) &gt; mkwact(seekable)&#13;
+&#13;
+01. [07:36] //St. Stephen &gt; &#13;
+02. [01:46] Cryptical Envelopment &gt; &#13;
+03. [04:42] The Other One  &gt;&#13;
+04. [04:23] Cryptical Envelopment &gt; &#13;
+05. [10:18] Turn On You Lovelight// &#13;
+&#13;
+d1t1 - tape speed variable at the start&#13;
+d1t2 - volume change ~1:30&#13;
+d1t5 ~7:40 volume lowered&#13;
+&#13;
+This partial set corresponds to this entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	St. Stephen [#7:33] &gt; Cryptical Envelopment [1:46] &gt; The Other One [4:43] &#13;
+&gt; Cryptical Envelopment [4:28] &gt; Turn On You Lovelight [10:10#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS The date and location of this recording are unknown. There is a 13 second drum solo intro to The Other One.  At the "one man gathers what another man spills" break in St. Stephen, there are no words, just further jamming immediately.&#13;
+RECORDING	28 SBD&#13;
+&#13;
+&#13;
+Excerpt # 7 per The Deadhead's Taping Compendium&#13;
+Source: SBD &gt; MR&gt; C &gt; DAT &gt; CDR&#13;
+	&#13;
+06. [06:23] //Morning Dew; &#13;
+07. [03:40] //Hurts Me Too; &#13;
+08. [01:19] "Return the scratcher"&#13;
+09. [16:06] Dark // Star  &#13;
+10. [08:20] St. Stephen &gt; &#13;
+11. [11:04] Turn On Your Lovelight//&#13;
+&#13;
+d1t6 ~ volume changes occur during first minute&#13;
+&#13;
+This partial set corresponds to this entry in Deadlists&#13;
+&#13;
+BAND	Grateful Dead&#13;
+VENUE	unknown&#13;
+CITY	unknown&#13;
+STATE	unknown&#13;
+DATE	??/??/68&#13;
+SET1	Morning Dew [#6:14] ; Hurts Me Too [#4:49] ; Dark Star [16%:03) St. &#13;
+Stephen [8:21] &gt; Turn On Your Lovelight [11:04#]&#13;
+SET2	&#13;
+SET3	&#13;
+ENCORE	&#13;
+COMMENTS The date and location of this recording are unknown.  There is a tape flip in Dark Star.  At the "one man gathers what another man spills" break in St. Stephen it goes right into a short jam and back into the next lyrics with no comments of any kind.&#13;
+RECORDING	28 SBD&#13;
+</set1><set2></set2><set3></set3><comment>These recordings have been found on 5 unlabeled reel-to-reel tapes in the Vault. They have been gathered on 4 cd's and circulate a.o. as the 1968 Mystery Reels.</comment><lastupdate>2006-02-10 00:37:27</lastupdate><showyear>1968</showyear><showsuserid>kollektionist</showsuserid></key_147><key_148><name>Grateful Dead</name><artist_key>2</artist_key><shows_key>443072</shows_key><showdate>??/??/68</showdate><venue>Matrix</venue><city>San Francisco</city><state>CA</state><set1>jam // 	&#13;
+jam // ^</set1><set2></set2><set3></set3><comment>Notes:&#13;
+&#13;
+I asked Michael Parrish for a copy of the mystery fragment reviewed in the taping compendium. This tape also included another fragment not reviewed in the compendium and was labeled 11 1 68, which is most likely incorrect.&#13;
+&#13;
+* Here's what Parrish supplied for source / lineage info: ?Both of these pieces came in a cassette that Dwork sent me near the beginning of the compendium project. As I noted, track #2 corresponds to the first track of your "Mystery Disc" and I have never heard the other piece anywhere other than on the Dwork tape. It rang no bells with Dick L. either.?&#13;
+&#13;
+^ The fragment I sent you as 11/1/68 is the same as the first track on your Mystery Show CD. I wouldn't necessarily bet that either is 11/1/68 though:)&#13;
+&#13;
+Review by Michael Parrish: This mysterious fragment consists of another version of the jam that opens 10/30/68. It is notable for Garcia's inspired and frenetic soloing, which has a rather unusual Latin feel.&#13;
+&#13;
+JJ&#13;
+first Jam has some Cold Rain &amp; Snow &amp; GDTRFB flavor to it&#13;
+second jam starts with Dark Star flavor</comment><lastupdate>2008-12-15 21:45:44</lastupdate><showyear>1968</showyear><showsuserid>spaceddeadhead</showsuserid></key_148></shows><status>success</status></fetchArtistYear></db_rest>
