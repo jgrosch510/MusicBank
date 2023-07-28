@@ -43,11 +43,21 @@
                     "state": "CA",
                     "set1": [
                         "Turn On Your Lovelight",
-                        "Dark Star -> China Cat Sunflower -> The Eleven -> New Potato Caboose -> Born Cross Eyed -> Spanish Jam"
+                        "Dark Star ->", 
+                        "China Cat Sunflower ->", 
+                        "The Eleven ->", 
+                        "New Potato Caboose ->", 
+                        "Born Cross Eyed ->", 
+                        "Spanish Jam"
                     ],
                     "set2": [
                         "Turn On Your Lovelight",
-                        "Dark Star -> China Cat Sunflower -> The Eleven -> New Potato Caboose -> Born Cross Eyed -> Spanish Jam"
+                        "Dark Star ->", 
+                        "China Cat Sunflower ->", 
+                        "The Eleven ->", 
+                        "New Potato Caboose ->", 
+                        "Born Cross Eyed ->", 
+                        "Spanish Jam"
                     ],
                     "set3": "",
                     "comment": "'Ben Franklin's Birthday' - Other artist(s): QMS; Jerry Abrams",
@@ -64,7 +74,13 @@
                     "city": "Eureka",
                     "state": "CA",
                     "set1": [
-                        "Jam > Clementine > New Potato Caboose > Born Cross Eyed > Spanish Jam > Caution Jam > Dark Star"
+                        "Jam >", 
+                        "Clementine ->", 
+                        "New Potato Caboose ->", 
+                        "Born Cross Eyed ->", 
+                        "Spanish Jam ->", 
+                        "Caution Jam ->", 
+                        "Dark Star"
                     ],
                     "set2": "",
                     "set3": "",
@@ -82,7 +98,18 @@
                     "city": "Seattle",
                     "state": "WA",
                     "set1": [
-                        "Alligator\nCryptical Envelopement -&gt;\nThe Other One -&gt;\nCryptical Envelopement -&gt;\nNew Potato Caboose -&gt;\nBorn Cross-Eyed -&gt;\nSpanish Jam -&gt;\nDark Star -&gt;\nChina Cat Sunflower -&gt;\nThe Eleven -&gt;\nCaution (Do Not Stop on Tracks) -&gt;\nFeedback"
+                        "Alligator",
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "New Potato Caboose ->",
+                        "Born Cross-Eyed ->",
+                        "Spanish Jam ->",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Caution (Do Not Stop on Tracks) ->",
+                        "Feedback"
                     ],
                     "set2": "",
                     "set3": "",
@@ -100,7 +127,20 @@
                     "city": "Seattle",
                     "state": "WA",
                     "set1": [
-                        "Cryptical Envelopment &gt;\nThe Other One &gt;\nCryptical Envelopment &gt;\nClementine &gt;\nNew Potato Caboose &gt;\nBorn Cross-Eyed &gt;\nSpanish Jam\nBeat It On Down The Line\nHurts Me Too\nViola Lee Blues\nDark Star &gt;\nChina Cat Sunflower &gt;\nThe Eleven\nTurn On Your Lovelight"
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Clementine ->",
+                        "New Potato Caboose ->",
+                        "Born Cross-Eyed ->",
+                        "Spanish Jam",
+                        "Beat It On Down The Line",
+                        "Hurts Me Too",
+                        "Viola Lee Blues",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven",
+                        "Turn On Your Lovelight"
                     ],
                     "set2": "",
                     "set3": "",
@@ -134,7 +174,9 @@
                     "city": "Seattle",
                     "state": "WA",
                     "set1": [
-                        "New Potato Caboose-&gt;\nBorn Cross-Eyed\nCaution (Do Not Stop on Tracks)"
+                        "New Potato Caboose ->",
+                        "Born Cross-Eyed",
+                        "Caution (Do Not Stop on Tracks)"
                     ],
                     "set2": "",
                     "set3": "",
@@ -171,7 +213,16 @@
                     "city": "Seatlle",
                     "state": "WA",
                     "set1": [
-                        "China\r\njam\r\nI know you rider\r\nsmokestack ltng\r\nnew potato\r\nborn crosseyed\r\nspanish jam\r\nalligator\r\ncaution\r\nfeedback"
+                        "China",
+                        "jam",
+                        "I know you rider",
+                        "smokestack ltng",
+                        "new potato",
+                        "born crosseyed",
+                        "spanish jam",
+                        "alligator",
+                        "caution",
+                        "feedback"
                     ],
                     "set2": "",
                     "set3": "",
@@ -223,7 +274,13 @@
                     "city": "Portland",
                     "state": "OR",
                     "set1": [
-                        "Viola Lee Blues > Feedback ; Cryptical Envelopment > The Other One > Cryptical Envelopment > Clementine > Good Morning Little School Girl*"
+                        "Viola Lee Blues ->",
+                        "Feedback",
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "Clementine ->",
+                        "Good Morning Little School Girl*"
                     ],
                     "set2": "",
                     "set3": "",
@@ -241,9 +298,16 @@
                     "city": "Portland",
                     "state": "OR",
                     "set1": [
-                        "Dark Star > China Cat Sunflower > The Eleven > Feedback",
-                        "Cryptical Envelopment > The Other One > Cryptical Envelopment > New Potato Caboose",
-                        "Born Cross-Eyed > Jam",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Feedback",
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "New Potato Caboose",
+                        "Born Cross-Eyed ->",
+                        "Jam",
                         "Good Morning Little Schoolgirl*"
                     ],
                     "set2": "",
@@ -278,10 +342,20 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Morning Dew\nGood Morning Little Schoolgirl\nDark Star &gt;\nChina Cat Sunflower &gt;\nThe Eleven &gt;\nTurn On Your Lovelight"
+                        "Morning Dew",
+                        "Good Morning Little Schoolgirl",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set2": [
-                        "Morning Dew\nGood Morning Little Schoolgirl\nDark Star &gt;\nChina Cat Sunflower &gt;\nThe Eleven &gt;\nTurn On Your Lovelight"
+                        "Morning Dew",
+                        "Good Morning Little Schoolgirl",
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Turn On Your Lovelight"
                     ],
                     "set3": "",
                     "comment": "Official Opening; \"St. Valentine's Day, Be Mine\" poster; FM broadcast KMPX-San Francisco; Other artist(s): Country Joe & The Fish; Second set in remembrance of Neal Cassidy\r\n<p>According to Deadbase IX,  Good Morning Little Schoolgirl is the first song of Set 1. Morning Dew location is unclear in setlist.",
@@ -330,10 +404,16 @@
                     "city": "Lake Tahoe",
                     "state": "CA",
                     "set1": [
-                        "Viola Lee Blues > Drums > Viola Lee Blues",
+                        "Viola Lee Blues ->",
+                        "Drums ->",
+                        "Viola Lee Blues",
                         "Hurts Me Too",
-                        "Dark Star > China Cat Sunflower > The Eleven > Turn On Your Lovelight",
-                        "Born Cross-eyed > Spanish Jam."
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Turn On Your Lovelight",
+                        "Born Cross-eyed ->",
+                        "Spanish Jam."
                     ],
                     "set2": "",
                     "set3": "",
@@ -354,8 +434,19 @@
                         "Dark Star",
                         "Morning Dew",
                         "Good Morning Little Schoolgirl",
-                        "Cryptical Envelopment > The Other One > Cryptical Envelopment > New Potato Caboose",
-                        "Alligator > Drums > China Cat Sunflower > The Eleven > Alligator > Drums > Alligator > Caution (Do Not Stop On Tracks) > Feedback."
+                        "Cryptical Envelopment ->",
+                        "The Other One ->",
+                        "Cryptical Envelopment ->",
+                        "New Potato Caboose",
+                        "Alligator ->", 
+                        "Drums ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Alligator ->",
+                        "Drums ->",
+                        "Alligator ->",
+                        "Caution (Do Not Stop On Tracks) ->",
+                        "Feedback."
                     ],
                     "set2": "",
                     "set3": "",
@@ -442,7 +533,12 @@
                     "city": "Sacramento",
                     "state": "CA",
                     "set1": [
-                        "Cryptical Envelopement-> The Other One-> Cryptical Envelopement-> New Potato Caboose-> Born Cross-Eyed-> Caution (Do Not Stop on Tracks) Jam"
+                        "Cryptical Envelopement ->",
+                        "The Other One ->",
+                        "Cryptical Envelopement ->",
+                        "New Potato Caboose ->",
+                        "Born Cross-Eyed ->",
+                        "Caution (Do Not Stop on Tracks) Jam"
                     ],
                     "set2": "",
                     "set3": "",
@@ -476,10 +572,16 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Dark Star-> China Cat Sunflower-> The Eleven-> Good Morning Little Schoolgirl"
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Good Morning Little Schoolgirl"
                     ],
                     "set2": [
-                        "Dark Star-> China Cat Sunflower-> The Eleven-> Good Morning Little Schoolgirl"
+                        "Dark Star ->",
+                        "China Cat Sunflower ->",
+                        "The Eleven ->",
+                        "Good Morning Little Schoolgirl""
                     ],
                     "set3": "",
                     "comment": "Other artist(s): Jefferson Airplane; setlist courtesy deadlists.com, which notes: \"Morning Dew is the set 2 opener on the master reel, but it gets rearranged to the end of side A on cassettes copies and to the end of disc #2 on the circulating CDs.\"",
@@ -601,7 +703,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Good Morning Little Schoolgirl\nDeath Don't Have No Mercy\nSitting On Top Of The World\nDark Star\nMorning Dew\nTurn On Your Lovelight -&gt;\nThat's It For The Other One -&gt;\nNew Potato Caboose -&gt;\nBorn Cross Eyed"
+                        "Good Morning Little Schoolgirl\nDeath Don't Have No Mercy\nSitting On Top Of The World\nDark Star\nMorning Dew\nTurn On Your Lovelight -->",That's It For The Other One -->",New Potato Caboose -->",Born Cross Eyed"
                     ],
                     "set2": "",
                     "set3": "",
@@ -641,7 +743,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "set1": [
-                        "Turn On Your Lovelight\nBeat It On Down The Line\nDancing In The Street\nCaution (Do Not Stop On Tracks) &gt;\nFeedback &gt;\nAnd We Bid You Goodnight"
+                        "Turn On Your Lovelight\nBeat It On Down The Line\nDancing In The Street\nCaution (Do Not Stop On Tracks) ->",Feedback ->",And We Bid You Goodnight"
                     ],
                     "set2": "",
                     "set3": "",

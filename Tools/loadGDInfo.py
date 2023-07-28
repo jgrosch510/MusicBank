@@ -19,14 +19,16 @@ def main():
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--year", help='Year to process', required=True)
+    parser.add_argument("--all", help='All years', action='store_true')
+
+    parser.add_argument("--insert", help='Insert query', action='store_true')
 
     parser.add_argument("--output", help='write out insert statements',
                         action='store_true')
 
     parser.add_argument("--quiet", help='No stdout output', action='store_true')
 
-    parser.add_argument("--insert", help='Insert query', action='store_true')
+    parser.add_argument("--year", help='Year to process', required=True)
 
     args = parser.parse_args()
 
