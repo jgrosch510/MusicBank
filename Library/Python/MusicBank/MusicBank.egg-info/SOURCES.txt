@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+MusicBank/MB_common.py
+MusicBank/MB_db_util.py
+MusicBank/__init__.py
+MusicBank.egg-info/PKG-INFO
+MusicBank.egg-info/SOURCES.txt
+MusicBank.egg-info/dependency_links.txt
+MusicBank.egg-info/requires.txt
+MusicBank.egg-info/top_level.txt
