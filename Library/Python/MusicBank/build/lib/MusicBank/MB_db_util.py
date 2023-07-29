@@ -111,7 +111,7 @@ __status__     = "Development"
 # connectToDatabaseJson
 #
 # ---------------------------------------------------------
-def connectToDatabaseJson(paramFile):
+def connectToDatabaseJson(paramFile: str) -> dict:
     """
     Abstracts making a connection to a database
     """
@@ -119,17 +119,20 @@ def connectToDatabaseJson(paramFile):
     rDict = MBC.genReturnDict('inside connectToDatabaseJson')
     RS    = MBC.ReturnStatus
     
-    dbh = ""
-    D = {}
+    dbConnect = {}
     conn = ""
     cursor = ""
-    
-    data = __getDbParams(paramFile)
-    if data['loaded']:
-        dbName   = data['db_name']
-        dbHost   = data['hostname']
-        dbUser   = data['user']
-        dbPasswd = data['password']
+
+    if os.path.exists(paramFile) and os.path.isfile(paramFile):
+        with open(paramFile, 'r') as fh:
+            Lines = fh.read()
+
+        jObj = json.loads(Lines)
+        
+        dbName   = jObj['db_name'] 
+        dbHost   = jObj['hostname'] 
+        dbPasswd = jObj['password'] 
+        dbUser   = jObj['user'] 
 
         try:
             conn = mysql.connector.connect(user=dbUser,
@@ -146,45 +149,16 @@ def connectToDatabaseJson(paramFile):
 
         cursor = conn.cursor(buffered=True)
         
-    D['conn']   = conn
-    D['cursor'] = cursor
+    dbConnect['conn']   = conn
+    dbConnect['cursor'] = cursor
+
+    rDict['status'] = RS.OK
+    rDict['data']   = dbConnect
     
-    return D
+    
+    return rDict
     #
     # End of conectToDatabaseJson
-    #
-
-    
-# ---------------------------------------------------------
-#
-# __getDbParams
-#
-# ---------------------------------------------------------
-def __getDbParams(paramFile):
-    """
-    Internal function to read the database connection config file
-    """
-    data = {}
-    data['loaded'] = False
-
-    if os.path.exists(paramFile) and os.path.isfile(paramFile):
-        with open(paramFile, 'r') as fh:
-            Lines = fh.read()
-
-        jObj = json.loads(Lines)
-        
-        data['db_name']  = jObj['db_name'] 
-        data['hostname'] = jObj['hostname'] 
-        data['password'] = jObj['password'] 
-        data['user']     = jObj['user'] 
-
-        data['loaded'] = True
-    else:
-        data['loaded'] = False
-             
-    return data
-    #
-    # End of __getDbParams
     #
 
 
