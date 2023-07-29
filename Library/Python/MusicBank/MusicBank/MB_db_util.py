@@ -78,7 +78,7 @@
 import os, sys
 import json
 import mysql.connector
-import MB_common
+from MusicBank import MB_common as MBC
 from mysql.connector import errorcode
 
 try:
@@ -111,20 +111,20 @@ __status__     = "Development"
 # connectToDatabaseJson
 #
 # ---------------------------------------------------------
-def connectToDatabaseJson(param_file):
+def connectToDatabaseJson(paramFile):
     """
     Abstracts making a connection to a database
     """
 
-    rDict = genReturnDict('inside connectToDatabaseJson')
-    RS    = ReturnStatus
+    rDict = MBC.genReturnDict('inside connectToDatabaseJson')
+    RS    = MBC.ReturnStatus
     
     dbh = ""
     D = {}
     conn = ""
     cursor = ""
     
-    data = __getDbParams(param_file)
+    data = __getDbParams(paramFile)
     if data['loaded']:
         dbName   = data['db_name']
         dbHost   = data['hostname']
@@ -167,7 +167,7 @@ def __getDbParams(paramFile):
     data = {}
     data['loaded'] = False
 
-    if os.path.exists(param_file) and os.path.isfile(param_file):
+    if os.path.exists(paramFile) and os.path.isfile(paramFile):
         with open(paramFile, 'r') as fh:
             Lines = fh.read()
 
