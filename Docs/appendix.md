@@ -1,7 +1,6 @@
 # MusicBank
 ## Definations
 <p>
-    </ul>
 <hr noshade="noshade">
 
 <div style="font-size: 12pt">
