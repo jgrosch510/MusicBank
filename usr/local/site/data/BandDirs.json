@@ -1,0 +1,4562 @@
+[
+    {
+        "dir": "A",
+        "name": "Addison-Groove-Project"
+    },
+    {
+        "dir": "Y",
+        "name": "Adienne-Young-and-Little-Sadie"
+    },
+    {
+        "dir": "A",
+        "name": "Agents-of-Good-Roots"
+    },
+    {
+        "dir": "A",
+        "name": "Amfibian"
+    },
+    {
+        "dir": "A",
+        "name": "Ancient-Harmony"
+    },
+    {
+        "dir": "O",
+        "name": "Anders-Osborne"
+    },
+    {
+        "dir": "A",
+        "name": "Aquarium-Rescue-Unit"
+    },
+    {
+        "dir": "A",
+        "name": "Avalon-Allstars"
+    },
+    {
+        "dir": "F",
+        "name": "Bela-Fleck-And-The-Flecktones"
+    },
+    {
+        "dir": "F",
+        "name": "Bela-Fleck-And-Tony-Trischka"
+    },
+    {
+        "dir": "F",
+        "name": "Ben-Folds"
+    },
+    {
+        "dir": "R",
+        "name": "Benevento-Russo-Duo"
+    },
+    {
+        "dir": "W",
+        "name": "Bernie-Worrell-and-the-WOO-War"
+    },
+    {
+        "dir": "B",
+        "name": "Big-Frog"
+    },
+    {
+        "dir": "B",
+        "name": "Big-Head-Todd-and-the-Monsters"
+    },
+    {
+        "dir": "B",
+        "name": "Big-In-Japan"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Crowes"
+    },
+    {
+        "dir": "B",
+        "name": "Blind-Melon"
+    },
+    {
+        "dir": "B",
+        "name": "Blue-Floyd"
+    },
+    {
+        "dir": "B",
+        "name": "Blueground-Undergrass"
+    },
+    {
+        "dir": "B",
+        "name": "Blues-Traveler"
+    },
+    {
+        "dir": "B",
+        "name": "Bockmans-Euphio"
+    },
+    {
+        "dir": "B",
+        "name": "Bonerama"
+    },
+    {
+        "dir": "B",
+        "name": "Brothers-Past"
+    },
+    {
+        "dir": "H",
+        "name": "Bruce-Hornsby"
+    },
+    {
+        "dir": "B",
+        "name": "Buckethead"
+    },
+    {
+        "dir": "B",
+        "name": "Built-to-Spill"
+    },
+    {
+        "dir": "C",
+        "name": "Captain-Soular-Cat"
+    },
+    {
+        "dir": "C",
+        "name": "Carbon-Leaf"
+    },
+    {
+        "dir": "H",
+        "name": "Charlie-Hunter"
+    },
+    {
+        "dir": "D",
+        "name": "Chris-Duarte"
+    },
+    {
+        "dir": "R",
+        "name": "Chris-Robinson"
+    },
+    {
+        "dir": "C",
+        "name": "Club-dElf"
+    },
+    {
+        "dir": "C",
+        "name": "Cornmeal"
+    },
+    {
+        "dir": "C",
+        "name": "Counting-Crows"
+    },
+    {
+        "dir": "C",
+        "name": "Cowboy-Junkies"
+    },
+    {
+        "dir": "C",
+        "name": "Crack-Sabbath"
+    },
+    {
+        "dir": "C",
+        "name": "Crazy-Fingers"
+    },
+    {
+        "dir": "C",
+        "name": "Critters-Buggin"
+    },
+    {
+        "dir": "R",
+        "name": "Damien-Rice"
+    },
+    {
+        "dir": "B",
+        "name": "Dan-Bern"
+    },
+    {
+        "dir": "B",
+        "name": "Danny-Barnes"
+    },
+    {
+        "dir": "D",
+        "name": "Dark-Star-Orchestra"
+    },
+    {
+        "dir": "M",
+        "name": "Dave-Matthews"
+    },
+    {
+        "dir": "M",
+        "name": "Dave-Matthews-Band"
+    },
+    {
+        "dir": "B",
+        "name": "David-Bromberg"
+    },
+    {
+        "dir": "G",
+        "name": "David-Gans"
+    },
+    {
+        "dir": "G",
+        "name": "David-Gray"
+    },
+    {
+        "dir": "G",
+        "name": "David-Grisman"
+    },
+    {
+        "dir": "N",
+        "name": "David-Nelson-Band"
+    },
+    {
+        "dir": "D",
+        "name": "Day-by-the-River"
+    },
+    {
+        "dir": "D",
+        "name": "Deep-Banana-Blackout"
+    },
+    {
+        "dir": "T",
+        "name": "Derek-Trucks-Band"
+    },
+    {
+        "dir": "D",
+        "name": "Dirty-Dozen-Brass-Band"
+    },
+    {
+        "dir": "D",
+        "name": "Disco-Biscuits"
+    },
+    {
+        "dir": "D",
+        "name": "Dispatch"
+    },
+    {
+        "dir": "D",
+        "name": "Donna-the-Buffalo"
+    },
+    {
+        "dir": "D",
+        "name": "Dr-Didg"
+    },
+    {
+        "dir": "D",
+        "name": "Drive-By-Truckers"
+    },
+    {
+        "dir": "E",
+        "name": "EN2"
+    },
+    {
+        "dir": "B",
+        "name": "Edie-Brickell"
+    },
+    {
+        "dir": "E",
+        "name": "Ekoostik-Hookah"
+    },
+    {
+        "dir": "F",
+        "name": "Family-Groove-Company"
+    },
+    {
+        "dir": "F",
+        "name": "Funky-Meters"
+    },
+    {
+        "dir": "F",
+        "name": "Furthur"
+    },
+    {
+        "dir": "G",
+        "name": "GWAR"
+    },
+    {
+        "dir": "G",
+        "name": "Galactic"
+    },
+    {
+        "dir": "G",
+        "name": "Garage-a-Trois"
+    },
+    {
+        "dir": "G",
+        "name": "Garaj-Mahal"
+    },
+    {
+        "dir": "G",
+        "name": "Garcia"
+    },
+    {
+        "dir": "P",
+        "name": "George-Porter-Jr-And-Runnin-P"
+    },
+    {
+        "dir": "W",
+        "name": "George-Wesley"
+    },
+    {
+        "dir": "G",
+        "name": "Gomez"
+    },
+    {
+        "dir": "G",
+        "name": "Govt-Mule"
+    },
+    {
+        "dir": "G",
+        "name": "Grace-Potter-and-the-Nocturnals"
+    },
+    {
+        "dir": "G",
+        "name": "Grand-Theft-Bus"
+    },
+    {
+        "dir": "G",
+        "name": "Grateful-Dead"
+    },
+    {
+        "dir": "G",
+        "name": "Great-American-Taxi"
+    },
+    {
+        "dir": "G",
+        "name": "Greensky-Bluegrass"
+    },
+    {
+        "dir": "G",
+        "name": "GreyBoy-AllStars"
+    },
+    {
+        "dir": "G",
+        "name": "Guster"
+    },
+    {
+        "dir": "H",
+        "name": "Hackensaw-Boys"
+    },
+    {
+        "dir": "H",
+        "name": "Hairy-Apes-BMX"
+    },
+    {
+        "dir": "H",
+        "name": "Hexbelt"
+    },
+    {
+        "dir": "H",
+        "name": "Hill-Country-Revue"
+    },
+    {
+        "dir": "H",
+        "name": "Hot-Buttered-Rum-String-Band"
+    },
+    {
+        "dir": "H",
+        "name": "Hotrize"
+    },
+    {
+        "dir": "D",
+        "name": "Howie-Day"
+    },
+    {
+        "dir": "I",
+        "name": "Indigo-Girls"
+    },
+    {
+        "dir": "I",
+        "name": "Infamous-Stringdusters"
+    },
+    {
+        "dir": "J",
+        "name": "Jack-Johnson"
+    },
+    {
+        "dir": "G",
+        "name": "Jackie-Greene"
+    },
+    {
+        "dir": "F",
+        "name": "Jacob-Fred-Jazz-Odyssey"
+    },
+    {
+        "dir": "M",
+        "name": "Jason-Mraz"
+    },
+    {
+        "dir": "J",
+        "name": "Jazz-Mandolin-Project"
+    },
+    {
+        "dir": "A",
+        "name": "Jeff-Austin-Band"
+    },
+    {
+        "dir": "J",
+        "name": "Jeff-Tweedy"
+    },
+    {
+        "dir": "J",
+        "name": "Jemimah-Puddleduck"
+    },
+    {
+        "dir": "O",
+        "name": "Jennifer-OConnor"
+    },
+    {
+        "dir": "J",
+        "name": "Jerry-Joseph"
+    },
+    {
+        "dir": "H",
+        "name": "Jimmy-Herring-Band"
+    },
+    {
+        "dir": "B",
+        "name": "John-Butler-Trio"
+    },
+    {
+        "dir": "C",
+        "name": "John-Cowan-Band"
+    },
+    {
+        "dir": "H",
+        "name": "John-Hartford"
+    },
+    {
+        "dir": "M",
+        "name": "John-Mayer"
+    },
+    {
+        "dir": "K",
+        "name": "KVHW"
+    },
+    {
+        "dir": "D",
+        "name": "Karl-Denson-and-Chris-Wood"
+    },
+    {
+        "dir": "D",
+        "name": "Karl-Densons-Tiny-Universe"
+    },
+    {
+        "dir": "W",
+        "name": "Keller-Williams"
+    },
+    {
+        "dir": "W",
+        "name": "Keller-Williams-With-String-Chee"
+    },
+    {
+        "dir": "K",
+        "name": "Kevn-Kinney"
+    },
+    {
+        "dir": "K",
+        "name": "Kimock"
+    },
+    {
+        "dir": "K",
+        "name": "Kudzu-Kings"
+    },
+    {
+        "dir": "L",
+        "name": "Lake-Trout"
+    },
+    {
+        "dir": "K",
+        "name": "Larry-Keel"
+    },
+    {
+        "dir": "L",
+        "name": "Leftover-Salmon"
+    },
+    {
+        "dir": "K",
+        "name": "Leo-Kottke-And-Mike-Gordon"
+    },
+    {
+        "dir": "C",
+        "name": "Les-Claypools-Fearless-Flying-Frog-Brigade"
+    },
+    {
+        "dir": "H",
+        "name": "Levon-Helm"
+    },
+    {
+        "dir": "L",
+        "name": "Little-Feat"
+    },
+    {
+        "dir": "L",
+        "name": "Living-Daylights"
+    },
+    {
+        "dir": "L",
+        "name": "Lo-Faber-Band"
+    },
+    {
+        "dir": "L",
+        "name": "Los-Lobos"
+    },
+    {
+        "dir": "F",
+        "name": "Marc-Ford"
+    },
+    {
+        "dir": "E",
+        "name": "Marcus-Eaton-and-the-Lobby"
+    },
+    {
+        "dir": "J",
+        "name": "Mason-Jennings"
+    },
+    {
+        "dir": "M",
+        "name": "Matisyahu"
+    },
+    {
+        "dir": "N",
+        "name": "Matt-Nathanson"
+    },
+    {
+        "dir": "M",
+        "name": "Max-Creek"
+    },
+    {
+        "dir": "M",
+        "name": "Medeski-Martin-And-Wood"
+    },
+    {
+        "dir": "C",
+        "name": "Mike-Clarks-Prescription-Rene"
+    },
+    {
+        "dir": "G",
+        "name": "Mike-Gordon"
+    },
+    {
+        "dir": "M",
+        "name": "Mike-Mizwinski"
+    },
+    {
+        "dir": "M",
+        "name": "Modest-Mouse"
+    },
+    {
+        "dir": "M",
+        "name": "Mofro"
+    },
+    {
+        "dir": "M",
+        "name": "Mondo-Gecko"
+    },
+    {
+        "dir": "M",
+        "name": "Moonshine-Still"
+    },
+    {
+        "dir": "M",
+        "name": "My-Morning-Jacket"
+    },
+    {
+        "dir": "N",
+        "name": "Nashville-Bluegrass-Band"
+    },
+    {
+        "dir": "N",
+        "name": "New-Monsoon"
+    },
+    {
+        "dir": "N",
+        "name": "New-Riders-of-the-Purple-Sage"
+    },
+    {
+        "dir": "N",
+        "name": "North-Mississippi-Allstars"
+    },
+    {
+        "dir": "O",
+        "name": "O.A.R.-Of-A-Revolution"
+    },
+    {
+        "dir": "O",
+        "name": "OM-Trio"
+    },
+    {
+        "dir": "O",
+        "name": "Offering"
+    },
+    {
+        "dir": "O",
+        "name": "On-the-One"
+    },
+    {
+        "dir": "O",
+        "name": "Oteil-And-the-Peacemakers"
+    },
+    {
+        "dir": "O",
+        "name": "Other"
+    },
+    {
+        "dir": "O",
+        "name": "Outformation"
+    },
+    {
+        "dir": "O",
+        "name": "Over-The-Rhine"
+    },
+    {
+        "dir": "O",
+        "name": "Oysterhead"
+    },
+    {
+        "dir": "O",
+        "name": "Ozric-Tentacles"
+    },
+    {
+        "dir": "P",
+        "name": "Papa-Mali"
+    },
+    {
+        "dir": "P",
+        "name": "Particle"
+    },
+    {
+        "dir": "M",
+        "name": "Pat-McGee-Band"
+    },
+    {
+        "dir": "M",
+        "name": "Pat-Metheny"
+    },
+    {
+        "dir": "H",
+        "name": "Patterson-Hood-and-Friends"
+    },
+    {
+        "dir": "P",
+        "name": "Pearl-Jam"
+    },
+    {
+        "dir": "H",
+        "name": "Percy-Hill"
+    },
+    {
+        "dir": "P",
+        "name": "Perpetual-Groove"
+    },
+    {
+        "dir": "L",
+        "name": "Phil-Lesh-And-Friends"
+    },
+    {
+        "dir": "P",
+        "name": "Phish"
+    },
+    {
+        "dir": "P",
+        "name": "Polyphonic-Spree"
+    },
+    {
+        "dir": "P",
+        "name": "Porter-Batiste-Stoltz"
+    },
+    {
+        "dir": "P",
+        "name": "Primus"
+    },
+    {
+        "dir": "P",
+        "name": "Project-Object"
+    },
+    {
+        "dir": "P",
+        "name": "Project-Z"
+    },
+    {
+        "dir": "Q",
+        "name": "Queens-of-the-Stone-Age"
+    },
+    {
+        "dir": "R",
+        "name": "REM"
+    },
+    {
+        "dir": "R",
+        "name": "Radiators"
+    },
+    {
+        "dir": "R",
+        "name": "Radiohead"
+    },
+    {
+        "dir": "R",
+        "name": "Railroad-Earth"
+    },
+    {
+        "dir": "R",
+        "name": "Raq"
+    },
+    {
+        "dir": "R",
+        "name": "Ratdog"
+    },
+    {
+        "dir": "R",
+        "name": "Reid-Genauer"
+    },
+    {
+        "dir": "H",
+        "name": "Robert-Hunter"
+    },
+    {
+        "dir": "R",
+        "name": "Robert-Randolph"
+    },
+    {
+        "dir": "W",
+        "name": "Robert-Walters-20th-Congress"
+    },
+    {
+        "dir": "R",
+        "name": "Rusted-Root"
+    },
+    {
+        "dir": "A",
+        "name": "Ryan-Adams"
+    },
+    {
+        "dir": "B",
+        "name": "Sam-Bush"
+    },
+    {
+        "dir": "K",
+        "name": "Sam-Kininger-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Sawgrass"
+    },
+    {
+        "dir": "S",
+        "name": "Scarecrow-Collection"
+    },
+    {
+        "dir": "S",
+        "name": "Schleigho"
+    },
+    {
+        "dir": "A",
+        "name": "Scott-Amendola-Band"
+    },
+    {
+        "dir": "Y",
+        "name": "Seth-Yacovone-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Sex-Mob"
+    },
+    {
+        "dir": "S",
+        "name": "Signal-Path"
+    },
+    {
+        "dir": "S",
+        "name": "Smokin-Boomers"
+    },
+    {
+        "dir": "S",
+        "name": "Solar-Circus"
+    },
+    {
+        "dir": "S",
+        "name": "Soulhat"
+    },
+    {
+        "dir": "S",
+        "name": "Soulive"
+    },
+    {
+        "dir": "S",
+        "name": "Sound-Tribe-Sector-9"
+    },
+    {
+        "dir": "S",
+        "name": "Spearhead"
+    },
+    {
+        "dir": "S",
+        "name": "Spin-Doctors"
+    },
+    {
+        "dir": "M",
+        "name": "Stanton-Moore"
+    },
+    {
+        "dir": "K",
+        "name": "Stephen-Kellogg"
+    },
+    {
+        "dir": "M",
+        "name": "Stephen-Malkmus"
+    },
+    {
+        "dir": "K",
+        "name": "Steve-Kimock-And-Friends"
+    },
+    {
+        "dir": "K",
+        "name": "Steve-Kimock-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Stockholm-Syndrome"
+    },
+    {
+        "dir": "S",
+        "name": "Strangefolk"
+    },
+    {
+        "dir": "S",
+        "name": "String-Cheese-Incident"
+    },
+    {
+        "dir": "T",
+        "name": "TR3"
+    },
+    {
+        "dir": "T",
+        "name": "Tea-Leaf-Green"
+    },
+    {
+        "dir": "T",
+        "name": "Tedeschi-Trucks-Band"
+    },
+    {
+        "dir": "T",
+        "name": "Tenacious-D"
+    },
+    {
+        "dir": "A",
+        "name": "The-Avalon-Allstars"
+    },
+    {
+        "dir": "B",
+        "name": "The-Big-Wu"
+    },
+    {
+        "dir": "B",
+        "name": "The-Black-Keys"
+    },
+    {
+        "dir": "B",
+        "name": "The-Breakfast"
+    },
+    {
+        "dir": "C",
+        "name": "The-Code-Talkers"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dead"
+    },
+    {
+        "dir": "H",
+        "name": "The-Heavy-Pets"
+    },
+    {
+        "dir": "M",
+        "name": "The-Mood-Cultivation-Project"
+    },
+    {
+        "dir": "M",
+        "name": "The-Motet"
+    },
+    {
+        "dir": "N",
+        "name": "The-New-Deal"
+    },
+    {
+        "dir": "O",
+        "name": "The-Other-Ones"
+    },
+    {
+        "dir": "R",
+        "name": "The-Recipe"
+    },
+    {
+        "dir": "R",
+        "name": "The-Roots"
+    },
+    {
+        "dir": "S",
+        "name": "The-Slip"
+    },
+    {
+        "dir": "S",
+        "name": "The-Smashing-Pumpkins"
+    },
+    {
+        "dir": "T",
+        "name": "The-Tragically-Hip"
+    },
+    {
+        "dir": "W",
+        "name": "The-Waybacks"
+    },
+    {
+        "dir": "W",
+        "name": "The-Word"
+    },
+    {
+        "dir": "P",
+        "name": "Tim-Palmieri"
+    },
+    {
+        "dir": "R",
+        "name": "Tim-Reynolds"
+    },
+    {
+        "dir": "T",
+        "name": "Tishamingo"
+    },
+    {
+        "dir": "S",
+        "name": "Todd-Snider"
+    },
+    {
+        "dir": "C",
+        "name": "Tommy-Castro"
+    },
+    {
+        "dir": "T",
+        "name": "Topaz"
+    },
+    {
+        "dir": "T",
+        "name": "Tortoise"
+    },
+    {
+        "dir": "A",
+        "name": "Trey-Anastasio"
+    },
+    {
+        "dir": "T",
+        "name": "Truth-and-Salvage-Co"
+    },
+    {
+        "dir": "U",
+        "name": "U-Melt"
+    },
+    {
+        "dir": "U",
+        "name": "Ulu"
+    },
+    {
+        "dir": "U",
+        "name": "Umphreys-McGee"
+    },
+    {
+        "dir": "U",
+        "name": "Uncle-Earl"
+    },
+    {
+        "dir": "V",
+        "name": "Vida-Blue"
+    },
+    {
+        "dir": "V",
+        "name": "Vinyl"
+    },
+    {
+        "dir": "V",
+        "name": "Violent-Femmes"
+    },
+    {
+        "dir": "H",
+        "name": "Warren-Haynes"
+    },
+    {
+        "dir": "W",
+        "name": "Ween"
+    },
+    {
+        "dir": "W",
+        "name": "Widespread-Panic"
+    },
+    {
+        "dir": "W",
+        "name": "Wilco"
+    },
+    {
+        "dir": "B",
+        "name": "Will-Bernard-And-Motherbug"
+    },
+    {
+        "dir": "B",
+        "name": "Will-Bernard-Projects"
+    },
+    {
+        "dir": "P",
+        "name": "Willy-Porter-Band"
+    },
+    {
+        "dir": "W",
+        "name": "Wood-Brothers"
+    },
+    {
+        "dir": "X",
+        "name": "Xavier-Rudd"
+    },
+    {
+        "dir": "Y",
+        "name": "Yarn-Music"
+    },
+    {
+        "dir": "Y",
+        "name": "Yo-La-Tengo"
+    },
+    {
+        "dir": "Y",
+        "name": "Yonder-Mountain-String-Band"
+    },
+    {
+        "dir": "Z",
+        "name": "Zen-Tricksters"
+    },
+    {
+        "dir": "Z",
+        "name": "Zero"
+    },
+    {
+        "dir": "Z",
+        "name": "Zony-Mash"
+    },
+    {
+        "dir": "M",
+        "name": "moe."
+    },
+    {
+        "dir": "N",
+        "name": "nero"
+    },
+    {
+        "dir": "0-9",
+        "name": "10000-Maniacs"
+    },
+    {
+        "dir": "0-9",
+        "name": "2-Live-Crew"
+    },
+    {
+        "dir": "0-9",
+        "name": "311"
+    },
+    {
+        "dir": "0-9",
+        "name": "3rd-Bass"
+    },
+    {
+        "dir": "0-9",
+        "name": "801"
+    },
+    {
+        "dir": "A",
+        "name": "A-Perfect-Circle"
+    },
+    {
+        "dir": "A",
+        "name": "A-Tribe-Called-Quest"
+    },
+    {
+        "dir": "A",
+        "name": "AC-DC"
+    },
+    {
+        "dir": "A",
+        "name": "Abba"
+    },
+    {
+        "dir": "A",
+        "name": "Ace-Of-Bass"
+    },
+    {
+        "dir": "A",
+        "name": "Aerosmith"
+    },
+    {
+        "dir": "A",
+        "name": "Afroman"
+    },
+    {
+        "dir": "A",
+        "name": "Ah-Ha"
+    },
+    {
+        "dir": "A",
+        "name": "Alabama"
+    },
+    {
+        "dir": "A",
+        "name": "Alice-in-Chains"
+    },
+    {
+        "dir": "A",
+        "name": "Allman-Brothers-Band"
+    },
+    {
+        "dir": "A",
+        "name": "America"
+    },
+    {
+        "dir": "A",
+        "name": "Animal-Collective"
+    },
+    {
+        "dir": "A",
+        "name": "Animal-Liberation-Orchestra"
+    },
+    {
+        "dir": "A",
+        "name": "Animals"
+    },
+    {
+        "dir": "A",
+        "name": "Animaniacs"
+    },
+    {
+        "dir": "A",
+        "name": "Anthrax"
+    },
+    {
+        "dir": "A",
+        "name": "Anyone"
+    },
+    {
+        "dir": "A",
+        "name": "Aphex-Twin"
+    },
+    {
+        "dir": "A",
+        "name": "Armik"
+    },
+    {
+        "dir": "A",
+        "name": "Arrested-Development"
+    },
+    {
+        "dir": "A",
+        "name": "Art-Of-Noise"
+    },
+    {
+        "dir": "A",
+        "name": "Atari-Teenage-Riot"
+    },
+    {
+        "dir": "A",
+        "name": "Austin-Lounge-Lizards"
+    },
+    {
+        "dir": "A",
+        "name": "Aztec-Camera"
+    },
+    {
+        "dir": "A",
+        "name": "Bryan-Adams"
+    },
+    {
+        "dir": "A",
+        "name": "Cannonball-Adderley"
+    },
+    {
+        "dir": "A",
+        "name": "Cannonball-Adderley-Quintet"
+    },
+    {
+        "dir": "A",
+        "name": "Darol-Anger"
+    },
+    {
+        "dir": "A",
+        "name": "Darol-Anger--Barbara-Higbie-Quintet"
+    },
+    {
+        "dir": "A",
+        "name": "Fiona-Apple"
+    },
+    {
+        "dir": "A",
+        "name": "Herb-Alpert-and-The-Tijuana-Brass"
+    },
+    {
+        "dir": "A",
+        "name": "Laurie-Anderson"
+    },
+    {
+        "dir": "A",
+        "name": "Louis-Armstrong"
+    },
+    {
+        "dir": "A",
+        "name": "Oleta-Adams"
+    },
+    {
+        "dir": "A",
+        "name": "Paula-Abdul"
+    },
+    {
+        "dir": "A",
+        "name": "Philip-Aaberg"
+    },
+    {
+        "dir": "A",
+        "name": "The-American-Analog-Set"
+    },
+    {
+        "dir": "A",
+        "name": "The-Art-Of-Noise"
+    },
+    {
+        "dir": "A",
+        "name": "The-Artwoods"
+    },
+    {
+        "dir": "A",
+        "name": "The-Avalanches"
+    },
+    {
+        "dir": "A",
+        "name": "The-Darol-Angermike-Marshall-Band"
+    },
+    {
+        "dir": "A",
+        "name": "Tori-Amos"
+    },
+    {
+        "dir": "A",
+        "name": "William-Ackerman"
+    },
+    {
+        "dir": "B",
+        "name": "Adrian-Berenguer"
+    },
+    {
+        "dir": "B",
+        "name": "Andrea-Bocelli"
+    },
+    {
+        "dir": "B",
+        "name": "Angelo-Badalamenti"
+    },
+    {
+        "dir": "B",
+        "name": "Art-Blakey"
+    },
+    {
+        "dir": "B",
+        "name": "B52s"
+    },
+    {
+        "dir": "B",
+        "name": "BB-King"
+    },
+    {
+        "dir": "B",
+        "name": "BJ-Papa-Band"
+    },
+    {
+        "dir": "B",
+        "name": "BT"
+    },
+    {
+        "dir": "B",
+        "name": "Bach"
+    },
+    {
+        "dir": "B",
+        "name": "Bad-Company"
+    },
+    {
+        "dir": "B",
+        "name": "Badfinger"
+    },
+    {
+        "dir": "B",
+        "name": "Bad-Religion"
+    },
+    {
+        "dir": "B",
+        "name": "Banco-de-Gaia"
+    },
+    {
+        "dir": "B",
+        "name": "Bangles"
+    },
+    {
+        "dir": "B",
+        "name": "Barenaked-Ladies"
+    },
+    {
+        "dir": "B",
+        "name": "Bassland"
+    },
+    {
+        "dir": "B",
+        "name": "Bauhaus"
+    },
+    {
+        "dir": "B",
+        "name": "Bauri"
+    },
+    {
+        "dir": "B",
+        "name": "Beach-Boys"
+    },
+    {
+        "dir": "B",
+        "name": "Beastie-Boys"
+    },
+    {
+        "dir": "B",
+        "name": "Beatles"
+    },
+    {
+        "dir": "B",
+        "name": "Beautiful-South"
+    },
+    {
+        "dir": "B",
+        "name": "Beck"
+    },
+    {
+        "dir": "B",
+        "name": "Beethoven"
+    },
+    {
+        "dir": "B",
+        "name": "Belle-And-Sebastian"
+    },
+    {
+        "dir": "B",
+        "name": "Belly"
+    },
+    {
+        "dir": "B",
+        "name": "Ben-Folds-Five"
+    },
+    {
+        "dir": "B",
+        "name": "Berlin"
+    },
+    {
+        "dir": "B",
+        "name": "Better-than-Ezra"
+    },
+    {
+        "dir": "B",
+        "name": "Billy-Bragg"
+    },
+    {
+        "dir": "B",
+        "name": "Billy-Bragg-and-Wilco"
+    },
+    {
+        "dir": "B",
+        "name": "Bjork"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Box"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Eyed-Peas"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Flag"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Market-Karma"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Mountain"
+    },
+    {
+        "dir": "B",
+        "name": "Black-Sabbath"
+    },
+    {
+        "dir": "B",
+        "name": "Blind-Faith"
+    },
+    {
+        "dir": "B",
+        "name": "Blind-Melon"
+    },
+    {
+        "dir": "B",
+        "name": "Blink-182"
+    },
+    {
+        "dir": "B",
+        "name": "Blondie"
+    },
+    {
+        "dir": "B",
+        "name": "Blood-Sweat-And-Tears"
+    },
+    {
+        "dir": "B",
+        "name": "Bloodhound-Gang"
+    },
+    {
+        "dir": "B",
+        "name": "Bloomfield-Kooper-Stills"
+    },
+    {
+        "dir": "B",
+        "name": "Blue-Cheer"
+    },
+    {
+        "dir": "B",
+        "name": "Blue-Oyster-Cult"
+    },
+    {
+        "dir": "B",
+        "name": "Blues-Traveler"
+    },
+    {
+        "dir": "B",
+        "name": "Blur"
+    },
+    {
+        "dir": "B",
+        "name": "Boards-of-Canada"
+    },
+    {
+        "dir": "B",
+        "name": "Bon-Jovi"
+    },
+    {
+        "dir": "B",
+        "name": "Bonnie-Prince-Billy"
+    },
+    {
+        "dir": "B",
+        "name": "Boston"
+    },
+    {
+        "dir": "B",
+        "name": "Buddy-Holly"
+    },
+    {
+        "dir": "B",
+        "name": "Buffalo-Springfield"
+    },
+    {
+        "dir": "B",
+        "name": "Burning-Spear"
+    },
+    {
+        "dir": "B",
+        "name": "Bush"
+    },
+    {
+        "dir": "B",
+        "name": "Byrds"
+    },
+    {
+        "dir": "B",
+        "name": "Clifford-Brown"
+    },
+    {
+        "dir": "B",
+        "name": "Dave-Brubeck-Quartet"
+    },
+    {
+        "dir": "B",
+        "name": "David-Bowie"
+    },
+    {
+        "dir": "B",
+        "name": "David-Bryne"
+    },
+    {
+        "dir": "B",
+        "name": "Donald-Byrd"
+    },
+    {
+        "dir": "B",
+        "name": "Edie-Brickell"
+    },
+    {
+        "dir": "B",
+        "name": "Edie-Brickell-and-New-Bohemians"
+    },
+    {
+        "dir": "B",
+        "name": "Erykah-Badu"
+    },
+    {
+        "dir": "B",
+        "name": "J-S-Bach"
+    },
+    {
+        "dir": "B",
+        "name": "Jackson-Browne"
+    },
+    {
+        "dir": "B",
+        "name": "James-Brown"
+    },
+    {
+        "dir": "B",
+        "name": "Jane-Ira-Bloom"
+    },
+    {
+        "dir": "B",
+        "name": "Jeff-Beck"
+    },
+    {
+        "dir": "B",
+        "name": "Jello-Biafra"
+    },
+    {
+        "dir": "B",
+        "name": "Junior-Brown"
+    },
+    {
+        "dir": "B",
+        "name": "Ken-Burns"
+    },
+    {
+        "dir": "B",
+        "name": "The-Band"
+    },
+    {
+        "dir": "B",
+        "name": "The-Beatles"
+    },
+    {
+        "dir": "B",
+        "name": "The-Black-Angels"
+    },
+    {
+        "dir": "B",
+        "name": "The-Dave-Brubeck-Quartet"
+    },
+    {
+        "dir": "B",
+        "name": "Tony-Bennett"
+    },
+    {
+        "dir": "C",
+        "name": "Alice-Cooper"
+    },
+    {
+        "dir": "C",
+        "name": "Brian-Culbertson"
+    },
+    {
+        "dir": "C",
+        "name": "Cafe-Del-Mar"
+    },
+    {
+        "dir": "C",
+        "name": "Caia"
+    },
+    {
+        "dir": "C",
+        "name": "Cake"
+    },
+    {
+        "dir": "C",
+        "name": "Camper-Van-Beethoven"
+    },
+    {
+        "dir": "C",
+        "name": "Canned-Heat"
+    },
+    {
+        "dir": "C",
+        "name": "Captain-Beefheart--His-Magic-Band"
+    },
+    {
+        "dir": "C",
+        "name": "Cardigans"
+    },
+    {
+        "dir": "C",
+        "name": "Carter-Family"
+    },
+    {
+        "dir": "C",
+        "name": "Cetu-Javu"
+    },
+    {
+        "dir": "C",
+        "name": "Cheap-Trick"
+    },
+    {
+        "dir": "C",
+        "name": "Chemical-Brothers"
+    },
+    {
+        "dir": "C",
+        "name": "Cherry-Poppin-Daddies"
+    },
+    {
+        "dir": "C",
+        "name": "Chicks-On-Speed"
+    },
+    {
+        "dir": "C",
+        "name": "Chumbawumba"
+    },
+    {
+        "dir": "C",
+        "name": "Cinematic-Orchestra"
+    },
+    {
+        "dir": "C",
+        "name": "Circle-Jerks"
+    },
+    {
+        "dir": "C",
+        "name": "Clannad"
+    },
+    {
+        "dir": "C",
+        "name": "Clap-Your-Hands-Say-Yeah"
+    },
+    {
+        "dir": "C",
+        "name": "Clash"
+    },
+    {
+        "dir": "C",
+        "name": "Click"
+    },
+    {
+        "dir": "C",
+        "name": "Coldcut"
+    },
+    {
+        "dir": "C",
+        "name": "Coldplay"
+    },
+    {
+        "dir": "C",
+        "name": "Collective-Soul"
+    },
+    {
+        "dir": "C",
+        "name": "Compilations"
+    },
+    {
+        "dir": "C",
+        "name": "Concrete-Blonde"
+    },
+    {
+        "dir": "C",
+        "name": "Cornershop"
+    },
+    {
+        "dir": "C",
+        "name": "Counting-Crows"
+    },
+    {
+        "dir": "C",
+        "name": "Cowboy-Junkies"
+    },
+    {
+        "dir": "C",
+        "name": "Cracker"
+    },
+    {
+        "dir": "C",
+        "name": "Cream"
+    },
+    {
+        "dir": "C",
+        "name": "Creed"
+    },
+    {
+        "dir": "C",
+        "name": "Creedence-Clearwater-Revival"
+    },
+    {
+        "dir": "C",
+        "name": "Crosby-Stills-Nash-and-Young"
+    },
+    {
+        "dir": "C",
+        "name": "Crowded-House"
+    },
+    {
+        "dir": "C",
+        "name": "Culture-Club"
+    },
+    {
+        "dir": "C",
+        "name": "Cure"
+    },
+    {
+        "dir": "C",
+        "name": "Curtis-Mayfield"
+    },
+    {
+        "dir": "C",
+        "name": "Cut-Chemist-and-Miles"
+    },
+    {
+        "dir": "C",
+        "name": "Edwyn-Collins"
+    },
+    {
+        "dir": "C",
+        "name": "Elvis-Costello"
+    },
+    {
+        "dir": "C",
+        "name": "Eric-Clapton"
+    },
+    {
+        "dir": "C",
+        "name": "Gene-Clark"
+    },
+    {
+        "dir": "C",
+        "name": "George-Clinton"
+    },
+    {
+        "dir": "C",
+        "name": "Harry-Connick-Jr"
+    },
+    {
+        "dir": "C",
+        "name": "Holly-Cole"
+    },
+    {
+        "dir": "C",
+        "name": "John-Coltrane"
+    },
+    {
+        "dir": "C",
+        "name": "Johnny-Cash"
+    },
+    {
+        "dir": "C",
+        "name": "Leonard-Cohen"
+    },
+    {
+        "dir": "C",
+        "name": "Manu-Chao"
+    },
+    {
+        "dir": "C",
+        "name": "Nat-King-Cole"
+    },
+    {
+        "dir": "C",
+        "name": "Natalie-Cole"
+    },
+    {
+        "dir": "C",
+        "name": "Ornette-Coleman"
+    },
+    {
+        "dir": "C",
+        "name": "Paula-Cole"
+    },
+    {
+        "dir": "C",
+        "name": "Phil-Collins"
+    },
+    {
+        "dir": "C",
+        "name": "Ray-Charles"
+    },
+    {
+        "dir": "C",
+        "name": "Scott-Cossu"
+    },
+    {
+        "dir": "C",
+        "name": "The-Capricorns"
+    },
+    {
+        "dir": "C",
+        "name": "The-Carpenters"
+    },
+    {
+        "dir": "C",
+        "name": "The-Cars"
+    },
+    {
+        "dir": "C",
+        "name": "The-Clash"
+    },
+    {
+        "dir": "C",
+        "name": "The-Cranberries"
+    },
+    {
+        "dir": "C",
+        "name": "The-Creation"
+    },
+    {
+        "dir": "C",
+        "name": "The-Crystal-Method"
+    },
+    {
+        "dir": "C",
+        "name": "Tracy-Chapman"
+    },
+    {
+        "dir": "C",
+        "name": "Wendy-Carlos"
+    },
+    {
+        "dir": "D",
+        "name": "Bob-Dylan"
+    },
+    {
+        "dir": "D",
+        "name": "DJ-Food"
+    },
+    {
+        "dir": "D",
+        "name": "DJ-Konk"
+    },
+    {
+        "dir": "D",
+        "name": "DJ-Shadow"
+    },
+    {
+        "dir": "D",
+        "name": "Dada"
+    },
+    {
+        "dir": "D",
+        "name": "Daddy-G"
+    },
+    {
+        "dir": "D",
+        "name": "Daft-Punk"
+    },
+    {
+        "dir": "D",
+        "name": "Dave-Matthews-Band"
+    },
+    {
+        "dir": "D",
+        "name": "Days-of-the-New"
+    },
+    {
+        "dir": "D",
+        "name": "De-La-Soul"
+    },
+    {
+        "dir": "D",
+        "name": "Dead-And-Company"
+    },
+    {
+        "dir": "D",
+        "name": "Dead-Kennedys"
+    },
+    {
+        "dir": "D",
+        "name": "Deadicated"
+    },
+    {
+        "dir": "D",
+        "name": "Deep-Blue-Something"
+    },
+    {
+        "dir": "D",
+        "name": "Def-Jef"
+    },
+    {
+        "dir": "D",
+        "name": "Deftones"
+    },
+    {
+        "dir": "D",
+        "name": "Delerium"
+    },
+    {
+        "dir": "D",
+        "name": "Deltron-3030"
+    },
+    {
+        "dir": "D",
+        "name": "Depeche-Mode"
+    },
+    {
+        "dir": "D",
+        "name": "Depression-Glass"
+    },
+    {
+        "dir": "D",
+        "name": "Devo"
+    },
+    {
+        "dir": "D",
+        "name": "Dick-Dale"
+    },
+    {
+        "dir": "D",
+        "name": "Digable-Planets"
+    },
+    {
+        "dir": "D",
+        "name": "Digital-Underground"
+    },
+    {
+        "dir": "D",
+        "name": "Dire-Straits"
+    },
+    {
+        "dir": "D",
+        "name": "Doobie-Brothers"
+    },
+    {
+        "dir": "D",
+        "name": "Doors"
+    },
+    {
+        "dir": "D",
+        "name": "Dr-Demento"
+    },
+    {
+        "dir": "D",
+        "name": "Dr-Didj"
+    },
+    {
+        "dir": "D",
+        "name": "DrJohn"
+    },
+    {
+        "dir": "D",
+        "name": "Dream-Theater"
+    },
+    {
+        "dir": "D",
+        "name": "Dropkick-Murphys"
+    },
+    {
+        "dir": "D",
+        "name": "Dsico"
+    },
+    {
+        "dir": "D",
+        "name": "Dub-Community-of-Russia"
+    },
+    {
+        "dir": "D",
+        "name": "Dubliners"
+    },
+    {
+        "dir": "D",
+        "name": "Duran-Duran"
+    },
+    {
+        "dir": "D",
+        "name": "Dusty-Springfield"
+    },
+    {
+        "dir": "D",
+        "name": "Eric-Dolphy"
+    },
+    {
+        "dir": "D",
+        "name": "Fats-Domino"
+    },
+    {
+        "dir": "D",
+        "name": "John-Denver"
+    },
+    {
+        "dir": "D",
+        "name": "John-Digweed"
+    },
+    {
+        "dir": "D",
+        "name": "Miles-Davis"
+    },
+    {
+        "dir": "D",
+        "name": "Neil-Diamond"
+    },
+    {
+        "dir": "D",
+        "name": "Nick-Drake"
+    },
+    {
+        "dir": "D",
+        "name": "Paul-Desmond"
+    },
+    {
+        "dir": "D",
+        "name": "Paul-van-Dyk"
+    },
+    {
+        "dir": "D",
+        "name": "Rev-Gary-Davis"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dandelion"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dead"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dead-Milkmen"
+    },
+    {
+        "dir": "D",
+        "name": "The-Decemberists"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dirty-Dozen-Brass-Band"
+    },
+    {
+        "dir": "D",
+        "name": "The-Doors"
+    },
+    {
+        "dir": "D",
+        "name": "The-Dukes-Of-Stratosphear"
+    },
+    {
+        "dir": "D",
+        "name": "dZihan-and-Kamien"
+    },
+    {
+        "dir": "E",
+        "name": "Bill-Evans"
+    },
+    {
+        "dir": "E",
+        "name": "Bill-Evans-Trio"
+    },
+    {
+        "dir": "E",
+        "name": "Brian-Eno"
+    },
+    {
+        "dir": "E",
+        "name": "Brian-Eno-and-David-Byrne"
+    },
+    {
+        "dir": "E",
+        "name": "Brian-Eno-and-John-Cale"
+    },
+    {
+        "dir": "E",
+        "name": "Brian-Eno-and-Jon-Hassell"
+    },
+    {
+        "dir": "E",
+        "name": "Brian-Eno-and-Robert-Fripp"
+    },
+    {
+        "dir": "E",
+        "name": "Dave-Edmunds"
+    },
+    {
+        "dir": "E",
+        "name": "Dave-Ellis"
+    },
+    {
+        "dir": "E",
+        "name": "Duke-Ellington-Ray-Brown"
+    },
+    {
+        "dir": "E",
+        "name": "Eagles"
+    },
+    {
+        "dir": "E",
+        "name": "Ednaswap"
+    },
+    {
+        "dir": "E",
+        "name": "Elton-John"
+    },
+    {
+        "dir": "E",
+        "name": "Emerson-Lake-And-Palmer"
+    },
+    {
+        "dir": "E",
+        "name": "Eminem"
+    },
+    {
+        "dir": "E",
+        "name": "Enigma"
+    },
+    {
+        "dir": "E",
+        "name": "Enya"
+    },
+    {
+        "dir": "E",
+        "name": "Erasure"
+    },
+    {
+        "dir": "E",
+        "name": "Eric-B-and-Rakim"
+    },
+    {
+        "dir": "E",
+        "name": "Erin-McKeown"
+    },
+    {
+        "dir": "E",
+        "name": "Esthero"
+    },
+    {
+        "dir": "E",
+        "name": "Eve-6"
+    },
+    {
+        "dir": "E",
+        "name": "Everclear"
+    },
+    {
+        "dir": "E",
+        "name": "Everlast"
+    },
+    {
+        "dir": "E",
+        "name": "Extreme"
+    },
+    {
+        "dir": "E",
+        "name": "Gil-Evans"
+    },
+    {
+        "dir": "E",
+        "name": "Melissa-Etheridge"
+    },
+    {
+        "dir": "E",
+        "name": "Steve-Earle"
+    },
+    {
+        "dir": "E",
+        "name": "The-English-Beat"
+    },
+    {
+        "dir": "F",
+        "name": "Bela-Fleck"
+    },
+    {
+        "dir": "F",
+        "name": "Bill-Frisell"
+    },
+    {
+        "dir": "F",
+        "name": "Ella-Fitzgerald"
+    },
+    {
+        "dir": "F",
+        "name": "FC-Kahuna"
+    },
+    {
+        "dir": "F",
+        "name": "FM-Einheit"
+    },
+    {
+        "dir": "F",
+        "name": "Faces"
+    },
+    {
+        "dir": "F",
+        "name": "Fairport-Convention"
+    },
+    {
+        "dir": "F",
+        "name": "Faith-No-More"
+    },
+    {
+        "dir": "F",
+        "name": "Falco"
+    },
+    {
+        "dir": "F",
+        "name": "Fela-Anikulapo-Kuti"
+    },
+    {
+        "dir": "F",
+        "name": "Felix-da-Housecat"
+    },
+    {
+        "dir": "F",
+        "name": "Fenix-TX"
+    },
+    {
+        "dir": "F",
+        "name": "Filter"
+    },
+    {
+        "dir": "F",
+        "name": "Fischerspooner"
+    },
+    {
+        "dir": "F",
+        "name": "Flamin-Groovies"
+    },
+    {
+        "dir": "F",
+        "name": "Flashdance"
+    },
+    {
+        "dir": "F",
+        "name": "Fleetwood-Mac"
+    },
+    {
+        "dir": "F",
+        "name": "Fluke"
+    },
+    {
+        "dir": "F",
+        "name": "Flying-Burrito-Brothers"
+    },
+    {
+        "dir": "F",
+        "name": "Flys"
+    },
+    {
+        "dir": "F",
+        "name": "Folk-Implosion"
+    },
+    {
+        "dir": "F",
+        "name": "Foo-Fighters"
+    },
+    {
+        "dir": "F",
+        "name": "Fountains-of-Wayne"
+    },
+    {
+        "dir": "F",
+        "name": "Four-Tet"
+    },
+    {
+        "dir": "F",
+        "name": "Frijid-Pink"
+    },
+    {
+        "dir": "F",
+        "name": "Fripp--Eno"
+    },
+    {
+        "dir": "F",
+        "name": "Fun-Loving-Criminals"
+    },
+    {
+        "dir": "F",
+        "name": "Funkstorung"
+    },
+    {
+        "dir": "F",
+        "name": "Further"
+    },
+    {
+        "dir": "F",
+        "name": "Furthur"
+    },
+    {
+        "dir": "F",
+        "name": "Guy-Forsyth"
+    },
+    {
+        "dir": "F",
+        "name": "Marianne-Faithfull"
+    },
+    {
+        "dir": "F",
+        "name": "Mark-Farina"
+    },
+    {
+        "dir": "F",
+        "name": "Peter-Frampton"
+    },
+    {
+        "dir": "F",
+        "name": "Steve-Forbert"
+    },
+    {
+        "dir": "F",
+        "name": "The-Funk-Brothers"
+    },
+    {
+        "dir": "G",
+        "name": "Arlo-Guthrie"
+    },
+    {
+        "dir": "G",
+        "name": "Benny-Goodman-and-Orchestra"
+    },
+    {
+        "dir": "G",
+        "name": "David-Gilmour"
+    },
+    {
+        "dir": "G",
+        "name": "Dexter-Gordon"
+    },
+    {
+        "dir": "G",
+        "name": "Dizzy-Gillespie"
+    },
+    {
+        "dir": "G",
+        "name": "Gang-Of-Four"
+    },
+    {
+        "dir": "G",
+        "name": "Garbage"
+    },
+    {
+        "dir": "G",
+        "name": "Gas"
+    },
+    {
+        "dir": "G",
+        "name": "Genesis"
+    },
+    {
+        "dir": "G",
+        "name": "Gin-Blossoms"
+    },
+    {
+        "dir": "G",
+        "name": "Gipsy-Kings"
+    },
+    {
+        "dir": "G",
+        "name": "Golden-Earring"
+    },
+    {
+        "dir": "G",
+        "name": "Gorillaz"
+    },
+    {
+        "dir": "G",
+        "name": "Gourds"
+    },
+    {
+        "dir": "G",
+        "name": "Grant-Green"
+    },
+    {
+        "dir": "G",
+        "name": "Grateful-Dead"
+    },
+    {
+        "dir": "G",
+        "name": "Green-Day"
+    },
+    {
+        "dir": "G",
+        "name": "Gregorian-Chant"
+    },
+    {
+        "dir": "G",
+        "name": "Greyboy"
+    },
+    {
+        "dir": "G",
+        "name": "Groove-Armada"
+    },
+    {
+        "dir": "G",
+        "name": "Growing-Stones"
+    },
+    {
+        "dir": "G",
+        "name": "Guess-Who"
+    },
+    {
+        "dir": "G",
+        "name": "Guns-n-Roses"
+    },
+    {
+        "dir": "G",
+        "name": "Guru"
+    },
+    {
+        "dir": "G",
+        "name": "Jerry-Garcia--David-Grisman"
+    },
+    {
+        "dir": "G",
+        "name": "Jerry-Garcia-Band"
+    },
+    {
+        "dir": "G",
+        "name": "Ken-Griffin"
+    },
+    {
+        "dir": "G",
+        "name": "Marvin-Gaye"
+    },
+    {
+        "dir": "G",
+        "name": "Mulligan-Gerry"
+    },
+    {
+        "dir": "G",
+        "name": "Norman-Greenbaum"
+    },
+    {
+        "dir": "G",
+        "name": "Peter-Gabriel"
+    },
+    {
+        "dir": "G",
+        "name": "Phillip-Glass"
+    },
+    {
+        "dir": "G",
+        "name": "Ruben-Gonzalez"
+    },
+    {
+        "dir": "G",
+        "name": "Slim-Gailiard"
+    },
+    {
+        "dir": "G",
+        "name": "Woody-Guthrie"
+    },
+    {
+        "dir": "H",
+        "name": "Ben-Harper"
+    },
+    {
+        "dir": "H",
+        "name": "Billie-Holiday"
+    },
+    {
+        "dir": "H",
+        "name": "Bo-Hansson"
+    },
+    {
+        "dir": "H",
+        "name": "Bobby-Hutcherson"
+    },
+    {
+        "dir": "H",
+        "name": "Brian-Hyland"
+    },
+    {
+        "dir": "H",
+        "name": "Buddy-Holly"
+    },
+    {
+        "dir": "H",
+        "name": "Charlie-Hunter"
+    },
+    {
+        "dir": "H",
+        "name": "Coleman-Hawkins"
+    },
+    {
+        "dir": "H",
+        "name": "Don-Henley"
+    },
+    {
+        "dir": "H",
+        "name": "Freddie-Hubbard"
+    },
+    {
+        "dir": "H",
+        "name": "George-Harrison"
+    },
+    {
+        "dir": "H",
+        "name": "HCSF"
+    },
+    {
+        "dir": "H",
+        "name": "Halou"
+    },
+    {
+        "dir": "H",
+        "name": "Handel"
+    },
+    {
+        "dir": "H",
+        "name": "Hawaiian-Slack-Key-Guitar-Masters"
+    },
+    {
+        "dir": "H",
+        "name": "Heart"
+    },
+    {
+        "dir": "H",
+        "name": "Heil-LSG-Wassermann"
+    },
+    {
+        "dir": "H",
+        "name": "Henry-Rollins-Band"
+    },
+    {
+        "dir": "H",
+        "name": "Herbie-Hancock"
+    },
+    {
+        "dir": "H",
+        "name": "Hi-Fi-Lounge"
+    },
+    {
+        "dir": "H",
+        "name": "Hitchhikers-Guide-To-The-Galaxy"
+    },
+    {
+        "dir": "H",
+        "name": "Hole"
+    },
+    {
+        "dir": "H",
+        "name": "Hot-Tuna"
+    },
+    {
+        "dir": "H",
+        "name": "Human-Revolution"
+    },
+    {
+        "dir": "H",
+        "name": "Humble-Pie"
+    },
+    {
+        "dir": "H",
+        "name": "Husker-Du"
+    },
+    {
+        "dir": "H",
+        "name": "Jimi-Hendrix"
+    },
+    {
+        "dir": "H",
+        "name": "John-Lee-Hooker"
+    },
+    {
+        "dir": "H",
+        "name": "P.J-Harvey"
+    },
+    {
+        "dir": "H",
+        "name": "The-Housemartins"
+    },
+    {
+        "dir": "I",
+        "name": "Billy-Idol"
+    },
+    {
+        "dir": "I",
+        "name": "INXS"
+    },
+    {
+        "dir": "I",
+        "name": "Indigo-Girls"
+    },
+    {
+        "dir": "I",
+        "name": "Inkari"
+    },
+    {
+        "dir": "I",
+        "name": "Interpol"
+    },
+    {
+        "dir": "I",
+        "name": "Invisibl-Skratch-Piklz"
+    },
+    {
+        "dir": "I",
+        "name": "Iron-Butterfly"
+    },
+    {
+        "dir": "I",
+        "name": "Island"
+    },
+    {
+        "dir": "I",
+        "name": "James-Iha"
+    },
+    {
+        "dir": "I",
+        "name": "Natalie-Imbruglia"
+    },
+    {
+        "dir": "I",
+        "name": "The-Incredible-String-Band"
+    },
+    {
+        "dir": "J",
+        "name": "Antonio-Carlos-Jobim"
+    },
+    {
+        "dir": "J",
+        "name": "Billy-Joel"
+    },
+    {
+        "dir": "J",
+        "name": "Bob-James--David-Sanborn"
+    },
+    {
+        "dir": "J",
+        "name": "DJ-Jazzy-Jeff-and-the-Fresh-Prince"
+    },
+    {
+        "dir": "J",
+        "name": "Elton-John"
+    },
+    {
+        "dir": "J",
+        "name": "Etta-James"
+    },
+    {
+        "dir": "J",
+        "name": "Grace-Jones"
+    },
+    {
+        "dir": "J",
+        "name": "J-Boogies-Dubtronic-Science"
+    },
+    {
+        "dir": "J",
+        "name": "Jack-Johnson"
+    },
+    {
+        "dir": "J",
+        "name": "James"
+    },
+    {
+        "dir": "J",
+        "name": "James-Gang"
+    },
+    {
+        "dir": "J",
+        "name": "Jamiroquai"
+    },
+    {
+        "dir": "J",
+        "name": "Jan-and-Dean"
+    },
+    {
+        "dir": "J",
+        "name": "Janes-Addiction"
+    },
+    {
+        "dir": "J",
+        "name": "Janis-Joplin"
+    },
+    {
+        "dir": "J",
+        "name": "Jars-of-Clay"
+    },
+    {
+        "dir": "J",
+        "name": "Jeff-Healey-Band"
+    },
+    {
+        "dir": "J",
+        "name": "Jefferson-Airplane"
+    },
+    {
+        "dir": "J",
+        "name": "Jethro-Tull"
+    },
+    {
+        "dir": "J",
+        "name": "Joe-Jackson"
+    },
+    {
+        "dir": "J",
+        "name": "Journey"
+    },
+    {
+        "dir": "J",
+        "name": "Joy-Division"
+    },
+    {
+        "dir": "J",
+        "name": "Judybats"
+    },
+    {
+        "dir": "J",
+        "name": "Juno-Reactor"
+    },
+    {
+        "dir": "J",
+        "name": "Jurassic-5"
+    },
+    {
+        "dir": "J",
+        "name": "Michael-Jackson"
+    },
+    {
+        "dir": "J",
+        "name": "Robert-Johnson"
+    },
+    {
+        "dir": "J",
+        "name": "Stanley-Jordan"
+    },
+    {
+        "dir": "J",
+        "name": "The-J.B.s"
+    },
+    {
+        "dir": "J",
+        "name": "The-Jazz-Messengers"
+    },
+    {
+        "dir": "K",
+        "name": "Carole-King"
+    },
+    {
+        "dir": "K",
+        "name": "Jorma-Kaukonen"
+    },
+    {
+        "dir": "K",
+        "name": "KFOG"
+    },
+    {
+        "dir": "K",
+        "name": "KRS-One"
+    },
+    {
+        "dir": "K",
+        "name": "King-Crimson"
+    },
+    {
+        "dir": "K",
+        "name": "King-Harvest"
+    },
+    {
+        "dir": "K",
+        "name": "Kingfish"
+    },
+    {
+        "dir": "K",
+        "name": "Knack"
+    },
+    {
+        "dir": "K",
+        "name": "Koop"
+    },
+    {
+        "dir": "K",
+        "name": "Kraftwerk"
+    },
+    {
+        "dir": "K",
+        "name": "Kruder-and-Dorfmeister"
+    },
+    {
+        "dir": "K",
+        "name": "Lenny-Kravitz"
+    },
+    {
+        "dir": "K",
+        "name": "Leo-Kottke"
+    },
+    {
+        "dir": "K",
+        "name": "The-Kennedys"
+    },
+    {
+        "dir": "K",
+        "name": "The-Kinks"
+    },
+    {
+        "dir": "L",
+        "name": "Bill-Laswell"
+    },
+    {
+        "dir": "L",
+        "name": "Cyndi-Lauper"
+    },
+    {
+        "dir": "L",
+        "name": "Fenne-Lily"
+    },
+    {
+        "dir": "L",
+        "name": "Gordon-Lightfoot"
+    },
+    {
+        "dir": "L",
+        "name": "John-Lennon"
+    },
+    {
+        "dir": "L",
+        "name": "LL-Cool-J"
+    },
+    {
+        "dir": "L",
+        "name": "LTJBukem"
+    },
+    {
+        "dir": "L",
+        "name": "Lagwagon"
+    },
+    {
+        "dir": "L",
+        "name": "Lamb"
+    },
+    {
+        "dir": "L",
+        "name": "Led-Zeppelin"
+    },
+    {
+        "dir": "L",
+        "name": "Lemon-Interrupt"
+    },
+    {
+        "dir": "L",
+        "name": "Lemon-Jelly"
+    },
+    {
+        "dir": "L",
+        "name": "Lemonheads"
+    },
+    {
+        "dir": "L",
+        "name": "Leonard-Cohen"
+    },
+    {
+        "dir": "L",
+        "name": "Less-Than-Jake"
+    },
+    {
+        "dir": "L",
+        "name": "Limp-Bizkit"
+    },
+    {
+        "dir": "L",
+        "name": "Lionrock"
+    },
+    {
+        "dir": "L",
+        "name": "Little-Feat"
+    },
+    {
+        "dir": "L",
+        "name": "Little-Texas"
+    },
+    {
+        "dir": "L",
+        "name": "Little-Tin-Frog"
+    },
+    {
+        "dir": "L",
+        "name": "Live"
+    },
+    {
+        "dir": "L",
+        "name": "Living-Colour"
+    },
+    {
+        "dir": "L",
+        "name": "Llorca"
+    },
+    {
+        "dir": "L",
+        "name": "Lords-Of-Acid"
+    },
+    {
+        "dir": "L",
+        "name": "Los-Lobos"
+    },
+    {
+        "dir": "L",
+        "name": "Love"
+    },
+    {
+        "dir": "L",
+        "name": "LucasArts"
+    },
+    {
+        "dir": "L",
+        "name": "Luscious-Jackson"
+    },
+    {
+        "dir": "L",
+        "name": "Lyle-Lovett"
+    },
+    {
+        "dir": "L",
+        "name": "Lynyrd-Skynyrd"
+    },
+    {
+        "dir": "L",
+        "name": "Phil-Lesh--Friends"
+    },
+    {
+        "dir": "M",
+        "name": "Al-di-Meola-John-Mc-Laughlin-Paco-de-Lucia"
+    },
+    {
+        "dir": "M",
+        "name": "Bob-Marley"
+    },
+    {
+        "dir": "M",
+        "name": "Bob-Mould"
+    },
+    {
+        "dir": "M",
+        "name": "Branford-Marsalis"
+    },
+    {
+        "dir": "M",
+        "name": "Charles-Mingus"
+    },
+    {
+        "dir": "M",
+        "name": "Cibo-Matto"
+    },
+    {
+        "dir": "M",
+        "name": "Curtis-Mayfield-and-The-Impressions"
+    },
+    {
+        "dir": "M",
+        "name": "Freddie-Mercury"
+    },
+    {
+        "dir": "M",
+        "name": "George-Michael"
+    },
+    {
+        "dir": "M",
+        "name": "Glenn-Miller"
+    },
+    {
+        "dir": "M",
+        "name": "Hank-Mobley"
+    },
+    {
+        "dir": "M",
+        "name": "Jason-Van-Meter"
+    },
+    {
+        "dir": "M",
+        "name": "Jim-Morrison"
+    },
+    {
+        "dir": "M",
+        "name": "John-McCutcheon"
+    },
+    {
+        "dir": "M",
+        "name": "John-Mellencamp"
+    },
+    {
+        "dir": "M",
+        "name": "Joni-Mitchell"
+    },
+    {
+        "dir": "M",
+        "name": "Lee-Morgan"
+    },
+    {
+        "dir": "M",
+        "name": "Loreena-McKennitt"
+    },
+    {
+        "dir": "M",
+        "name": "MC-Solaar"
+    },
+    {
+        "dir": "M",
+        "name": "MC5"
+    },
+    {
+        "dir": "M",
+        "name": "Madonna"
+    },
+    {
+        "dir": "M",
+        "name": "Magic-Castles"
+    },
+    {
+        "dir": "M",
+        "name": "Magnetic-Fields"
+    },
+    {
+        "dir": "M",
+        "name": "Mamas-and-Papas"
+    },
+    {
+        "dir": "M",
+        "name": "Marilyn-Manson"
+    },
+    {
+        "dir": "M",
+        "name": "Marshall-Tucker-Band"
+    },
+    {
+        "dir": "M",
+        "name": "Massive-Attack"
+    },
+    {
+        "dir": "M",
+        "name": "Matchbox-20"
+    },
+    {
+        "dir": "M",
+        "name": "Mazzy-Star"
+    },
+    {
+        "dir": "M",
+        "name": "Meat-Puppets"
+    },
+    {
+        "dir": "M",
+        "name": "Medeski-Martin-and-Wood"
+    },
+    {
+        "dir": "M",
+        "name": "Men-At-Work"
+    },
+    {
+        "dir": "M",
+        "name": "Metallica"
+    },
+    {
+        "dir": "M",
+        "name": "Midnight-Oil"
+    },
+    {
+        "dir": "M",
+        "name": "Mighty-Mighty-Bosstones"
+    },
+    {
+        "dir": "M",
+        "name": "Mike-and-the-Mechanics"
+    },
+    {
+        "dir": "M",
+        "name": "Ministry"
+    },
+    {
+        "dir": "M",
+        "name": "Misfits"
+    },
+    {
+        "dir": "M",
+        "name": "Miss-Kitten"
+    },
+    {
+        "dir": "M",
+        "name": "Mission-Of-Burma"
+    },
+    {
+        "dir": "M",
+        "name": "Mix-Master-Mike"
+    },
+    {
+        "dir": "M",
+        "name": "Moby"
+    },
+    {
+        "dir": "M",
+        "name": "Modern-Lovers"
+    },
+    {
+        "dir": "M",
+        "name": "Modest-Mouse"
+    },
+    {
+        "dir": "M",
+        "name": "Moe"
+    },
+    {
+        "dir": "M",
+        "name": "Mojo-Nixon"
+    },
+    {
+        "dir": "M",
+        "name": "Monkees"
+    },
+    {
+        "dir": "M",
+        "name": "Mono"
+    },
+    {
+        "dir": "M",
+        "name": "Montreux"
+    },
+    {
+        "dir": "M",
+        "name": "Monty-Python"
+    },
+    {
+        "dir": "M",
+        "name": "Moody-Blues"
+    },
+    {
+        "dir": "M",
+        "name": "Morcheeba"
+    },
+    {
+        "dir": "M",
+        "name": "Morphine"
+    },
+    {
+        "dir": "M",
+        "name": "Morrissey"
+    },
+    {
+        "dir": "M",
+        "name": "Motley-Crue"
+    },
+    {
+        "dir": "M",
+        "name": "Mott-The-Hoople"
+    },
+    {
+        "dir": "M",
+        "name": "Mountain"
+    },
+    {
+        "dir": "M",
+        "name": "Mouse-on-Mars"
+    },
+    {
+        "dir": "M",
+        "name": "Moxy-Fruvous"
+    },
+    {
+        "dir": "M",
+        "name": "Mozart"
+    },
+    {
+        "dir": "M",
+        "name": "Mr-Mister"
+    },
+    {
+        "dir": "M",
+        "name": "Mr-Scruff"
+    },
+    {
+        "dir": "M",
+        "name": "Mum"
+    },
+    {
+        "dir": "M",
+        "name": "Mushroom-Jazz"
+    },
+    {
+        "dir": "M",
+        "name": "Mushroom-Jazz-2"
+    },
+    {
+        "dir": "M",
+        "name": "Mushroom-Jazz-3-DJ-Mark-Farina"
+    },
+    {
+        "dir": "M",
+        "name": "My-Bloody-Valentine"
+    },
+    {
+        "dir": "M",
+        "name": "My-Morning-Jacket"
+    },
+    {
+        "dir": "M",
+        "name": "MyG"
+    },
+    {
+        "dir": "M",
+        "name": "Natalie-Merchant"
+    },
+    {
+        "dir": "M",
+        "name": "Nils-Petter-Molvaer"
+    },
+    {
+        "dir": "M",
+        "name": "Pat-Martino"
+    },
+    {
+        "dir": "M",
+        "name": "Roger-Miller"
+    },
+    {
+        "dir": "M",
+        "name": "Sarah-McLachlan"
+    },
+    {
+        "dir": "M",
+        "name": "Skeeter-Van-Meter"
+    },
+    {
+        "dir": "M",
+        "name": "The-Monkees"
+    },
+    {
+        "dir": "M",
+        "name": "Thelonious-Monk"
+    },
+    {
+        "dir": "M",
+        "name": "Thelonious-Monk--Sonny-Rollins"
+    },
+    {
+        "dir": "M",
+        "name": "Thelonious-Monk-Quartet"
+    },
+    {
+        "dir": "M",
+        "name": "Thelonious-Monk-With-John-Coltrane"
+    },
+    {
+        "dir": "M",
+        "name": "Thelonious-Sphere-Monk"
+    },
+    {
+        "dir": "M",
+        "name": "Wes-Montgomery"
+    },
+    {
+        "dir": "M",
+        "name": "Wynton-Marsalis"
+    },
+    {
+        "dir": "M",
+        "name": "Ziggy-Marley-and-the-Melody-Makers"
+    },
+    {
+        "dir": "N",
+        "name": "Casey-Neill"
+    },
+    {
+        "dir": "N",
+        "name": "Laura-Nyro"
+    },
+    {
+        "dir": "N",
+        "name": "NOFX"
+    },
+    {
+        "dir": "N",
+        "name": "NUFAN"
+    },
+    {
+        "dir": "N",
+        "name": "NYCC"
+    },
+    {
+        "dir": "N",
+        "name": "NeTTwerk"
+    },
+    {
+        "dir": "N",
+        "name": "Negative-Land"
+    },
+    {
+        "dir": "N",
+        "name": "Nena"
+    },
+    {
+        "dir": "N",
+        "name": "Neu"
+    },
+    {
+        "dir": "N",
+        "name": "New-Morty-Show"
+    },
+    {
+        "dir": "N",
+        "name": "New-Riders-Of-The-Purple-Sage"
+    },
+    {
+        "dir": "N",
+        "name": "New-York-Dolls"
+    },
+    {
+        "dir": "N",
+        "name": "Nico"
+    },
+    {
+        "dir": "N",
+        "name": "Nightmares-On-Wax"
+    },
+    {
+        "dir": "N",
+        "name": "Nightnoise"
+    },
+    {
+        "dir": "N",
+        "name": "Nine-Inch-Nails"
+    },
+    {
+        "dir": "N",
+        "name": "Nirvana"
+    },
+    {
+        "dir": "N",
+        "name": "No-Doubt"
+    },
+    {
+        "dir": "N",
+        "name": "Nsns"
+    },
+    {
+        "dir": "N",
+        "name": "Oliver-Nelson"
+    },
+    {
+        "dir": "N",
+        "name": "Randy-Newman"
+    },
+    {
+        "dir": "N",
+        "name": "The-Normal"
+    },
+    {
+        "dir": "N",
+        "name": "The-Notwist"
+    },
+    {
+        "dir": "O",
+        "name": "Beth-Orton"
+    },
+    {
+        "dir": "O",
+        "name": "Mike-Oldfield"
+    },
+    {
+        "dir": "O",
+        "name": "OMD"
+    },
+    {
+        "dir": "O",
+        "name": "Oak-Ridge-Boys"
+    },
+    {
+        "dir": "O",
+        "name": "Oasis"
+    },
+    {
+        "dir": "O",
+        "name": "Offspring"
+    },
+    {
+        "dir": "O",
+        "name": "Old-And-In-The-Way"
+    },
+    {
+        "dir": "O",
+        "name": "Om-Lounge-3"
+    },
+    {
+        "dir": "O",
+        "name": "Omni-Trio"
+    },
+    {
+        "dir": "O",
+        "name": "Orange-9mm"
+    },
+    {
+        "dir": "O",
+        "name": "Orbital"
+    },
+    {
+        "dir": "O",
+        "name": "Other-Ones"
+    },
+    {
+        "dir": "O",
+        "name": "Ozzy-Osbourne"
+    },
+    {
+        "dir": "O",
+        "name": "Phil-Ochs"
+    },
+    {
+        "dir": "O",
+        "name": "The-Orb"
+    },
+    {
+        "dir": "O",
+        "name": "The-Other-Ones"
+    },
+    {
+        "dir": "P",
+        "name": "Charlie-Parker"
+    },
+    {
+        "dir": "P",
+        "name": "Edith-Piaf"
+    },
+    {
+        "dir": "P",
+        "name": "Fernanda-Porto"
+    },
+    {
+        "dir": "P",
+        "name": "Graham-Parker"
+    },
+    {
+        "dir": "P",
+        "name": "Gram-Parsons"
+    },
+    {
+        "dir": "P",
+        "name": "Itzhak-Perlman-James-Levine"
+    },
+    {
+        "dir": "P",
+        "name": "John-Prine"
+    },
+    {
+        "dir": "P",
+        "name": "Liz-Phair"
+    },
+    {
+        "dir": "P",
+        "name": "Maceo-Parker"
+    },
+    {
+        "dir": "P",
+        "name": "Oscar-Peterson"
+    },
+    {
+        "dir": "P",
+        "name": "Pachelbel"
+    },
+    {
+        "dir": "P",
+        "name": "Pantera"
+    },
+    {
+        "dir": "P",
+        "name": "Parliament"
+    },
+    {
+        "dir": "P",
+        "name": "Pavement"
+    },
+    {
+        "dir": "P",
+        "name": "Pearl-Jam"
+    },
+    {
+        "dir": "P",
+        "name": "Pearls-Before-Swine"
+    },
+    {
+        "dir": "P",
+        "name": "Penguin-Cafe-Orchestra"
+    },
+    {
+        "dir": "P",
+        "name": "Pentangle"
+    },
+    {
+        "dir": "P",
+        "name": "Pere-Ubu"
+    },
+    {
+        "dir": "P",
+        "name": "Perfect-Circle"
+    },
+    {
+        "dir": "P",
+        "name": "Phish"
+    },
+    {
+        "dir": "P",
+        "name": "Phish-Head"
+    },
+    {
+        "dir": "P",
+        "name": "Photek"
+    },
+    {
+        "dir": "P",
+        "name": "Pinback"
+    },
+    {
+        "dir": "P",
+        "name": "Pink-Floyd"
+    },
+    {
+        "dir": "P",
+        "name": "Pixies"
+    },
+    {
+        "dir": "P",
+        "name": "Placebo"
+    },
+    {
+        "dir": "P",
+        "name": "Plaid"
+    },
+    {
+        "dir": "P",
+        "name": "Plump-DJs"
+    },
+    {
+        "dir": "P",
+        "name": "Poco"
+    },
+    {
+        "dir": "P",
+        "name": "Pogues"
+    },
+    {
+        "dir": "P",
+        "name": "Poi-Dog-Pondering"
+    },
+    {
+        "dir": "P",
+        "name": "Portishead"
+    },
+    {
+        "dir": "P",
+        "name": "Postal-Service"
+    },
+    {
+        "dir": "P",
+        "name": "Prefuse-73"
+    },
+    {
+        "dir": "P",
+        "name": "Presidents-of-the-USA"
+    },
+    {
+        "dir": "P",
+        "name": "Pretenders"
+    },
+    {
+        "dir": "P",
+        "name": "Primitive-Radio-Gods"
+    },
+    {
+        "dir": "P",
+        "name": "Primus"
+    },
+    {
+        "dir": "P",
+        "name": "Prince"
+    },
+    {
+        "dir": "P",
+        "name": "Prodigy"
+    },
+    {
+        "dir": "P",
+        "name": "Psychedelic-Visions"
+    },
+    {
+        "dir": "P",
+        "name": "Public-Enemy"
+    },
+    {
+        "dir": "P",
+        "name": "Puddle-of-Mudd"
+    },
+    {
+        "dir": "P",
+        "name": "The-Pogues"
+    },
+    {
+        "dir": "P",
+        "name": "Tom-Paxton"
+    },
+    {
+        "dir": "P",
+        "name": "Tom-Petty"
+    },
+    {
+        "dir": "P",
+        "name": "Tom-Petty-and-the-Heartbreakers"
+    },
+    {
+        "dir": "Q",
+        "name": "Q-Tip"
+    },
+    {
+        "dir": "Q",
+        "name": "Queen"
+    },
+    {
+        "dir": "Q",
+        "name": "Queens-Of-The-Stone-Age"
+    },
+    {
+        "dir": "Q",
+        "name": "Queensryche"
+    },
+    {
+        "dir": "Q",
+        "name": "Quicksilver-Messenger-Service"
+    },
+    {
+        "dir": "R",
+        "name": "Bonnie-Raitt"
+    },
+    {
+        "dir": "R",
+        "name": "Craig-Russo"
+    },
+    {
+        "dir": "R",
+        "name": "Django-Reinhardt"
+    },
+    {
+        "dir": "R",
+        "name": "Henry-Rollins"
+    },
+    {
+        "dir": "R",
+        "name": "Jonathan-Richman"
+    },
+    {
+        "dir": "R",
+        "name": "Joshua-Redman-Quartet"
+    },
+    {
+        "dir": "R",
+        "name": "Lou-Reed"
+    },
+    {
+        "dir": "R",
+        "name": "REM"
+    },
+    {
+        "dir": "R",
+        "name": "Radiohead"
+    },
+    {
+        "dir": "R",
+        "name": "Rage-Against-The-Machine"
+    },
+    {
+        "dir": "R",
+        "name": "Rahzel"
+    },
+    {
+        "dir": "R",
+        "name": "Rammstein"
+    },
+    {
+        "dir": "R",
+        "name": "Ramones"
+    },
+    {
+        "dir": "R",
+        "name": "Rebirth-Brass-Band"
+    },
+    {
+        "dir": "R",
+        "name": "Red-Hot-Chili-Peppers"
+    },
+    {
+        "dir": "R",
+        "name": "Reverend-Billy-C-Wirtz"
+    },
+    {
+        "dir": "R",
+        "name": "Reverend-Horton-Heat"
+    },
+    {
+        "dir": "R",
+        "name": "Rimsky-Korsakov"
+    },
+    {
+        "dir": "R",
+        "name": "Rivingtons"
+    },
+    {
+        "dir": "R",
+        "name": "Rockabye-Baby"
+    },
+    {
+        "dir": "R",
+        "name": "Rodriguez"
+    },
+    {
+        "dir": "R",
+        "name": "Romantics"
+    },
+    {
+        "dir": "R",
+        "name": "Roots-Manuva"
+    },
+    {
+        "dir": "R",
+        "name": "Rotters"
+    },
+    {
+        "dir": "R",
+        "name": "Roxy-Music"
+    },
+    {
+        "dir": "R",
+        "name": "Royksopp"
+    },
+    {
+        "dir": "R",
+        "name": "Run-DMC"
+    },
+    {
+        "dir": "R",
+        "name": "Rush"
+    },
+    {
+        "dir": "R",
+        "name": "Rusted-Root"
+    },
+    {
+        "dir": "R",
+        "name": "The-Rembrandts"
+    },
+    {
+        "dir": "R",
+        "name": "The-Replacements"
+    },
+    {
+        "dir": "R",
+        "name": "The-Residents"
+    },
+    {
+        "dir": "R",
+        "name": "The-Roches"
+    },
+    {
+        "dir": "R",
+        "name": "The-Rolling-Stones"
+    },
+    {
+        "dir": "R",
+        "name": "The-Roots"
+    },
+    {
+        "dir": "R",
+        "name": "Yves-Robert"
+    },
+    {
+        "dir": "S",
+        "name": "Andrs-Segovia"
+    },
+    {
+        "dir": "S",
+        "name": "Bessie-Smith"
+    },
+    {
+        "dir": "S",
+        "name": "Bob-Seger"
+    },
+    {
+        "dir": "S",
+        "name": "Bob-Seger--and--The-Silver-Bullet-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Bob-Seger-And-The-Silver-Bullet-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Brian-Setzer"
+    },
+    {
+        "dir": "S",
+        "name": "Bruce-Springsteen"
+    },
+    {
+        "dir": "S",
+        "name": "Carlos-Santana--Buddy-Miles"
+    },
+    {
+        "dir": "S",
+        "name": "Carlos-Santana-And-Buddy-Miles"
+    },
+    {
+        "dir": "S",
+        "name": "Carly-Simon"
+    },
+    {
+        "dir": "S",
+        "name": "Cat-Stevens"
+    },
+    {
+        "dir": "S",
+        "name": "Charlie-Sexton-Sextet"
+    },
+    {
+        "dir": "S",
+        "name": "Horace-Silver"
+    },
+    {
+        "dir": "S",
+        "name": "Jimmy-Smith"
+    },
+    {
+        "dir": "S",
+        "name": "Joe-Satriani"
+    },
+    {
+        "dir": "S",
+        "name": "Jon-Spencer-Blues-Explosion"
+    },
+    {
+        "dir": "S",
+        "name": "Lisa-Stansfield"
+    },
+    {
+        "dir": "S",
+        "name": "Marcus-Shelby-and-the-Jazzantiqua-Music-Ensemble"
+    },
+    {
+        "dir": "S",
+        "name": "Matthew-Sweet"
+    },
+    {
+        "dir": "S",
+        "name": "Paul-Simon"
+    },
+    {
+        "dir": "S",
+        "name": "Pete-Seeger"
+    },
+    {
+        "dir": "S",
+        "name": "Pharoah-Sanders"
+    },
+    {
+        "dir": "S",
+        "name": "Rod-Stewart"
+    },
+    {
+        "dir": "S",
+        "name": "SCI"
+    },
+    {
+        "dir": "S",
+        "name": "Samuel"
+    },
+    {
+        "dir": "S",
+        "name": "Santana"
+    },
+    {
+        "dir": "S",
+        "name": "Sasha"
+    },
+    {
+        "dir": "S",
+        "name": "Sasha-and-John-Digweed"
+    },
+    {
+        "dir": "S",
+        "name": "Save-Ferris"
+    },
+    {
+        "dir": "S",
+        "name": "Scorpions"
+    },
+    {
+        "dir": "S",
+        "name": "Seal"
+    },
+    {
+        "dir": "S",
+        "name": "Semisonic"
+    },
+    {
+        "dir": "S",
+        "name": "Seven-Mary-Three"
+    },
+    {
+        "dir": "S",
+        "name": "Sigur-Ros"
+    },
+    {
+        "dir": "S",
+        "name": "Silverchair--Neon-Ballroom"
+    },
+    {
+        "dir": "S",
+        "name": "Simon-And-Garfunkel"
+    },
+    {
+        "dir": "S",
+        "name": "Sixteen-Horsepower"
+    },
+    {
+        "dir": "S",
+        "name": "Skatenigs"
+    },
+    {
+        "dir": "S",
+        "name": "Sloan"
+    },
+    {
+        "dir": "S",
+        "name": "Sly--The-Family-Stone"
+    },
+    {
+        "dir": "S",
+        "name": "Sly-And-The-Family-Stone"
+    },
+    {
+        "dir": "S",
+        "name": "Smash-Mouth"
+    },
+    {
+        "dir": "S",
+        "name": "Smashing-Pumpkins"
+    },
+    {
+        "dir": "S",
+        "name": "Smiths"
+    },
+    {
+        "dir": "S",
+        "name": "Snoop-Doggy-Dogg"
+    },
+    {
+        "dir": "S",
+        "name": "Social-Distortion"
+    },
+    {
+        "dir": "S",
+        "name": "Soft-Cell"
+    },
+    {
+        "dir": "S",
+        "name": "Son-Volt"
+    },
+    {
+        "dir": "S",
+        "name": "Sonic-Youth"
+    },
+    {
+        "dir": "S",
+        "name": "Soul-Asylum"
+    },
+    {
+        "dir": "S",
+        "name": "Soul-Coughing"
+    },
+    {
+        "dir": "S",
+        "name": "Soundgarden"
+    },
+    {
+        "dir": "S",
+        "name": "Sounds-of-Slashdot"
+    },
+    {
+        "dir": "S",
+        "name": "Sour-Mash-Hug-Band"
+    },
+    {
+        "dir": "S",
+        "name": "Space"
+    },
+    {
+        "dir": "S",
+        "name": "Spacehog"
+    },
+    {
+        "dir": "S",
+        "name": "Specials"
+    },
+    {
+        "dir": "S",
+        "name": "Spinal-Tap"
+    },
+    {
+        "dir": "S",
+        "name": "Square-the-Circle"
+    },
+    {
+        "dir": "S",
+        "name": "Squeeze"
+    },
+    {
+        "dir": "S",
+        "name": "Squirrel-Nut-Zippers"
+    },
+    {
+        "dir": "S",
+        "name": "St.-Germain"
+    },
+    {
+        "dir": "S",
+        "name": "Stabbing-Westward"
+    },
+    {
+        "dir": "S",
+        "name": "Star64"
+    },
+    {
+        "dir": "S",
+        "name": "Steeleye-Span"
+    },
+    {
+        "dir": "S",
+        "name": "Steely-Dan"
+    },
+    {
+        "dir": "S",
+        "name": "Stereolab"
+    },
+    {
+        "dir": "S",
+        "name": "Sting"
+    },
+    {
+        "dir": "S",
+        "name": "Sting-and-Gil-Evans"
+    },
+    {
+        "dir": "S",
+        "name": "Stone-Temple-Pilots"
+    },
+    {
+        "dir": "S",
+        "name": "String-Cheese-Incident"
+    },
+    {
+        "dir": "S",
+        "name": "Stroke-9"
+    },
+    {
+        "dir": "S",
+        "name": "Styx"
+    },
+    {
+        "dir": "S",
+        "name": "Sublime"
+    },
+    {
+        "dir": "S",
+        "name": "Sugar"
+    },
+    {
+        "dir": "S",
+        "name": "Sugar-Hill-Gang"
+    },
+    {
+        "dir": "S",
+        "name": "Sugar-Ray"
+    },
+    {
+        "dir": "S",
+        "name": "Supertramp"
+    },
+    {
+        "dir": "S",
+        "name": "Supremes"
+    },
+    {
+        "dir": "S",
+        "name": "The-Sex-Pistols"
+    },
+    {
+        "dir": "S",
+        "name": "The-Shins"
+    },
+    {
+        "dir": "S",
+        "name": "The-Smiths"
+    },
+    {
+        "dir": "S",
+        "name": "The-Stooges"
+    },
+    {
+        "dir": "S",
+        "name": "The-Stray-Cats"
+    },
+    {
+        "dir": "S",
+        "name": "The-Strokes"
+    },
+    {
+        "dir": "S",
+        "name": "Wayne-Shorter"
+    },
+    {
+        "dir": "S",
+        "name": "Will-Smith"
+    },
+    {
+        "dir": "S",
+        "name": "William-Shatner"
+    },
+    {
+        "dir": "S",
+        "name": "Willie-Smith"
+    },
+    {
+        "dir": "T",
+        "name": "Amon-Tobin"
+    },
+    {
+        "dir": "T",
+        "name": "James-Taylor"
+    },
+    {
+        "dir": "T",
+        "name": "Jeff-Tweedy"
+    },
+    {
+        "dir": "T",
+        "name": "Mccoy-Tyner"
+    },
+    {
+        "dir": "T",
+        "name": "Nobukazu-Takemura"
+    },
+    {
+        "dir": "T",
+        "name": "Peter-Tosh"
+    },
+    {
+        "dir": "T",
+        "name": "Richard-Thompson"
+    },
+    {
+        "dir": "T",
+        "name": "T-Rex"
+    },
+    {
+        "dir": "T",
+        "name": "Tabla-Beat-Science"
+    },
+    {
+        "dir": "T",
+        "name": "Taco"
+    },
+    {
+        "dir": "T",
+        "name": "Talking-Heads"
+    },
+    {
+        "dir": "T",
+        "name": "Television"
+    },
+    {
+        "dir": "T",
+        "name": "Texas"
+    },
+    {
+        "dir": "T",
+        "name": "The-Band"
+    },
+    {
+        "dir": "T",
+        "name": "The-Beatles"
+    },
+    {
+        "dir": "T",
+        "name": "The-Byrds"
+    },
+    {
+        "dir": "T",
+        "name": "The-Cramps"
+    },
+    {
+        "dir": "T",
+        "name": "The-Feelies"
+    },
+    {
+        "dir": "T",
+        "name": "The-Guess-Who"
+    },
+    {
+        "dir": "T",
+        "name": "The-Lounge-Lizards"
+    },
+    {
+        "dir": "T",
+        "name": "The-Other-Ones"
+    },
+    {
+        "dir": "T",
+        "name": "The-Temptations"
+    },
+    {
+        "dir": "T",
+        "name": "They-Might-Be-Giants"
+    },
+    {
+        "dir": "T",
+        "name": "Thievery-Corporation"
+    },
+    {
+        "dir": "T",
+        "name": "Third-Eye-Blind"
+    },
+    {
+        "dir": "T",
+        "name": "Three-Dog-Night"
+    },
+    {
+        "dir": "T",
+        "name": "Tibetan-Miracle-Seeds"
+    },
+    {
+        "dir": "T",
+        "name": "Tin-Hat-Trio"
+    },
+    {
+        "dir": "T",
+        "name": "Tinos-Corp"
+    },
+    {
+        "dir": "T",
+        "name": "Toad-The-Wet-Sprocket"
+    },
+    {
+        "dir": "T",
+        "name": "Tom-Petty"
+    },
+    {
+        "dir": "T",
+        "name": "Tomorrows-Dream"
+    },
+    {
+        "dir": "T",
+        "name": "Tone-Loc"
+    },
+    {
+        "dir": "T",
+        "name": "Tool"
+    },
+    {
+        "dir": "T",
+        "name": "Tortoise"
+    },
+    {
+        "dir": "T",
+        "name": "Tosca"
+    },
+    {
+        "dir": "T",
+        "name": "Toto"
+    },
+    {
+        "dir": "T",
+        "name": "Touched"
+    },
+    {
+        "dir": "T",
+        "name": "Traffic"
+    },
+    {
+        "dir": "T",
+        "name": "Trance-Europe-Express"
+    },
+    {
+        "dir": "T",
+        "name": "Traveling-Wilburies"
+    },
+    {
+        "dir": "T",
+        "name": "Trine-Rein"
+    },
+    {
+        "dir": "T",
+        "name": "Trio"
+    },
+    {
+        "dir": "T",
+        "name": "Truckstop-Honeymoon"
+    },
+    {
+        "dir": "T",
+        "name": "Twelve-Girls-Band"
+    },
+    {
+        "dir": "T",
+        "name": "Twilight-Circus-Dub-Sound-System"
+    },
+    {
+        "dir": "U",
+        "name": "U2"
+    },
+    {
+        "dir": "U",
+        "name": "UB40"
+    },
+    {
+        "dir": "U",
+        "name": "Ugly-Kid-Joe"
+    },
+    {
+        "dir": "U",
+        "name": "Uncle-Tupelo"
+    },
+    {
+        "dir": "U",
+        "name": "Underworld"
+    },
+    {
+        "dir": "U",
+        "name": "Urge-Overkill"
+    },
+    {
+        "dir": "U",
+        "name": "Us3"
+    },
+    {
+        "dir": "V",
+        "name": "Sarah-Vaughan"
+    },
+    {
+        "dir": "V",
+        "name": "Stevie-Ray-Vaughn"
+    },
+    {
+        "dir": "V",
+        "name": "Suzanne-Vega"
+    },
+    {
+        "dir": "V",
+        "name": "The-Vaselines"
+    },
+    {
+        "dir": "V",
+        "name": "The-Velvet-Underground"
+    },
+    {
+        "dir": "V",
+        "name": "VNV-Nation"
+    },
+    {
+        "dir": "V",
+        "name": "Van-Halen"
+    },
+    {
+        "dir": "V",
+        "name": "Van-Morrison"
+    },
+    {
+        "dir": "V",
+        "name": "Various"
+    },
+    {
+        "dir": "V",
+        "name": "Various-Artists"
+    },
+    {
+        "dir": "V",
+        "name": "Vast"
+    },
+    {
+        "dir": "V",
+        "name": "Ventures"
+    },
+    {
+        "dir": "V",
+        "name": "Veruca-Salt"
+    },
+    {
+        "dir": "V",
+        "name": "Verve"
+    },
+    {
+        "dir": "V",
+        "name": "Verve-Pipe"
+    },
+    {
+        "dir": "V",
+        "name": "Violent-Femmes"
+    },
+    {
+        "dir": "V",
+        "name": "Vivendo-de-Pao"
+    },
+    {
+        "dir": "W",
+        "name": "Bob-Weir"
+    },
+    {
+        "dir": "W",
+        "name": "Desmond-Williams"
+    },
+    {
+        "dir": "W",
+        "name": "George-Winston"
+    },
+    {
+        "dir": "W",
+        "name": "Joe-Walsh"
+    },
+    {
+        "dir": "W",
+        "name": "Junior-Wells"
+    },
+    {
+        "dir": "W",
+        "name": "Kate-Wolf"
+    },
+    {
+        "dir": "W",
+        "name": "Muddy-Waters"
+    },
+    {
+        "dir": "W",
+        "name": "Reverend-Billy-C-Wirtz"
+    },
+    {
+        "dir": "W",
+        "name": "Rick-Wakeman"
+    },
+    {
+        "dir": "W",
+        "name": "Ron-Whitehead"
+    },
+    {
+        "dir": "W",
+        "name": "Sonny-Boy-Williamson"
+    },
+    {
+        "dir": "W",
+        "name": "The-Warlocks"
+    },
+    {
+        "dir": "W",
+        "name": "The-Who"
+    },
+    {
+        "dir": "W",
+        "name": "Waco-Brothers"
+    },
+    {
+        "dir": "W",
+        "name": "Wake-The-Dead"
+    },
+    {
+        "dir": "W",
+        "name": "Wallflowers"
+    },
+    {
+        "dir": "W",
+        "name": "War"
+    },
+    {
+        "dir": "W",
+        "name": "Ween"
+    },
+    {
+        "dir": "W",
+        "name": "Weezer"
+    },
+    {
+        "dir": "W",
+        "name": "Wesley-Willis"
+    },
+    {
+        "dir": "W",
+        "name": "White-Stripes"
+    },
+    {
+        "dir": "W",
+        "name": "White-Zombie"
+    },
+    {
+        "dir": "W",
+        "name": "Who"
+    },
+    {
+        "dir": "W",
+        "name": "Wicked-Lady"
+    },
+    {
+        "dir": "W",
+        "name": "Widespread-Panic"
+    },
+    {
+        "dir": "W",
+        "name": "Wilco"
+    },
+    {
+        "dir": "W",
+        "name": "Wire"
+    },
+    {
+        "dir": "W",
+        "name": "Wooden-Shjips"
+    },
+    {
+        "dir": "X",
+        "name": "XTC"
+    },
+    {
+        "dir": "Y",
+        "name": "Lester-Young"
+    },
+    {
+        "dir": "Y",
+        "name": "Neil-Young"
+    },
+    {
+        "dir": "Y",
+        "name": "Neil-Young-and-Crazy-Horse"
+    },
+    {
+        "dir": "Y",
+        "name": "Steve-Young"
+    },
+    {
+        "dir": "Y",
+        "name": "Weird-Al-Yankovic"
+    },
+    {
+        "dir": "Y",
+        "name": "Yardbirds"
+    },
+    {
+        "dir": "Y",
+        "name": "Yes"
+    },
+    {
+        "dir": "Y",
+        "name": "Yo-La-Tengo"
+    },
+    {
+        "dir": "Z",
+        "name": "Frank-Zappa"
+    },
+    {
+        "dir": "Z",
+        "name": "Rob-Zombie"
+    },
+    {
+        "dir": "Z",
+        "name": "ZZ-Top"
+    },
+    {
+        "dir": "Z",
+        "name": "Zero"
+    },
+    {
+        "dir": "Z",
+        "name": "Zero-7"
+    },
+    {
+        "dir": "Z",
+        "name": "Zwan"
+    }
+]
