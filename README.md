@@ -10,9 +10,9 @@ The code and data for the MusicBank project was developed on Debian 11/12 but wr
 
 * If necessary install sudo and run the following commands
 ```
-    cat <<EOF >> /etc/sudoers
+    cat <<EOG >> /etc/sudoers
     ${USER} ALL=(ALL) NOPASSWD:ALL
-    EOF
+    EOG
 ```
  
 * Run the script, setup.sh
