@@ -9,10 +9,11 @@ The code and data for the MusicBank project was developed on Debian 11/12 but wr
 * Set the env variable MUSIC_ROOT to point to the starting directory of the music library.
 
 * If necessary install sudo and run the following commands
-<pre>
+```
     cat <<EOF >> /etc/sudoers
     ${USER} ALL=(ALL) NOPASSWD:ALL
-</pre>
+    EOF
+```
  
 * Run the script, setup.sh
 
