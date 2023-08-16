@@ -32,7 +32,7 @@ def main():
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--band", help='Band to search for', required=True)
+    parser.add_argument('-b', '--band', help='Band dir to be created', required=True)
 
     args = parser.parse_args()
 
