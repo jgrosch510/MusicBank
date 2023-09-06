@@ -21,9 +21,9 @@ The environment variable, **MUSIC_ROOT** points to the fully qualified path of t
 
 <hr noshade="noshade">
 
-[Appendix](Docs/appendix.md)
+[Appendix](docs/appendix.md)
 
-[Standards](Docs/standards.md)
+[Standards](docs/standards.md)
 
-[Tools](Docs/tools.md)
+[Tools](docs/tools.md)
 
