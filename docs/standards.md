@@ -7,7 +7,7 @@
   <ul>
     <li><b>Language:</b><br>
     The MusicBank uses English. Sorry guys but English is the
-    language of computer science and other tech stuff. It's the 2nd or 3rd   most used language, it is taught in all the universities in the world, and it's the only language I know. Since I'm writing this, English. Given that, all databases will store the data in unicode. <p>
+    language of computer science and other tech stuff. It's the most used language, it is taught in all the universities in the world, and it's the only language I know. Since I'm writing this, English. Given that, all databases will store the data in unicode. <p>
 
     <li><b>Recording Format:</b><br>
     The prefered file format of a recording is
@@ -75,21 +75,21 @@ All music is stored in a hierarchy file system starting at a point know as MUSIC
                     /Various
 
 
-    <a href="appendix.php#artist">Artist</a>/<a href="appendix.php#live">Live-Recordings</a>/<a
-            href="appendix.php#date">Date</a>/<a href="appendix.php#rec-type">Type</a>/<a href="appendix.php#cover">Cover</a>/<a href="appendix.php#image">Image file</a>
-                                    /<a href="appendix.php#music_file">Music File</a>
-                                    /<a href="appendix.php#md5">MD5.txt</a>
-                                    /<a href="appendix.php#notes">Notes.txt</a>
-          /<a href="appendix.php#album">Album</a>          /<a href="appendix.php#disc">Disk-##</a>/<a href="appendix.php#music_file">Music File</a>
-          /               /<a href="appendix.php#cover">Cover</a>/<a href="appendix.php#image">Image file</a>
-          /               /<a href="appendix.php#album_xml">Album.xml</a>
-          /               /<a href="appendix.php#notes">Notes.txt</a>
-          /               /<a href="MB_appendic.html#tabs">Tabs</a>/<a
-            href="appendix.php#guitar">Guitar</a>/<a href="appendix.php#tab_file">Tab file</a>
-          /               /    /<a href="appendix.php#bass">Bass</a>  /<a href="appendix.php#tab_file">Tab file</a>
+    <a href="appendix.md#artist">Artist</a>/<a href="appendix.md#live">Live-Recordings</a>/<a
+            href="appendix.md#date">Date</a>/<a href="appendix.md#rec-type">Type</a>/<a href="appendix.md#cover">Cover</a>/<a href="appendix.md#image">Image file</a>
+                                    /<a href="appendix.md#music_file">Music File</a>
+                                    /<a href="appendix.md#md5">MD5.txt</a>
+                                    /<a href="appendix.md#notes">Notes.txt</a>
+          /<a href="appendix.md#album">Album</a>          /<a href="appendix.md#disc">Disk-##</a>/<a href="appendix.md#music_file">Music File</a>
+          /               /<a href="appendix.md#cover">Cover</a>/<a href="appendix.md#image">Image file</a>
+          /               /<a href="appendix.md#album_xml">Album.xml</a>
+          /               /<a href="appendix.md#notes">Notes.txt</a>
+          /               /<a href="MB_appendic.md#tabs">Tabs</a>/<a
+            href="appendix.md#guitar">Guitar</a>/<a href="appendix.md#tab_file">Tab file</a>
+          /               /    /<a href="appendix.md#bass">Bass</a>  /<a href="appendix.md#tab_file">Tab file</a>
           /
-          /<a href="appendix.php#misc">Misc</a>           /<a href="appendix.php#music_file">Music File</a>
-          /<a href="appendix.php#notes">Notes</a>
-          /<a href="appendix.php#playlist">PlayLists</a>
-          /<a href="appendix.php#md5">MD5.txt</a>
+          /<a href="appendix.md#misc">Misc</a>           /<a href="appendix.md#music_file">Music File</a>
+          /<a href="appendix.md#notes">Notes</a>
+          /<a href="appendix.md#playlist">PlayLists</a>
+          /<a href="appendix.md#md5">MD5.txt</a>
         </pre>

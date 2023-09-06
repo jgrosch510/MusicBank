@@ -8,16 +8,17 @@ The code and data for the MusicBank project was developed on Debian 11/12 but wr
 
 * Set the env variable MUSIC_ROOT to point to the starting directory of the music library.
 
-* If necessary install sudo and run the following commands
+* If necessary install sudo and add the following line to /etc/sudoers
 ```
-    cat <<EOG >> /etc/sudoers
     ${USER} ALL=(ALL) NOPASSWD:ALL
-    EOG
 ```
- 
+
 * Run the script, setup.sh
 
- 
+## Environmant
+The environment variable, **MUSIC_ROOT** points to the fully qualified path of the directory that music files are being storied. 
+## Data
+
 <hr noshade="noshade">
 
 [Appendix](Docs/appendix.md)

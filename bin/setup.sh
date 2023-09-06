@@ -2,7 +2,7 @@
 
 ID=`id -u`
 GRP=`id -g`
-SITE_DIR="/tmp/usr/local/site"
+SITE_DIR="/usr/local/site"
 PWD=`pwd`
 
 sudo touch /tmp/TEST
