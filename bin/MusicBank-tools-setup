@@ -1,0 +1,36 @@
+#!/bin/sh
+
+# A simple setup program which prints PATH setting instructions to screen.
+
+dothere=$(cd "${0%/*}" 2>/dev/null; echo "`pwd -L`")
+MusicBank_prog="`which -a MusicBank`"
+
+if [ ! "$MusicBank_prog" ] ; then
+  >&2 echo "# "
+  >&2 echo "# The 'MusicBank' program is not in your path."
+  >&2 echo "# "
+  >&2 echo "# If you wish to merely load the MusicBank tools to run in your existing shell,"
+  >&2 echo "# (not for other shells), you may run:"
+  >&2 echo "# "
+  >&2 echo "#   $ export PATH=${dothere}:\$PATH"
+  >&2 echo "# "
+  >&2 echo "# To configure MUSICBANK tools for regular use, you can add the following "
+  >&2 echo "# line to your shell ~/.profile, ~/.bash_profile, or ~/.zprofile :"
+  >&2 echo ""
+  echo "export PATH=${dothere}:\$PATH"
+  >&2 echo ""
+
+
+else
+  if [ ! `which grv > /dev/null 2>&1` ] ; then
+    >&2 echo "#"
+    >&2 echo "# The 'MusicBank' program is in your PATH, ready for use:"
+    >&2 echo "#"
+    >&2 echo "#   ${MusicBank_prog}"
+    >&2 echo "#"
+    >&2 echo "# You may run 'MusicBank -h' for help. "
+  fi
+
+fi
+
+exit 0
