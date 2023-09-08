@@ -4,6 +4,9 @@ setup.py
 MusicBank/MB_common.py
 MusicBank/MB_db_util.py
 MusicBank/__init__.py
+MusicBank/album.py
+MusicBank/artist.py
+MusicBank/user.py
 MusicBank.egg-info/PKG-INFO
 MusicBank.egg-info/SOURCES.txt
 MusicBank.egg-info/dependency_links.txt
