@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                              < artist.py >
+#                              < util.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : artist.py
+# File Name    : util.py
 #
 # Author       : Josef Grosch
 #
@@ -78,10 +78,11 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
+import json
 from MusicBank import common as MBC
 
 """
-artist  --  functions related to the DB table, artist
+util  --  functions related to the DB table, util
 """
 
 #--start constants--
@@ -100,58 +101,21 @@ __version__     = "0.1"
 
 # ----------------------------------------------------------
 #
-# addArtist
+# toJson
 #
 # ----------------------------------------------------------
-def addArtist(pDict):
-    rDict = MBC.genReturnDict('inside addArtist')
+def toJson(pDict):
+    rDict = MBC.genReturnDict('inside toJson')
     RS    = MBC.ReturnStatus
 
-    return rDict
-    # End of addArtist
-
-
-# ----------------------------------------------------------
-#
-# deleteArtist
-#
-# ----------------------------------------------------------
-def deleteArtist(pDict):
-    rDict = MBC.genReturnDict('inside deleteArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of deleteArtist
-
+    jObj = json.dumps(pDict, indent=4)
+    rDict['data'] = jObj
     
-# ----------------------------------------------------------
-#
-# listArtist
-#
-# ----------------------------------------------------------
-def listArtist(pDict):
-    rDict = MBC.genReturnDict('inside listArtist')
-    RS    = MBC.ReturnStatus
-
     return rDict
-    # End of listArtist
-
-    
-# ----------------------------------------------------------
-#
-# updateArtist
-#
-# ----------------------------------------------------------
-def updateArtist(pDict):
-    rDict = MBC.genReturnDict('inside updateArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of updateArtist
-
+    # End of toJson
 
 # -----------------------------------------------------------------------
 #
-# End of artist.py
+# End of util.py
 #
 # -----------------------------------------------------------------------

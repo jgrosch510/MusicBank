@@ -1,24 +1,21 @@
-# -*- mode: python -*-
-# -*- coding: utf-8 -*-
-
 # -----------------------------------------------------------------------
 #
-#                              < artist.py >
+#                             < StartUp.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : artist.py
+# File Name    : StartUp.py
 #
 # Author       : Josef Grosch
 #
-# Date         : 08 Sep 2023
+# Date         : 17 Nov 2019
 #
-# Version      : 0.1
+# Version      : 0.0
 #
-# Modification : I guess
+# Modification : Some
 #
 # Application  :
 #
@@ -35,7 +32,7 @@
 #
 #                              Copyright
 #
-#                   Copyright (c) 2023 Moose River LLC.
+#                   Copyright (c) 2019 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -77,11 +74,13 @@
 # Import
 #
 # -----------------------------------------------------------------------
-import os, sys
-from MusicBank import common as MBC
+
 
 """
-artist  --  functions related to the DB table, artist
+TheFlood
+
+The main package for the TheFlood code base.
+
 """
 
 #--start constants--
@@ -97,61 +96,8 @@ __version__     = "0.1"
 
 #--end constants--
 
-
-# ----------------------------------------------------------
-#
-# addArtist
-#
-# ----------------------------------------------------------
-def addArtist(pDict):
-    rDict = MBC.genReturnDict('inside addArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of addArtist
-
-
-# ----------------------------------------------------------
-#
-# deleteArtist
-#
-# ----------------------------------------------------------
-def deleteArtist(pDict):
-    rDict = MBC.genReturnDict('inside deleteArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of deleteArtist
-
-    
-# ----------------------------------------------------------
-#
-# listArtist
-#
-# ----------------------------------------------------------
-def listArtist(pDict):
-    rDict = MBC.genReturnDict('inside listArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of listArtist
-
-    
-# ----------------------------------------------------------
-#
-# updateArtist
-#
-# ----------------------------------------------------------
-def updateArtist(pDict):
-    rDict = MBC.genReturnDict('inside updateArtist')
-    RS    = MBC.ReturnStatus
-
-    return rDict
-    # End of updateArtist
-
-
 # -----------------------------------------------------------------------
 #
-# End of artist.py
+# End of StartUp.py
 #
 # -----------------------------------------------------------------------

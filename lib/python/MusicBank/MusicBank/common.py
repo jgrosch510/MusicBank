@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                         < MB_common.py >
+#                         < common.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : MB_common.py
+# File Name    : common.py
 #
 # Author       : Josef Grosch
 #
@@ -84,13 +84,13 @@ import os, sys
 #
 # --------------------------------------------------------------------
 """
-MB_common - 
+common - 
 """
 
 __revision__   = "0.2"
 __author__     = "Josef Grosch"
 __copyright__  = "Copyright 2021 - 2023 Moose River, LLC."
-__license__    = "BSD-2-Clause"
+__license__    = "BSD-3-Clause"
 __version__    = "0.2"
 __maintainer__ = "Josef Grosch"
 __email__      = "jgrosch@gmail.com"
@@ -192,8 +192,49 @@ class ReturnStatus:
     RESTRICTED = 9 #
     # End of class ReturnStatus
 
+# --------------------------------------------------------------------
+#
+# class UserTable
+#
+# --------------------------------------------------------------------
+class UserTable:
+    """
+    """
+    
+    REC_NUM      = 0 #
+    INSERT_DATE  = 1 #
+    INSERT_EPOCH = 2 #
+    ACTIVE       = 3 #
+    USER_NAME    = 4 #
+    USER_EMAIL   = 5 #
+    # End of class UserTable
+
+# --------------------------------------------------------------------
+#
+# class ArtistTable
+#
+# --------------------------------------------------------------------
+class ArtistTable:
+    """
+    """
+    
+    REC_NUM      = 0 #
+    # End of class ArtistTable
+
+# --------------------------------------------------------------------
+#
+# class AlbumTable
+#
+# --------------------------------------------------------------------
+class AlbunTable:
+    """
+    """
+    
+    REC_NUM      = 0 #
+    # End of class AlbumTable
+    
 # -----------------------------------------------------------------------
 #
-# End of MB_common.py
+# End of common.py
 #
 # -----------------------------------------------------------------------

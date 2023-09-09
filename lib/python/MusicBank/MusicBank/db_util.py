@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                            < MB_db_util.py >
+#                            < db_util.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : MB_db_util.py
+# File Name    : db_util.py
 #
 # Author       : Josef Grosch
 #
@@ -78,6 +78,7 @@
 import os, sys
 import json
 import mysql.connector
+import sqlite3
 from MusicBank import MB_common as MBC
 from mysql.connector import errorcode
 
@@ -162,8 +163,36 @@ def connectToDatabaseJson(paramFile: str) -> dict:
     #
 
 
+# ----------------------------------------------------------
+#
+# connectToDB
+#
+# ----------------------------------------------------------
+def connectToDB(pDict):
+    rDict = MBC.genReturnDict('inside connectToDB')
+    RS    = MBC.ReturnStatus
+
+    D = {}
+    
+    dbFile = f"{pDict['musicRoot']}/etc/MusicBank.sqlite"
+    if not os.path.exists(dbFile):
+        rDict['status'] = RS.NOT_FOUND
+        rDict['msg'] = f"ERROR: {dbFile} NOT found."
+    else:
+        conn = sqlite3.connect(dbFile)
+        cur = conn.cursor()
+        D['conn'] = conn
+        D['cur'] = cur
+
+        rDict['status'] = RS.OK
+        rDict['msg'] = 'Connection made'
+        rDict['data'] = D
+        
+    return rDict
+    # End of connectToDB
+
 # -----------------------------------------------------------------------
 #
-# End of MR_db_util.py
+# End of db_util.py
 #
 # -----------------------------------------------------------------------
