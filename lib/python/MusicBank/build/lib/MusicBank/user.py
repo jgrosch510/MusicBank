@@ -169,8 +169,8 @@ def deleteUser(pDict):
     cur  = D['data']['cur']
     conn = D['data']['conn']
     
-    userName = pDict['args'].user
-    userEmail = pDict['args'].email
+    userName = pDict['user']
+    userEmail = pDict['email']
 
     # delete from user where user_name = 'bdobbs';
     query = f"delete from user where user_name = '{userName}';"
