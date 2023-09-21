@@ -232,7 +232,24 @@ class AlbunTable:
     
     REC_NUM      = 0 #
     # End of class AlbumTable
-    
+
+class MusicFile:
+    """
+    """
+    MFILE = {
+        "disk_ordnal": "",
+        "track_ordnal": "",
+        "file_name": "",
+        "fqp": "",
+        "set": "",
+        "file_type": "",
+        "title": "",
+        "ffp": "",
+        "sha256": "",
+        "md5": ""
+        }
+    # End of class MusicFile
+
 # -----------------------------------------------------------------------
 #
 # End of common.py
