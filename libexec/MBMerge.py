@@ -17,7 +17,6 @@ def main(argv, argc):
     # Delete - MBDelete.py
     # List   - MBList.py
     # Manage - MBManage.py
-    # Merge  = MBMerge.py
     # Rip    - MBRip.py
     # Update - MBUpdate.py
     
