@@ -79,6 +79,7 @@
 # -----------------------------------------------------------------------
 import os, sys
 import json
+import audio_metadata
 from MusicBank import common as MBC
 
 """
@@ -114,6 +115,70 @@ def toJson(pDict):
     return rDict
     # End of toJson
 
+# --------------------------------------------------------------------
+#
+# genFfpFile
+#
+# --------------------------------------------------------------------
+def genFfpFile(path):
+    RS = MBC.ReturnStatus
+    rDict = MBC.genReturnDict('inside genFfFile')
+
+
+    if os.path.exists(path):
+        statusCode = RS.OK
+    else:
+        statusCode = RS.NOT_FOUND
+        rDict['status'] = statusCode
+        rDict['msg'] = f"ERROR: path {path} NOT found."
+
+    if statusCode == RS.OK:
+        flacList = []
+        ffpLines = []
+
+        bits = path.split('/')
+        bitsCount = len(bits)
+        albumIndex = (bitsCount - 1)
+        albumName = bits[albumIndex]
+    
+        for root,d_names,f_names in os.walk(path):
+            r = root
+            Dirs = d_names
+            Files = f_names
+
+            if len(Files) > 0:
+                for entry in Files:
+                    if entry.endswith('.flac'):
+                        flacList.append(f"{root}/{entry}")
+                    # End of if
+                # End of for loop
+            # End of if
+        # End of for loop
+
+        for entry in flacList:
+            m = audio_metadata.load(entry)
+            md5 = m['streaminfo']['md5']
+            
+            bits = entry.split('/')
+            bitsCount = len(bits)
+            fileIndex = (bitsCount - 1)
+            fileName = bits[fileIndex]
+            tmpStr = f"{fileName}:{md5}\n"
+            ffpLines.append(tmpStr)
+        # End of for loop
+    
+        ffpLines.sort()
+        outStr = ''.join(ffpLines)
+        ffpFileName = f"{path}/{albumName}.ffp"
+        with open(ffpFileName, 'w') as fh:
+            fh.write(outStr)
+
+            rDict['status'] = RS.OK
+            rDict['msg'] = f"FFP file {ffpFileName} created"
+    
+    return rDict
+    # End of genFfpFile
+    
 # -----------------------------------------------------------------------
 #
 # End of util.py
