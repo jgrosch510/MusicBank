@@ -9,7 +9,7 @@ AUTHOR       = 'Josef Grosch'
 AUTHOR_EMAIL = 'jgrosch@gmail.com'
 URL          = 'https://github.com/jgrosch510/MusicBank'
 
-LICENSE = 'BSD 2-clause "Simplified" license'
+LICENSE = 'BSD 3-clause license'
 DESCRIPTION = 'Describe your package in one sentence'
 LONG_DESCRIPTION = (HERE / "README.md").read_text()
 LONG_DESC_TYPE = "text/markdown"

@@ -233,6 +233,11 @@ class AlbunTable:
     REC_NUM      = 0 #
     # End of class AlbumTable
 
+# --------------------------------------------------------------------
+#
+# class MusifFile
+#
+# --------------------------------------------------------------------
 class MusicFile:
     """
     """
@@ -249,6 +254,76 @@ class MusicFile:
         "md5": ""
         }
     # End of class MusicFile
+
+# --------------------------------------------------------------------
+#
+# class AlbumFile
+#
+# --------------------------------------------------------------------
+class AlbumFile:
+    """
+    """
+    ALBUM = {
+        "track_count": "",
+        "disc_count": "",
+        "collection_type": "",
+        "artist": "",
+        "url": "",
+        "year": "",
+        "date": "",
+        "venue": "",
+        "location": "",
+        "genre": "",
+        "sections": {
+            "misc": "",
+            "id_tags": {
+                "etree_artist_key": "",
+                "free_db": "",
+                "musicbank_artist_id": "",
+                "musicbank_show_id": "",
+                "musicbank_venue_id": "",
+                "musicbrainz_artist_id": "",
+                "musicbrainz_show_id": "",
+                "musicbrainz_album_id": "",
+                "shnid": "",
+                "show_key": "",
+                "torrent": ""
+                }
+            },
+        "m3u": "",
+        "admin": {
+            "owner_key": "",
+            "owner_email": ""
+            },
+        "images": [
+            {
+                "cover": {
+                    "jpg": "",
+                    "md5": "",
+                    "sha512": ""
+                    q                }
+                }
+            ],
+        "tabs": {
+            "bass": "",
+            "guitar": ""
+            },
+        "music_files": [
+            {
+                "track_ordnal": "",
+                "file": "",
+                "set": "",
+                "file_type": "",
+                "disk_track": "",
+                "title": "",
+                "ffp": "",
+                "sha256": "",
+                "md5": ""
+                }
+            ]
+        }
+
+    # End of class AlbumFile
 
 # -----------------------------------------------------------------------
 #
