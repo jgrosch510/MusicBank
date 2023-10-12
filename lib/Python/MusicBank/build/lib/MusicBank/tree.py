@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                              < album.py >
+#                              < tree.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : album.py
+# File Name    : tree.py
 #
 # Author       : Josef Grosch
 #
@@ -81,7 +81,7 @@ import os, sys
 from MusicBank import common as MBC
 
 """
-album  --  functions related to the DB table, album
+tree  --  functions related to the DB table, tree
 """
 
 #--start constants--
@@ -100,58 +100,58 @@ __version__     = "0.1"
 
 # ----------------------------------------------------------
 #
-# addAlbum
+# addTree
 #
 # ----------------------------------------------------------
-def addAlbum(pDict):
-    rDict = MBC.genReturnDict('inside addAlbum')
+def addTree(pDict):
+    rDict = MBC.genReturnDict('inside addTree')
     RS    = MBC.ReturnStatus
 
     return rDict
-    # End of addAlbum
+    # End of addTree
 
 
 # ----------------------------------------------------------
 #
-# deleteAlbum
+# deleteTree
 #
 # ----------------------------------------------------------
-def deleteAlbum(pDict):
-    rDict = MBC.genReturnDict('inside deleteAlbum')
+def deleteTree(pDict):
+    rDict = MBC.genReturnDict('inside deleteTree')
     RS    = MBC.ReturnStatus
 
     return rDict
-    # End of deleteAlbum
+    # End of deleteTree
 
     
 # ----------------------------------------------------------
 #
-# listAlbum
+# listTree
 #
 # ----------------------------------------------------------
-def listAlbum(pDict):
-    rDict = MBC.genReturnDict('inside listAlbum')
+def listTree(pDict):
+    rDict = MBC.genReturnDict('inside listTree')
     RS    = MBC.ReturnStatus
 
     return rDict
-    # End of listAlbum
+    # End of listTree
 
     
 # ----------------------------------------------------------
 #
-# updateAlbum
+# updateTree
 #
 # ----------------------------------------------------------
-def updateAlbum(pDict):
-    rDict = MBC.genReturnDict('inside updateAlbum')
+def updateTree(pDict):
+    rDict = MBC.genReturnDict('inside updateTree')
     RS    = MBC.ReturnStatus
 
     return rDict
-    # End of updateAlbum
+    # End of updateTree
 
 
 # -----------------------------------------------------------------------
 #
-# End of album.py
+# End of tree.py
 #
 # -----------------------------------------------------------------------

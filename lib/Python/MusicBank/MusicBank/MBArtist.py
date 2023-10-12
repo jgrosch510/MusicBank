@@ -78,11 +78,14 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
-from MusicBank import common as MBC
 
-"""
-artist  --  functions related to the DB table, artist
-"""
+myhier = os.getenv('MYHIER')
+gitHome = os.getenv('GIT_HOME')    
+mbLibPath = os.getenv('MBLIBPATH')
+sys.path.append(mbLibPath)
+
+import MBCommon as MBC
+
 
 #--start constants--
 
@@ -96,6 +99,10 @@ __status__      = "Development"
 __version__     = "0.1"
 
 #--end constants--
+
+"""
+artist  --  functions related to the DB table, artist
+"""
 
 
 # ----------------------------------------------------------

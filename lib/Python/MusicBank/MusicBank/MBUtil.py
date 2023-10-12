@@ -78,13 +78,15 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
+
+myhier = os.getenv('MYHIER')
+gitHome = os.getenv('GIT_HOME')    
+mbLibPath = os.getenv('MBLIBPATH')
+sys.path.append(mbLibPath)
+
 import json
 import audio_metadata
-from MusicBank import common as MBC
-
-"""
-util  --  functions related to the DB table, util
-"""
+import MBCommon as MBC
 
 #--start constants--
 
@@ -98,6 +100,11 @@ __status__      = "Development"
 __version__     = "0.1"
 
 #--end constants--
+
+"""
+util  --  functions related to the DB table, util
+"""
+
 
 
 # ----------------------------------------------------------
@@ -178,7 +185,67 @@ def genFfpFile(path):
     
     return rDict
     # End of genFfpFile
+
+# --------------------------------------------------------------------
+#
+# parseArgs
+#
+# --------------------------------------------------------------------
+def parseArgs(argv, argc):
+    rDict = MBC.genReturnDict('inside MBList.performAction')
+    RS    = MBC.ReturnStatus
+
+    T2 = MBC.Tools()
+    Tools = T2.Tools
+    ToolsTest = MBC.Tools().Tools
     
+    D = {}
+    argList = []
+    index = 0
+
+    for entry in argv:
+        D['index'] = index
+        D['key']   = entry
+        D['value'] = ''
+        argList.append(D)
+        index += 1
+        D = {}
+
+    for entry in argList:
+        index = entry['index']
+        key   = entry['key']
+        value = entry['value']
+
+        nextIndex = (index + 1)
+        
+        if index == 0:
+            entry['value'] = 'calling program'
+            continue
+
+        if index == 1:
+            if key in Tools:
+                entry['value'] = 'cmd'
+                continue
+            
+        if key.startswith('--'):
+            if nextIndex < argc:
+                if argList[nextIndex]['key'].startswith('--'):
+                    entry['value'] = 'true'
+                else:
+                    entry['value'] = argList[nextIndex]['key']
+            else:
+                entry['value'] = 'true'
+        else:
+            entry['value'] = 'skip'
+                
+    j = 0
+    rDict['status'] = RS.OK
+    rDict['msg']    = 'arg list parsed'
+    rDict['data']   = argList
+    
+    return rDict
+    # End of parseArgs
+
 # -----------------------------------------------------------------------
 #
 # End of util.py

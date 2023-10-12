@@ -173,20 +173,51 @@ def connectToDB(pDict):
     RS    = MBC.ReturnStatus
 
     D = {}
-    
-    dbFile = f"{pDict['musicRoot']}/etc/MusicBank.sqlite"
-    if not os.path.exists(dbFile):
-        rDict['status'] = RS.NOT_FOUND
-        rDict['msg'] = f"ERROR: {dbFile} NOT found."
-    else:
-        conn = sqlite3.connect(dbFile)
-        cur = conn.cursor()
-        D['conn'] = conn
-        D['cur'] = cur
+    Config = pDict['config']
+    dbType = Config['db']['mb_db_type']
 
-        rDict['status'] = RS.OK
-        rDict['msg'] = 'Connection made'
-        rDict['data'] = D
+    if 'sqlite' in dbType:
+        # sqlite3
+        dbFile = f"{pDict['musicRoot']}/etc/MusicBank.sqlite"
+        if not os.path.exists(dbFile):
+            rDict['status'] = RS.NOT_FOUND
+            rDict['msg'] = f"ERROR: {dbFile} NOT found."
+        else:
+            conn = sqlite3.connect(dbFile)
+            cursor = conn.cursor()
+            D['conn'] = conn
+            D['cursor'] = cursor
+            
+            rDict['status'] = RS.OK
+            rDict['msg'] = 'Connection made'
+            rDict['data'] = D
+    elif ('mysql' in dbType) or ('mariadb' in dbType):
+        # MYSQL
+        dbName   = Config['db']['mb_db_name'] 
+        dbHost   = Config['db']['mb_db_host'] 
+        dbPasswd = Config['db']['mb_db_password'] 
+        dbUser   = Config['db']['mb_db_user'] 
+
+        try:
+            conn = mysql.connector.connect(user=dbUser,
+                                           password=dbPasswd,
+                                           host=dbHost,
+                                           database=dbName)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Something is wrong with your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+
+        cursor = conn.cursor(buffered=True)
+        
+    D['conn']   = conn
+    D['cursor'] = cursor
+
+    rDict['status'] = RS.OK
+    rDict['data']   = D
         
     return rDict
     # End of connectToDB

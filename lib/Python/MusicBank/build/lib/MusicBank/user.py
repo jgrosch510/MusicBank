@@ -112,37 +112,57 @@ def addUser(pDict):
     rDict = MBC.genReturnDict('inside addUser')
     RS    = MBC.ReturnStatus
 
-    userName  = pDict['user']
+    debug = False
+    
+    userId    = pDict['user']
     userEmail = pDict['email']
+    userName  = pDict['name'] 
 
     D = MBDB.connectToDB(pDict)
-    cur  = D['data']['cur']
-    conn = D['data']['conn']
+    cursor = D['data']['cursor']
+    conn   = D['data']['conn']
     
-    query = f"select * from user where user_name = '{userName}';"
+    query = f"select * from user where user_id = '{userId}';"
         
-    cur.execute(query)
-    Rows = cur.fetchall()
+    cursor.execute(query)
+    Rows = cursor.fetchall()
     if len(Rows) >= 1:
         rDict['status'] = RS.NOT_OK
-        rDict['msg'] = f"ERROR: User {userName} found. User name must be unique."
+        rDict['msg'] = f"ERROR: User {userName} found. User name, id, and email must be unique."
     else:
-        active = 'YES'
-        epoch   = int(time.time())
-        now = time.strftime("%c")
-
         if userName is None:
             userName = ""
 
         if userEmail is None:
             userEmail = ""
-                    
-        query = ("insert into user (insert_date, insert_epoch, active, "
-                 "user_name, user_email) values ('{}', '{}', '{}', '{}', '{}');"
-                 .format(now, epoch, active, userName, userEmail))
+            
+        if userId is None:
+            userId = ""
+            
+        epoch        = int(time.time())
+        now          = time.strftime("%c")
+        rec_version  = 1
+        insert_time  = now
+        insert_epoch = epoch
+        update_time  = now
+        update_epoch = epoch
+        active       = 1
+        user_name    = userName
+        user_id      = userId
+        user_email   = userEmail
+        
+        query = ("insert into user (rec_version, insert_time, insert_epoch,  "
+                 "update_time, update_epoch, active, "
+                 "user_name, user_id, user_email) values ({}, '{}', '{}', '{}', '{}', "
+                 " {}, '{}', '{}', '{}');"
+                 .format(rec_version, insert_time, insert_epoch,
+                         update_time, update_epoch, active, user_name, user_id, user_email))
 
-        cur.execute(query)
-        value = cur.lastrowid
+        if debug:
+            print(query)
+
+        cursor.execute(query)
+        value = cursor.lastrowid
         if value >= 1:
             rDict['status'] = RS.OK
             rDict['msg'] = "New user DB record inserted"
@@ -150,7 +170,7 @@ def addUser(pDict):
     # End of else
 
     conn.commit()
-    cur.close()
+    cursor.close()
     
     return rDict
     # End of addUser

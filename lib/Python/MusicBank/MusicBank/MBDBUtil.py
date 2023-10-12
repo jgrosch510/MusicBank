@@ -76,10 +76,16 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
+
+myhier = os.getenv('MYHIER')
+gitHome = os.getenv('GIT_HOME')    
+mbLibPath = os.getenv('MBLIBPATH')
+sys.path.append(mbLibPath)
+
 import json
 import mysql.connector
 import sqlite3
-from MusicBank import MB_common as MBC
+import MBCommon as MBC
 from mysql.connector import errorcode
 
 try:
@@ -87,6 +93,18 @@ try:
 except ImportError:
     warnings = None
 
+#--start constants--
+
+__author__      = "Josef Grosch"
+__copyright__   = "Copyright 2023 Moose River, LLC."
+__description__ = "This tool manages the MusicBank tree"
+__email__       = "jgrosch@gmail.com"
+__license__     = "BSD 3-clause"
+__maintainer__  = "Josef Grosch"
+__status__      = "Development"
+__version__     = "0.1"
+
+#--end constants--
 
 # --------------------------------------------------------------------
 #
@@ -97,14 +115,6 @@ except ImportError:
 MR.db_util - Provides database access routines
 """
 
-__revision__   = "0.2"
-__author__     = "Josef Grosch"
-__copyright__  = "Copyright 2015 - 2023 Moose River, LLC."
-__license__    = "BSD-2-Clause"
-__version__    = "0.2"
-__maintainer__ = "Josef Grosch"
-__email__      = "jgrosch@gmail.com"
-__status__     = "Development"
 
 
 # ---------------------------------------------------------
@@ -173,20 +183,51 @@ def connectToDB(pDict):
     RS    = MBC.ReturnStatus
 
     D = {}
-    
-    dbFile = f"{pDict['musicRoot']}/etc/MusicBank.sqlite"
-    if not os.path.exists(dbFile):
-        rDict['status'] = RS.NOT_FOUND
-        rDict['msg'] = f"ERROR: {dbFile} NOT found."
-    else:
-        conn = sqlite3.connect(dbFile)
-        cur = conn.cursor()
-        D['conn'] = conn
-        D['cur'] = cur
+    Config = pDict['config']
+    dbType = Config['db']['mb_db_type']
 
-        rDict['status'] = RS.OK
-        rDict['msg'] = 'Connection made'
-        rDict['data'] = D
+    if 'sqlite' in dbType:
+        # sqlite3
+        dbFile = f"{pDict['musicRoot']}/etc/MusicBank.sqlite"
+        if not os.path.exists(dbFile):
+            rDict['status'] = RS.NOT_FOUND
+            rDict['msg'] = f"ERROR: {dbFile} NOT found."
+        else:
+            conn = sqlite3.connect(dbFile)
+            cursor = conn.cursor()
+            D['conn'] = conn
+            D['cursor'] = cursor
+            
+            rDict['status'] = RS.OK
+            rDict['msg'] = 'Connection made'
+            rDict['data'] = D
+    elif ('mysql' in dbType) or ('mariadb' in dbType):
+        # MYSQL
+        dbName   = Config['db']['mb_db_name'] 
+        dbHost   = Config['db']['mb_db_host'] 
+        dbPasswd = Config['db']['mb_db_password'] 
+        dbUser   = Config['db']['mb_db_user'] 
+
+        try:
+            conn = mysql.connector.connect(user=dbUser,
+                                           password=dbPasswd,
+                                           host=dbHost,
+                                           database=dbName)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Something is wrong with your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+
+        cursor = conn.cursor(buffered=True)
+        
+    D['conn']   = conn
+    D['cursor'] = cursor
+
+    rDict['status'] = RS.OK
+    rDict['data']   = D
         
     return rDict
     # End of connectToDB

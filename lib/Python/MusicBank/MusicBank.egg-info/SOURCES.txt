@@ -5,7 +5,9 @@ MusicBank/__init__.py
 MusicBank/album.py
 MusicBank/artist.py
 MusicBank/common.py
+MusicBank/config.py
 MusicBank/db_util.py
+MusicBank/tree.py
 MusicBank/user.py
 MusicBank/util.py
 MusicBank.egg-info/PKG-INFO

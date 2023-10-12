@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                              < user.py >
+#                              < album.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : user.py
+# File Name    : album.py
 #
 # Author       : Josef Grosch
 #
@@ -78,16 +78,13 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
-import json
-import sqlite3
-import time
 
-from MusicBank import common as MBC
-from MusicBank import db_util as MBDB
+myhier = os.getenv('MYHIER')
+gitHome = os.getenv('GIT_HOME')    
+mbLibPath = os.getenv('MBLIBPATH')
+sys.path.append(mbLibPath)
 
-"""
-user  --  functions related to the DB table, user
-"""
+import MBCommon as MBC
 
 #--start constants--
 
@@ -103,152 +100,78 @@ __version__     = "0.1"
 #--end constants--
 
 
-# ----------------------------------------------------------
-#
-# addUser
-#
-# ----------------------------------------------------------
-def addUser(pDict):
-    rDict = MBC.genReturnDict('inside addUser')
-    RS    = MBC.ReturnStatus
+"""
+Album  --  functions related to the DB table, album
+"""
 
-    userName  = pDict['user']
-    userEmail = pDict['email']
-
-    D = MBDB.connectToDB(pDict)
-    cur  = D['data']['cur']
-    conn = D['data']['conn']
-    
-    query = f"select * from user where user_name = '{userName}';"
-        
-    cur.execute(query)
-    Rows = cur.fetchall()
-    if len(Rows) >= 1:
-        rDict['status'] = RS.NOT_OK
-        rDict['msg'] = f"ERROR: User {userName} found. User name must be unique."
-    else:
-        active = 'YES'
-        epoch   = int(time.time())
-        now = time.strftime("%c")
-
-        if userName is None:
-            userName = ""
-
-        if userEmail is None:
-            userEmail = ""
-                    
-        query = ("insert into user (insert_date, insert_epoch, active, "
-                 "user_name, user_email) values ('{}', '{}', '{}', '{}', '{}');"
-                 .format(now, epoch, active, userName, userEmail))
-
-        cur.execute(query)
-        value = cur.lastrowid
-        if value >= 1:
-            rDict['status'] = RS.OK
-            rDict['msg'] = "New user DB record inserted"
-                         
-    # End of else
-
-    conn.commit()
-    cur.close()
-    
-    return rDict
-    # End of addUser
 
 
 # ----------------------------------------------------------
 #
-# deleteUser
+# addAlbum
 #
 # ----------------------------------------------------------
-def deleteUser(pDict):
-    rDict = MBC.genReturnDict('inside deleteUser')
-    RS    = MBC.ReturnStatus
-
-    D = MBDB.connectToDB(pDict)
-    cur  = D['data']['cur']
-    conn = D['data']['conn']
-    
-    userName = pDict['user']
-    userEmail = pDict['email']
-
-    # delete from user where user_name = 'bdobbs';
-    query = f"delete from user where user_name = '{userName}';"
-
-    cur.execute(query)
-    value = cur.lastrowid
-    if value >= 1:
-        rDict['status'] = RS.OK
-        rDict['msg'] = f"User {userName} deleted"
-
-    conn.commit()
-    cur.close()
-    
-    return rDict
-    # End of deleteUser
-
-    
-# ----------------------------------------------------------
-#
-# listUser
-#
-# ----------------------------------------------------------
-def listUser(pDict):
-    rDict = MBC.genReturnDict('inside listUser')
-    RS    = MBC.ReturnStatus
-    UT    = MBC.UserTable
-    
-    JL = []
-    UD = {}
-    D = MBDB.connectToDB(pDict)
-    cur  = D['data']['cur']
-    conn = D['data']['conn']
-    
-    query = 'select * from user'
-    cur.execute(query)
-    Rows = cur.fetchall()
-    if len(Rows) > 0:
-        for row in Rows:
-            UD['recNum']      = row[UT.REC_NUM]
-            UD['insertDate']  = row[UT.INSERT_DATE]
-            UD['insertEpoch'] = row[UT.INSERT_EPOCH]
-            UD['active']      = row[UT.ACTIVE]
-            UD['userName']    = row[UT.USER_NAME]
-            UD['userEmail']   = row[UT.USER_EMAIL]
-            JL.append(UD)
-            UD = {}
-        # End of for loop
-            
-        rDict['status'] = RS.OK
-        rDict['msg']    = 'Users found'
-        rDict['data']   = JL
-    else:
-        rDict['status'] = RS.NOT_FOUND
-        rDict['msg'] = 'No users found'
-    # End of if/else
-
-    conn.commit()
-    cur.close()
-
-    return rDict
-    # End of listUser
-
-    
-# ----------------------------------------------------------
-#
-# updateUser
-#
-# ----------------------------------------------------------
-def updateUser(pDict):
-    rDict = MBC.genReturnDict('inside updateUser')
+def addAlbum(pDict):
+    rDict = MBC.genReturnDict('inside addAlbum')
     RS    = MBC.ReturnStatus
 
     return rDict
-    # End of updateUser
+    # End of addAlbum
+
+# ----------------------------------------------------------
+#
+# addAlbums
+#
+# ----------------------------------------------------------
+def addAlbums(pDict):
+    rDict = MBC.genReturnDict('inside addAlbum')
+    RS    = MBC.ReturnStatus
+
+    return rDict
+    # End of addAlbums
+
+
+# ----------------------------------------------------------
+#
+# deleteAlbum
+#
+# ----------------------------------------------------------
+def deleteAlbum(pDict):
+    rDict = MBC.genReturnDict('inside deleteAlbum')
+    RS    = MBC.ReturnStatus
+
+    return rDict
+    # End of deleteAlbum
+
+    
+# ----------------------------------------------------------
+#
+# listAlbum
+#
+# ----------------------------------------------------------
+def listAlbum(pDict):
+    rDict = MBC.genReturnDict('inside listAlbum')
+    RS    = MBC.ReturnStatus
+
+    return rDict
+    # End of listAlbum
+
+    
+# ----------------------------------------------------------
+#
+# updateAlbum
+#
+# ----------------------------------------------------------
+def updateAlbum(pDict):
+    rDict = MBC.genReturnDict('inside updateAlbum')
+    RS    = MBC.ReturnStatus
+
+    return rDict
+    # End of updateAlbum
 
 
 # -----------------------------------------------------------------------
 #
-# End of user.py
+# End of album.py
 #
 # -----------------------------------------------------------------------

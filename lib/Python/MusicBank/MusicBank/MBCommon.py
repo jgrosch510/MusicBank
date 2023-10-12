@@ -77,6 +77,23 @@
 # -----------------------------------------------------------------------
 import os, sys
 
+myhier = os.getenv('MYHIER')
+gitHome = os.getenv('GIT_HOME')    
+mbLibPath = os.getenv('MBLIBPATH')
+sys.path.append(mbLibPath)
+
+#--start constants--
+
+__author__      = "Josef Grosch"
+__copyright__   = "Copyright 2023 Moose River, LLC."
+__description__ = "This tool manages the MusicBank tree"
+__email__       = "jgrosch@gmail.com"
+__license__     = "BSD 3-clause"
+__maintainer__  = "Josef Grosch"
+__status__      = "Development"
+__version__     = "0.1"
+
+#--end constants--
 
 # --------------------------------------------------------------------
 #
@@ -84,18 +101,8 @@ import os, sys
 #
 # --------------------------------------------------------------------
 """
-common - 
+
 """
-
-__revision__   = "0.2"
-__author__     = "Josef Grosch"
-__copyright__  = "Copyright 2021 - 2023 Moose River, LLC."
-__license__    = "BSD-3-Clause"
-__version__    = "0.2"
-__maintainer__ = "Josef Grosch"
-__email__      = "jgrosch@gmail.com"
-__status__     = "Development"
-
 
     
 # --------------------------------------------------------------------
@@ -194,6 +201,33 @@ class ReturnStatus:
 
 # --------------------------------------------------------------------
 #
+# class Tools
+#
+# --------------------------------------------------------------------
+class Tools:
+    """
+    """
+    Tools = [
+        'add',     # MBAdd
+        'backup',  # MBBackup
+        'check',   # MBCheck
+        'config',  # MBConfig
+        'delete',  # MBDelete
+        'fix',     # MBFix
+        'help',    #
+        'list',    # MBList
+        'manage',  # MBManage
+        'merge',   # MBMerge
+        'move',    # MBMove
+        'remove',  # MBRemove
+        'rip',     # MBRip
+        'update'   # MBUpdate
+        ]
+    
+    # End of class Tools
+    
+# --------------------------------------------------------------------
+#
 # class UserTable
 #
 # --------------------------------------------------------------------
@@ -202,11 +236,15 @@ class UserTable:
     """
     
     REC_NUM      = 0 #
-    INSERT_DATE  = 1 #
-    INSERT_EPOCH = 2 #
-    ACTIVE       = 3 #
-    USER_NAME    = 4 #
-    USER_EMAIL   = 5 #
+    REC_VERSION  = 1 #
+    INSERT_TIME  = 2 #
+    INSERT_EPOCH = 3 #
+    UPDATE_TIME  = 4 #
+    UPDATE_EPOCH = 5 #
+    ACTIVE       = 6 #
+    USER_NAME    = 7 #
+    USER_ID      = 8 #
+    USER_EMAIL   = 9 #
     # End of class UserTable
 
 # --------------------------------------------------------------------
@@ -301,7 +339,7 @@ class AlbumFile:
                     "jpg": "",
                     "md5": "",
                     "sha512": ""
-                    q                }
+                    }
                 }
             ],
         "tabs": {
