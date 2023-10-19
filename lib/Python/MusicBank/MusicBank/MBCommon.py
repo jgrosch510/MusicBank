@@ -245,6 +245,13 @@ class UserTable:
     USER_NAME    = 7 #
     USER_ID      = 8 #
     USER_EMAIL   = 9 #
+
+    REC_NUM_MIN_WIDTH      =  7 #
+    INSERT_TIME_MIN_WIDTH  = 15 #
+    USER_NAME_MIN_WIDTH    = 15 #
+    USER_ID_MIN_WIDTH      = 15 #
+    USER_EMAIL_MIN_WIDTH   = 15 #
+
     # End of class UserTable
 
 # --------------------------------------------------------------------
@@ -302,6 +309,9 @@ class AlbumFile:
     """
     """
     ALBUM = {
+        "title": "",
+        "status": "",
+        "barcode": "",
         "track_count": "",
         "disc_count": "",
         "collection_type": "",
@@ -315,11 +325,8 @@ class AlbumFile:
         "sections": {
             "misc": "",
             "id_tags": {
+                "asin": "",
                 "etree_artist_key": "",
-                "free_db": "",
-                "musicbank_artist_id": "",
-                "musicbank_show_id": "",
-                "musicbank_venue_id": "",
                 "musicbrainz_artist_id": "",
                 "musicbrainz_show_id": "",
                 "musicbrainz_album_id": "",
@@ -330,7 +337,7 @@ class AlbumFile:
             },
         "m3u": "",
         "admin": {
-            "owner_key": "",
+            "owner_id": "",
             "owner_email": ""
             },
         "images": [
@@ -346,22 +353,24 @@ class AlbumFile:
             "bass": "",
             "guitar": ""
             },
-        "music_files": [
-            {
-                "track_ordnal": "",
-                "file": "",
-                "set": "",
-                "file_type": "",
-                "disk_track": "",
-                "title": "",
-                "ffp": "",
-                "sha256": "",
-                "md5": ""
-                }
-            ]
+        "music_files": []
+            
         }
 
     # End of class AlbumFile
+    """
+    {
+    "track_ordnal": "",
+    "file": "",
+    "set": "",
+    "file_type": "",
+    "disk_track": "",
+    "title": "",
+    "ffp": "",
+    "sha256": "",
+    "md5": ""
+    }
+    """            
 
 # -----------------------------------------------------------------------
 #

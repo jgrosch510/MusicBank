@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                              < album.py >
+#                              < MBAlbum.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : album.py
+# File Name    : MBAlbum.py
 #
 # Author       : Josef Grosch
 #
@@ -35,7 +35,7 @@
 #
 #                              Copyright
 #
-#                   Copyright (c) 2023 Moose River LLC.
+#                   Copyright (c) 2020 - 2023 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -89,7 +89,7 @@ import MBCommon as MBC
 #--start constants--
 
 __author__      = "Josef Grosch"
-__copyright__   = "Copyright 2023 Moose River, LLC."
+__copyright__   = "Copyright 2020 - 2023 Moose River, LLC."
 __description__ = "This tool manages the MusicBank tree"
 __email__       = "jgrosch@gmail.com"
 __license__     = "BSD 3-clause"
@@ -101,7 +101,7 @@ __version__     = "0.1"
 
 
 """
-Album  --  functions related to the DB table, album
+MBAlbum  --  functions related to the DB table, album
 """
 
 
@@ -172,6 +172,6 @@ def updateAlbum(pDict):
 
 # -----------------------------------------------------------------------
 #
-# End of album.py
+# End of MBAlbum.py
 #
 # -----------------------------------------------------------------------

@@ -82,8 +82,6 @@
 import os, sys
 import json
 
-myhier = os.getenv('MYHIER')
-gitHome = os.getenv('GIT_HOME')    
 mbLibPath = os.getenv('MBLIBPATH')
 sys.path.append(mbLibPath)
 
@@ -131,9 +129,11 @@ def main(argv, argc):
         printMasterHelp()
         sys.exit(RS.OK)
         
-    cDict['HOME'] = os.getenv('HOME')
-    cDict['toolName'] = argv[0]
+    cDict['HOME']         = os.getenv('HOME')
+    cDict['toolName']     = argv[0].replace('./', '')
     cDict['selectedTool'] = argv[1].lower()
+    cDict['myhier']       = os.getenv('MYHIER')
+    cDict['gitHome']      = os.getenv('GIT_HOME')    
 
     rDict = MBU.parseArgs(argv, argc)
     cDict['argsList'] = rDict['data']
@@ -234,7 +234,9 @@ def main(argv, argc):
     j = 14
     
     if rDict['status'] == RS.OK:
-        print(rDict['msg'])
+        print(f"{rDict['msg']}\n")
+        if 'list' in cDict['action'] and len(rDict['data']) > 0:
+            print(f"{rDict['data']}\n")
     else:
         print("\n")
         print(rDict['msg'])

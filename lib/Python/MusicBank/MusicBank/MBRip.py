@@ -36,7 +36,7 @@
 #
 #                              Copyright
 #
-#                   Copyright (c) 2023 Moose River LLC.
+#               Copyright (c) 2020 - 2023 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved

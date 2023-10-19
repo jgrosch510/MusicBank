@@ -35,7 +35,7 @@
 #
 #                              Copyright
 #
-#                   Copyright (c) 2023 Moose River LLC.
+#                   Copyright (c) 2020 - 2023 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -82,8 +82,8 @@ import json
 import sqlite3
 import time
 
-myhier = os.getenv('MYHIER')
-gitHome = os.getenv('GIT_HOME')    
+#myhier = os.getenv('MYHIER')
+#gitHome = os.getenv('GIT_HOME')    
 mbLibPath = os.getenv('MBLIBPATH')
 sys.path.append(mbLibPath)
 
@@ -94,7 +94,7 @@ import MBDBUtil as MBDB
 #--start constants--
 
 __author__      = "Josef Grosch"
-__copyright__   = "Copyright 2023 Moose River, LLC."
+__copyright__   = "Copyright 2020 - 2023 Moose River, LLC."
 __description__ = "This tool manages the MusicBank tree"
 __email__       = "jgrosch@gmail.com"
 __license__     = "BSD 3-clause"
@@ -176,7 +176,7 @@ def addUser(pDict):
             value = cursor.lastrowid
             if value >= 1:
                 rDict['status'] = RS.OK
-                rDict['msg'] = f"New user, {userId}, DB record inserted"
+                rDict['msg'] = f"{pDict['toolName']}: New user, {userId}, DB record inserted"
                          
         # End of else
 
@@ -244,45 +244,94 @@ def deleteUser(pDict):
     return rDict
     # End of deleteUser
 
-    
+
 # ----------------------------------------------------------
 #
 # listUsers
 #
 # ----------------------------------------------------------
 def listUsers(pDict):
-    rDict = MBC.genReturnDict('inside listUser')
+    query = 'select * from user;'
+
+    rDict = __listUsers(pDict, query)
+
+    return rDict
+    # End of listUsers
+
+# ----------------------------------------------------------
+#
+# __listUsers
+#
+# ----------------------------------------------------------
+def __listUsers(pDict, query):
+    rDict = MBC.genReturnDict('inside __listUser')
     RS    = MBC.ReturnStatus
     UT    = MBC.UserTable
     
     JL = []
     UD = {}
+    W = {}
+
+    W['recNumWidth']     = 0
+    W['userNameWidth']   = 0
+    W['userIdWidth']     = 0
+    W['userEmailWidth']  = 0
+    W['insertTimeWidth'] = 0
+    
     D = MBDB.connectToDB(pDict)
     cursor  = D['data']['cursor']
     conn    = D['data']['conn']
     
-    query = 'select * from user'
     cursor.execute(query)
     Rows = cursor.fetchall()
     if len(Rows) > 0:
         for row in Rows:
-            UD['recNum']      = row[UT.REC_NUM]
+            UD['recNum'] = row[UT.REC_NUM]
+            width = len(str(row[UT.REC_NUM]))
+            if width > W['recNumWidth']:
+                W['recNumWidth'] = width
+                
             UD['recVersion']  = row[UT.REC_VERSION]
+            
             UD['insertTime']  = row[UT.INSERT_TIME]
+            width = len(row[UT.INSERT_TIME])
+            if width > W['insertTimeWidth']:
+                W['insertTimeWidth'] = width
+
             UD['insertEpoch'] = row[UT.INSERT_EPOCH]
+
             UD['updateTime']  = row[UT.UPDATE_TIME]
+
             UD['updateEpoch'] = row[UT.UPDATE_EPOCH]
+
             UD['active']      = row[UT.ACTIVE]
+
             UD['userName']    = row[UT.USER_NAME]
+            width = len(row[UT.USER_NAME])
+            if width > W['userNameWidth']:
+                W['userNameWidth'] = width
+
             UD['userId']      = row[UT.USER_ID]
+            width = len(row[UT.USER_ID])
+            if width > W['userIdWidth']:
+                W['userIdWidth'] = width
+
             UD['userEmail']   = row[UT.USER_EMAIL]
+            width = len(row[UT.USER_EMAIL])
+            if width > W['userEmailWidth']:
+                W['userEmailWidth'] = width
+
             JL.append(UD)
             UD = {}
         # End of for loop
-            
+
+        pDict['W']  = W
+        pDict['JL'] = JL
+        outStr = genUserListingStr(pDict)
+        
         rDict['status'] = RS.OK
         rDict['msg']    = 'Users found'
-        rDict['data']   = JL
+        rDict['data']   = outStr
     else:
         rDict['status'] = RS.NOT_FOUND
         rDict['msg'] = 'No users found'
@@ -292,49 +341,95 @@ def listUsers(pDict):
     cursor.close()
 
     return rDict
-    # End of listUsers
+    # End of __listUsers
 
+# ----------------------------------------------------------
+#
+# genUserListingStr
+#
+# ----------------------------------------------------------
+def genUserListingStr(pDict):
+    rDict = MBC.genReturnDict('inside genUserListingStr')
+    RS    = MBC.ReturnStatus
+    UT    = MBC.UserTable
+
+    JL = pDict['JL']
+    W = pDict['W']
+    
+    outStr = ''
+    Lines = []
+    
+    if W['recNumWidth'] < UT.REC_NUM_MIN_WIDTH:
+        W['recNumWidth'] = UT.REC_NUM_MIN_WIDTH
+                
+    if W['userNameWidth'] < UT.USER_NAME_MIN_WIDTH:
+        W['userNameWidth'] = UT.USER_NAME_MIN_WIDTH
+            
+    if W['userIdWidth'] < UT.USER_ID_MIN_WIDTH:
+        W['userIdWidth'] = UT.USER_ID_MIN_WIDTH
+            
+    if W['userEmailWidth'] < UT.USER_EMAIL_MIN_WIDTH:
+        W['userEmailWidth'] = UT.USER_EMAIL_MIN_WIDTH
+
+    if W['insertTimeWidth'] < UT.INSERT_TIME_MIN_WIDTH:
+        W['insertTimeWidth'] = UT.INSERT_TIME_MIN_WIDTH
+
+
+    title1 = ' rec # '
+    title1Len = len(title1)
+    a = '-' * title1Len
+
+    title2 = '   user name   '
+    title2Len = len(title2)
+    b = '-' * title2Len
+
+    title3 = '    user id    '
+    title3Len = len(title3)
+    c = '-' * title3Len
+
+    title4 = '           user email           '
+    title4Len = len(title4)
+    d = '-' * title4Len
+
+    title5 = '            insert time           '
+    title5Len = len(title5)
+    e = '-' * title5Len
+
+    headStr1 = f"+{a}+{b}+{c}+{d}+{e}+"
+    headStr2 = f"|{title1}|{title2}|{title3}|{title4}|{title5}|"
+    headStr = f"{headStr1}\n{headStr2}\n{headStr1}\n"
+    Lines.append(headStr)
+    #print(headStr)
+    
+    #'{:^10}'.format('test')
+    for entry in JL:
+        recNum     = str(entry['recNum'])
+        userName   = entry['userName']
+        userId     = entry['userId']
+        userEmail  = entry['userEmail']
+        insertTime = entry['insertTime']
+
+        tmpStr = ("|{:^7}|{:^15}|{:^15}|{:^32}|{:^34}|\n"
+                  .format(recNum, userName, userId, userEmail, insertTime))
+        Lines.append(tmpStr)
+
+    Lines.append(headStr1)
+    outStr = ''.join(Lines)
+    #print(outStr)
+    
+    return outStr
+    # End of genUserListingStr
+    
 # ----------------------------------------------------------
 #
 # listUser
 #
 # ----------------------------------------------------------
 def listUser(pDict):
-    rDict = MBC.genReturnDict('inside listUser')
-    RS    = MBC.ReturnStatus
-    UT    = MBC.UserTable
-    
-    JL = []
-    UD = {}
-    D = MBDB.connectToDB(pDict)
-    cur  = D['data']['cur']
-    conn = D['data']['conn']
-    
-    query = 'select * from user'
-    cur.execute(query)
-    Rows = cur.fetchall()
-    if len(Rows) > 0:
-        for row in Rows:
-            UD['recNum']      = row[UT.REC_NUM]
-            UD['insertDate']  = row[UT.INSERT_DATE]
-            UD['insertEpoch'] = row[UT.INSERT_EPOCH]
-            UD['active']      = row[UT.ACTIVE]
-            UD['userName']    = row[UT.USER_NAME]
-            UD['userEmail']   = row[UT.USER_EMAIL]
-            JL.append(UD)
-            UD = {}
-        # End of for loop
-            
-        rDict['status'] = RS.OK
-        rDict['msg']    = 'Users found'
-        rDict['data']   = JL
-    else:
-        rDict['status'] = RS.NOT_FOUND
-        rDict['msg'] = 'No users found'
-    # End of if/else
+    userId = pDict['id']
+    query = f"select * from user where user_id = '{userId}';"
 
-    conn.commit()
-    cur.close()
+    rDict = __listUsers(pDict, query)
 
     return rDict
     # End of listUser
@@ -353,6 +448,49 @@ def updateUser(pDict):
     # End of updateUser
 
 
+def getUserInfo(pDict):
+    rDict = MBC.genReturnDict('inside updateUser')
+    RS    = MBC.ReturnStatus
+
+    UD = {}
+    
+    userId = pDict['id']
+    query = f"select * from user where user_id = '{userId}';"
+
+    D = MBDB.connectToDB(pDict)
+    cursor  = D['data']['cursor']
+    conn    = D['data']['conn']
+    
+    cursor.execute(query)
+    Rows = cursor.fetchall()
+    if len(Rows) == 1:
+        for row in Rows:
+            UD['recNum']      = row[UT.REC_NUM]
+            UD['recVersion']  = row[UT.REC_VERSION]
+            UD['insertTime']  = row[UT.INSERT_TIME]
+            UD['insertEpoch'] = row[UT.INSERT_EPOCH]
+            UD['updateTime']  = row[UT.UPDATE_TIME]
+            UD['updateEpoch'] = row[UT.UPDATE_EPOCH]
+            UD['active']      = row[UT.ACTIVE]
+            UD['userName']    = row[UT.USER_NAME]
+            UD['userId']      = row[UT.USER_ID]
+            UD['userEmail']   = row[UT.USER_EMAIL]
+        # End of for loop
+        
+        rDict['status'] = RS.OK
+        rDict['msg']    = 'User found'
+        rDict['data']   = UD
+    else:
+        rDict['status'] = RS.NOT_FOUND
+        rDict['msg'] = 'No user found'
+    # End of if/else
+    
+    conn.commit()
+    cursor.close()
+
+    return rDict
+    # End of updateUser
+    
 # -----------------------------------------------------------------------
 #
 # End of user.py

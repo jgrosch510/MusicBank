@@ -3,14 +3,14 @@
 
 # -----------------------------------------------------------------------
 #
-#                              < tree.py >
+#                              < MBTree.py >
 #
 # -----------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------
 #
-# File Name    : tree.py
+# File Name    : MBTree.py
 #
 # Author       : Josef Grosch
 #
@@ -35,7 +35,7 @@
 #
 #                              Copyright
 #
-#                   Copyright (c) 2023 Moose River LLC.
+#               Copyright (c) 2020 - 2023 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -78,6 +78,8 @@
 #
 # -----------------------------------------------------------------------
 import os, sys
+import time
+import json
 
 myhier = os.getenv('MYHIER')
 gitHome = os.getenv('GIT_HOME')    
@@ -85,6 +87,7 @@ mbLibPath = os.getenv('MBLIBPATH')
 sys.path.append(mbLibPath)
 
 import MBCommon as MBC
+import MBDBUtil as MBDB
 
 
 #--start constants--
@@ -114,6 +117,101 @@ def addTree(pDict):
     rDict = MBC.genReturnDict('inside addTree')
     RS    = MBC.ReturnStatus
 
+    if 'id' not in pDict:
+        rDict['status'] = RS.NOT_FOUND
+        rDict['msg'] = f"{pDict['toolName']}: The user Id was not specified."
+    else:
+        debug      = False
+        idFound    = False
+        emailFound = False
+        nameFound  = False
+        doIt       = True
+
+        userId  = pDict['id']
+            
+        D = MBDB.connectToDB(pDict)
+        cursor = D['data']['cursor']
+        conn   = D['data']['conn']
+    
+        query = f"select * from user where user_id = '{userId}';"
+        
+        cursor.execute(query)
+        Rows = cursor.fetchall()
+        if len(Rows) <= 0:
+            # User Id not found
+            rDict['status'] = RS.NOT_FOUND
+            rDict['msg'] = f"{pDict['toolName']}: User Id {userId} not found."
+        else:
+            # User Id was found
+            userName   = Rows[0][7]
+            userId     = Rows[0][8]
+            userEmail  = Rows[0][9]
+
+            userIdUpper = userId.upper()
+            
+            config = pDict['config']
+            dirs   = config['dirs']
+            mbRoot = dirs['mb_root']
+            mbUserRoot = f"{mbRoot}/{userId}"
+
+            mbDirs = [
+                'Alpha',
+                'Archive',
+                'Attic',
+                'Data',
+                'etc'
+                ]
+
+            alphaDirs = [
+                '0-9', 'A', 'B', 'C', 'D',
+                'E',   'F', 'G', 'H', 'I',
+                'J',   'K', 'L', 'M', 'N',
+                'O',   'P', 'Q', 'R', 'S',
+                'T',   'U', 'V', 'W', 'X',
+                'Y',   'Z'
+                ]
+            
+            """`
+            `{
+            "path": "{MUSIC_ROOT}/KMUD",
+            "owner": "KMUD",
+            "email": "tree@kmud.org",
+            "id": "kmud",
+            "creation_date": "Wed Oct  4 11:22:32 AM PDT 2023"
+            }
+            """
+
+            for entry in mbDirs:
+                newPath = f"{mbUserRoot}/{entry}"
+                if doIt:
+                    os.makedirs(newPath)
+                if debug:
+                    print(f"{newPath}")
+
+            for entry in alphaDirs:
+                newPath = f"{mbUserRoot}/Alpha/{entry}"
+                if doIt:
+                    os.makedirs(newPath)
+                if debug:
+                    print(f"{newPath}")
+
+            TS = {}
+            TS['path'] = f"{{MUSIC_ROOT}}/{userId}"
+            TS['owner'] = userName
+            TS['email'] = userEmail
+            TS['id'] = userId
+            TS['creation_date'] = time.strftime("%c")
+
+            tsStr = json.dumps(TS, indent=4)
+            #TreeStats.json
+            statsFile = f"{mbUserRoot}/TreeStats.json"
+            if doIt:
+                with open(statsFile, 'w') as fh:
+                    fh.write(tsStr)
+
+            rDict['status'] = RS.OK
+            rDict['msg'] = f"{pDict['toolName']}: Directory tree for {userId} created."
+            
     return rDict
     # End of addTree
 
@@ -171,6 +269,6 @@ def updateTree(pDict):
 
 # -----------------------------------------------------------------------
 #
-# End of tree.py
+# End of MBTree.py
 #
 # -----------------------------------------------------------------------

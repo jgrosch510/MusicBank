@@ -205,7 +205,7 @@ def checkEnv(cDict):
     # MUSIC_TMP
     tmpEnv = os.getenv('MUSIC_TMP')
     if tmpEnv is None:
-        Env['MUSIC_TMP'] = ''
+        Env['MUSIC_TMP'] = '/usr/tmp/MusicBank'
         outList.append(f"Env variable MUSIC_TMP NOT set.\n") 
     else:
         Env['MUSIC_TMP'] = tmpEnv
@@ -244,6 +244,38 @@ def checkEnv(cDict):
         else:
             outList.append(f"Env variable GIT_HOME set to {tmpEnv}.\n") 
 
+    # MBLIBPATH
+    tmpEnv = os.getenv('MBLIBPATH')
+    if tmpEnv is None:
+        Env['MBLIBPATH'] = ''
+        outList.append(f"Env variable MBLIBPATH NOT set.\n") 
+    else:
+        Env['MBLIBPATH'] = tmpEnv
+    
+    # MB_USER_ID
+    tmpEnv = os.getenv('MB_USER_ID')
+    if tmpEnv is None:
+        Env['MB_USER_ID'] = ''
+        outList.append(f"Env variable MB_USER_ID NOT set.\n") 
+    else:
+        Env['MB_USER_ID'] = tmpEnv
+
+    # MB_USER_NAME
+    tmpEnv = os.getenv('MB_USER_NAME')
+    if tmpEnv is None:
+        Env['MB_USER_NAME'] = ''
+        outList.append(f"Env variable MB_USER_NAME NOT set.\n") 
+    else:
+        Env['MB_USER_NAME'] = tmpEnv
+
+    # MB_USER_EMAIL
+    tmpEnv = os.getenv('MB_USER_EMAIL')
+    if tmpEnv is None:
+        Env['MB_USER_EMAIL'] = ''
+        outList.append(f"Env variable MB_USER_EMAIL NOT set.\n") 
+    else:
+        Env['MB_USER_EMAIL'] = tmpEnv
+    
     outMsg = ''.join(outList)
     
     rDict['status'] = RS.OK

@@ -136,7 +136,9 @@ def performAction(pDict):
     argsList = pDict['argsList']
             
     helpFound = False
-    debug = False
+    debug     = False
+    cmdDone   = False
+    
     if debug:
         print(str(argv))
         print(len(argv))
@@ -196,32 +198,38 @@ def performAction(pDict):
     
     if helpFound == False:
         # Album
-        if 'album' in pDict:
+        if 'album' in pDict and not cmdDone:
             i = 1
             tmpDict = MBA.listAlbums(pDict)
+            cmdDone = True
 
         # Track
-        if 'track' in pDict:
+        if 'track' in pDict and not cmdDone:
             i = 2
             tmpDict = MBTrack.listTracks(pDict)
+            cmdDone = True
 
         # Tree
-        if 'tree' in pDict:
+        if 'tree' in pDict and not cmdDone:
             i = 3
             tmpDict = MBTree.listTrees(pDict)
+            cmdDone = True
 
         # Id
-        if 'id' in pDict:
+        if 'id' in pDict and not cmdDone:
             i = 4
             tmpDict = MBU.listUser(pDict)
+            cmdDone = True
 
         # User
-        if 'user' in pDict:
+        if 'user' in pDict and not cmdDone:
             i = 5
             tmpDict = MBU.listUsers(pDict)
+            cmdDone = True
             
         rDict['status'] = tmpDict['status']
-        rDict['msg'] = tmpDict['msg']
+        rDict['msg']    = tmpDict['msg']
+        rDict['data']   = tmpDict['data']
     else:
         # --help found. Return help
         rDict['msg'] = msg
