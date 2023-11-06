@@ -191,13 +191,16 @@ def genFfpFile(path):
 # parseArgs
 #
 # --------------------------------------------------------------------
-def parseArgs(argv, argc):
+def parseArgs(cDict):
     rDict = MBC.genReturnDict('inside MBList.performAction')
     RS    = MBC.ReturnStatus
 
     T2 = MBC.Tools()
     Tools = T2.Tools
     ToolsTest = MBC.Tools().Tools
+
+    argv = cDict['argv']
+    argc = cDict['argc']
     
     D = {}
     argList = []
@@ -237,7 +240,9 @@ def parseArgs(argv, argc):
                 entry['value'] = 'true'
         else:
             entry['value'] = 'skip'
-                
+
+    cDict['argsList'] = argList
+    
     j = 0
     rDict['status'] = RS.OK
     rDict['msg']    = 'arg list parsed'

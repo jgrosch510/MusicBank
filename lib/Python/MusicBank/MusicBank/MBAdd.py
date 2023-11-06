@@ -93,84 +93,20 @@ import MBTrack
 
 #--start constants--
 
-__author__     = "Josef Grosch"
-__copyright__  = "Copyright 2020 - 2023 Moose River, LLC."
-__license__    = "BSD 3-clause"
-__version__    = "0.1"
-__maintainer__ = "Josef Grosch"
-__email__      = "jgrosch@gmail.com"
-__status__     = "Development"
+__author__      = "Josef Grosch"
+__copyright__   = "Copyright 2020 - 2023 Moose River, LLC."
+__description__ = ""
+__email__       = "jgrosch@gmail.com"
+__license__     = "BSD 3-clause"
+__maintainer__  = "Josef Grosch"
+__status__      = "Development"
+__version__     = "0.1"
 
 #--end constants--
 
 """
 
 """
-
-
-# -----------------------------------------------------------------------
-#
-# printMasterHelp
-#
-# -----------------------------------------------------------------------
-def printMasterHelp():
-    print("MBAdd: RTFM")
-    
-    return
-    #
-
-# -----------------------------------------------------------------------
-#
-# returnMasterHelp
-#
-# -----------------------------------------------------------------------
-def returnMasterHelp():
-
-    helpList = [
-        "MB add\n",
-        "  --album - Add an album to the MB repository. Two additional options\n",
-        "            are required.\n\n"  ,
-        "      --dest - This option overrides the standard placemanet of albums\n",
-        "               with a FQP (Full Qualified Path) to the designation\n",
-        "               directory. This option is optional.\n\n",
-        "      --src  - This options specifies the FQP to the source directory.\n",
-        "               This option is manadory.\n\n",
-        "      --id   - The is the Id of the user who owns the album. This controls\n",
-        "               which MB tree the album is placed, i.e. the users MB tree.\n",
-        "               This option is manadory.\n\n",
-        "      --offical - This switch overrides the placement of the album\n",
-        "                  causing the album to be placed in the official MB tree.\n\n" ,
-        "  --track - Add a track to the MB repository. Two additional options\n",
-        "            are required.\n\n"  ,
-        "      --dest - This option overrides the standard placemanet of albums\n",
-        "               with a FQP (Full Qualified Path) to the designation\n",
-        "               directory. This option is optional.\n\n",
-        "      --src  - This options specifies the FQP to the source directory.\n",
-        "               This option is manadory.\n\n",
-        "      --id   - The is the Id of the user who owns the album. This controls\n",
-        "               which MB tree the album is placed, i.e. the users MB tree.\n",
-        "               This option is manadory.\n\n",
-        "      --offical - This switch overrides the placement of the track\n",
-        "                  causing the album to be placed in the official MB tree.\n\n",
-        "  --tree - Add a user tree to the MB repository. A user tree is a\n",
-        "           directory tree that is layout like an official MB tree but\n",
-        "           contains files owned by the user. The user tree is located\n",
-        "           under MUSIC_ROOT. If the user tree does not exist it will be\n",
-        "           created. The is one mandatory option, the user id.\n\n",
-        "      --id - The id of the user who will own the user tree.\n\n",
-        "  --user - Add a user to the MB system. There are three required options.\n\n",
-        "      --email - The user's email address\n\n",
-        "      --id - The user's id. This is there Linux id found in /etc/passwd.\n",
-        "             See the man pages for id and passwd\n\n",
-        "      --name - The user's full name as found in /etc/passwd\n\n",
-        "      --offical - This optional switch marks the MB tree as the Offical\n",
-        "                  tree owned by the hosting org.\n\n"
-        ]    
-        
-    helpMsg = ''.join(helpList)
-
-    return helpMsg
-    #
 
 # -----------------------------------------------------------------------
 #
@@ -291,6 +227,71 @@ def performAction(pDict):
     
     return rDict
     #
+
+# -----------------------------------------------------------------------
+#
+# printMasterHelp
+#
+# -----------------------------------------------------------------------
+def printMasterHelp():
+    print("MBAdd: RTFM")
+    
+    return
+    #
+
+# -----------------------------------------------------------------------
+#
+# returnMasterHelp
+#
+# -----------------------------------------------------------------------
+def returnMasterHelp():
+
+    helpList = [
+        "MB add\n",
+        "  --album - Add an album to the MB repository. Two additional options\n",
+        "            are required.\n\n"  ,
+        "      --dest - This option overrides the standard placemanet of albums\n",
+        "               with a FQP (Full Qualified Path) to the designation\n",
+        "               directory. This option is optional.\n\n",
+        "      --src  - This options specifies the FQP to the source directory.\n",
+        "               This option is manadory.\n\n",
+        "      --id   - The is the Id of the user who owns the album. This controls\n",
+        "               which MB tree the album is placed, i.e. the users MB tree.\n",
+        "               This option is manadory.\n\n",
+        "      --offical - This switch overrides the placement of the album\n",
+        "                  causing the album to be placed in the official MB tree.\n\n" ,
+        "  --track - Add a track to the MB repository. Two additional options\n",
+        "            are required.\n\n"  ,
+        "      --dest - This option overrides the standard placemanet of albums\n",
+        "               with a FQP (Full Qualified Path) to the designation\n",
+        "               directory. This option is optional.\n\n",
+        "      --src  - This options specifies the FQP to the source directory.\n",
+        "               This option is manadory.\n\n",
+        "      --id   - The is the Id of the user who owns the album. This controls\n",
+        "               which MB tree the album is placed, i.e. the users MB tree.\n",
+        "               This option is manadory.\n\n",
+        "      --offical - This switch overrides the placement of the track\n",
+        "                  causing the album to be placed in the official MB tree.\n\n",
+        "  --tree - Add a user tree to the MB repository. A user tree is a\n",
+        "           directory tree that is layout like an official MB tree but\n",
+        "           contains files owned by the user. The user tree is located\n",
+        "           under MUSIC_ROOT. If the user tree does not exist it will be\n",
+        "           created. The is one mandatory option, the user id.\n\n",
+        "      --id - The id of the user who will own the user tree.\n\n",
+        "  --user - Add a user to the MB system. There are three required options.\n\n",
+        "      --email - The user's email address\n\n",
+        "      --id - The user's id. This is there Linux id found in /etc/passwd.\n",
+        "             See the man pages for id and passwd\n\n",
+        "      --name - The user's full name as found in /etc/passwd\n\n",
+        "      --offical - This optional switch marks the MB tree as the Offical\n",
+        "                  tree owned by the hosting org.\n\n"
+        ]    
+        
+    helpMsg = ''.join(helpList)
+
+    return helpMsg
+    #
+
 
 # -----------------------------------------------------------------------
 #

@@ -81,6 +81,7 @@
 # -----------------------------------------------------------------------
 import os, sys
 import json
+import importlib
 
 mbLibPath = os.getenv('MBLIBPATH')
 sys.path.append(mbLibPath)
@@ -135,104 +136,30 @@ def main(argv, argc):
     cDict['myhier']       = os.getenv('MYHIER')
     cDict['gitHome']      = os.getenv('GIT_HOME')    
 
-    rDict = MBU.parseArgs(argv, argc)
-    cDict['argsList'] = rDict['data']
-    
+    rDict = MBU.parseArgs(cDict)
     rDict = MBConfig.performAction(cDict)
+    cmdDict = loadCmdDict()
     
-    selectedTool = argv[1].lower()
-    if selectedTool in Tools:
+    selectedTool = cDict['selectedTool']
+    cDict['action'] = selectedTool
 
-        # Add
-        if 'add' in selectedTool:
-            j = 0
-            import MBAdd as MBA
-            cDict['action'] = 'add'
-            rDict = MBA.performAction(cDict)
-        # Backup
-        elif 'backup' in selectedTool:
-            j = 1
-            import MBBackup
-            cDict['action'] = 'backup'
-            rDict = MBBackup.performAction(cDict)
-        # Check
-        elif 'check' in selectedTool:
-            j = 2
-            import MBCheck
-            cDict['action'] = 'check'
-            rDict = MBCheck.performAction(cDict)
-        # Config
-        elif 'config' in selectedTool:
-            j = 3
-            cDict['action'] = 'config'
-            if not cDict['done']:
-                rDict = MBConfig.performAction(cDict)
-            outStr = MBConfig.genConfigMsg(cDict)
-            rDict['msg'] = outStr
-        # Delete
-        elif 'delete' in selectedTool:
-            j = 4
-            import MBDelete
-            cDict['action'] = 'delete'
-            rDict = MBDelete.performAction(cDict)
-        # Fis
-        elif 'fix' in selectedTool:
-            j = 5
-            import MBFix
-            cDict['action'] = 'fix'
-            rDict = MBFix.performAction(cDict)
-        # Help
-        elif 'help' in selectedTool:
-            j = 6
-            cDict['action'] = 'help'
-            rDict = returnMasterHelp()
-        # List
-        elif 'list' in selectedTool:
-            j = 7
-            import MBList
-            cDict['action'] = 'list'
-            rDict = MBList.performAction(cDict)
-        # Manage
-        elif 'manage' in selectedTool:
-            j = 8
-            import MBManage
-            cDict['action'] = 'manage'
-            rDict = MBManage.performAction(cDict)
-        # Merge
-        elif 'merge' in selectedTool:
-            j = 9
-            import MBMerge
-            cDict['action'] = 'merge'
-            rDict = MBMerge.performAction(cDict)
-        # Move
-        elif 'move' in selectedTool:
-            j = 10
-            import MBMove
-            cDict['action'] = 'move'
-            rDict = MBMove.performAction(cDict)
-        # Rip
-        elif 'rip' in selectedTool:
-            j = 11
-            import MBRip
-            cDict['action'] = 'rip'
-            rDict = MBRip.performAction(cDict)
-        # Remove
-        elif 'remove' in selectedTool:
-            j = 12
-            import MBRemove
-            cDict['action'] = 'remove'
-            rDict = MBRemove.performAction(cDict)
-        # Update
-        elif 'update' in selectedTool:
-            j = 13
-            import MBUpdate
-            cDict['action'] = 'update'
-            rDict = MBUpdate.performAction(cDict)
+    if 'help' in selectedTool:
+        rDict = returnMasterHelp()
+    else:
+        if selectedTool in Tools:
+            moduleName = cmdDict[selectedTool]['module']
+            MBEX = importlib.import_module(moduleName)
         else:
             print(f"Error: {selectedTool} not a legal option") 
 
-    j = 14
-    
+        if 'config' in selectedTool:
+            if not cDict['done']:
+                rDict = MBEX.performAction(cDict)
+            outStr = MBEX.genConfigMsg(cDict)
+            rDict['msg'] = outStr
+        else:
+            rDict = MBEX.performAction(cDict)
+        
     if rDict['status'] == RS.OK:
         print(f"{rDict['msg']}\n")
         if 'list' in cDict['action'] and len(rDict['data']) > 0:
@@ -282,6 +209,7 @@ def returnMasterHelp():
         "* List - List either users or albums\n\n",
         "* Merge - Merge 2 trees into a new tree\n\n", 
         "* Move - Move an album or track from one tree to another\n\n",
+        "* Rip - Rip a CD and place the music files in a spefied tree\n\n",
         "* Update -\n\n"
         ]
 
@@ -293,6 +221,55 @@ def returnMasterHelp():
     return rDict
     # End of printMasterHelp
 
+def loadCmdDict():
+    cmdDict = {
+        'add': {
+            'module':'MBAdd',
+            'index': 1
+            },
+        'backup': {
+            'module':'MBBackup',
+            'index': 1
+            },
+        'check': {
+            'module':'MBBheck',
+            'index': 1
+            },
+        'config': {
+            'module':'MBConfig',
+            'index': 1
+            },
+        'delete': {'module':'MBDelete', 'index': 1},
+        'fix': {'module':'MBFix', 'index': 1},
+        'help': {'module':'MBHelp', 'index': 1},
+        'list': {'module':'MBList', 'index': 1},
+        'manage': {'module':'MBManage', 'index': 1},
+        'merge': {'module':'MBMerge', 'index': 1},
+        'move': {'module':'MBMove', 'index': 1},
+        'rip': {'module':'MBRip', 'index': 1},
+        'remove': {'module':'MBRemove', 'index': 1},
+        'update': {'module':'MBUpdate', 'index': 1}
+        }
+    """
+    cmdDict = {}
+    
+    cmdDict['add'] = 'MBAdd'
+    cmdDict['backup'] = 'MBBackup'
+    cmdDict['check'] = 'MBBheck'
+    cmdDict['config'] = 'MBConfig'
+    cmdDict['delete'] = 'MBDelete'
+    cmdDict['fix'] = 'MBFix'
+    cmdDict['help'] = 'MBHelp'
+    cmdDict['list'] = 'MBList'
+    cmdDict['manage'] = 'MBManage'
+    cmdDict['merge'] = 'MBMerge'
+    cmdDict['move'] = 'MBMove'
+    cmdDict['rip'] = 'MBRip'
+    cmdDict['remove'] = 'MBRemove'
+    cmdDict['update'] = 'MBUpdate'
+    """
+    return cmdDict
+    # End of loadCmdDict
     
 # -----------------------------------------------------------------------
 #
