@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: MusicBank
+Version: 0.2
+Summary: Describe your package in one sentence
+Home-page: https://github.com/jgrosch510/MusicBank
+Author: Josef Grosch
+Author-email: jgrosch@gmail.com
+License: BSD 3-clause license
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: musicbrainzngs
+
+### MusicBank
