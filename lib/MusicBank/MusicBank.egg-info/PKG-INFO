@@ -7,7 +7,7 @@ Author: Josef Grosch
 Author-email: jgrosch@gmail.com
 License: BSD 3-clause license
 Description-Content-Type: text/markdown
-License-File: LICENSE.txt
+License-File: LICENSE
 Requires-Dist: musicbrainzngs
 
 ### MusicBank

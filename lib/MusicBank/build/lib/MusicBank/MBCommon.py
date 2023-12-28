@@ -33,7 +33,7 @@
 #
 #                              Copyright
 #
-#               (C) Copyright 2021 - 2023 Moose River LLC.
+#                (C) Copyright 2021 - 2024 MusicBank, LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -49,10 +49,10 @@
 #
 #                               GPG Key
 #
-# pub   rsa4096 2022-01-22 [SC] [expires: 2024-01-22]
-# Key   fingerprint = D36 0ABF 3C34 858F 617F C6C8 887F E74C D0D5 6DFE2
-# uid   [ultimate] Josef Grosch <jgrosch@gmail.com>
-# sub   rsa4096 2022-01-22 [E] [expires: 2024-01-22]
+# pub  rsa4096 2022-01-22 [SC] [expires: 2025-12-25]
+# Key  D360ABF3C34858F617FC6C8887FE74CD0D56DFE2
+# uid  [ultimate] Josef Grosch <jgrosch@gmail.com>
+# sub  rsa4096 2022-01-22 [E] [expires: 2025-12-25]
 #
 # -----------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ sys.path.append(mbLibPath)
 #--start constants--
 
 __author__      = "Josef Grosch"
-__copyright__   = "Copyright 2023 Moose River, LLC."
+__copyright__   = "Copyright 2023 - 2024 MusicBank, LLC."
 __description__ = "This tool manages the MusicBank tree"
 __email__       = "jgrosch@gmail.com"
 __license__     = "BSD 3-clause"
