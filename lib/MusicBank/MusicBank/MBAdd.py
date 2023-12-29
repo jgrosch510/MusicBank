@@ -180,6 +180,14 @@ def performAction(pDict):
             pDict['name'] = value
             continue
 
+        if '--verbose' in key:
+            pDict['verbose'] = value
+            continue
+
+        if '--debug' in key:
+            pDict['debug'] = value
+            continue
+        
         if '--help' in key:
             msg = returnMasterHelp()
             helpFound = True

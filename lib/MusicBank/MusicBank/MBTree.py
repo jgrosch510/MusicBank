@@ -126,6 +126,7 @@ def addTree(pDict):
         emailFound = False
         nameFound  = False
         doIt       = True
+        verbose    = pDict['verbose']
 
         userId  = pDict['id']
             
@@ -184,18 +185,18 @@ def addTree(pDict):
             for entry in mbDirs:
                 newPath = f"{mbUserRoot}/{entry}"
                 if doIt:
-                    os.makedirs(newPath)
+                    os.makedirs(newPath, exist_ok=True)
                 if debug:
                     print(f"{newPath}")
 
             for entry in alphaDirs:
                 newPath = f"{mbUserRoot}/Alpha/{entry}"
                 if doIt:
-                    os.makedirs(newPath)
+                    os.makedirs(newPath, exist_ok=True)
                 if debug:
                     print(f"{newPath}")
 
-            if pDict['offical']:
+            if 'offical' in pDict:
                 # link
                 src = mbUserRoot
                 dst = f"{mbRoot}/Offical"
