@@ -1,6 +1,7 @@
 LICENSE
 README.md
-setup.py
+__init__.py
+pyproject.toml
 MusicBank/MBAdd.py
 MusicBank/MBAlbum.py
 MusicBank/MBArtist.py
@@ -26,5 +27,16 @@ MusicBank/__init__.py
 MusicBank.egg-info/PKG-INFO
 MusicBank.egg-info/SOURCES.txt
 MusicBank.egg-info/dependency_links.txt
-MusicBank.egg-info/requires.txt
 MusicBank.egg-info/top_level.txt
+MusicBank/__pycache__/MBAdd.cpython-311.pyc
+MusicBank/__pycache__/MBAlbum.cpython-311.pyc
+MusicBank/__pycache__/MBCommon.cpython-311.pyc
+MusicBank/__pycache__/MBConfig.cpython-311.pyc
+MusicBank/__pycache__/MBDBUtil.cpython-311.pyc
+MusicBank/__pycache__/MBList.cpython-311.pyc
+MusicBank/__pycache__/MBTrack.cpython-311.pyc
+MusicBank/__pycache__/MBTree.cpython-311.pyc
+MusicBank/__pycache__/MBUser.cpython-311.pyc
+MusicBank/__pycache__/MBUtil.cpython-311.pyc
+dist/MusicBank-0.2-py3-none-any.whl
+dist/MusicBank-0.2.tar.gz
