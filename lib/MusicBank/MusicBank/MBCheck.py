@@ -85,6 +85,11 @@ mbLibPath = os.getenv('MBLIBPATH')
 sys.path.append(mbLibPath)
 
 import MBCommon as MBC
+import MBUser as MBU
+import MBUtil as MBUT
+import MBAlbum as MBA
+import MBTree
+import MBTrack
 
 
 #--start constants--
@@ -105,19 +110,143 @@ __status__     = "Development"
 """
 
 
+# -----------------------------------------------------------------------
+#
+# performAction
+#
+# -----------------------------------------------------------------------
+def performAction(pDict):
+    rDict = MBC.genReturnDict('inside MBCheck.performAction')
+    RS    = MBC.ReturnStatus
 
-def performAction(argv):
-    print(str(argv))
-    print(len(argv))
+    argv     = pDict['argv']
+    argc     = pDict['argc']
+    config   = pDict['config']
+    action   = pDict['action']
+    argsList = pDict['argsList']
+            
+    helpFound = False
+    debug     = False
+    cmdDone   = False
+    
+    if debug:
+        print(str(argv))
+        print(len(argv))
 
-    return
+    for entry in argsList:
+        index = entry['index']
+        key   = entry['key']
+        value = entry['value']
+
+        if 'calling program' in value:
+            continue
+
+        if 'cmd' in value:
+            continue
+
+        if 'skip' in value:
+            continue
+
+        if '--album' in key:
+            pDict['album'] = value
+            continue
+            
+        if '--track' in key:
+            pDict['track'] = value
+            continue
+            
+        if '--tree' in key:
+            pDict['tree'] = value
+            continue
+            
+        if '--users' in key:
+            pDict['users'] = value
+            continue
+
+        if '--offical' in key:
+            pDict['offical'] = value
+            continue
+            
+        if '--id' in key:
+            pDict['id'] = value
+            continue
+
+        if '--email' in key:
+            pDict['email'] = value
+            continue
+
+        if '--name' in key:
+            pDict['name'] = value
+            continue
+
+        if '--help' in key:
+            msg = returnMasterHelp()
+            helpFound = True
+            break
+
+    i = 0
+
+    if helpFound == False:
+        # Album
+        if 'album' in pDict and not cmdDone:
+            i = 1
+            tmpDict = MBA.listAlbums(pDict)
+            cmdDone = True
+
+        # Track
+        if 'track' in pDict and not cmdDone:
+            i = 2
+            tmpDict = MBTrack.listTracks(pDict)
+            cmdDone = True
+
+        # Tree
+        if 'tree' in pDict and not cmdDone:
+            i = 3
+            tmpDict = MBTree.listTrees(pDict)
+            cmdDone = True
+
+        # Id
+        if 'id' in pDict and not cmdDone:
+            i = 4
+            tmpDict = MBU.listUser(pDict)
+            cmdDone = True
+
+        # User
+        if 'users' in pDict and not cmdDone:
+            i = 5
+            tmpDict = MBU.listUsers(pDict)
+            cmdDone = True
+            
+        rDict['status'] = tmpDict['status']
+        rDict['msg']    = tmpDict['msg']
+        rDict['data']   = tmpDict['data']
+    else:
+        # --help found. Return help
+        rDict['msg'] = msg
+        rDict['status'] = RS.OK
+        
+    return rDict
     #
 
+# -----------------------------------------------------------------------
+#
+# printMasterHelp
+#
+# -----------------------------------------------------------------------
 def printMasterHelp():
     print("RTFM")
 
     return
 
+# -----------------------------------------------------------------------
+#
+# returnMasterHelp
+#
+# -----------------------------------------------------------------------
+def returnMasterHelp():
+    outStr = "RTFM"
+
+    return outStr
 
     
 

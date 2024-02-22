@@ -448,6 +448,11 @@ def updateUser(pDict):
     # End of updateUser
 
 
+# -----------------------------------------------------------------------
+#
+# getUserInfo
+#
+# -----------------------------------------------------------------------
 def getUserInfo(pDict):
     rDict = MBC.genReturnDict('inside updateUser')
     RS    = MBC.ReturnStatus
@@ -490,7 +495,28 @@ def getUserInfo(pDict):
 
     return rDict
     # End of updateUser
+
+# -----------------------------------------------------------------------
+#
+# getUserDict
+#
+# -----------------------------------------------------------------------
+def getUserDict(pDict):
+    users = []
+    query = "select * from user; "
+
+    D = MBDB.connectToDB(pDict)
+    cursor  = D['data']['cursor']
+    conn    = D['data']['conn']
     
+    cursor.execute(query)
+    Rows = cursor.fetchall()
+    if len(Rows) > 0:
+        for row in Rows:
+            
+    
+    return rDict
+
 # -----------------------------------------------------------------------
 #
 # End of user.py
