@@ -235,7 +235,7 @@ def deleteUser(pDict):
         value = cursor.lastrowid
         if value == 0:
             rDict['status'] = RS.OK
-            rDict['msg'] = f"User Id {userId} deleted"
+            rDict['msg'] = f"{pDict['toolName']}: User Id {userId} deleted"
     # End of if/else
     
     conn.commit()
@@ -511,9 +511,10 @@ def getUserDict(pDict):
     
     cursor.execute(query)
     Rows = cursor.fetchall()
+
     if len(Rows) > 0:
         for row in Rows:
-            
+            i = 0
     
     return rDict
 

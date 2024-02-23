@@ -35,7 +35,7 @@
 #
 #                              Copyright
 #
-#               Copyright (c) 2020 - 2023 Moose River LLC.
+#               Copyright (c) 2020 - 2024 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -94,7 +94,7 @@ import MBTrack
 #--start constants--
 
 __author__     = "Josef Grosch"
-__copyright__  = "Copyright 2020 - 2023 Moose River, LLC."
+__copyright__  = "Copyright 2020 - 2024 Moose River, LLC."
 __license__    = "BSD 3-clause"
 __version__    = "0.1"
 __maintainer__ = "Josef Grosch"
@@ -121,6 +121,30 @@ def printMasterHelp():
 
 # -----------------------------------------------------------------------
 #
+# returnMasterHelp
+#
+# -----------------------------------------------------------------------
+def returnMasterHelp():
+    helpList = [
+        "MB delete\n",
+        "  --album - \n",
+        "  --email - \n",
+        "  --id - \n",
+        "  --name - \n",
+        "  --offical - \n",
+        "  --track - \n",
+        "  --tree - \n",
+        "  --users - \n",
+        "  --help - This message\n"
+        ]
+
+    helpMsg = ''.join(helpList)
+    
+    return helpMsg
+    # End of returnMasterHelp
+
+# -----------------------------------------------------------------------
+#
 # perfoemAction
 #
 # -----------------------------------------------------------------------
@@ -135,6 +159,7 @@ def performAction(pDict):
     argsList = pDict['argsList']
 
     helpFound = False
+    cmdDone = False
     debug = False
     if debug:
         print(str(argv))
@@ -193,24 +218,34 @@ def performAction(pDict):
     
     if helpFound == False:
         # Album
-        if 'album' in pDict:
+        if 'album' in pDict and not cmdDone:
             i = 0
             tmpDict = MBAbum.deleteAlbum(pDict)
+            cmdDone = True
 
         # Track
-        if 'track' in pDict:
+        if 'track' in pDict and not cmdDone:
             i = 0
             tmpDict = MBTrack.deleteTrack(pDict)
+            cmdDone = True
 
         # Tree
-        if 'tree' in pDict:
+        if 'tree' in pDict and not cmdDone:
             i = 0
             tmpDict = MBTree.deleteTree(pDict)
+            cmdDone = True
 
         # User
-        if 'user' in pDict:
+        if 'user' in pDict and not cmdDone:
             i = 0
             tmpDict = MBUser.deleteUser(pDict)
+            cmdDone = True
+
+        # Id
+        if 'id' in pDict and not cmdDone:
+            i = 0
+            tmpDict = MBUser.deleteUser(pDict)
+            cmdDone = True
             
         rDict['status'] = tmpDict['status']
         rDict['msg'] = tmpDict['msg']
