@@ -36,7 +36,7 @@
 #
 #                              Copyright
 #
-#               Copyright (c) 2020 - 2023 Moose River LLC.
+#               Copyright (c) 2020 - 2024 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -84,6 +84,8 @@ import json
 import importlib
 
 mbLibPath = os.getenv('MBLIBPATH')
+if mbLibPath == None:
+    print('ERROR: MBLIBPATH NOT set
 sys.path.append(mbLibPath)
 
 import MBCommon as MBC
