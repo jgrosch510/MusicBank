@@ -126,7 +126,6 @@ def addTree(pDict):
         emailFound = False
         nameFound  = False
         doIt       = True
-        verbose    = pDict['verbose']
 
         userId  = pDict['id']
             

@@ -192,7 +192,7 @@ def genFfpFile(path):
 #
 # --------------------------------------------------------------------
 def parseArgs(cDict):
-    rDict = MBC.genReturnDict('inside MBList.performAction')
+    rDict = MBC.genReturnDict('inside MBUtil.parseArgs')
     RS    = MBC.ReturnStatus
 
     T2 = MBC.Tools()
@@ -203,18 +203,19 @@ def parseArgs(cDict):
     argc = cDict['argc']
     
     D = {}
-    argList = []
+    pDict = {}
+    argsList = []
     index = 0
 
     for entry in argv:
         D['index'] = index
         D['key']   = entry
         D['value'] = ''
-        argList.append(D)
+        argsList.append(D)
         index += 1
         D = {}
 
-    for entry in argList:
+    for entry in argsList:
         index = entry['index']
         key   = entry['key']
         value = entry['value']
@@ -232,21 +233,93 @@ def parseArgs(cDict):
             
         if key.startswith('--'):
             if nextIndex < argc:
-                if argList[nextIndex]['key'].startswith('--'):
+                if argsList[nextIndex]['key'].startswith('--'):
                     entry['value'] = 'true'
                 else:
-                    entry['value'] = argList[nextIndex]['key']
+                    entry['value'] = argsList[nextIndex]['key']
             else:
                 entry['value'] = 'true'
         else:
             entry['value'] = 'skip'
 
-    cDict['argsList'] = argList
+    for entry2 in argsList:
+        index = entry2['index']
+        key   = entry2['key']
+        value = entry2['value']
+
+        if 'calling program' in value:
+            continue
+
+        if 'cmd' in value:
+            continue
+
+        if 'skip' in value:
+            continue
+
+        if '--album' in key:
+            pDict['album'] = value
+            continue
+            
+        if '--track' in key:
+            pDict['track'] = value
+            continue
+            
+        if '--tree' in key:
+            pDict['tree'] = value
+            continue
+            
+        if '--user' in key:
+            pDict['user'] = value
+            continue
+
+        if '--offical' in key:
+            pDict['offical'] = value
+            continue
+            
+        if '--id' in key:
+            pDict['id'] = value
+            continue
+
+        if '--fqp' in key:
+            pDict['fqp'] = value
+            continue
+
+        if '--email' in key:
+            pDict['email'] = value
+            continue
+
+        if '--name' in key:
+            pDict['name'] = value
+            continue
+
+        if '--verbose' in key:
+            pDict['verbose'] = value
+            continue
+        #else:
+        #    pDict['verbose'] = False
+        #    continue
+
+        if '--debug' in key:
+            pDict['debug'] = value
+            continue
+        #else:
+        #    pDict['debug'] = False
+        
+        if '--help' in key:
+            #msg = returnMasterHelp()
+            helpFound = True
+            pDict['help'] = value
+            continue
+            #break
+
+    i = 0
     
-    j = 0
+    cDict['argsList'] = argsList
+    pDict['argsList'] = argsList
+    
     rDict['status'] = RS.OK
     rDict['msg']    = 'arg list parsed'
-    rDict['data']   = argList
+    rDict['data']   = pDict
     
     return rDict
     # End of parseArgs

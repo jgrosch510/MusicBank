@@ -130,6 +130,7 @@ def performAction(pDict):
         print(str(argv))
         print(len(argv))
 
+    """
     for entry in argsList:
         index = entry['index']
         key   = entry['key']
@@ -183,6 +184,9 @@ def performAction(pDict):
         if '--verbose' in key:
             pDict['verbose'] = value
             continue
+        else:
+            pDict['verbose'] = False
+            continue
 
         if '--debug' in key:
             pDict['debug'] = value
@@ -192,8 +196,10 @@ def performAction(pDict):
             msg = returnMasterHelp()
             helpFound = True
             break
-    
+    """
     i = 0
+
+    pDict = parseArgs(pdict)
     
     if helpFound == False:
         # Album
